@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Prefazione](README.md)
-* [Acknowledgements](acknowledgements.md)
+* [Riconoscimenti](acknowledgements.md)
 * [Introduction](introduction.md)
   * [For Instructors](introduction/for-instructors.md)
   * [For Students](introduction/for-students.md)
