@@ -2,7 +2,7 @@
 
 * [Prefazione](README.md)
 * [Riconoscimenti](acknowledgements.md)
-* [Introduction](introduction.md)
+* [Introduzione](introduction.md)
   * [Per docenti](introduction/for-instructors.md)
   * [For Students](introduction/for-students.md)
   * [Schedule](introduction/schedule.md)
