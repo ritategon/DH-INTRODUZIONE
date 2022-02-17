@@ -3,7 +3,7 @@
 * [Prefazione](README.md)
 * [Riconoscimenti](acknowledgements.md)
 * [Introduction](introduction.md)
-  * [For Instructors](introduction/for-instructors.md)
+  * [Per docenti](introduction/for-instructors.md)
   * [For Students](introduction/for-students.md)
   * [Schedule](introduction/schedule.md)
 * [Issues in Digital Text Analysis](issues-in-digital-text-analysis.md)
