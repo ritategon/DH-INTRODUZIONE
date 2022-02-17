@@ -12,6 +12,6 @@ I materiali qui presenti hanno lo scopo di costituire la base per un corso di an
 
 Il libro si visualizza al meglio online utilizzando Chrome o Firefox. Puoi anche scaricarlo per leggerlo come PDF [<mark style="color:red;">**here**</mark>](https://www.gitbook.com/book/bmw9t/introduction-to-text-analysis/details)<mark style="color:red;">.</mark>
 
-[_I<mark style="color:red;">**ntroduction to Text Analysis: A Coursebook**</mark>_](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/index.html) <mark style="color:red;">**by Brandon Walsh and Sarah Horowitz is licensed under a**</mark> [<mark style="color:red;">**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**</mark>](http://creativecommons.org/licenses/by-nc-sa/4.0/)<mark style="color:red;">**.**</mark>
+[_I<mark style="color:red;">**ntroduction to Text Analysis: A Coursebook**</mark>_](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/index.html) <mark style="color:red;">**di Brandon Walsh e Sarah Horowitz è diffuso con licenza**</mark> [<mark style="color:red;">**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**</mark>](http://creativecommons.org/licenses/by-nc-sa/4.0/)<mark style="color:red;">**.**</mark>
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)\
