@@ -1,15 +1,17 @@
-Note: We have moved platforms since releasing this book. To see the new and improved version of the book running off Jekyll, check it out [here](http://walshbr.com/textanalysiscoursebook/). Materials here may be slightly out of date.
+# Prefazione
 
-# Prefazione 
+Note: puoi vedere la fonte (in lingua inglese) via via aggiornata di questo libro [qui](http://walshbr.com/textanalysiscoursebook/).&#x20;
 
-*(Note: We welcome feedback on this book! If you find an error, want clarification on a particular issue, or find deep problems with particular explanations, drop us a line on our [GitHub issues page](https://github.com/walshbr/textanalysiscoursebook/issues). We'll be grateful and list you in our [acknowledgements](acknowledgements.md)!)*
+## Prefazione
 
-This workbook provides a brief introduction to digital text analysis through a series of three-part units. Each unit introduces students to a concept, a tool for or method of digital text analysis, and a series of exercises for practicing the new skills. In some cases, studies of particular projects are presented instead of tools in the third section of each unit. 
+_(Nota: siamo lieti di ricevere feedback su questo libro! Se trovi un errore o desideri chiarimenti su un problema particolare, scrivi  <mark style="color:red;">**sulla nostra pagina dei problemi di GitHub**</mark><mark style="color:yellow;">.</mark> _ [_GitHub issues page_](https://github.com/walshbr/textanalysiscoursebook/issues)_)_
 
-The materials here are meant to form the basis for a digital text analysis course that does not require extensive training in programming and is written with student readers in mind. Originally developed for use in a course titled "Scandal, Crime, and Spectacle in the Nineteenth Century," this workbook draws from these course materials for its datasets and prompts. The book is intended to be modularized enough that it could be used in conjunction with other courses either in whole or in part, as all of its materials are [openly available on GitHub](https://github.com/walshbr/textanalysiscoursebook). The tripartite structure of each chapter means that sections can be easily removed and replaced with different tools or content. In particular, we envision our course-specific exercises in the third section of each chapter to be removable. For more guidance on how to remix the work for your own ends, see [Adapting This Book](/conclusion/adapting.md). 
+Questo manuale fornisce una introduzione all'analisi del testo digitale attraverso una serie di unità divise in tre parti. Ciacuna introduce un concetto, uno strumento o un metodo di analisi del testo digitale e una serie di esercizi per mettere in pratica le nuove abilità.&#x20;
 
-The book is best viewed online using either Chrome or Firefox. You can also download it to read as a PDF [here](https://www.gitbook.com/book/bmw9t/introduction-to-text-analysis/details).
+I materiali qui presenti hanno lo scopo di costituire la base per un corso di analisi del testo digitale che non richiede una formazione approfondita nella programmazione ed è scritto considerando il punto di vista dei lettori. Sviluppato originariamente per essere utilizzato in un corso intitolato "Scandal, Crime, and Spectacle in the Nineteenth Century," questo manuale attinge esempi proprio da questi materiali per i suoi set di dati e suggerimenti. Il libro è concepito per essere sufficientemente modulare da poter essere utilizzato in combinazione con altri corsi, in tutto o in parte.&#x20;
 
-<a xmlns:cc="http://creativecommons.org/ns#" href="https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/index.html" property="cc:attributionName" rel="cc:attributionURL">*Introduction to Text Analysis: A Coursebook*</a> by Brandon Walsh and Sarah Horowitz is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+Il libro si visualizza al meglio online utilizzando Chrome o Firefox. Puoi anche scaricarlo per leggerlo come PDF [<mark style="color:red;">**here**</mark>](https://www.gitbook.com/book/bmw9t/introduction-to-text-analysis/details)<mark style="color:red;">.</mark>
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
+[_I<mark style="color:red;">**ntroduction to Text Analysis: A Coursebook**</mark>_](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/index.html) <mark style="color:red;">**by Brandon Walsh and Sarah Horowitz is licensed under a**</mark> [<mark style="color:red;">**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**</mark>](http://creativecommons.org/licenses/by-nc-sa/4.0/)<mark style="color:red;">**.**</mark>
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)\
