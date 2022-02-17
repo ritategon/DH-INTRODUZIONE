@@ -1,8 +1,7 @@
-# Exercises
+# Esercizi
 
-1. What is your own background with computers? Interpret this question as broadly as you'd like. 
-2. Take a few minutes to reflect on how you read and what happens when you are reading. Then describe your process in 3-5 sentences.
-3. What kinds of technologies do you use for reading? Do you feel that your use of different technologies and different ways of reading \(reading a physical book versus reading something on your computer versus reading it on an e-reader\) changes your experience of reading? 
-4. How do you imagine that reading was different in the nineteenth century than it is today?
-5. Use the Google NGram Viewer to track two different terms that interest you. Interpret the results. What seems interesting? What kind of historical events might account for any shifts that you see? What terms rise or fall and when? Feel free to search on Wikipedia or Google to back up your interpretations, but don't overdo it. Keep your responses to 3 sentences per term. Provide a screenshot for the NGram search you carried out.
-
+1. Qual è il tuo background con i computer? Interpreta questa domanda nel modo più ampio che desideri.&#x20;
+2. Prenditi qualche minuto per riflettere su come leggi e cosa succede quando leggi. Quindi descrivi il tuo processo in 3-5 frasi.&#x20;
+3. Che tipo di tecnologie usi per leggere? Ritieni che il tuo uso di diverse tecnologie e diversi modi di leggere (leggere un libro fisico invece di leggere qualcosa sul tuo computer piuttosto che leggerlo su un e-reader) cambi la tua esperienza di lettura? &#x20;
+4. Come immagini che la lettura fosse diversa nel diciannovesimo secolo rispetto a oggi?&#x20;
+5. Utilizza Google NGram Viewer per tenere traccia di due termini diversi che ti interessano. Interpreta i risultati. Cosa sembra interessante?  Che tipo di eventi storici potrebbero spiegare i cambiamenti che vedi? Quali termini salgono o scendono e quando? Sentiti libero di cercare su Wikipedia o Google per eseguire il backup delle tue interpretazioni, ma non esagerare. Mantieni le tue risposte a 3 frasi per termine. Fornisci uno screenshot per la ricerca NGram che hai effettuato.
