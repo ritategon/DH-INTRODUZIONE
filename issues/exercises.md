@@ -4,9 +4,7 @@ description: Inserisci le risposte nella seguente repository (codice di accesso 
 
 # Esercizi
 
-{% embed url="https://digipad.app/p/112569/909a420271243" %}
-Inserisci le risposte nella seguente repository (codice di accesso 8614): https://digipad.app/p/112569/909a420271243
-{% endembed %}
+
 
 1. Qual è il tuo background con i computer? Interpreta questa domanda nel modo più ampio che desideri.&#x20;
 2. Prenditi qualche minuto per riflettere su come leggi e cosa succede quando leggi. Quindi descrivi il tuo processo in 3-5 frasi.&#x20;
