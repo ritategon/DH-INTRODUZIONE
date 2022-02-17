@@ -12,7 +12,7 @@ Through this course, students will be introduced to text analysis and data minin
 
 ## Schedule
 
-### Week 1
+### Incontro 1
 
 * Introductions
 * Understanding Scandal

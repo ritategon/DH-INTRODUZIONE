@@ -6,7 +6,7 @@
   * [Per Docenti](introduction/for-instructors.md)
   * [Per Studenti](introduction/for-students.md)
   * [Programma e piano di lavoro](introduction/schedule.md)
-* [Issues in Digital Text Analysis](issues-in-digital-text-analysis.md)
+* [Problemi della  Digital Text Analysis](issues-in-digital-text-analysis.md)
   * [Perché leggere con un computer?](issues/why-read-with-a-computer.md)
   * [Google NGram Viewer](issues/google-ngram.md)
   * [Esercizi](issues/exercises.md)
