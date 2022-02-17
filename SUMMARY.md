@@ -4,7 +4,7 @@
 * [Riconoscimenti](acknowledgements.md)
 * [Introduzione](introduction.md)
   * [Per docenti](introduction/for-instructors.md)
-  * [For Students](introduction/for-students.md)
+  * [Per Studenti](introduction/for-students.md)
   * [Schedule](introduction/schedule.md)
 * [Issues in Digital Text Analysis](issues-in-digital-text-analysis.md)
   * [Why Read with a Computer?](issues/why-read-with-a-computer.md)
