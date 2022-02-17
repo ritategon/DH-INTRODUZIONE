@@ -1,4 +1,4 @@
-# Introduzione
+# Introduction
 
-* [Per docenti](introduction/for-instructors.md)
-* [Per Studenti](introduction/for-students.md)
+* [For Instructors](/introduction/for-instructors.md)
+* [For Students](/introduction/for-students.md)
