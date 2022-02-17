@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Prefazione
 
 Note: puoi vedere la fonte (in lingua inglese) via via aggiornata di questo libro [qui](http://walshbr.com/textanalysiscoursebook/).
