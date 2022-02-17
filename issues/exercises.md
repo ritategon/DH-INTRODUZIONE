@@ -1,7 +1,5 @@
 ---
-description: >-
-  Inserisci le risposte nella seguente repository (codice di accesso 8614):
-  https://digipad.app/p/112569/909a420271243
+description: Inserisci le risposte nella seguente repository (codice di accesso 8614)
 ---
 
 # Esercizi
