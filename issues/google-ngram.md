@@ -4,17 +4,17 @@ Il [Google NGram Viewer](https://books.google.com/ngrams) è spesso la prima cos
 
 ![google ngram splash page](../assets/issues/google-ngram-viewer.jpg)
 
-The Google NGram Viewer provides a quick and easy way to explore changes in language over the course of many years in many texts. Provide a word or comma-separated phrase, and the NGram viewer will graph how often these search terms occur over a given corpus for a given number of years. You can specify a number of years as well as a particular Google Books corpus.
+Google NGram Viewer fornisce un modo semplice e veloce per esplorare i cambiamenti nella lingua nel corso di molti anni in molti testi. Digita una parola o una frase separata da virgole e il visualizzatore NGram rappresenterà un grafico della frequenza con cui questi termini di ricerca si verificano in un determinato corpus per un determinato numero di anni. Puoi specificare un numero di anni e un particolare corpus di Google Libri.&#x20;
 
-The tool allows you to search hundreds of thousands of texts quickly and, by tracking a few words or phrases, draw inferences about cultural and historical shifts. If we search on 'science' and 'religion,' for example, we could draw conclusions about their relative importance at various points in last few centuries.
+Lo strumento consente di cercare rapidamente centinaia di migliaia di testi e, tracciando alcune parole o frasi, trarre inferenze sui cambiamenti culturali e storici. Se cerchiamo, ad esempio, "scienza" e "religione", potremmo trarre conclusioni sulla loro importanza relativa in vari momenti degli ultimi secoli.
 
 ![science and religion](../assets/issues/science-religion.jpg)
 
-Looking at the graph, one could see evidence for an argument about the increasing secularization of society in the last two centuries. The steady increase of usage of the word science over the last 200 years accompanied by the precipitous decline of the word religion beginning in the mid-nineteenth century could provide concrete evidence for what might otherwise be anecdotal. But not so fast: what is actually being measured here? We need to ask questions about a number of pieces of this argument, including ones regarding:
+Guardando il grafico, si potrebbero vedere le prove di un'argomentazione sulla crescente secolarizzazione della società negli ultimi due secoli. Il costante aumento dell'uso della parola scienza negli ultimi 200 anni, accompagnato dal precipitoso declino della parola religione a partire dalla metà del diciannovesimo secolo, potrebbe fornire prove concrete di ciò che altrimenti potrebbe essere aneddotico. Ma meglio andare con calma: cosa viene effettivamente misurato qui? Abbiamo bisogno di porre domande su un certo numero di elementi di questo argomento, compresi quelli riguardanti:
 
 * Corpus
-* Methodology
-* Interpretation
+* Methodologia
+* Interpretazione
 
 ## Corpus
 
@@ -81,15 +81,15 @@ That last phrase should cause some alarm: we haven't actually read any of these 
 * What does it gain?
 * How it can it be approached in ways that minimize the former and maximize the latter?
 
-## Interpretation
+## Interpretazione
 
-Of course, these graphs mean nothing on their own. It is our job to look at the results and describe them in meaningful ways. But be critical of what you see. You might find something interesting, but you might be looking at nonsense. It is your job to tell the difference. Beware of **apophenia**, the all to human urge to look at random data and find meaningful patterns in it. You can find wild patterns in anything if [you look hard enough](http://tylervigen.com/spurious-correlations). After all, visualizations can confuse as much as clarify. Numbers and graphs do not carry objective meaning. Miriam Posner summarized it pithily on Twitter [once](https://twitter.com/miriamkp/status/725764655352684545/photo/1?ref\_src=twsrc%5Etfw):
+Naturalmente, questi grafici non significano nulla di per sé. È nostro compito guardare i risultati e descriverli in modo significativo. Ma sii critico nei confronti di ciò che vedi. Potresti trovare qualcosa di interessante, ma potresti inferire sciocchezze. Il tuo compito è validare. Fai attenzione all'[apofenia](https://it.wikipedia.org/wiki/Apofenia), l'urgenza umana di guardare dati casuali e trovare schemi significativi in essi. Puoi trovare [modelli selvaggi in qualsiasi cosa](http://tylervigen.com/spurious-correlations) (correlazioni spurie) se guardi non abbastanza attentamente. Dopotutto, le visualizzazioni possono confondere tanto quanto chiarire. Numeri e grafici non hanno un significato oggettivo. [Miriam Posner ](https://twitter.com/miriamkp/status/725764655352684545?ref\_src=twsrc%5Etfw)lo ha riassunto concisamente su Twitter una volta:
 
 ![apophenia illustrated - noise illustration](../assets/issues/visual-clarity.jpg)
 
-Always think. Never let a graph think for you.
+Pensa sempre. Non lasciare mai che un grafico pensi per te.
 
-## Further Resources
+## Ulteriori risorse
 
 * Big data, digital humanities and Google’s Ngram Viewer: [Discovering hidden patterns of “Truth”](https://firstmonday.org/ojs/index.php/fm/article/view/5567/5535) (trad. : scoprire gli schemi nascosti della "verità").
 * Ted Underwood su "[How not to do things with words](https://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/)" (trad. : cosa non fare con le parole) per utili critiche agli studi che utilizzano Ngram Viewer.
