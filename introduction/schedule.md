@@ -2,19 +2,17 @@
 
 ## Nota&#x20;
 
-Di seguito il programma . È molto probabile che lo cambieremo in corso d'opera, ma non aggiorneremo il programma qui.&#x20;
+Di seguito il programma. È molto probabile che in corso d'opera ci saranno delle variazioni, ma non aggiorneremo il programma qui.&#x20;
 
 ## Descrizione
 
-This course examines the intersection between scandal, crime and spectacle in 19th-century France and Britain. We will discuss the nature of scandals, the connection between scandals and political change, and how scandals and ideas about crime were used to articulate new ideas about class, gender and sexuality. In addition, this class will cover the rise of new theories of criminality in the 19th century and the popular fascination with crime and violence. Crime and scandal also became interwoven into the fabric of the city as sources of urban spectacle. Lastly, we will have an opportunity to discuss how issues of crime, scandal and spectacle resonate in the 21st century. Some of the particular events and trends this class will cover include the Diamond Necklace Affair, the trial of Oscar Wilde, the Jack the Ripper murders, and the birth of detective fiction.
-
-Through this course, students will be introduced to text analysis and data mining for the humanities. This course assumes no prior knowledge of these skills, but asks: how can newly developed technologies that allow computers to “read” large quantities of text shed light on the past? Students will work in groups throughout the course of the term to complete a digital history project that analyzes an element of the 19th century fascination with crime and scandal.
+Questo corso esamina l'intersezione tra scandalo, crimine e spettacolo nella Francia e nella Gran Bretagna del XIX secolo. Discuteremo la natura degli scandali, la connessione tra scandali e cambiamento politico e come gli scandali e le idee sulla criminalità sono stati utilizzati per articolare nuove idee su classe, genere e sessualità. Inoltre, questa classe tratterà l'ascesa di nuove teorie sulla criminalità nel 19° secolo e il fascino popolare per il crimine e la violenza. Crimine e scandalo si intrecciarono anche nel tessuto della città come fonti di spettacolo urbano. Infine, avremo l'opportunità di discutere di come le questioni del crimine, dello scandalo e dello spettacolo risuonano nel 21° secolo. Alcuni degli eventi e delle tendenze particolari che questa lezione tratterà includono il caso della collana di diamanti, il processo a Oscar Wilde, gli omicidi di Jack lo Squartatore e la nascita della narrativa poliziesca. Attraverso questo corso, gli studenti saranno introdotti all'analisi del testo e al data mining per le discipline umanistiche. Questo corso non presuppone una conoscenza preliminare di queste abilità, ma si chiede: come possono le nuove tecnologie sviluppate che consentono ai computer di "leggere" grandi quantità di testo fare luce sul passato? Gli studenti lavoreranno in gruppo nel corso del semestre per completare un progetto di storia digitale che analizzi un elemento del fascino del 19° secolo per il crimine e lo scandalo.
 
 ## Schedule
 
 ### Incontro 1
 
-* Introductions
+* Introduzione&#x20;
 * Understanding Scandal
   * Ari Adut, _On Scandal_, Introduction and Chapter 1
   * Patrick Leary, "[Googling the Victorians](http://www.victorianresearch.org/googling.pdf)"
