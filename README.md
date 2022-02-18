@@ -9,7 +9,7 @@ Note: puoi vedere la fonte (in lingua inglese) che ha ispirato questo libro [qui
 
 ## Prefazione
 
-_(Nota: siamo lieti di ricevere feedback su questo libro! Se trovi un errore o desideri chiarimenti su un problema particolare, scrivi <mark style="color:red;">**sulla nostra pagina dei problemi di GitHub**</mark><mark style="color:yellow;">.</mark> \__ [_GitHub issues page_](https://github.com/walshbr/textanalysiscoursebook/issues))\_
+_(Nota: sono contenta di ricevere feedback su questo libro! Se trovi un errore o desideri chiarimenti su un problema particolare, scrivi <mark style="color:red;">**sulla nostra pagina dei problemi di GitHub**</mark><mark style="color:yellow;">.</mark> \__ [_GitHub issues page_](https://github.com/walshbr/textanalysiscoursebook/issues))\_
 
 Questo manuale fornisce una introduzione all'analisi del testo digitale attraverso una serie di unità divise in tre parti. Ciacuna introduce un concetto, uno strumento o un metodo di analisi del testo digitale e una serie di esercizi per mettere in pratica le nuove abilità.
 
