@@ -5,7 +5,7 @@ cover: .gitbook/assets/492050_1_En_34_Fig3_HTML.png
 
 # Prefazione
 
-Note: puoi vedere la fonte (in lingua inglese) via via aggiornata di questo libro [qui](http://walshbr.com/textanalysiscoursebook/).
+Note: puoi vedere la fonte (in lingua inglese) che ha ispirato questo libro [qui](http://walshbr.com/textanalysiscoursebook/).
 
 ## Prefazione
 

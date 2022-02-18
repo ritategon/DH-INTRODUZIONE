@@ -4,14 +4,7 @@ coverY: 0
 
 # Riconoscimenti
 
-Questo libro è la traduzione e l'adattamento del lavoro originale di Brandon Walsh and Sarah Horowitz rilasciato sotto la licenza  [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Vanno ringraziati per il loro contributo anche:&#x20;
-
-* Mackenzie Brooks
-* Eliza Fox
-* Julie Kane
-* Eric Rochester
-* Demitra Tsioulos
-* Students from <mark style="color:orange;">**HIST 211**</mark>
+Questo libro è la traduzione e l'adattamento del lavoro originale di Brandon Walsh and Sarah Horowitz rilasciato sotto la licenza  [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). &#x20;
 
 Il Roy Rosenzweig Center for History and New Media detiene il copyright per gli estratti usati nella  [lezione](https://bmw9t.gitbooks.io/introduction-to-text-analysis/content/close-reading/close-reading.html) del capitolo <mark style="color:red;">**Close Reading**</mark>. Il testo completo del passaggio può essere trovato nel sito CHNM [qui](http://chnm.gmu.edu/revolution/d/261/).
 
