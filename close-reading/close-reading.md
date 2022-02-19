@@ -8,24 +8,26 @@ description: >-
 
 ### Prima definizione&#x20;
 
-Il _**close reading**_ è un'attività che ti tiene concentrati su e all'interno di un testo, valutando singole parole, forme di pensiero, dispositivi retorici, modelli di descrizione e caratterizzazione e così via, al fine di comprendere il risultato artistico del testo. Si distingue dal e si intreccia con il _**distant reading**_, che ha un significato specifico (coniato da Franco Moretti), ma può anche riferirsi generalmente all'uso di metodi computazionali per l'analisi dei testi letterari.
+Il _**close reading**_ è un'attività che ti tiene concentrati su e all'interno di un testo, valutando singole parole, forme di pensiero, dispositivi retorici, modelli di descrizione e caratterizzazione e così via, al fine di comprendere il risultato artistico del testo. Si distingue dal e si intreccia con il _**distant reading**_, che ha un significato specifico (coniato da [Franco Moretti](https://it.wikipedia.org/wiki/Franco\_Moretti)), ma può anche riferirsi generalmente all'uso di metodi computazionali per l'analisi dei testi letterari.
 
-Text analysis is something that we all engage in, whether we realize it or not. The term is broad and capacious and encapsulates a variety of different activities. Even something as simple as slowing down when you see a stop sign is a kind of text analysis: doing so means you have parsed the meaning of the words on the sign and reacted accordingly.
+L'analisi del testo è qualcosa in cui ci impegniamo tutti, che ce ne rendiamo conto o meno. Il termine è ampio e racchiude una varietà di attività diverse. Anche qualcosa di semplice come rallentare quando vedi un segnale di stop è una sorta di analisi del testo: farlo significa che hai analizzato il significato delle parole sul segnale e hai reagito di conseguenza.
 
-Indeed any of the following, related activities are forms of text analysis:
+Dunque, le seguenti attività sono forme di analisi del testo:
 
-* Paraphrasing a text
-* Searching for hidden meanings in a text
-* Adapting a text and reflecting on it
-* Examining the details in a text
+* Parafrasare un testo
+* Cercare significati nascosti in un testo
+* Adattare un testo e riflettere su di esso&#x20;
+* Esaminare i dettagli in un testo
 
 This last point is worth pausing over: **close reading**, in particular, is often proclaimed as one of the primary analytical tool of scholars and students in the humanities. To read closely means to give careful attention to the various components that make up a text, ones which cause us to think or feel a certain way about it. Close reading relies on a core principle about the text under study:
+
+Vale la pena soffermarsi su quest'ultimo punto: il **close reading,** in particolare, è spesso definito come uno dei principali strumenti analitici di studiosi e studenti delle discipline umanistiche. Leggere da vicino significa prestare molta attenzione alle varie componenti di un testo, quelle che ci fanno pensare o sentire in un certo modo riguardo ad esso. Il **close reading** si basa su un principio fondamentale:
 
 * Everything about the text matters, whether the author intended for it to matter or not.
 
 Consider the following thought experiment. One day you come home to find the following note from your roommate on the counter:
 
-> took care of these dishes? Thanks.
+_Dai un occhio ai piatti? Grazie._
 
 Next to the note: dirty dishes. Was your roommate in a hurry and actually asking you to wash dishes? Or were they sarcastically trying to give you grief for not having done your part? Lots of questions. To imagine responses to them you might employ a range of assumptions and interpretations depending on the scenario:
 
