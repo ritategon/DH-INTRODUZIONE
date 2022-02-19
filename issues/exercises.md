@@ -12,3 +12,4 @@ Nella repository che trovi in basso (codice di accesso 8614) Inserisci le rispos
 4. Come immagini che la lettura fosse diversa nel diciannovesimo secolo rispetto a oggi?&#x20;
 5. Utilizza Google NGram Viewer per tenere traccia di due termini diversi che ti interessano. Interpreta i risultati. Cosa sembra interessante?  Che tipo di eventi storici potrebbero spiegare i cambiamenti che vedi? Quali termini salgono o scendono e quando? Sentiti libero di cercare su Wikipedia o Google per eseguire il backup delle tue interpretazioni, ma non esagerare. Mantieni le tue risposte a 3 frasi per termine. Fornisci uno screenshot per la ricerca NGram che hai effettuato.
 
+{% embed url="https://digipad.app/p/112569/909a420271243" %}
