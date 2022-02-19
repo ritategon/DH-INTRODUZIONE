@@ -11,7 +11,7 @@
   * [Google NGram Viewer](issues/google-ngram.md)
   * [Esercizi](issues/exercises.md)
 * [Close Reading](close-reading.md)
-  * [Close Reading and Sources](close-reading/close-reading.md)
+  * [Il Close Reading e le fonti](close-reading/close-reading.md)
   * [Prism Part One](close-reading/prism-part-one.md)
   * [Exercises](close-reading/exercises.md)
 * [Crowdsourcing](crowdsourcing.md)

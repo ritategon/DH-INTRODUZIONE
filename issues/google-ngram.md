@@ -109,3 +109,9 @@ Pensa sempre. Non lasciare mai che un grafico pensi per te.
 * Ted Underwood su "[How not to do things with words](https://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/)" (trad. : cosa non fare con le parole) per utili critiche agli studi che utilizzano Ngram Viewer.
 * Danny Sulivan su "[When OCR Goes Bad: Google's Ngram Viewer & The F-Word](https://searchengineland.com/when-ocr-goes-bad-googles-ngram-viewer-the-f-word-59181)" per un approfondimento su Google NGram e l' [OCR](https://it.wikipedia.org/wiki/Riconoscimento\_ottico\_dei\_caratteri).
 * Sul concetto di [Linked Data](https://it.wikipedia.org/wiki/Linked\_data) e  [Linked Open Data](http://www.culturaitalia.it/opencms/linked\_open\_data\_it.jsp) e la loro connessione con il [web semantico](https://it.wikipedia.org/wiki/Web\_semantico).
+
+## Strumenti analoghi
+
+[Bookworm: HathiTrust](https://bookworm.htrc.illinois.edu/develop/)
+
+[Media Cloud](https://mediacloud.org)
