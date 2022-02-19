@@ -25,39 +25,41 @@ Vale la pena soffermarsi su quest'ultimo punto: il **close reading,** in partico
 
 * Everything about the text matters, whether the author intended for it to matter or not.
 
-Consider the following thought experiment. One day you come home to find the following note from your roommate on the counter:
+Considera il seguente esperimento mentale. Un giorno torni a casa e trovi sul tavolo il seguente biglietto del tuo coinquilino:
 
 _Dai un occhio ai piatti? Grazie._
 
-Next to the note: dirty dishes. Was your roommate in a hurry and actually asking you to wash dishes? Or were they sarcastically trying to give you grief for not having done your part? Lots of questions. To imagine responses to them you might employ a range of assumptions and interpretations depending on the scenario:
+Accanto alla nota: _piatti sporchi_. Il tuo coinquilino aveva fretta e ti chiedeva davvero di lavare i piatti? O stava cercando sarcasticamente di provocarti per non aver fatto la tua parte? Molte domande. Per immaginare le risposte  potresti utilizzare una serie di ipotesi e interpretazioni a seconda dello scenario:
 
-**Context**: you have been growing more and more irritated with your roommate for some time now. Their actions just really get under your skin: dirty dishes, laundry everywhere, the works. They clearly meant the note as an insult.
+**Contesto**: ormai da tempo ti irriti sempre di più con il tuo coinquilino: piatti sporchi, biancheria ovunque, ecc.  Intendeva chiaramente la nota come un insulto.
 
-**Author**: your roommate is actually a great person and would never leave a passive aggressive note. In fact, they probably meant it as a joke.
+**Autore**:  il tuo coinquilino è in realtà una persona fantastica e non lascerebbe mai una nota aggressiva. In effetti, probabilmente lo intendevano come una richiesta scherzosa.
 
-**Text**: Take a look at that question mark. And then the curt second sentence. Your roommate put those things there on purpose to be rude.
+**Testo**: dai un'occhiata a quel punto interrogativo. E poi la seconda frase secca. Il tuo coinquilino ha messo quelle cose apposta per essere scortese.
 
-The list could go on and on. We employ a similar range of skills when we read anything, be it fiction, poetry, or historical documents. Close reading might be best described as an activity in which a reader simply lets no detail of the text go unquestioned. The best way at approaching a good close reading is by asking (and attempting to answer) questions about every piece of a text.
+L'elenco potrebbe continuare all'infinito. Impieghiamo una gamma simile di abilità quando leggiamo qualsiasi cosa, che si tratti di narrativa, poesia o documenti storici. Il close reading potrebbe essere meglio descritta come un'attività in cui un lettore semplicemente non lascia che nessun dettaglio del testo rimanga indiscusso. Il modo migliore per avvicinarsi a un buon close reading è porre (e tentare di rispondere) domande su ogni pezzo di un testo.
 
-Take a sentence from the 1775 _Anecdotes on the Countess du Barry_, a _libelle_ (which you can find [here](http://chnm.gmu.edu/revolution/d/261/)) similar to the ones discussed in Sarah Maza's “The Diamond Necklace Affair Revisited: The Case of the Missing Queen.” Mme du Barry was a prostitute who was Louis XV's mistress at the end of his reign (1715-1774). Here is how the Count du Barry tells one of Louis XV's courtiers that he has a woman in mind for the king:
+Prendi una frase da _Anecdotes on the Countess du Barry_ del 1775, una libretto (che puoi trovare [qui](https://revolution.chnm.org/d/261/)) simile a quelle discusse in "The Diamond Necklace Affair Revisited: The Case of the Missing Queen" di Sarah Maza. Mme du Barry era una prostituta amante di Luigi XV alla fine del suo regno (1715-1774). Ecco come il conte du Barry racconta a uno dei cortigiani di Luigi XV di avere in mente una donna per il re:
 
-> "I’ve got your business for you. You know I don’t lack taste. Trust me: you come to dinner at my house and tell me that I’m a cad if I don’t give you the most beautiful woman, the most fresh, the most seductive; a true morsel for a king."
+> "I’ve got your business for you. You know I don’t lack taste. Trust me: you come to dinner at my house and tell me that I’m a cad if I don’t give you the most beautiful woman, the most fresh, the most seductive; a true morsel for a king." (trad. "Ho i tuoi affari per te. Sai che il gusto non mi manca. Credimi: vieni a cena a casa mia e dimmi che sono un mascalzone se non ti do la donna più bella, la più fresca, la più seducente; un vero boccone per un re.")&#x20;
+>
+>
 
-In beginning a close reading here, I might ask:
+Incominciando qui un close reading, potrei chiedere:
 
-* What adjectives and nouns describe Mme du Barry here?
-* More specifically, what does it mean that she is compared to a "business" or a "morsel"?
-* If she is a piece of food, what does that mean about the relationship she might have with Louis XV?
-* Why is she not named here?
-* If you read the rest of the text, you'll see that most of the language in this excerpt is flowery -- but not the Count du Barry's words. What does that suggest about who he is and what his character is like?
+* Quali aggettivi e sostantivi descrivono qui Mme du Barry?
+* Più precisamente, cosa significa essere paragonata a un "affare" o ad un "boccone"?&#x20;
+* Se lei è un pezzo di cibo, cosa significa sulla relazione che potrebbe avere con Luigi XV?&#x20;
+* Perché non è nominata qui?
+* Se leggi il resto del testo, vedrai che la maggior parte del linguaggio in questo estratto è floreale, ma non le parole del conte du Barry. Cosa suggerisce questo su chi è e com'è il suo personaggio?
 
-You can answer these questions any number of ways, and this ambiguity is part of the point. Close reading as a method is a way of training yourself to look for details, the evidence that you will use to interpret a passage, but how you use them depends on you. This evidence becomes the material you use to produce an analysis of your own (sometimes also called a close reading). Using the questions about _Anecdotes on the Countess du Barry_, I might make the argument that these sentences establish her as an object, a commerical good or a commodity for the king's consumption. I might also think that the Count du Barry's words render him as vulgar and coarse, a figure unworthy of contact with the court of Versailles.
+Si può  rispondere a queste domande in molti modi e questa ambiguità fa parte del problema. Il close reading come metodo è un modo per allenarti a cercare i dettagli, le prove che utilizzerai per interpretare un passaggio, ma il modo in cui le usi dipende da te. Questa prova diventa il materiale che usi per produrre una tua analisi che si può chiamare il tuo close reading. Utilizzando le domande su _Anecdotes on the Countess du Barry_, potresti argomentare che queste frasi la rappresentano come un oggetto, un bene commerciale o una merce per il consumo del re. Potrei anche pensare che le parole del conte du Barry ldimostrino che è volgare e rozzo, una figura indegna di contatto con la corte di Versailles.
 
-## Primary and Secondary Texts for Historical Analysis
+### **Testi primari e secondari per l'analisi storica**
 
-In addition to reading texts closely, you also want to think about the kind of text you are working with and its relationship to its historical context. For starters, you need to know if the work you are reading is a **primary** text or a **secondary** text. [The Healey Library](http://umb.libguides.com/c.php?g=351019\&p=2367357) has a good set of definitions:
+Oltre a leggere attentamente i testi, vuoi anche pensare al tipo di testo con cui stai lavorando e alla sua relazione con il suo contesto storico. Per cominciare, va considerato se il lavoro che stai leggendo sia un **testo principale** o un **testo secondario**. La [Biblioteca Healey](https://umb.libguides.com/c.php?g=351019\&p=2367357) ha una buona serie di definizioni:
 
-> **Primary Sources** are immediate, first-hand accounts of a topic, from people who had a direct connection with it. **Secondary Sources** are one step removed from primary sources, though they often quote or otherwise use primary sources. They can cover the same topic, but add a layer of interpretation and analysis.
+> **Primary Sources** are immediate, first-hand accounts of a topic, from people who had a direct connection with it. **Secondary Sources** are one step removed from primary sources, though they often quote or otherwise use primary sources. They can cover the same topic, but add a layer of interpretation and analysis. (trad. Le fonti primarie sono resoconti immediati e di prima mano di un argomento, da persone che hanno avuto un collegamento diretto con esso. Le fonti secondarie sono rimosse di un passo dalle fonti primarie, sebbene spesso citino o utilizzino in altro modo le fonti primarie. Possono coprire lo stesso argomento, ma aggiungono uno strato di interpretazione e analisi.)
 
 Sarah Maza's article is a secondary text, whereas the _Anedcotes_, discussed above, is a primary text.
 
