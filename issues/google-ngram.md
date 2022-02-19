@@ -18,32 +18,44 @@ Guardando il grafico, si potrebbero vedere le prove di un'argomentazione sulla c
 
 ## Corpus
 
-With any large-scale text analysis like this, the underlying data is everything. Imagine running the same word search for 'science' and 'religion' over 1000 texts used in religious schools or services. It would probably look quite different! The same would hold true if we targeted only biology, botany, and physics textbooks over the same time period. While these are fairly stark examples, the same principle holds true: the input affects the output. The data we choose for a study can skew our conclusions, and it is important for us to think carefully about their selection as a part of the process.
+Con qualsiasi analisi del testo su larga scala, i dati sottostanti sono tutto. Immagina di eseguire la stessa ricerca di parole per "scienza" e "religione" su oltre 1000 testi utilizzati nelle scuole o nei servizi religiosi. Lo stesso sarebbe vero se prendessimo di mira i libri di testo di biologia, botanica e fisica nello stesso periodo di tempo. Dagli esempi risulta abbastanza evidente lo stesso principio: l'input influisce sull'output. I dati che scegliamo per uno studio possono distorcere le nostre conclusioni ed è importante per noi riflettere attentamente sulla loro selezione come parte del processo.
 
-* What is the corpus, or set of texts, being used to generate this data?
-* Where is this data coming from?
+* Qual è il corpus, o insieme di testi, utilizzato per generare questi dati?&#x20;
+* Da dove provengono questi dati?
 
-The Google NGram Viewer offers a dropdown menu where you can select a corpus to study. Our results would look a lot different depending on which corpus we selected. The corpora for these options are pulled from the Google Books scanning project (to see similar visualizations of your own corpus, you could try working with [Bookworm](http://bookworm.culturomics.org), a related tool). This raises a number of difficulties. As Eitan Adam Pechenick, Christopher M. Danforth, and Peter Sheridan Dodds [have noted](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137041), the corpus only has one copy of each book in its dataset. So things do not get scaled for circulation or popularity. A book that only sells one copy is weighted the same as a book that sells a thousand copies: they are both a single copy according to Google's methods.
+Google NGram Viewer offre un menu a discesa in cui è possibile selezionare un corpus da studiare. I nostri risultati sono molto diversi a seconda del corpus che abbiamo selezionato. I corpora per queste opzioni vengono estratti dal progetto di scansione di Google Libri (per vedere visualizzazioni simili del tuo corpus, puoi provare a lavorare con [Bookworm](http://bookworm.library.yale.edu/#), uno strumento correlato; [qui ](http://dh.library.yale.edu/projects/vogue/student\_work/)puoi vederne un uso avanzato). Ciò solleva una serie di difficoltà. Come hanno notato [Eitan Adam Pechenick, Christopher M. Danforth e Peter Sheridan Dodds](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137041), il corpus ha solo una copia di ogni libro nel suo set di dati. Quindi le cose non vengono ridimensionate per la circolazione o la popolarità. **Un libro che vende una sola copia ha lo stesso peso di un libro che vende mille copie**: sono entrambi una sola copia **secondo i metodi di Google**.
 
-The Google Books corpus has also, at times, been criticized for its heavy reliance on poor quality scans of texts to generate their data (more on this in later chapters). The computer can't infer, for example, that the mispelling 'scyience' should be lumped in with the results for 'science.' Any underlying problems in scanning or uploading texts will skew the results. In addition, the results are better after 1820. There were far fewer books published before then, and even fewer are on Google Books.
+Il corpus di [Google Books](https://it.wikipedia.org/wiki/Google\_Libri) è stato anche, a volte, criticato per la sua forte **dipendenza da scansioni di testi di scarsa qualità** per generare i propri dati (ne parleremo più avanti nei capitoli successivi). Il computer non può dedurre, ad esempio, che l'errore di ortografia "scenza" debba essere unito ai risultati di "scienza". Eventuali problemi di fondo nella scansione o nel caricamento di testi distorceranno i risultati. Inoltre, i risultati sono migliori dopo il 1820. Prima di allora c'erano molti meno libri pubblicati e ancora meno sono su Google Books.
 
-As Ted Underwood [suggests](https://tedunderwood.com/2010/12/30/several-varieties-of-noise-and-the-theme-to-love-story/), when approached with a healthy sense of skepticism, many of these issues do not discount the use of the tool for "relative comparisons between words and periods" after 1820 or so. We can't know direct truths through the viewer, but we can still use the data for analysis. For now, just remember that graphs can appear to express fact when, in fact, the data is murky, subject for debate, or skewed.
+Come suggerisce [Ted Underwood](https://tedunderwood.com/2010/12/30/several-varieties-of-noise-and-the-theme-to-love-story/), se affrontati con un sano senso di scetticismo, molti di questi problemi permettono di non scartano l'uso dello strumento per "relative comparisons between words and periods" (Trad. confronti relativi tra parole e periodi) dopo il 1820 circa. Non possiamo conoscere le verità dirette attraverso lo spettatore, ma possiamo comunque usare i dati per l'analisi. Per ora, ricorda solo che i grafici possono sembrare esprimere fatti quando, **in realtà, i dati sono oscuri**, soggetti a dibattito o distorti.
 
-## Methodology
+Di seguito trovi una lista di banche dati/archivi:
 
-Even with a perfect corpus, our choices can make a big difference in the results we produce. The above search only accounts for single words, but there are more nuanced ways of using the NGram Viewer. An **n-gram** is another name for a sequence of words of length _n_. Take this short phrase:
+* [OPAC SBN ](https://opac.sbn.it/opacsbn/opac/iccu/free.jsp)Istituto Centrale per il Catalogo Unico delle Biblioteche Italiane e per le Informazioni Bibliografiche
+* [Worldcat](https://www.worldcat.org)
+* [Europeana](https://www.europeana.eu/it)
+* [Gallica](https://gallica.bnf.fr/accueil/it/content/accueil-it?mode=desktop)
+* [Wiki GLAM](https://it.wikipedia.org/wiki/Progetto:GLAM)
 
-'a test sentence.'
+## Metodologia
 
-We have three n-grams of length 1 ("a", "test" and "sentence"), two n-grams of length 2 ("a test" and "test sentence"), and 1 n-gram of length 3 ("a test sentence"). Or, we could use shorthand: we have 3 **unigrams** or **tokens**, 2 **bigrams**, and 1 **trigram**. These are just fancy ways to describe different ways of chunking up a piece of text so that we can work with it. And we can do the same thing in the NGram Viewer. Take this NGram for the token 'scandal' in an English corpus:
+Anche con un corpus perfetto, le nostre scelte possono fare una grande differenza sui risultati che produciamo. La ricerca di cui sopra tiene conto solo di singole parole, ma ci sono modi più sfumati di utilizzare NGram Viewer. Un **n-gram** è un altro nome per una sequenza di parole di lunghezza n. Prendi questa breve frase:
+
+'frase di prova.'
+
+Abbiamo tre n-grammi di lunghezza 1 ("frase", "di" e "prova"), due n-grammi di lunghezza 2 ("frase di" e "di prova") e 1 n-gram di lunghezza 3 ("frase di prova"). Oppure, potremmo usare un'abbreviazione: abbiamo 3 **unigrammi** o **tokens**, 2 **bigrammi** e 1 **trigramma**. Questi sono solo modi per descrivere diversi modi di spezzettare un pezzo di testo in modo che possiamo lavorarci. E possiamo fare la stessa cosa in NGram Viewer. Prendi questo Ngram per il token 'scandal' in un corpus inglese:
 
 ![scandal ngram](../assets/issues/scandal.jpg)
 
 It appears like something fairly dramatic happened around 1660 that caused a massive spike in the usage of 'scandal.' This in itself could be significant, but we might be interested in more nuanced readings of this data. We might want to see, say, bigrams containing scandal like 'political scandal' and 'religious scandal' to observe when certain types of scandals come into prominence. The NGram Viewer allows for a number of nuanced searches that you can read about [here](https://books.google.com/ngrams/info). For now, let's try out a wildcard search - '\* scandal':
 
+Sembra che qualcosa di abbastanza drammatico sia accaduto intorno al 1660 che ha causato un enorme picco nell'uso di "scandalo". Questo di per sé potrebbe essere significativo, ma potremmo essere interessati a letture più sfumate di questi dati. Potremmo voler vedere, per esempio, biggrammi contenenti scandali come "scandalo politico" e "scandalo religioso" da osservare quando certi tipi di scandali diventano importanti. Il visualizzatore NGram consente una serie di ricerche sfumate di cui puoi leggere [qui](https://books.google.com/ngrams/info). Per ora, proviamo una ricerca con caratteri jolly - '\*scandal':
+
 ![bigram of wildcard scandal](../assets/issues/wildcard-scandal.jpg)
 
 The asterisk in searches like this matches anything, so it will return all two-word phrases containing 'scandal' as a second word. And, handy for us, it will show us the top ten uses. In this case, they're almost all articles or prepositions: 'the scandal,' 'a scandal,' 'of scandal,' etc. And they all seem to spike around 1660 as well. We would need more information about this time period to tell exactly what is going on here, and to do so we might want to specifically exclude these common usages. Given the relative unreliability of N-Grams before 1820, this dramatic uptick might be due to just a few works that used the term "scandal" around this time -- and might not be representative of larger patterns.
+
+L'asterisco in ricerche come questa corrisponde a qualsiasi cosa, quindi restituirà tutte le frasi di due parole contenenti "scandal" come seconda parola. E, utile per noi, ci mostrerà i primi dieci usi. In questo caso, sono quasi tutti articoli o preposizioni: 'lo scandalo', 'uno scandalo', 'di scandalo', ecc. E sembrano tutti aumentare anche intorno al 1660. Avremmo bisogno di maggiori informazioni su questo periodo di tempo per dire esattamente cosa sta succedendo qui, e per farlo potremmo voler escludere specificamente questi usi comuni. Data la relativa inaffidabilità di N-Grams prima del 1820, questo drammatico aumento potrebbe essere dovuto solo a poche opere che usavano il termine "scandalo" in questo periodo e potrebbe non essere rappresentativo di modelli più ampi.
 
 We might also want to look at different forms of the same word. After all, the above search only captures the singular form of 'scandal', but any word can occur in multiple forms over the course of a corpus. The NGram Viewer can account for this as well:
 
@@ -89,10 +101,9 @@ Naturalmente, questi grafici non significano nulla di per sé. È nostro compito
 
 Pensa sempre. Non lasciare mai che un grafico pensi per te.
 
-## Ulteriori risorse
+## Ulteriori risorse &#x20;
 
 * Big data, digital humanities and Google’s Ngram Viewer: [Discovering hidden patterns of “Truth”](https://firstmonday.org/ojs/index.php/fm/article/view/5567/5535) (trad. : scoprire gli schemi nascosti della "verità").
 * Ted Underwood su "[How not to do things with words](https://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/)" (trad. : cosa non fare con le parole) per utili critiche agli studi che utilizzano Ngram Viewer.
-* Danny Sulivan su "[When OCR Goes Bad: Google's Ngram Viewer & The F-Word](http://searchengineland.com/when-ocr-goes-bad-googles-ngram-viewer-the-f-word-59181\_)" per un approfondimento su Google NGram e l' [OCR](https://it.wikipedia.org/wiki/Riconoscimento\_ottico\_dei\_caratteri).
-* <mark style="color:red;">Geoff Nunberg on "</mark>[<mark style="color:red;">Google Books: A Metadata Train Wreck</mark>](http://languagelog.ldc.upenn.edu/nll/?p=1701)<mark style="color:red;">" for more problems with the viewer</mark>.
-
+* Danny Sulivan su "[When OCR Goes Bad: Google's Ngram Viewer & The F-Word](https://searchengineland.com/when-ocr-goes-bad-googles-ngram-viewer-the-f-word-59181)" per un approfondimento su Google NGram e l' [OCR](https://it.wikipedia.org/wiki/Riconoscimento\_ottico\_dei\_caratteri).
+* Sul concetto di [Linked Data](https://it.wikipedia.org/wiki/Linked\_data) e  [Linked Open Data](http://www.culturaitalia.it/opencms/linked\_open\_data\_it.jsp) e la loro connessione con il [web semantico](https://it.wikipedia.org/wiki/Web\_semantico).
