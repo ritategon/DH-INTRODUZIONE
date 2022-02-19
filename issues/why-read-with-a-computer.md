@@ -30,17 +30,17 @@ L'accesso a tutto questo materiale può essere travolgente e una delle domande d
 
 Più specificamente, parleremo molto del processo attraverso il quale interpretiamo i testi, attraverso il quale traduciamo l'inchiostro su una pagina in un significato nella nostra mente e di come i computer possono alterare e enfatizzare questo processo. Toccheremo una serie di argomenti e questioni:
 
-* How can computers help us understand traditional reading processes in new ways?
-* How can we find new ways of reading through technology?
-* How can machines facilitate new types of collaborative reading?
-* How can we use computers to understand complicated categories like emotions and themes?
+* In che modo i computer possono aiutarci a comprendere i processi di lettura tradizionali in modi nuovi?&#x20;
+* Come possiamo trovare nuovi modi di leggere attraverso la tecnologia?&#x20;
+* In che modo le macchine possono facilitare nuovi tipi di lettura collaborativa?&#x20;
+* Come possiamo usare i computer per comprendere categorie complicate come emozioni e temi/argomenti?
 
-The implicit claim in these bullet points is that computers affect the reading process positively, but we will also give careful consideration to the wide-ranging and compelling arguments that this is not always the case.
+L'affermazione implicita in questi punti in elenco è che i computer influiscono positivamente sul processo di lettura, ma presteremo anche attenta considerazione ad argomentazioni convincenti e ad ampio raggio secondo cui non è sempre così. In particolare:&#x20;
 
-* How does computer-assisted interpretation undermine the very point of reading?
-* Do these techniques show us anything new, or are they all fancy ways to describe what we already know?
-* How does reading with technology exacerbate racial, social, and economic inequalities?
+* In che modo l'interpretazione assistita dal computer mina il punto stesso della lettura?&#x20;
+* Queste tecniche ci mostrano davvero qualcosa di nuovo o sono tutti modi capricciosi per descrivere ciò che già sappiamo?
+* In che modo la lettura con la tecnologia esacerba [le disuguaglianze razziali, sociali ed economiche?](https://medium.com/@davieco/were-roman-emperors-blonde-2255ec77d123)
 
-You will have to decide for yourself the answers to these questions over the course of the book.
+Dovrai decidere tu stesso le risposte a queste domande nel corso del libro.&#x20;
 
-Confused? Good. That means you're learning.
+Confuso? Buona. Ciò significa che stai imparando.
