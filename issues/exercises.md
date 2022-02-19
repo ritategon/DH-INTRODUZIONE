@@ -8,6 +8,8 @@ description: Inserisci le risposte nella seguente repository (codice di accesso 
 Inserisci le risposte nella seguente repository (codice di accesso 8614): https://digipad.app/p/112569/909a420271243
 {% endembed %}
 
+Nella repository che trovi in basso (codice di accesso 8614) Inserisci le risposte alle seguenti domande:
+
 1. Qual è il tuo background con i computer? Interpreta questa domanda nel modo più ampio che desideri.&#x20;
 2. Prenditi qualche minuto per riflettere su come leggi e cosa succede quando leggi. Quindi descrivi il tuo processo in 3-5 frasi.&#x20;
 3. Che tipo di tecnologie usi per leggere? Ritieni che il tuo uso di diverse tecnologie e diversi modi di leggere (leggere un libro fisico invece di leggere qualcosa sul tuo computer piuttosto che leggerlo su un e-reader) cambi la tua esperienza di lettura? &#x20;
