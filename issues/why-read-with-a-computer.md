@@ -18,9 +18,9 @@ Non dimenticare di considerare che la dimensione digitale porta con sè molti el
 
 Lo studioso [Marshall Mcluhan](https://designopendata.files.wordpress.com/2014/05/themediumisthemassage\_marshallmcluhan\_quentinfiore.pdf) lo ha detto succintamente:
 
-> The medium is the message.
->
-> ![](../.gitbook/assets/screenshot-docs.google.com-2022.02.18-19\_33\_42.png)
+_The medium is the message._
+
+![](../.gitbook/assets/screenshot-docs.google.com-2022.02.18-19\_33\_42.png)
 
 Le tecnologie che trasmettono un messaggio – il suo testo in questo caso – alterano  pondamentalmente il significato e l'esperienza dell'opera. E possiamo pensare al messaggio in modi più ricchi studiando i materiali che lo trasmettono.
 

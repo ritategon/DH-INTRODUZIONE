@@ -85,13 +85,15 @@ Questo N-Gram mostra un uso crescente di questo termine nel corso del diciottesi
 
 Quindi, la lingua cambia nel tempo. Una singola parola potrebbe cambiare radicalmente nell'uso nel corso dei secoli in modi che distorcono i nostri risultati. Usiamo anche termini diversi nel tempo per descrivere gli stessi fenomeni. Queste sono tutte cose che vorremmo far emergere molto di più in qualsiasi interpretazione che utilizzi N-Grams. Dovremmo anche considerare ciò che N-Grams possono (e non possono) dirci e pensare a potenziali problemi nella nostra lettura. Ma per fortuna queste implicazioni della tecnologia non scoraggino e sono comunque interessanti.
 
-* Infatti i metodi digitali possono permetterci di fare osservazioni su un gran numero di testi. Molto più di quante se ne potrebbero fare leggendo i testi con le modalità tradizionali
+* Infatti i metodi digitali possono permetterci di fare osservazioni su un gran numero di testi. Molto più di quante se ne potrebbero fare leggendo i testi con le modalità tradizionali.
 
 Quest'ultima frase dovrebbe destare qualche allarme: in realtà non abbiamo letto nessuno di questi testi, ma ci stiamo comunque facendo delle osservazioni al riguardo. Bisogna avere piena consapevolezza delle implicazioni di un atto del genere.
 
 * Cosa perde questa forma di lettura?&#x20;
 * Cosa guadagna?&#x20;
 * Come può essere affrontata in modi che minimizzino il primo e massimizzino il secondo?
+
+Abbiamo toccato con mano, credo, cosa McLuhan intendesse
 
 ## Interpretazione
 
