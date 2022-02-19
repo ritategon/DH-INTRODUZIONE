@@ -2,13 +2,9 @@
 
 Il [Google NGram Viewer](https://books.google.com/ngrams) è spesso la prima cosa che viene fuori quando le persone discutono di analisi testuali su larga scala e serve bene come introduzione di base alle possibilità della lettura assistita dal computer.
 
-![google ngram splash page](../assets/issues/google-ngram-viewer.jpg)
+![Google NGram Viewer fornisce un modo semplice e veloce per esplorare i cambiamenti nella lingua nel corso di molti anni in molti testi. Digita una parola o una frase separata da virgole e il visualizzatore NGram rappresenterà un grafico della frequenza con cui questi termini di ricerca si verificano in un determinato corpus per un determinato numero di anni. Puoi specificare un numero di anni e un particolare corpus di Google Libri. ](../.gitbook/assets/screenshot-books.google.com-2022.02.19-12\_12\_32.png)
 
-Google NGram Viewer fornisce un modo semplice e veloce per esplorare i cambiamenti nella lingua nel corso di molti anni in molti testi. Digita una parola o una frase separata da virgole e il visualizzatore NGram rappresenterà un grafico della frequenza con cui questi termini di ricerca si verificano in un determinato corpus per un determinato numero di anni. Puoi specificare un numero di anni e un particolare corpus di Google Libri.&#x20;
-
-Lo strumento consente di cercare rapidamente centinaia di migliaia di testi e, tracciando alcune parole o frasi, trarre inferenze sui cambiamenti culturali e storici. Se cerchiamo, ad esempio, "scienza" e "religione", potremmo trarre conclusioni sulla loro importanza relativa in vari momenti degli ultimi secoli.
-
-![science and religion](../assets/issues/science-religion.jpg)
+![](../assets/issues/science-religion.jpg)
 
 Guardando il grafico, si potrebbero vedere le prove di un'argomentazione sulla crescente secolarizzazione della società negli ultimi due secoli. Il costante aumento dell'uso della parola scienza negli ultimi 200 anni, accompagnato dal precipitoso declino della parola religione a partire dalla metà del diciannovesimo secolo, potrebbe fornire prove concrete di ciò che altrimenti potrebbe essere aneddotico. Ma meglio andare con calma: cosa viene effettivamente misurato qui? Abbiamo bisogno di porre domande su un certo numero di elementi di questo argomento, compresi quelli riguardanti:
 
@@ -45,31 +41,31 @@ Anche con un corpus perfetto, le nostre scelte possono fare una grande differenz
 
 Abbiamo tre n-grammi di lunghezza 1 ("frase", "di" e "prova"), due n-grammi di lunghezza 2 ("frase di" e "di prova") e 1 n-gram di lunghezza 3 ("frase di prova"). Oppure, potremmo usare un'abbreviazione: abbiamo 3 **unigrammi** o **tokens**, 2 **bigrammi** e 1 **trigramma**. Questi sono solo modi per descrivere diversi modi di spezzettare un pezzo di testo in modo che possiamo lavorarci. E possiamo fare la stessa cosa in NGram Viewer. Prendi questo Ngram per il token 'scandal' in un corpus inglese:
 
-![scandal ngram](../assets/issues/scandal.jpg)
-
-It appears like something fairly dramatic happened around 1660 that caused a massive spike in the usage of 'scandal.' This in itself could be significant, but we might be interested in more nuanced readings of this data. We might want to see, say, bigrams containing scandal like 'political scandal' and 'religious scandal' to observe when certain types of scandals come into prominence. The NGram Viewer allows for a number of nuanced searches that you can read about [here](https://books.google.com/ngrams/info). For now, let's try out a wildcard search - '\* scandal':
+![](../assets/issues/scandal.jpg)
 
 Sembra che qualcosa di abbastanza drammatico sia accaduto intorno al 1660 che ha causato un enorme picco nell'uso di "scandalo". Questo di per sé potrebbe essere significativo, ma potremmo essere interessati a letture più sfumate di questi dati. Potremmo voler vedere, per esempio, biggrammi contenenti scandali come "scandalo politico" e "scandalo religioso" da osservare quando certi tipi di scandali diventano importanti. Il visualizzatore NGram consente una serie di ricerche sfumate di cui puoi leggere [qui](https://books.google.com/ngrams/info). Per ora, proviamo una ricerca con caratteri jolly - '\*scandal':
 
-![bigram of wildcard scandal](../assets/issues/wildcard-scandal.jpg)
+![](../assets/issues/wildcard-scandal.jpg)
 
-The asterisk in searches like this matches anything, so it will return all two-word phrases containing 'scandal' as a second word. And, handy for us, it will show us the top ten uses. In this case, they're almost all articles or prepositions: 'the scandal,' 'a scandal,' 'of scandal,' etc. And they all seem to spike around 1660 as well. We would need more information about this time period to tell exactly what is going on here, and to do so we might want to specifically exclude these common usages. Given the relative unreliability of N-Grams before 1820, this dramatic uptick might be due to just a few works that used the term "scandal" around this time -- and might not be representative of larger patterns.
+L'asterisco in ricerche come questa corrisponde a qualsiasi cosa, quindi restituirà tutte le frasi di due parole contenenti "scandal" come seconda parola. E, utile per noi, ci mostrerà i primi dieci usi. In questo caso, sono quasi tutti articoli o preposizioni: ‘the scandal,’ ‘a scandal,’ ‘of scandal,’ ecc. E sembrano tutti aumentare anche intorno al 1660. Avremmo bisogno di maggiori informazioni su questo periodo di tempo per dire esattamente cosa sta succedendo qui, e per farlo potremmo voler escludere specificamente questi usi comuni. Data la relativa inaffidabilità di N-Grams prima del 1820, questo drammatico aumento potrebbe essere dovuto solo a poche opere che usavano il termine "scandalo" in questo periodo e potrebbe non essere rappresentativo di modelli più ampi.
 
-L'asterisco in ricerche come questa corrisponde a qualsiasi cosa, quindi restituirà tutte le frasi di due parole contenenti "scandal" come seconda parola. E, utile per noi, ci mostrerà i primi dieci usi. In questo caso, sono quasi tutti articoli o preposizioni: 'lo scandalo', 'uno scandalo', 'di scandalo', ecc. E sembrano tutti aumentare anche intorno al 1660. Avremmo bisogno di maggiori informazioni su questo periodo di tempo per dire esattamente cosa sta succedendo qui, e per farlo potremmo voler escludere specificamente questi usi comuni. Data la relativa inaffidabilità di N-Grams prima del 1820, questo drammatico aumento potrebbe essere dovuto solo a poche opere che usavano il termine "scandalo" in questo periodo e potrebbe non essere rappresentativo di modelli più ampi.
+Potremmo anche voler esaminare diverse forme della stessa parola. Dopotutto, la ricerca di cui sopra cattura solo la forma singolare di "scandal", ma qualsiasi parola può presentarsi in più forme nel corso di un corpus. Il visualizzatore NGram può tenere conto anche di questo:
 
-We might also want to look at different forms of the same word. After all, the above search only captures the singular form of 'scandal', but any word can occur in multiple forms over the course of a corpus. The NGram Viewer can account for this as well:
+![](../assets/issues/forms-of-scandal.jpg)
 
-![forms of scandal ngram](../assets/issues/forms-of-scandal.jpg)
+L'enorme picco che vediamo nell'uso di "scandal" non è del tutto eguagliato da altre forme della parola. In particolare, l'aggettivo 'scandalous' gode di maggiore uso fino alla metà dell'Ottocento. Forse scandalo come sostantivo, come idea, come cosa a sé stante esplode sulla scena a metà del diciasettesimo secolo, prima che fosse qualcosa di più legato ad altre persone, luoghi ed eventi.
 
-That massive spike we see in the use of 'scandal' is not quite matched by other forms of the word. In particular, the adjective form 'scandalous' enjoys more usage until the mid-nineteenth century. Maybe scandal as a noun, as an idea, as a thing unto itself explodes onto the scene in the mid-nineteenth century, wereas before it was something more a thing attached to other people, places, and events.
+Per approfondire un altro termine rilevante per questo corso, dai un'occhiata a questo ngram della parola "crime" nel corpus inglese:
 
-To drill down more deeply into another term relevant to this course, check out this ngram of the word 'crime' in the English corpus:
+![](../.gitbook/assets/screenshot-books.google.com-2022.02.19-12\_57\_09.png)
 
-![english crime ngram](../assets/issues/english-crime-ngram.jpg)
+Secondo questo grafico, dopo un calo all'inizio del diciottesimo secolo, gli scrittori inglesi hanno discusso del crimine in modo onnipresente. Ma che dire degli autori che scrivono in altre lingue? Ecco la stessa ricerca in francese e di seguito in italiano:
 
-According to this chart, after a drop during the early-eighteenth century, English writers discussed crime more consistently and ubiquitously than ever before. But what about authors writing in other languages? Here is the same search in French.
+![](../assets/issues/french-crime-ngram.jpg)
 
-![french crime ngram](../assets/issues/french-crime-ngram.jpg)
+
+
+
 
 The general trend of more mentions of crime in the 19th century than the 20th holds true in both the French and English corpora. However, if you pay careful attention to the y-axis you will note that French authors actually are mentioning crime far more frequently relative to the rest of the writing at the time. The trends are similar, but the percentage of times 'crime' shows up is much higher in France. In England during this time, uses of the word hover around 0.0045. French writing mentioning 'crime' is over double that percentage during the same period, and it does not dip down to that number until 1880.
 
