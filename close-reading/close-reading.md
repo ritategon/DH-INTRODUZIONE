@@ -6,6 +6,10 @@ description: >-
 
 # Il Close Reading e le fonti
 
+### Prima definizione&#x20;
+
+Il _**close reading**_ è un'attività che ti tiene concentrati su e all'interno di un testo, valutando singole parole, forme di pensiero, dispositivi retorici, modelli di descrizione e caratterizzazione e così via, al fine di comprendere il risultato artistico del testo. Si distingue dal e si intreccia con il _**distant reading**_, che ha un significato specifico (coniato da Franco Moretti), ma può anche riferirsi generalmente all'uso di metodi computazionali per l'analisi dei testi letterari.
+
 Text analysis is something that we all engage in, whether we realize it or not. The term is broad and capacious and encapsulates a variety of different activities. Even something as simple as slowing down when you see a stop sign is a kind of text analysis: doing so means you have parsed the meaning of the words on the sign and reacted accordingly.
 
 Indeed any of the following, related activities are forms of text analysis:
@@ -83,10 +87,9 @@ Interrogare le fonti in questo modo è solo una delle modalità di comprensione 
 
 ## Risorse Aggiuntive
 
-Su close e distant reading&#x20;
+Ancora su close e distant reading&#x20;
 
 * [https://www.futurelearn.com/courses/reading-digital](https://www.futurelearn.com/courses/reading-digital)
 * [https://www.informatik.uni-leipzig.de/\~stjaenicke/Survey.pdf](https://www.informatik.uni-leipzig.de/\~stjaenicke/Survey.pdf)
 * [https://art.torvergata.it/retrieve/handle/2108/200701/496830/Ciotti.pdf](https://art.torvergata.it/retrieve/handle/2108/200701/496830/Ciotti.pdf)
-*
 

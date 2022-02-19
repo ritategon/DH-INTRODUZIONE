@@ -36,6 +36,7 @@ Di seguito trovi una lista di banche dati/archivi:
 * [Europeana](https://www.europeana.eu/it)
 * [Gallica](https://gallica.bnf.fr/accueil/it/content/accueil-it?mode=desktop)
 * [Wiki GLAM](https://it.wikipedia.org/wiki/Progetto:GLAM)
+* [Internet Archive](https://archive.org)
 
 ## Metodologia
 
@@ -105,6 +106,7 @@ Pensa sempre. Non lasciare mai che un grafico pensi per te.
 
 ## Ulteriori risorse &#x20;
 
+* [Approfondire ](https://books.google.com/ngrams/info)l'uso di NGram viewer.
 * Big data, digital humanities and Google’s Ngram Viewer: [Discovering hidden patterns of “Truth”](https://firstmonday.org/ojs/index.php/fm/article/view/5567/5535) (trad. : scoprire gli schemi nascosti della "verità").
 * Ted Underwood su "[How not to do things with words](https://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/)" (trad. : cosa non fare con le parole) per utili critiche agli studi che utilizzano Ngram Viewer.
 * Danny Sulivan su "[When OCR Goes Bad: Google's Ngram Viewer & The F-Word](https://searchengineland.com/when-ocr-goes-bad-googles-ngram-viewer-the-f-word-59181)" per un approfondimento su Google NGram e l' [OCR](https://it.wikipedia.org/wiki/Riconoscimento\_ottico\_dei\_caratteri).
