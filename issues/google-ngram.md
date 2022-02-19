@@ -93,11 +93,11 @@ Quest'ultima frase dovrebbe destare qualche allarme: in realtà non abbiamo lett
 * Cosa guadagna?&#x20;
 * Come può essere affrontata in modi che minimizzino il primo e massimizzino il secondo?
 
-Abbiamo toccato con mano, credo, cosa McLuhan intendesse
+Abbiamo toccato con mano, credo, cosa [McLuhan](https://rita-tegon.gitbook.io/introduzione-alla-analisi-del-testo/issues-in-digital-text-analysis/why-read-with-a-computer) intendesse.
 
 ## Interpretazione
 
-Naturalmente, questi grafici non significano nulla di per sé. È nostro compito guardare i risultati e descriverli in modo significativo. Ma sii critico nei confronti di ciò che vedi. Potresti trovare qualcosa di interessante, ma potresti inferire sciocchezze. Il tuo compito è validare. Fai attenzione all'[apofenia](https://it.wikipedia.org/wiki/Apofenia), l'urgenza umana di guardare dati casuali e trovare schemi significativi in essi. Puoi trovare [modelli selvaggi in qualsiasi cosa](http://tylervigen.com/spurious-correlations) (correlazioni spurie) se guardi non abbastanza attentamente. Dopotutto, le visualizzazioni possono confondere tanto quanto chiarire. Numeri e grafici non hanno un significato oggettivo. [Miriam Posner ](https://twitter.com/miriamkp/status/725764655352684545?ref\_src=twsrc%5Etfw)lo ha riassunto concisamente su Twitter una volta:
+Naturalmente, per quanto detto, i grafici visti sopra non significano nulla di per sé. È nostro compito guardare i risultati e descriverli in modo significativo, essendo critici su ciò che si vede.  Potresti trovare qualcosa di interessante, ma potresti inferire sciocchezze. Il tuo compito è cercare attendibilità. Fai attenzione all'[apofenia](https://it.wikipedia.org/wiki/Apofenia), l'urgenza umana di guardare dati casuali e trovare schemi significativi in essi. Infatti, puoi trovare [modelli selvaggi in qualsiasi cosa](http://tylervigen.com/spurious-correlations) (correlazioni spurie) se non guardi abbastanza attentamente. Dopotutto, le visualizzazioni possono confondere tanto quanto chiarire. Numeri e grafici non hanno un significato oggettivo. E tra gli altri [Miriam Posner ](https://twitter.com/miriamkp/status/725764655352684545?ref\_src=twsrc%5Etfw)lo ha riassunto concisamente ed efficacemente su Twitter:
 
 ![apophenia illustrated - noise illustration](../assets/issues/visual-clarity.jpg)
 
