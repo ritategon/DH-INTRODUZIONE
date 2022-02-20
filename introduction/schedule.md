@@ -1,24 +1,29 @@
-# Programma e piano di lavoro
+# Piano di lavoro
 
-## Nota&#x20;
+#### Nota&#x20;
 
-Di seguito il programma. È molto probabile che in corso d'opera ci saranno delle variazioni, ma non aggiorneremo il programma qui.&#x20;
+Di seguito il piano. È molto probabile che durante il corso sincrono ci saranno delle variazioni, ovvero presenterò idee e materiali compatibilmente con i tempi e le necessità dei corsisti.  Tutto questo non verrà riportato qui.  D'altra parte tu, corsista o lettore interessato, sei libero di procedere secondo i tuoi tempi e curiosità.
 
 ## Descrizione
 
-Questo corso esamina l'intersezione tra scandalo, crimine e spettacolo nella Francia e nella Gran Bretagna del XIX secolo. Discuteremo la natura degli scandali, la connessione tra scandali e cambiamento politico e come gli scandali e le idee sulla criminalità sono stati utilizzati per articolare nuove idee su classe, genere e sessualità. Inoltre, questa classe tratterà l'ascesa di nuove teorie sulla criminalità nel 19° secolo e il fascino popolare per il crimine e la violenza. Crimine e scandalo si intrecciarono anche nel tessuto della città come fonti di spettacolo urbano. Infine, avremo l'opportunità di discutere di come le questioni del crimine, dello scandalo e dello spettacolo risuonano nel 21° secolo. Alcuni degli eventi e delle tendenze particolari che questa lezione tratterà includono il caso della collana di diamanti, il processo a Oscar Wilde, gli omicidi di Jack lo Squartatore e la nascita della narrativa poliziesca. Attraverso questo corso, gli studenti saranno introdotti all'analisi del testo e al data mining per le discipline umanistiche. Questo corso non presuppone una conoscenza preliminare di queste abilità, ma si chiede: come possono le nuove tecnologie sviluppate che consentono ai computer di "leggere" grandi quantità di testo fare luce sul passato? Gli studenti lavoreranno in gruppo nel corso del semestre per completare un progetto di storia digitale che analizzi un elemento del fascino del 19° secolo per il crimine e lo scandalo.
+Attraverso questo corso si interroga su come possono le nuove tecnologie consentano ai computer di "leggere" grandi quantità di testo per fare luce sul passato e sul presente con tuttele le cautele che sono necessarie. Sarai introdotto ad una prima esplorazione della natura e di alcuni strumenti di analisi del testo/data mining per le discipline umanistiche. Esso non presuppone una conoscenza specifica preliminare, ma abilità intermedi di uso delle tecnologie digitali.Schedulazione
 
-## Schedulazione
+## Obiettivi
+
+* sviluppo di un approccio multidisciplinare&#x20;
+* conoscenza della natura e delle potenzialità degli ambiti di applicazione delle DH&#x20;
+* conoscenza e utilizzo sperimentale di alcuni strumenti di analisi statistica
+
+
 
 ### Incontro 1
 
-* Introduzione&#x20;
 * Understanding Scandal
   * Ari Adut, _On Scandal_, Introduction and Chapter 1
   * Patrick Leary, "[Googling the Victorians](http://www.victorianresearch.org/googling.pdf)"
   * [Introduction](../introduction.md) and [Issues in Digital Text Analysis](../issues-in-digital-text-analysis.md) in this book
 
-### Week 2
+### Incontro 2
 
 * Scandal and Monarchy, Part I
   * Sarah Maza, “The Diamond Necklace Affair Revisited: The Case of the Missing Queen”
@@ -29,7 +34,7 @@ Questo corso esamina l'intersezione tra scandalo, crimine e spettacolo nella Fra
   * [Close Reading](../close-reading.md) in this book
 * **First Paper Due: Analysis of a Scandal**
 
-### Week 3
+### Incontro 3
 
 * Scandal and Sexuality, Continued
   * Ari Adut, _On Scandal_, Chapter 2
@@ -38,7 +43,7 @@ Questo corso esamina l'intersezione tra scandalo, crimine e spettacolo nella Fra
   * Michel Foucault, _Discipline and Punish_, selections
   * [Crowdsourcing](../crowdsourcing.md) in this book
 
-### Week 4
+### Inocntro 4
 
 * Crime and the City
   * Louis Chevalier, _Working Classes, Dangerous Classes_, selections
@@ -49,7 +54,7 @@ Questo corso esamina l'intersezione tra scandalo, crimine e spettacolo nella Fra
   * [Digital Archives](../archives.md) in this book
 * **Second Paper Due: Analysis of a Nineteeth-Century Archive**
 
-### Week 5
+### Incontro 5
 
 * Detection in the 19th Century
   * Simon Cole, _Suspect Identities_, Chapters 1 and 2
@@ -58,7 +63,7 @@ Questo corso esamina l'intersezione tra scandalo, crimine e spettacolo nella Fra
   * Arthur Conan Doyle, "[A Scandal in Bohemia](http://www.gutenberg.org/files/1661/1661-h/1661-h.htm#)"
   * [Data Cleaning](../data-cleaning.md) in this book
 
-### Week 6
+### Inocntro 6
 
 * Violence and Entertainment, Part I
   * Rosalind Crone, _Violent Victorians_, Chapters 1 and 3
@@ -124,7 +129,3 @@ Questo corso esamina l'intersezione tra scandalo, crimine e spettacolo nella Fra
 
 * Class Presentations
 * Wrap-Up and Class Presentations
-
-### Exam Week
-
-* **Final Project and Process Paper Due**
