@@ -21,8 +21,6 @@ Dunque, le seguenti attività sono forme di analisi del testo:
 
 Vale la pena soffermarsi su quest'ultimo punto: il **close reading,** in particolare, è spesso definito come uno dei principali strumenti analitici di studiosi e studenti delle discipline umanistiche. Leggere da vicino significa prestare molta attenzione alle varie componenti di un testo, quelle che ci fanno pensare o sentire in un certo modo riguardo ad esso. Il **close reading** si basa su un principio fondamentale:
 
-Vale la pena soffermarsi su quest'ultimo punto: il **close reading,** in particolare, è spesso definito come uno dei principali strumenti analitici di studiosi e studenti delle discipline umanistiche. Leggere da vicino significa prestare molta attenzione alle varie componenti di un testo, quelle che ci fanno pensare o sentire in un certo modo riguardo ad esso. Il **close reading** si basa su un principio fondamentale:
-
 * Everything about the text matters, whether the author intended for it to matter or not.
 
 Considera il seguente esperimento mentale. Un giorno torni a casa e trovi sul tavolo il seguente biglietto del tuo coinquilino:
@@ -57,33 +55,37 @@ Si può  rispondere a queste domande in molti modi e questa ambiguità fa parte 
 
 ### **Testi primari e secondari per l'analisi storica**
 
-Oltre a leggere attentamente i testi, vuoi anche pensare al tipo di testo con cui stai lavorando e alla sua relazione con il suo contesto storico. Per cominciare, va considerato se il lavoro che stai leggendo sia un **testo principale** o un **testo secondario**. La [Biblioteca Healey](https://umb.libguides.com/c.php?g=351019\&p=2367357) ha una buona serie di definizioni:
+Oltre a leggere attentamente i testi, devi anche pensare al tipo di testo con cui stai lavorando e alla sua relazione con il suo contesto storico. Per cominciare, va considerato se il lavoro che stai leggendo sia un **testo principale** o un **testo secondario**. La [Biblioteca Healey](https://umb.libguides.com/c.php?g=351019\&p=2367357) ha una buona serie di definizioni:
 
-> **Primary Sources** are immediate, first-hand accounts of a topic, from people who had a direct connection with it. **Secondary Sources** are one step removed from primary sources, though they often quote or otherwise use primary sources. They can cover the same topic, but add a layer of interpretation and analysis. (trad. Le fonti primarie sono resoconti immediati e di prima mano di un argomento, da persone che hanno avuto un collegamento diretto con esso. Le fonti secondarie sono rimosse di un passo dalle fonti primarie, sebbene spesso citino o utilizzino in altro modo le fonti primarie. Possono coprire lo stesso argomento, ma aggiungono uno strato di interpretazione e analisi.)
+> **Primary Sources** are immediate, first-hand accounts of a topic, from people who had a direct connection with it. **Secondary Sources** are one step removed from primary sources, though they often quote or otherwise use primary sources. They can cover the same topic, but add a layer of interpretation and analysis.&#x20;
+>
+> (trad. Le fonti primarie sono resoconti immediati e di prima mano di un argomento, da persone che hanno avuto un collegamento diretto con esso. Le fonti secondarie sono rimosse di un passo dalle fonti primarie, sebbene spesso citino o utilizzino in altro modo le fonti primarie. Possono coprire lo stesso argomento, ma aggiungono uno strato di interpretazione e analisi.)
 
-Sarah Maza's article is a secondary text, whereas the _Anedcotes_, discussed above, is a primary text.
+L'articolo di Sarah Maza è un testo secondario, mentre gli _Anedcotes_, discussi sopra, sono un testo primario.
 
-Reading primary texts is absolutely invaluable, particularly in the study of history. There is no better way to understand events in the past than by examining the sources – whether journals, newspaper articles, letters, court case records, novels, artworks, music or autobiographies – that people from that period left behind. However, you need to approach primary sources with care and as something other than a 100% accurate representation of the truth. For instance, in reading the _Anecdotes_, you might ask: did the author actually witness the events he or she was describing? Probably not. In that is the case, what can this document help us understand? And what can't we use it to do?
+Il valore della lettura dei testi primari è inestimabile, in particolare nello studio della storia. Non c'è modo migliore per comprendere gli eventi del passato che esaminare le fonti – che si tratti di giornali, articoli di giornale, lettere, atti giudiziari, romanzi, opere d'arte, musica o autobiografie – che le persone di quel periodo hanno lasciato, se li hanno lasciati. Tuttavia, è necessario avvicinarsi alle fonti primarie con cura e come qualcosa di diverso da una rappresentazione al 100% accurata  e affidabile della verità. Ad esempio, leggendo gli _Anecdotes_, potresti chiederti: l'autore è stato effettivamente testimone degli eventi che stava descrivendo? Probabilmente no. In tal caso, cosa può aiutarci a capire questo documento? E per cosa non possiamo usarlo?
 
-Thus, you want to read primary sources with a series of questions in mind. The following is adapted from a guide provided by [Carleton College](http://apps.carleton.edu/curricular/history/study/):
+Pertanto, vuoi leggere le fonti primarie tenendo a mente una serie di domande, per esempio seguendo la guida fornita dal [Carleton College](https://www.carleton.edu/history/resources/history-study-guides/)
 
-1. What implicit and explicit messages does this text contain? What did the author choose NOT to talk about?
-2. What do you know about the author? How might his or her beliefs or background have affected the writing of and views in this document?
-3. Who constituted the intended audience? Was this source meant for one person's eyes or for the public? How does that affect the nature of the source?
-4. Is it prescriptive (telling you what people thought should happen) or descriptive (telling you what people thought did happen)?
-5. Does it tell you about the beliefs/actions of the elite, or of “ordinary” people? From whose perspective?
-6. What historical questions can you answer using this source? What questions can this source NOT help you answer? What are the limitations of this type of source? What historical perspectives are left out of this source?
-7. What assumptions do you see being made? What surprises you about this text?
+1. Quali messaggi impliciti ed espliciti contiene questo testo? Di cosa l'autore ha scelto di NON parlare?
+2. Cosa sai dell'autore? In che modo le sue convinzioni o il suo background potrebbero aver influenzato la scrittura e le opinioni in questo documento?&#x20;
+3. Chi costituiva il pubblico previsto? Questa fonte era destinata agli occhi di una persona o al pubblico? In che modo ciò influisce sulla natura della fonte?
+4. È prescrittivo (ti dice cosa la gente pensava che dovesse accadere) o descrittivo (ti dice cosa la gente pensava fosse successo)?&#x20;
+5. Ti parla delle convinzioni/azioni di una élite o della gente comune? Dal punto di vista di chi?
+6. A quali domande storiche puoi rispondere usando questa fonte? A quali domande questa fonte NON può aiutarti a rispondere? Quali sono i limiti di questo tipo di fonte? Quali prospettive storiche sono tralasciate da questa fonte?
+7. Quali ipotesi vedi che sono fatte? Cosa ti sorprende di questo testo?
 
-For instance, take the following passage from the first paragraph of the _Anecdotes_:
+Ad esempio, prendi il seguente passaggio dal primo paragrafo degli _Anedoctes_:
 
 > Advancing age and the ability of a great prince to satisfy all his passions had dulled his attraction towards women. But this need, though diminished, continued ... The doctors assured the King that it was dangerous to give up so abruptly a pleasure necessary for his existence.
+>
+> (trad. L'avanzare dell'età e la capacità di un grande principe di soddisfare tutte le sue passioni avevano attenuato la sua attrazione per le donne. Ma questo bisogno, sebbene diminuito, continuò... I medici assicurarono al Re che era pericoloso rinunciare così bruscamente a un piacere necessario alla sua esistenza.)
 
-At one level, this work is giving an account of how Louis XV and the Countess du Barry began their liaison. But these sentences also have an implicit message: the king's sexual desire for women was natural and indeed necessary to his well-being. This view that the king needed to have a mistress for the sake of his health may be surprising to you and it certainly reveals a set of assumptions about extra-marital activity at the time. So if we can't take this primary source as an accurate representation of the relationship between du Barry and the king, it does serve as a fascinating window into into the culture of late eighteenth-century France.
+Ad un certo livello, questo lavoro sta dando un resoconto di come Luigi XV e la contessa du Barry iniziarono la loro relazione. Ma queste frasi hanno anche un messaggio implicito: il desiderio sessuale del re per le donne era naturale e anzi necessario al suo benessere. Questa opinione secondo cui il re doveva avere un'amante per motivi di salute può sorprenderti e rivela certamente una serie di ipotesi sull'attività extraconiugale dell'epoca. Quindi, se non possiamo prendere questa fonte primaria come un'accurata rappresentazione del rapporto tra du Barry e il re, serve come un'affascinante finestra sulla cultura della Francia della fine del diciottesimo secolo.
 
-## Lettura Digitale
+### Lettura Digitale
 
-Interrogare le fonti in questo modo è solo una delle modalità di comprensione di un testo. Si basa sull'idea che l'attenzione prolungata su un documento permetterà di capire cose nuove su di esso. Questo stesso approccio può essere applicato praticamente a qualsiasi oggetto di studio, siano essi libri, film, musica o idee stesse. L'obiettivo principale in questo libro, quindi, è come il processo possa essere cambiato con l'introduzione della tecnologia. Potresti iniziare ponendo una serie di domande su come il close reading possa interagire con gli strumenti digitali.
+Interrogare le fonti in questo modo è solo una delle modalità di comprensione di un testo. Si basa sull'idea che l'attenzione prolungata su un documento permetterà di capire cose nuove su di esso. Questo stesso approccio può essere applicato praticamente a qualsiasi oggetto di studio, siano essi libri, film, musica o idee stesse. L'obiettivo principale in questo libro, quindi, è come il processo possa essere cambiato con l'introduzione della tecnologia. Potresti iniziare ponendoti una serie di domande su come il **close reading** possa interagire con gli strumenti digitali.
 
 * Possiamo ancora fare close reading se il computer legge per noi?
 * In che modo il computer potrebbe modificare i tipi di close reading a nostra disposizione?&#x20;
