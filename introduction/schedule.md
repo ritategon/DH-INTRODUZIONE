@@ -1,4 +1,4 @@
-# Piano di lavoro
+# Piano di Lavoro
 
 #### Nota&#x20;
 
@@ -18,7 +18,7 @@ Attraverso questo corso si interroga su come possono le nuove tecnologie consent
 
 ### Incontro 1
 
-* Understanding Scandal
+* Introduzione alla DH
   * Ari Adut, _On Scandal_, Introduction and Chapter 1
   * Patrick Leary, "[Googling the Victorians](http://www.victorianresearch.org/googling.pdf)"
   * [Introduction](../introduction.md) and [Issues in Digital Text Analysis](../issues-in-digital-text-analysis.md) in this book
@@ -31,7 +31,7 @@ Attraverso questo corso si interroga su come possono le nuove tecnologie consent
 * Scandal and Monarchy, Part II
   * Tamara Hunt, “Morality and Monarchy in the Queen Caroline Affair”
   * Find two articles dating from the Queen Caroline Affair in the 19th Century British Newspapers Collection
-  * [Close Reading](../close-reading.md) in this book
+  * [Close Reading](../close-reading-1/) in this book
 * **First Paper Due: Analysis of a Scandal**
 
 ### Incontro 3

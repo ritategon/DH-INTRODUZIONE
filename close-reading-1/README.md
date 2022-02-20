@@ -1,7 +1,7 @@
-# Close e Distant Reading
+# Text Analysis: forme di lettura
 
 
 
-* [Close Reading and Sources](../close-reading/close-reading.md)
-* [Prism Part One](../close-reading/prism-part-one.md)
-* [Exercises](../close-reading/exercises.md)
+* [Il cervello che legge](close-reading.md)
+* [Hyper e Social Reading](prism-part-one.md)
+* [Esercizi](exercises.md)
