@@ -24,19 +24,9 @@ Per capire in che modo la lettura su carta differisce dalla lettura sugli scherm
 
 Nella maggior parte dei casi, i libri cartacei offrono una topografia molto più evidente rispetto agli ebook. "Svoltare le pagine di un libro di carta è come lasciare un'impronta dopo l'altra sul sentiero: c'è un ritmo e una registrazione visibile di quanto lontano si è viaggiato. Tutte queste caratteristiche non solo rendono il testo in un libro cartaceo più facilmente navigabile, ma facilitano anche la formazione di una mappa mentale coerente del testo." Al contrario,  i testi sullo schermo tendono a "interferire con la navigazione intuitiva e inibire le persone a mappare il viaggio nella loro mente \[…] Invece di percorrere il sentiero da soli, gli alberi, le rocce e il muschio ti passano accanto in lampi senza lasciare traccia di ciò che è venuto prima e nessun modo per vedere ciò che ci aspetta." Chiaramente, le diverse materialità e tattilità dei diversi testi fanno la differenza.
 
-### Hyper Reading e Social Reading
-
-L'hyper reading viene in genere utilizzata durante la lettura di testi online su computer e quindi svolge un ruolo sempre più importante nelle nostre vite e può trasformare la nostra capacità di lettura in generale. La lettura sociale è una forma collaborativa di lettura online che incorpora la discussione nel processo di lettura e lo trasforma in un'esperienza comune.
-
-Il social reading è una forma collaborativa di lettura online che incorpora la discussione nel processo di lettura e lo trasforma in un'esperienza comune.
-
 ### Lettura Digitale
 
-Interrogare le fonti in questo modo è solo una delle modalità di comprensione di un testo. Si basa sull'idea che l'attenzione prolungata su un documento permetterà di capire cose nuove su di esso. Questo stesso approccio può essere applicato praticamente a qualsiasi oggetto di studio, siano essi libri, film, musica o idee stesse. L'obiettivo principale in questo libro, quindi, è come il processo possa essere cambiato con l'introduzione della tecnologia. Potresti iniziare ponendoti una serie di domande su come il **close reading** possa interagire con gli strumenti digitali.
-
-* Possiamo ancora fare close reading se il computer legge per noi?
-* In che modo il computer potrebbe modificare i tipi di close reading a nostra disposizione?&#x20;
-* Applicando il close reading mediante gli strumenti digitali possiamo accedere a cosa cui prima non potevamo?
+Anche qui vediamo come il processo di lettura (e il prodotto) possa essere cambiato con l'introduzione della tecnologia.&#x20;
 
 ## Risorse Aggiuntive
 
