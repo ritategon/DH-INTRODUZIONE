@@ -1,10 +1,10 @@
 ---
 description: >-
-  Si preferisce lasciare la dicitura Close Reading preferendola alla traduzione
-  "lettura ravvicinata".
+  Si preferisce lasciare la dicitura originale Close Reading e Distant Reading
+  preferendole alla traduzione "lettura ravvicinata e distante".
 ---
 
-# Il Close Reading e le fonti
+# Close e Distant Reading e le fonti
 
 ### Prima definizione&#x20;
 
@@ -19,7 +19,7 @@ Dunque, le seguenti attività sono forme di analisi del testo:
 * Adattare un testo e riflettere su di esso&#x20;
 * Esaminare i dettagli in un testo
 
-This last point is worth pausing over: **close reading**, in particular, is often proclaimed as one of the primary analytical tool of scholars and students in the humanities. To read closely means to give careful attention to the various components that make up a text, ones which cause us to think or feel a certain way about it. Close reading relies on a core principle about the text under study:
+Vale la pena soffermarsi su quest'ultimo punto: il **close reading,** in particolare, è spesso definito come uno dei principali strumenti analitici di studiosi e studenti delle discipline umanistiche. Leggere da vicino significa prestare molta attenzione alle varie componenti di un testo, quelle che ci fanno pensare o sentire in un certo modo riguardo ad esso. Il **close reading** si basa su un principio fondamentale:
 
 Vale la pena soffermarsi su quest'ultimo punto: il **close reading,** in particolare, è spesso definito come uno dei principali strumenti analitici di studiosi e studenti delle discipline umanistiche. Leggere da vicino significa prestare molta attenzione alle varie componenti di un testo, quelle che ci fanno pensare o sentire in un certo modo riguardo ad esso. Il **close reading** si basa su un principio fondamentale:
 
