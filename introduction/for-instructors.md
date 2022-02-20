@@ -1,6 +1,6 @@
 # Per Docenti
 
-Questo corso fornisce una  introduzione all'analisi digitale del testo attraverso una serie di unità divise in tre parti. Ogni unità introduce un concetto, uno strumento per l'analisi digitale del testo (o casi di studio basati sul concetto associato), e poi fornisce una parte esercitativa per mettere in pratica le nuove abilità. Il target di destinazione sono persone che non hanno esperienza di programmazione, analisi del testo o in discipline umanistiche digitali.
+Questo corso fornisce una  introduzione  alle Digital Humanities con un focus privilegiato, ma non esclusivo, sull'analisi del testo digitale attraverso una serie di unità divise in tre parti. Ogni unità introduce un concetto, uno strumento per l'analisi digitale del testo (o casi di studio basati sul concetto associato), e poi fornisce una parte esercitativa per mettere in pratica le nuove abilità. Il target di destinazione sono persone che non hanno esperienza di programmazione, analisi del testo o in discipline umanistiche digitali.
 
 Il libro è presenta tre obiettivi.
 

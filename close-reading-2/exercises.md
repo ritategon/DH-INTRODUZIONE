@@ -1,6 +1,6 @@
-# Copy of Exercises
+# Esercizi
 
-Practice your close reading skills on the following short passage:
+Metterei qualsìcosa con Voyant
 
 ***
 

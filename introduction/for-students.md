@@ -1,6 +1,8 @@
 # Per Studenti
 
-Questa libro si concentra sull'analisi del testo. Molti di voi sono probabilmente abituati ad analizzare i testi in una forma o nell'altra, sia considerando attentamente le parti di un testo letterario sia pensando alle parole di un documento storico o di qualsiasi altra natura. Ma anche se faremo entrambe le cose, stiamo usando la frase "analisi del testo" in un modo leggermente diverso: qui parliamo di come possiamo usare i computer per aiutare ad analizzare i testi in modi nuovi.
+Questa libro fornisce una  introduzione  alle Digital Humanities con un focus privilegiato, ma non esclusivo, sull'analisi del testo digitale attraverso una serie di unità divise in tre parti.&#x20;
+
+A questo riguardo molti di voi sono probabilmente abituati ad analizzare i testi in una forma o nell'altra, sia considerando attentamente le parti di un testo letterario sia pensando alle parole di un documento storico o di qualsiasi altra natura. Ma anche se faremo entrambe le cose, stiamo usando la frase "analisi del testo" in un modo diverso: qui parliamo di come possiamo usare i computer per aiutare ad analizzare i testi in modi nuovi.
 
 L'analisi del testo è spesso intesa come una delle metodologie delle discipline umanistiche digitali, insieme ad altre attività come la creazione di mostre digitali e la mappatura online. Parleremo molto (e leggerete molto) di Digital Humanities in questo libro. Essenzialmente, questo si riferisce al modo in cui stiamo usando i computer e le nuove tecnologie nelle discipline umanistiche. Laura Mandell offre un'utile definizione di cosa sono le discipline umanistiche digitali in un'intervista con la [Review of Books](https://lareviewofbooks.org/article/digital-humanities-interview-laura-mandell/):
 
