@@ -5,7 +5,7 @@ cover: .gitbook/assets/IMG_20210717_170056_1.jpg
 
 # Prefazione
 
-_(Nota: sono contenta di ricevere feedback su questo libro! Se trovi un errore o desideri chiarimenti su un problema particolare, scrivi <mark style="color:red;">**sulla nostra pagina dei problemi di GitHub**</mark><mark style="color:yellow;">.</mark> \__ [_GitHub issues page_](https://github.com/walshbr/textanalysiscoursebook/issues))\_
+_(Nota: sono contenta di ricevere feedback su questo libro! Se trovi un errore o desideri dare un suggerimento, scrivi_ [_qui_](https://github.com/ritategon/INTRODUZIONE-ALLA-DIGITAL-TEXT-ANALYSIS/tree/master/.github/ISSUE\_TEMPLATE))
 
 Questo libro fornisce una introduzione all'analisi del testo digitale attraverso una serie di unità divise in tre parti. Ciacuna introduce un concetto, uno strumento o un metodo di analisi del testo digitale e una serie di esercizi per mettere in pratica le nuove abilità. Esso rispetta dunque l'impostazione del libro (in lingua inglese) a cui si espira e che può essere raggiunto  [qui](http://walshbr.com/textanalysiscoursebook/).
 
