@@ -11,7 +11,7 @@
   * [yy](close-reading/prism-part-one.md)
   * [Esercizi](close-reading/exercises.md)
 * [Text Analysis: forme di lettura](close-reading-1/README.md)
-  * [Il cervello che legge](close-reading-1/close-reading.md)
+  * [Breve Storia](close-reading-1/close-reading.md)
   * [Hyper e Social Reading](close-reading-1/prism-part-one.md)
   * [Esercizi](close-reading-1/exercises.md)
 * [Problemi della Digital Text Analysis](issues-in-digital-text-analysis.md)

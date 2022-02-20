@@ -4,31 +4,26 @@ description: >-
   preferendole alla traduzione "lettura ravvicinata e distante".
 ---
 
-# Il cervello che legge
+# Breve Storia
 
-### Il cervello che legge: non siamo nati per leggere
+### Azione e reazione
 
 
 
-Leggere non è un’attitudine naturale né un processo innato, ma un’invenzione culturale. Per leggere, facciamo funzionare il nostro cervello in un modo diverso rispetto a quello per cui è stato programmato geneticamente. «Non siamo nati per leggere», ci ricordava già la Wolf neuroscienziata cognitivista, nel suo precedente libro tradotto in italiano, _Proust e il calamaro. Storia e scienza del cervello che legge_ (Milano, Vita e Pensiero, 2012). E ancora prima ce lo aveva spiegato, non senza scatenare qualche controversia, Stanislas Dehaene nel suo fondamentale studio [_Reading in the Brain. The New Science of How We Read_](https://www.academia.edu/38286217/\_Stanislas\_Dehaene\_Reading\_in\_the\_Brain\_The\_Scie\_z\_lib\_org\_pdf) (New York, Penguin, 2009). Lei lo ribadisce in [_Lettore, vieni a casa. Il cervello che legge in un mondo digitale_](https://www.amazon.it/Lettore-vieni-casa-cervello-digitale/dp/8834330641)_._
+Nel corso dell'ultimo quindicennio il multiforme campo di studi che va sotto il nome di Digital Humanities è divenuto un fenomeno di primaria importanza sia nel mondo della ricerca e della didattica universitaria (sebbene le differenze tra i vari contesti nazionali siano rilevanti), sia nel dibattito culturale. Questa espansione del “campo digitale” nel dominio umanistico ha persino generato una contro-reazione da parte dei cosiddetti umanisti tradizionali. Si succedono prese di posizione critiche e persino allarmistiche, che spaziano dalla critica del loro contenuto scientifico ed epistemologico, a quella della loro valenza politica ritenuta egemonista e dall’impronta “neo-iper-liberista”. Di seguito alcuni riferimenti&#x20;
 
-&#x20;
+* Allington, Daniel, Sarah Brouillette, e David Golumbia. 2016. «[Neoliberal Tools](https://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/) (and Archives): A Political History of Digital Humanities». Los Angeles Review of Books (LARB), n. 1.5.2016
+* Marche, Stephen. 2012. «[Literature Is Not Data: Against Digital Humanities](https://lareviewofbooks.org/article/literature-is-not-data-against-digital-humanities/)». Los Angeles Review of Books, 28 ottobre 2012.
+* Fish, Stanley. 2012. «[The Digital Humanities and the Transcending of Mortality](https://opinionator.blogs.nytimes.com/2012/01/09/the-digital-humanities-and-the-transcending-of-mortality/)» e «Mind Your P’s and B’s: The Digital Humanities and Interpretation». The New York Times «Opinionator»
+* Tomasin, Lorenzo. 2017. [L’impronta digitale: cultura umanistica e tecnologia](https://www.letture.org/l-impronta-digitale-cultura-umanistica-e-tecnologia-lorenzo-tomasin). Carocci
 
-{% embed url="https://www.youtube.com/watch?v=x0k0ysrRH9s" %}
-Maryanne Wolf, docente della University of California di Los Angeles (UCLA), membro della Pontificia Accademia
-{% endembed %}
+D'altra parte, nel corso degli anni la comunità DH nel mondo è divenuta così vasta e diversificata che è difficile individuare al suo interno un fondamento epistemico unitario e condiviso.  Ne consegue che è assai difficile definire le DH come “una” disciplina che condivide  assunti metodologici, oggetti di ricerca,  metodi e protocolli di ricerca.
 
-Come spiega Wolf, _"_C'è fisicità nella lettura, forse anche più di quanto vogliamo pensare mentre ci avviciniamo alla lettura digitale – mentre avanziamo forse con poca riflessione. Vorrei preservare il meglio in assoluto delle vecchie forme, ma sapere quando usare le nuove."
 
-Per capire in che modo la lettura su carta differisce dalla lettura sugli schermi è necessario comprendere come il cervello interpreta il linguaggio scritto. Alcune delle regioni del nostro cervello che vengono attivate nel processo di lettura sono quelle specializzate per il riconoscimento degli oggetti. Ciò si riflette nel fatto che, in alcune delle prime forme di scrittura, i personaggi avevano la forma degli oggetti che rappresentavano. Per questo motivo, in una certa misura, le singole lettere vengono ancora elaborate cognitivamente come oggetti fisici. Questo può aiutare a spiegare perché il cervello umano tende a percepire i testi come una sorta di paesaggio fisico. "Sia aneddoticamente che in studi pubblicati, le persone riferiscono che quando cercano di individuare una particolare informazione scritta spesso ricordano dove è apparsa nel testo. Ricordiamo che abbiamo superato la fattoria rossa vicino all'inizio del sentiero prima di iniziare a salire nel bosco; in modo simile, ricordiamo di aver letto di Mr. Darcy che aveva respinto Elizabeth Bennett in fondo alla pagina di sinistra in uno dei capitoli precedenti."
 
-Nella maggior parte dei casi, i libri cartacei offrono una topografia molto più evidente rispetto agli ebook. "Svoltare le pagine di un libro di carta è come lasciare un'impronta dopo l'altra sul sentiero: c'è un ritmo e una registrazione visibile di quanto lontano si è viaggiato. Tutte queste caratteristiche non solo rendono il testo in un libro cartaceo più facilmente navigabile, ma facilitano anche la formazione di una mappa mentale coerente del testo." Al contrario,  i testi sullo schermo tendono a "interferire con la navigazione intuitiva e inibire le persone a mappare il viaggio nella loro mente \[…] Invece di percorrere il sentiero da soli, gli alberi, le rocce e il muschio ti passano accanto in lampi senza lasciare traccia di ciò che è venuto prima e nessun modo per vedere ciò che ci aspetta." Chiaramente, le diverse materialità e tattilità dei diversi testi fanno la differenza.
 
-### Lettura Digitale
 
-Anche qui vediamo come il processo di lettura (e il prodotto) possa essere cambiato con l'introduzione della tecnologia.&#x20;
+e
 
-## Risorse Aggiuntive
 
-[https://www.futurelearn.com/courses/reading-digital](https://www.futurelearn.com/courses/reading-digital)
 
