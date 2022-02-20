@@ -2,6 +2,6 @@
 
 
 
-* [Il cervello che legge](close-reading.md)
+* [Il cervello che legge](../close-reading/close-reading.md)
 * [Hyper e Social Reading](prism-part-one.md)
 * [Esercizi](exercises.md)
