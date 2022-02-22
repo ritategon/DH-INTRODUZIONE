@@ -11,7 +11,7 @@ Questo libro fornisce una introduzione alle Digital Humanities con un focus priv
 
 I materiali hanno lo scopo di costituire la base per un corso che non richiede una formazione approfondita nella programmazione ed è scritto considerando il punto di vista dei lettori. Sviluppato originariamente per essere utilizzato in un corso intitolato "Scandal, Crime, and Spectacle in the Nineteenth Century," attinge esempi anche da questi materiali per i suoi set di dati e suggerimenti, ma ne presenta di altri agggiornati ed adattati ad una utenza italiana. Il libro è concepito per essere sufficientemente modulare da poter essere utilizzato in combinazione con altri corsi, in tutto o in parte.&#x20;
 
-Il libro si visualizza al meglio online utilizzando Chrome o Firefox.&#x20;
+Il libro si visualizza al meglio online utilizzando Chrome o Firefox. Potranno essere apportate  modifiche che la versione online via via recepisce.
 
 [_DH: Introduzione_](https://rita-tegon.gitbook.io/introduzione-alla-analisi-del-testo/) __ di Rita Tegon è diffuso con licenza <mark style="color:blue;"></mark> [<mark style="color:blue;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</mark>](http://creativecommons.org/licenses/by-nc-sa/4.0/)<mark style="color:blue;">.</mark>
 

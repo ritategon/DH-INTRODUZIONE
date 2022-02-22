@@ -24,8 +24,3 @@ Suggeriscono inoltre che ciò che unisce le discipline umanistiche è una metodo
 
 Questo corso è stato originariamente tenuto da un professore di inglese e un professore di storia. Ora lo è da me che sono una docente di greco e latino. Probabilmente noterai che abbiamo approcci e basi di conoscenza leggermente diversi e occasionalmente utilizziamo una terminologia leggermente diversa per descrivere le stesse cose. Ma fondamentalmente, ci molte analogie metodologiche: leggere e analizzare testi e pensare al significato e al contesto culturale. Lo fai anche tu, che tu te ne renda conto o meno, e questo corso mira ad aiutarti a farlo in diversi modi.
 
-
-
-## Suggerimento di lettura
-
-E' consigliato fruire di questo libro nella modalità online invece di scaricarlo come PDF, Mobi o ePub, poiché parte del materiale incorporato verrà visualizzato solo online. Inoltre, potranno essere apportate  modifiche che la versione online via via recepisce.
