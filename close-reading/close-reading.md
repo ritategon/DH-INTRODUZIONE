@@ -6,9 +6,17 @@ description: >-
 
 # Breve Storia
 
+### Timeline
+
+{% embed url="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?font=Default&height=650&initial_zoom=2&lang=en&source=1wZK4Sh7LtGftXlBjf3JXvjeFv2xMojnCoU8VBhjIgnw" %}
+Questa timeline utilizza gli strumenti delle discipline umanistiche digitali per visualizzare la sequenza temporale degli sviluppi delle discipline umanistiche digitali. Le informazioni nella sequenza temporale provengono dal post sul blog di [John Unsworth "Cos'è 'digital humanities' e come è arrivato qui?" ](https://blogs.brandeis.edu/library/2012/10/09/whats-digital-humanities-and-how-did-it-get-here/)
+{% endembed %}
+
+
+
 ### Azione e reazione
 
-Fin dalle sue origini, quando si parlava di Humanities Computing o Informatica Umanistica in Italia, questo campo è stato caratterizzato da un acceso dibattito. Nel corso dell'ultimo quindicennio il multiforme campo di studi che va sotto il nome di Digital Humanities è divenuto un fenomeno di primaria importanza sia nel mondo della ricerca e della didattica universitaria (sebbene le differenze tra i vari contesti nazionali siano rilevanti), sia nel dibattito culturale. Questa espansione del “campo digitale” nel dominio umanistico ha persino generato una contro-reazione da parte dei cosiddetti umanisti tradizionali. Si succedono prese di posizione critiche e persino allarmistiche, che spaziano dalla critica del loro contenuto scientifico ed epistemologico, a quella della loro valenza politica ritenuta egemonista e dall’impronta “neo-iper-liberista”. Di seguito alcuni riferimenti&#x20;
+Fin dalle sue origini, quando si parlava di Humanities Computing o Informatica Umanistica in Italia, questo campo è stato caratterizzato da un acceso dibattito, peraltro non concluso e nel quale non è facile districarsi pur non essendo inesperti. Nel corso dell'ultimo quindicennio il multiforme campo di studi che va sotto il nome di Digital Humanities è divenuto un fenomeno di primaria importanza sia nel mondo della ricerca e della didattica universitaria (sebbene le differenze tra i vari contesti nazionali siano rilevanti), sia nel dibattito culturale. Questa espansione del “campo digitale” nel dominio umanistico ha persino generato una contro-reazione da parte dei cosiddetti umanisti tradizionali. Si succedono prese di posizione critiche e persino allarmistiche, che spaziano dalla critica del loro contenuto scientifico ed epistemologico, a quella della loro valenza politica ritenuta egemonista e dall’impronta “neo-iper-liberista”. Di seguito alcuni riferimenti&#x20;
 
 * Allington, Daniel, Sarah Brouillette, e David Golumbia. 2016. «[Neoliberal Tools](https://lareviewofbooks.org/article/neoliberal-tools-archives-political-history-digital-humanities/) (and Archives): A Political History of Digital Humanities». Los Angeles Review of Books (LARB), n. 1.5.2016
 * Marche, Stephen. 2012. «[Literature Is Not Data: Against Digital Humanities](https://lareviewofbooks.org/article/literature-is-not-data-against-digital-humanities/)». Los Angeles Review of Books, 28 ottobre 2012.
@@ -58,7 +66,9 @@ La questione della definizione resta aperta.
 
 
 
-
+{% hint style="info" %}
+La disamina sopra presentata richiama molte fonti; il quadro logico proviene dai materiali reperibili in rete di [Fabio Ciotti](https://eadh.org/fabio-ciotti)   &#x20;
+{% endhint %}
 
 
 

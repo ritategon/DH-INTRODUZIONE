@@ -6,7 +6,7 @@ Di seguito il piano. È molto probabile che durante il corso sincrono ci saranno
 
 ## Descrizione
 
-Attraverso questo corso si interroga su come possono le nuove tecnologie consentano ai computer di "leggere" grandi quantità di testo per fare luce sul passato e sul presente con tuttele le cautele che sono necessarie. Sarai introdotto ad una prima esplorazione della natura e di alcuni strumenti di analisi del testo/data mining per le discipline umanistiche. Esso non presuppone una conoscenza specifica preliminare, ma abilità intermedi di uso delle tecnologie digitali.Schedulazione
+Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuove tecnologie consentano ai computer di "leggere" grandi quantità di testo per fare luce sul passato e sul presente con tutte le cautele che sono necessarie. Sarai introdotto ad una prima esplorazione della natura e di alcuni strumenti di analisi del testo/data mining per le discipline umanistiche. Esso non presuppone una conoscenza specifica preliminare, ma abilità intermedie di uso delle tecnologie digitali.
 
 ## Obiettivi
 
@@ -14,16 +14,31 @@ Attraverso questo corso si interroga su come possono le nuove tecnologie consent
 * conoscenza della natura e delle potenzialità degli ambiti di applicazione delle DH&#x20;
 * conoscenza e utilizzo sperimentale di alcuni strumenti di analisi statistica
 
-
+## Schedulazione
 
 ### Incontro 1
 
 * Introduzione alla DH
-  * Ari Adut, _On Scandal_, Introduction and Chapter 1
-  * Patrick Leary, "[Googling the Victorians](http://www.victorianresearch.org/googling.pdf)"
-  * [Introduction](../introduction.md) and [Issues in Digital Text Analysis](../issues-in-digital-text-analysis.md) in this book
+* Text Analysis: forme di lettura
+* Problemi della Digital Text Analysis
 
 ### Incontro 2
+
+* Close e Distant Reading
+* Crowdsorcing&#x20;
+* Prism
+*
+
+
+
+### Incontro 3
+
+* Digital Archives
+* Data Cleaning
+
+### Incontro 4
+
+
 
 * Scandal and Monarchy, Part I
   * Sarah Maza, “The Diamond Necklace Affair Revisited: The Case of the Missing Queen”
