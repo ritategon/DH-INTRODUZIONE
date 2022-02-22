@@ -1,12 +1,21 @@
 ---
 description: >-
   Si preferisce lasciare la dicitura originale Close Reading e Distant Reading
-  preferendole alla traduzione "lettura ravvicinata e distante".
+  preferendole alla traduzione "lettura ravvicinata e distante". Si introducono
+  definizioni e fonti di riferimento
 ---
 
-# Close e Distant Reading e le fonti
+# Close e Distant Reading
 
-### Prima definizione&#x20;
+### Prime definizioni
+
+![](../.gitbook/assets/screenshot-carletonu.pressbooks.pub-2022.02.22-20\_10\_09.png)
+
+
+
+![](../.gitbook/assets/screenshot-carletonu.pressbooks.pub-2022.02.22-20\_18\_32.png)
+
+### Proviamo ad approfondire&#x20;
 
 Il _**close reading**_ è un'attività che ti tiene concentrati su e all'interno di un testo, valutando singole parole, forme di pensiero, dispositivi retorici, modelli di descrizione e caratterizzazione e così via, al fine di comprendere il risultato artistico del testo. Si distingue dal e si intreccia con il _**distant reading**_, che ha un significato specifico (coniato da [Franco Moretti](https://it.wikipedia.org/wiki/Franco\_Moretti)), ma può anche riferirsi generalmente all'uso di metodi computazionali per l'analisi dei testi letterari.
 
@@ -91,11 +100,48 @@ Interrogare le fonti in questo modo è solo una delle modalità di comprensione 
 * In che modo il computer potrebbe modificare i tipi di close reading a nostra disposizione?&#x20;
 * Applicando il close reading mediante gli strumenti digitali possiamo accedere a cosa cui prima non potevamo?
 
-## Risorse Aggiuntive
+### Forme di analisi di testo
+
+![](../.gitbook/assets/screenshot-carletonu.pressbooks.pub-2022.02.22-20\_20\_17.png)
+
+### Esempi
+
+![](../.gitbook/assets/screenshot-carletonu.pressbooks.pub-2022.02.22-20\_36\_58.png)
+
+###
+
+![](../.gitbook/assets/screenshot-carletonu.pressbooks.pub-2022.02.22-20\_37\_28.png)
+
+###
+
+![](../.gitbook/assets/screenshot-carletonu.pressbooks.pub-2022.02.22-20\_37\_47.png)
+
+### Sintesi
+
+![](../.gitbook/assets/screenshot-carletonu.pressbooks.pub-2022.02.22-20\_28\_19.png)
+
+### Srumenti
+
+Abbiamo già visto degli strumenti. Di seguito si fa un po' di orfine e se ne indicano altri:
+
+* [AntConc:](http://www.laurenceanthony.net/software/antconc/) A freeware corpus analysis toolkit for concordancing and text analysis.
+* [Word Cloud:](https://www.wordclouds.com) Create free word clouds that represent the frequency of words used.
+* [corpus.byu.edu:](https://corpus.byu.edu/corpora.asp) The most widely used online corpora.
+* [Voyant Tools:](http://voyant-tools.org) A web-based text reading and analysis environment.
+* [Google Books Ngram Viewer](https://books.google.com/ngrams): An online search engine that charts the frequencies of any set of comma-delimited search strings.
+* [Wordseer: ](http://wordseer.berkeley.edu/shakespeare)A text analysis environment that combines visualization, information retrieval, sense making and natural language processing.
+* [Tapor: ](http://tapor.ca)A set of text analysis tools.
+* [TextArc: ](http://www.textarc.org)A visual representation of a text.
+* [MALLET:](http://mallet.cs.umass.edu) Maps patterns across texts with various tools.
+
+
+
+### Risorse Aggiuntive
 
 Ancora su close e distant reading&#x20;
 
 * [https://www.futurelearn.com/courses/reading-digital](https://www.futurelearn.com/courses/reading-digital)
 * [https://www.informatik.uni-leipzig.de/\~stjaenicke/Survey.pdf](https://www.informatik.uni-leipzig.de/\~stjaenicke/Survey.pdf)
 * [https://art.torvergata.it/retrieve/handle/2108/200701/496830/Ciotti.pdf](https://art.torvergata.it/retrieve/handle/2108/200701/496830/Ciotti.pdf)
+* [https://carletonu.pressbooks.pub/digh5000/chapter/chapter-4-text-analysis/](https://carletonu.pressbooks.pub/digh5000/chapter/chapter-4-text-analysis/)
 

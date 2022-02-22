@@ -1,6 +1,6 @@
-# Further Resources
+# Ulteriori Risorse
 
-Each individual lesson contains suggested further readings on the particular topic discussed in that section. Here we wanted to gather two types of resources. First, we wanted to gather a few more useful tidbits that didn't fit well anywhere but that will be helpful to anyone exploring text analysis. Second, we wanted to point you towards other fantastic tutorials and textbooks for text analysis that go further in depth than we do here. Interested browsers should also check out the lessons on particular topics of interest to make sure you see any and all resources.
+Come hai visto, ogni singola lezione contiene letture linkate e/o suggerite sul particolare argomento discusso in quella sezione. Qui ne trovi molte altre raggruppate per categoria.
 
 ## Secondary Readings on the Digital Humanities
 
@@ -28,7 +28,7 @@ Each individual lesson contains suggested further readings on the particular top
 * [RStudio Cloud](https://rstudio.cloud)
 * [Zotero](https://zotero.org) lo toglierei è una repository con poco storaggio gratuito
 
-## Applications of Text Analysis&#x20;
+## Applicazioni di Text Analysis&#x20;
 
 da rivedere perchè sono poco adatti per italiani
 
@@ -40,7 +40,7 @@ da rivedere perchè sono poco adatti per italiani
 * [Text Analysis of Trump's Tweets Confirms He Writes only the (Angrier) Android Half](http://varianceexplained.org/r/trump-tweets/) interessante
 * [Walmart Gets Its Worst Yelp Reviews in Black and Latino Neighborhoods](http://www.citylab.com/work/2016/08/walmart-get-its-worst-yelp-reviews-in-black-and-latino-neighborhoods/497864/)
 
-## Other
+## Altro
 
 bello ma noin per italiani che non sanno inglese
 
