@@ -18,7 +18,7 @@ Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuo
 
 * Introduzione alla DH. [Breve storia](../close-reading/close-reading.md)
 * [Hyper e Social Reading](../close-reading-1/prism-part-one.md)
-* [Esercizi](../close-reading-1/exercises.md)
+* [Esercizi](../esempi-di-dh/exercises.md)
 * Text Analysis: forme di lettura
 * Problemi della Digital Text Analysis
 
