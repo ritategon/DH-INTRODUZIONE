@@ -14,29 +14,37 @@ Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuo
 
 ## Schedulazione
 
-### Incontro 1
+### Incontro
 
-* Introduzione alla DH. [Breve storia](../close-reading/close-reading.md)
-* [Hyper e Social Reading](../close-reading-1/prism-part-one.md)
-* [Esercizi](../esempi-di-dh/exercises.md)
-* Text Analysis: forme di lettura
-* Problemi della Digital Text Analysis
+* Presnetazione del corso
+* [Introduzione alla DH](../close-reading/)
+* [Esempi di DH](../esempi-di-dh/)
+* [Forme di lettura](../close-reading-1/)
+* [Digital Text Analysis](../issues-in-digital-text-analysis.md)
 
 ### Incontro 2
 
-* Close e Distant Reading
-* Crowdsorcing&#x20;
-* Prism
-*
-
-
+* [Close e Distant Reading](../close-reading-2/close-reading.md)
+* [Crowdsorcing ](../crowdsourcing/crowdsourcing.md)
 
 ### Incontro 3
 
-* Digital Archives
-* Data Cleaning
+* [Archivi Digitali](../archives.md)
+* [Data Cleaning](../data-cleaning.md)
 
 ### Incontro 4
+
+[Cyborg Readers](../cyborg-readers.md)
+
+[Reading at Scale](../reading-at-scale.md)
+
+### Incontro 5
+
+Topic Modeling
+
+### Incontro 6
+
+
 
 
 

@@ -1,4 +1,4 @@
-# Copy of Il cervello che legge
+# Il cervello che legge
 
 ### Il cervello che legge: non siamo nati per leggere
 
@@ -23,6 +23,8 @@ Nella maggior parte dei casi, i libri cartacei offrono una topografia molto più
 Anche qui vediamo come il processo di lettura (e il prodotto) possa essere cambiato con l'introduzione della tecnologia.&#x20;
 
 ## Risorse Aggiuntive
+
+[https://tales.nmc.unibas.ch/de/literature-in-the-digital-age-11/](https://tales.nmc.unibas.ch/de/literature-in-the-digital-age-11/)
 
 [https://www.futurelearn.com/courses/reading-digital](https://www.futurelearn.com/courses/reading-digital)
 

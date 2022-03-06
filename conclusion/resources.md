@@ -19,14 +19,22 @@ Come hai visto, ogni singola lezione contiene letture linkate e/o suggerite sul 
 * Crymble, Adam, Fred Gibbs, Allison Hegel, Caleb McDaniel, Ian Milligan, Evan Taparata, Amanda Visconti, and Jeri Wieringa, eds. [The Programming Historian](http://programminghistorian.org).
 * [Using Geospatial Data to Inform Historical Research in R](https://programminghistorian.org/en/lessons/geospatial-data-analysis)
 * [Beginner's Guide to Twitter Data](https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data)
+* [Sens Project](https://skene.dlls.univr.it/sens-corpora-tools-basic-guide/)
 
-## Tools
+## Strumenti
 
 * [Google NGram Viewer](https://books.google.com/ngrams)
-* [Prism](https://prism.scholarslab.org)
+* [Autorship Attribution](https://neoneuro.com/products/authorship-attribution)
+* [LancsBox](http://corpora.lancs.ac.uk/lancsbox/materials.php)
+* [Prism](http://prism.scholarslab.org)
 * [Voyant](https://voyant-tools.org)
-* [RStudio Cloud](https://rstudio.cloud)
-* [Zotero](https://zotero.org) lo toglierei è una repository con poco storaggio gratuito
+* [RStudio Cloud](https://rstudio.cloud)&#x20;
+* [Mirador](https://projectmirador.org)
+* [TEI](https://tei-c.org/activities/)
+* [TEI by Example](https://teibyexample.org/TBE.htm)
+* [Gephi](https://gephi.org)
+* [Zotero](https://zotero.org)&#x20;
+* [Sketch Engine](https://www.sketchengine.eu/guide/)
 
 ## Applicazioni di Text Analysis&#x20;
 
