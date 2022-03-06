@@ -1,8 +1,9 @@
-# Exercises
+# Esercizio
 
-* Imagine you are marking the following [passage](http://www.victorianlondon.org/prisons/breakingwindows.htm) on prison life from [The Dictionary of Victorian London](http://www.victorianlondon.org/) in TEI. What elements would you tag or mark? \(No need to actually look up the valid TEI codes for such things - you can just invent fake tags for what you would be interested in.\)
+* <mark style="color:red;">farei fare un semplice ex di marcatura</mark>
+* Imagine you are marking the following [passage](http://www.victorianlondon.org/prisons/breakingwindows.htm) on prison life from [The Dictionary of Victorian London](http://www.victorianlondon.org) in TEI. What elements would you tag or mark? (No need to actually look up the valid TEI codes for such things - you can just invent fake tags for what you would be interested in.)
 
----
+***
 
 Victorian London - Prisons - breaking windows to get into prison
 
@@ -14,14 +15,9 @@ I am, Sir, your obedient servant, A CITY TRADESMAN.
 
 _letter_ in The Times, January 5, 1850
 
----
+***
 
 * If you could create an archive of some nineteenth-century materials, what would interest you and why?
-
 * What legal or propietary issues would you have to sort out as part of the project?
-
 * Who do you imagine would be interested in your archive?
-
-* Would your site be open access or behind a paywall? Why? 
-
-
+* Would your site be open access or behind a paywall? Why?
