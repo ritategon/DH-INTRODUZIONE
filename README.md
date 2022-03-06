@@ -5,7 +5,7 @@ cover: .gitbook/assets/IMG_20210717_170056_1.jpg
 
 # Prefazione
 
-_(Nota: sono contenta di ricevere feedback su questo libro! Se trovi un errore o desideri dare un suggerimento, scrivi_ [_qui_](https://github.com/ritategon/INTRODUZIONE-ALLA-DIGITAL-TEXT-ANALYSIS/tree/master/.github/ISSUE\_TEMPLATE))
+_(Nota: sono contenta di ricevere feedback su questo libro! Se trovi un errore o desideri dare un suggerimento, scrivi_ [_qui_](https://github.com/ritategon/DH-INTRODUZIONE/issues))
 
 Questo libro fornisce una introduzione alle Digital Humanities con un focus privilegiato ma non esclusivo sull'analisi del testo digitale attraverso una serie di unità divise in tre parti. Ciacuna introduce un concetto, uno o più strumenti o metodi di analisi e uno o più esercizi per mettere in pratica quanto appreso. Concepito per essere sufficientemente modulare e per poter essere utilizzato in combinazione con altri corsi, in tutto o in parte, esso  si discosta molto, ma rispetta l'impostazione del libro (in lingua inglese) a cui si ispira, esclusivamente concentrato sulla analisi del testo digitale,  e che può essere raggiunto [qui](http://walshbr.com/textanalysiscoursebook/).
 
