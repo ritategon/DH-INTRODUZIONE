@@ -16,8 +16,6 @@ description: >-
 
 [Digital Giza](http://giza.fas.harvard.edu)&#x20;
 
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSfH30ukkjLxDKfFq8Rght_4qbg1Z3SuD15JSbzC7Lc3iw3CQQ/viewform?usp=sf_link" %}
-
 
 
 FEEDBACK OXFORD
