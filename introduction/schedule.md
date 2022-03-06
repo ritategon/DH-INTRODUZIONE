@@ -1,24 +1,24 @@
+---
+description: Ricorda che l'approccio è multidisciplinare
+---
+
 # Piano di Lavoro
 
 #### Nota&#x20;
 
-Di seguito il piano. È molto probabile che durante il corso sincrono ci saranno delle variazioni, ovvero presenterò idee e materiali compatibilmente con i tempi e le necessità dei corsisti.  Tutto questo non verrà riportato qui.  D'altra parte tu, corsista o lettore interessato, sei libero di procedere secondo i tuoi tempi e curiosità.
+Di seguito il piano. È molto probabile che durante il corso sincrono ci saranno delle variazioni, ovvero presenterò idee e materiali compatibilmente con i tempi e le necessità dei corsisti.  Tutto questo non verrà riportato qui.  D'altra parte tu, corsista  (nella duplice veste di docente e studente), o lettore interessato, sei libero di procedere secondo i tuoi tempi e curiosità.
 
 ## Descrizione
 
-Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuove tecnologie consentano ai computer di "leggere" grandi quantità di testo per fare luce sul passato e sul presente con tutte le cautele che sono necessarie. Sarai introdotto ad una prima esplorazione della natura e di alcuni strumenti di analisi del testo/data mining per le discipline umanistiche. Esso non presuppone una conoscenza specifica preliminare, ma abilità intermedie di uso delle tecnologie digitali.
-
-## Obiettivi
-
-* sviluppo di un approccio multidisciplinare&#x20;
-* conoscenza della natura e delle potenzialità degli ambiti di applicazione delle DH&#x20;
-* conoscenza e utilizzo sperimentale di alcuni strumenti di analisi statistica
+Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuove tecnologie consentano ai computer di "leggere" grandi quantità di testo per fare luce sul passato e sul presente (analisi diacronica o sincronica) con tutte le cautele che sono necessarie. Sarai introdotto ad una prima esplorazione della natura e di alcuni strumenti di analisi del testo/data mining per le discipline umanistiche. Esso non presuppone una conoscenza specifica preliminare, ma abilità intermedie di uso delle tecnologie digitali.
 
 ## Schedulazione
 
 ### Incontro 1
 
-* Introduzione alla DH
+* Introduzione alla DH. [Breve storia](../close-reading/close-reading.md)
+* [Hyper e Social Reading](../close-reading-1/prism-part-one.md)
+* [Esercizi](../close-reading-1/exercises.md)
 * Text Analysis: forme di lettura
 * Problemi della Digital Text Analysis
 
