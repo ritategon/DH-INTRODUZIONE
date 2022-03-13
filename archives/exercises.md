@@ -1,6 +1,6 @@
 # Esercizio
 
-* <mark style="color:red;">farei fare un semplice ex di marcatura</mark>
+* <mark style="color:red;">farei fare un semplice ex di marcatura CON CORRETTORE O CORREZIONE TRA PARI</mark>
 * Imagine you are marking the following [passage](http://www.victorianlondon.org/prisons/breakingwindows.htm) on prison life from [The Dictionary of Victorian London](http://www.victorianlondon.org) in TEI. What elements would you tag or mark? (No need to actually look up the valid TEI codes for such things - you can just invent fake tags for what you would be interested in.)
 
 ***

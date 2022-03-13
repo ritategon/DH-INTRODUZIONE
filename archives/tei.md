@@ -1,5 +1,9 @@
 # Text Encoding Initiative
 
+{% embed url="http://digitalscholarship.ohio5.org/wp-content/uploads/2016/01/website_blog_scholar_screen2-768x663.jpg" %}
+
+<mark style="color:red;">BISOGN METTER ESEMPI DI TESTO ITALIANO</mark>
+
 > Yet each man kills the thing he loves
 
 > By each let this be heard.
@@ -116,7 +120,7 @@ Looking at the TEI tags for this document give you a sense of why you might enco
 
 Encoding is meant to convey abstract humanities concepts to the machine so that we can make better use of them in our digital work. Some of these concepts, like line breaks, might be pretty clear cut. Others might require a lot of interpretation. Even given the same set of tags and texts, two people could encode things differently. You can make a whole career off working with TEI, and we have just scratched the surface here. But encoding documents in TEI is an important step in preparing them for their lives as digital artifacts. Not all texts need to be encoded in TEI in order for them to be archived, but the vast majority of documents you will find in digital humanities archives have been encoded in this way. The process helps ensure that complex humanities data makes its way comfortably, ethically, and responsibly into the digital world.
 
-## Further Resources
+### Ulteriori risorse
 
-* Jacob Heil is great on the intellectual reasons for encoding in "[Why We TEI](http://digitalscholarship.ohio5.org/2016/02/why-we-tei-2/)."
-* Ryan Cordell in "[On Ignoring Encoding](http://ryancordell.org/research/dh/on-ignoring-encoding/)" gives a great defense of textual encoding as a fundamental part of digital humanities.
+* Di Jacob Heil una ottima argomentazione a favore delle pratiche di markup  "[Why We TEI](http://digitalscholarship.ohio5.org/2016/02/why-we-tei-2/)."
+* Ryan Cordell in "[On Ignoring Encoding](http://ryancordell.org/research/dh/on-ignoring-encoding/)" fornisce una grande difesa della codifica testuale come parte fondamentale delle discipline umanistiche digitali.
