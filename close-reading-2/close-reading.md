@@ -120,7 +120,7 @@ Interrogare le fonti in questo modo è solo una delle modalità di comprensione 
 
 ![](../.gitbook/assets/screenshot-carletonu.pressbooks.pub-2022.02.22-20\_28\_19.png)
 
-### Srumenti
+### Strumenti
 
 Abbiamo già visto degli strumenti. Di seguito si fa un po' di orfine e se ne indicano altri:
 
@@ -133,6 +133,7 @@ Abbiamo già visto degli strumenti. Di seguito si fa un po' di orfine e se ne in
 * [Tapor: ](http://tapor.ca)A set of text analysis tools.
 * [TextArc: ](http://www.textarc.org)A visual representation of a text.
 * [MALLET:](http://mallet.cs.umass.edu) Maps patterns across texts with various tools.
+* [Diorisis](https://www.crs.rm.it/diorisissearch/). Vd qui per una presentazione [Brill](https://brill.com/view/journals/rdj/3/1/article-p55\_55.xml?language=en).
 
 
 

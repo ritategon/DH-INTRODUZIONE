@@ -1,8 +1,8 @@
 # Per Docenti
 
-Questo corso fornisce una  introduzione  alle Digital Humanities con un focus privilegiato, ma non esclusivo, sull'analisi del testo digitale attraverso una serie di unità divise in tre parti.&#x20;
+Questo corso fornisce una  introduzione  alle Digital Humanities con un focus privilegiato, ma non esclusivo, sull'analisi del testo digitale attraverso una serie di unità divise in tre parti. Vuole accompagnare i docenti alla introduzione dell'approccio nella prassi didattica.  Gli stessi docenti in una prima fase possono accedere come studenti: ed è proprio il punto di vista degli studenti che viene privilegiato.
 
-Vi è l'espressa intenzione di eviidenziare l'approccio multidisciplinare sotteso.
+Vi è inotlre l'espressa intenzione di evidenziare l'approccio multidisciplinare sotteso.
 
 Ogni unità introduce un concetto, uno strumento per l'analisi digitale del testo (o casi di studio basati sul concetto associato), e poi fornisce una parte esercitativa per mettere in pratica quanto appreso. Il target di destinazione sono persone che non hanno esperienza di programmazione, analisi del testo o in discipline umanistiche digitali, ma vogliono muovere i primi passi ed avere strumenti per accompagnare degli studenti.&#x20;
 
@@ -14,9 +14,9 @@ In secondo luogo, fornire materiali per un corso di Digital Humanities che non r
 
 In terzo luogo fornire strumenti operativi di base per una analisi statistica dei dati applicabile a corpora di qualsiasi natura, testi in qualsiasi lingua, immagini, luoghi e riferibili a ltteratura, storia, arte e musica, ma anche ad altre discipline.
 
-Il libro non intende esaurire il tema dell'analisi del testo digitale: anzi. Se hai più tempo a tua disposizione, avrai molto più spazio per navigare ed esplorare. Se le persone con cui lavori e ti aiutano hanno conoscenze di programmazione, probabilmente salterai parti del libro. Va ribadito che ci sono molti altri approcci all'argomento e strumenti a cui si fa riferimento nella sezione "[Ulteriori risorse](../conclusion/resources.md)" del capitolo conclusivo.&#x20;
+Il libro non intende esaurire il tema dell'analisi del documento digitale: anzi. Se hai più tempo a tua disposizione, avrai molto più spazio per navigare ed esplorare. Se le persone con cui lavori e ti aiutano hanno conoscenze di programmazione, probabilmente salterai parti del libro. Va ribadito che ci sono molti altri approcci all'argomento e strumenti a cui si fa riferimento nella sezione "[Ulteriori risorse](../conclusion/resources.md)" del capitolo conclusivo.
 
-<mark style="color:red;">In secondo luogo, si voleva fornire una serie di materiali che potessero essere recuperati in altri contesti. In questo, il manuale del corso di Shawn Graham</mark>  [<mark style="color:red;">Crafting Digital History</mark>](http://workbook.craftingdigitalhistory.ca) <mark style="color:red;">è stato di ispirazione. Questo libro per parte sua  è stato originariamente sviluppato come corso sulla storia culturale europea del diciannovesimo secolo e trae dal corso citato materiali  per i suoi set di dati e discussioni. Per quanto possibile, si cerca di separare le discussioni di analisi del testo dai contenuti disciplinari specifici.  Quanto alla sequenza tripartita in ciascuna unità - concetto, caso di studio, pratica - essa ha lo scopo di modularizzare il libro in modo tale da poter essere utilizzato in altri corsi e contes</mark>ti.&#x20;
 
-<mark style="color:red;">In terzo luogo, il libro partecipa anzi è il risultato di un esperimento di scrittura aperta e collaborativa, ispirata dal lavoro di Robin De Rosa su</mark>  [<mark style="color:red;">The Open Anthology of Earlier American Literature</mark>](https://openamlit.pressbooks.com)<mark style="color:red;">.  Esso è stato composto utilizzando una varietà di tecnologie e pratiche rilevanti per le discipline umanistiche digitali: markdown, HTML/CSS, controllo della versione, GitHub e altro ancora. I primi autori dal cui iniziale lavoro esso deriva, avevano vari gradi di familiarità con questi argomenti e questo libro è servito come lezione oggettiva su come generare nuova ricerca e materiale didattico sviluppando allo stesso tempo nuove competenze. Il \[GitBook Editor]\((https://www.gitbook.com/editor/osx), in particolare, è stato fondamentale. I due gli autori appartengono a campi diversi (Brandon Walsh l' inglese e Sarah Horowitz la Storia); di conseguenza, vedrai lessico ed esempi che provengono dai diversi background disciplinari, ma vi è lo stesso interesse nell'usare l'analisi del testo per esplorare il significato e il contesto.</mark>
+
+<mark style="color:red;"></mark>
 

@@ -16,22 +16,8 @@ description: >-
 
 [The Imperiia Project](http://dighist.fas.harvard.edu/projects/imperiia/)
 
+fare un form come quello sopra
+
 [Neural Neighbors](https://dhlab.yale.edu/neural-neighbors/)
 
-
-
-#### FEEDBACK CHINA
-
-We consider the China Biographical Database to primarily be an example of a relational database. Specifically, it's a relational database about historical people.
-
-#### FEEDBACK IMPERIA
-
-We consider The Imperiia Project to be primarily an example of analyzing geography.
-
-#### FEEDBACK
-
-We consider Neural Neighbors to be an example of arranging and comparing images.
-
-
-
-***
+fare un form come quello sopra

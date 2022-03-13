@@ -32,13 +32,13 @@ Think about all the annotations that you put on your own pages as you read them.
 
 And we can represent it graphically, like so, where a black line denotes the bounds of the stanza, a horizontal blue one represents the lines, and the rotating colors under the final words describe a rhyme scheme:
 
-![marking up poem by hand graphically](../../assets/archives/tei-graphic.jpg)
+![marking up poem by hand graphically](../assets/archives/tei-graphic.jpg)
 
 But you would probably need a moment to figure out what was going on if you came to this having not highlighted things yourself. We can do better. The following text annotations are a bit clearer and get closer to something we could understand without having any context. In fact, you may have worked with annotations like these before if you've taken a poetry class:
 
-![tei with text annotations](../../assets/archives/tei.jpg)
+![tei with text annotations](../assets/archives/tei.jpg)
 
-For a computer to understand this, we need an even more delineated way of describing the passage. We have to pay careful attention to **syntax**, the ways in which we mark particular things to provide information to the computer. Computers require very specific systematic guidelines to be able to process information, as you will learn in our chapter on "[Cyborg Readers](../cyborg-readers.md)". For example, we would have to consistently use lower-case letters to represent rhyme schemes. And "line 1" to represent the first line of a poem instead of "line one." We need a clear and uniform way for describing the parts of the poem that never changes. Any variations from these rules would cause unwanted and unintended effects. Scholars have been working for years to develop such a system for describing texts in a way that can be processed by software. The **Text Encoding Initiative (TEI)**, the result of this work, is an attempt to make abstract humanities concepts legible to machines. If we apply TEI to the passage, it might begin to look something like this:
+For a computer to understand this, we need an even more delineated way of describing the passage. We have to pay careful attention to **syntax**, the ways in which we mark particular things to provide information to the computer. Computers require very specific systematic guidelines to be able to process information, as you will learn in our chapter on "[Cyborg Readers](cyborg-readers.md)". For example, we would have to consistently use lower-case letters to represent rhyme schemes. And "line 1" to represent the first line of a poem instead of "line one." We need a clear and uniform way for describing the parts of the poem that never changes. Any variations from these rules would cause unwanted and unintended effects. Scholars have been working for years to develop such a system for describing texts in a way that can be processed by software. The **Text Encoding Initiative (TEI)**, the result of this work, is an attempt to make abstract humanities concepts legible to machines. If we apply TEI to the passage, it might begin to look something like this:
 
 ```
 <lg>
@@ -102,13 +102,13 @@ Once a text has been **encoded** in this way, it can be represented more easily 
 
 Let's look at an example of something that's got a lot of encoding already in it. Here is the TEI for [this entry](http://www.oldbaileyonline.org/browse.jsp?id=t18881119-50\&div=t18881119-50\&terms=ripper#highlight) on a robbery case that mentions Jack the Ripper from the [Old Bailey Online](http://www.oldbaileyonlineorg). You might not recognize a lot of the tags (there are _loads_ of TEI tags), but the general arrangement of them should look familiar (full TEI [here](https://www.oldbaileyonline.org/browse.jsp?foo=bar\&path=sessionsPapers/18881119.xml\&div=t18881119-50\&xml=yes)):
 
-![Jack the Ripper TEI](../../assets/archives/old-bailey-tei.jpg)
+![Jack the Ripper TEI](../assets/archives/old-bailey-tei.jpg)
 
 Focus on what you do know: the tagging syntax should ring some bells. If you want to look up any of the tags, you can always check out the [TEI guidelines](http://www.tei-c.org/index.xml). A lot of working with technology consists of not panicking when you see something unfamiliar and then looking up what you don't know. But we digress.
 
 When you look at the [public-facing version of the entry](https://www.oldbaileyonline.org/browse.jsp?id=t18881119-50\&div=t18881119-50\&terms=ripper#highlight) on the Old Bailey Online, almost all the tags disappear:
 
-![Same entry without TEI](../../assets/archives/old-bailey-sans-tei.jpg)
+![Same entry without TEI](../assets/archives/old-bailey-sans-tei.jpg)
 
 In order to make the text legible for readers, we very often hide most (or all) of the markup that is helping to present the document. This ensures that you can serve the needs of different audiences: some people might want to see the TEI for your text, but others might just want to be able to read it as normal. We have already talked a bit about the functions you can get from TEI, but, if they largely remain hidden, you might find yourself thinking that they might not be enough to warrant the amount of work that goes into putting together a TEI-encoded text.
 

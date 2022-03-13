@@ -1,6 +1,6 @@
 # Esercizio
 
-Metti un'area/forum di osservazione della timeline.&#x20;
+<mark style="color:red;">Metti un'area/forum di osservazione della timeline.</mark>&#x20;
 
 Ritorniamo alla [timeline](close-reading.md). Sotto puoi inserire le tue impressioni riguardo agli eventi storici che hanno portato all'attuale pratica delle discipline umanistiche digitali. Quali elementi devono essere aggiunti o rimossi? Inserisci il tuo post nel forum di discussione qui sotto.
 
