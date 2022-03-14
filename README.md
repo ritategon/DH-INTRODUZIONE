@@ -5,7 +5,7 @@ cover: .gitbook/assets/IMG_20210717_170056_1.jpg
 
 # Prefazione
 
-_(Nota: sono contenta di ricevere feedback su questo libro! Se trovi un errore o desideri dare un suggerimento, scrivi_ [_qui_](https://github.com/ritategon/DH-INTRODUZIONE/issues))
+_(Nota: se trovi un errore o desideri dare un suggerimento, scrivi_ [_qui_](https://github.com/ritategon/DH-INTRODUZIONE/issues))
 
 Questo libro viene realizzato mediante l'uso combinato di GitHub e GitBook Editor.
 

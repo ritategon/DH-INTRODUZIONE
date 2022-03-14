@@ -1,3 +1,9 @@
+---
+description: >-
+  vd qua ottimo. valuto il rif a oxigen proprietario, meglio https://atom.io/ e
+  qui per le prove https://digital-editing.fas.harvard.edu/editor/
+---
+
 # Text Encoding Initiative
 
 {% embed url="http://digitalscholarship.ohio5.org/wp-content/uploads/2016/01/website_blog_scholar_screen2-768x663.jpg" %}

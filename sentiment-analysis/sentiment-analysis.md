@@ -6,6 +6,14 @@ description: >-
 
 # Sentiment Analysis
 
+<mark style="color:red;">metti</mark>&#x20;
+
+<mark style="color:red;">1)ess spagnolo sul l'odio https://doi.org/10.3916/C71-2022-02</mark>&#x20;
+
+<mark style="color:red;">2) twitter https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data#overview</mark>
+
+<mark style="color:red;">3)</mark> [<mark style="color:red;">https://nlp.stanford.edu/sentiment/</mark>](https://nlp.stanford.edu/sentiment/)<mark style="color:red;"></mark>
+
 We began this book by talking about interpretation on a micro level: close reading asks you to pay attention to every small detail in a text to produce analysis. We have since zoomed out to think about what we could gain from macro reading and how computers enable us to understand texts in new ways. In our final moments, we will loop back around to the beginning.
 
 We have repeatedly stressed the interplay of computation and interpretation: when the computer presents some results to you, your work has only begun. The computer can supply data, but you must interpret that data yourself. The computer does not really read. You do. What you've learned about is how to read _with_ computers.

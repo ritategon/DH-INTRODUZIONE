@@ -12,9 +12,7 @@ Non dimenticare di considerare che la dimensione digitale porta con sè molti el
 
 
 
-![](../.gitbook/assets/screenshot-docs.google.com-2022.02.18-19\_31\_31.png)
-
-
+![Immagine di pubblico dominio di autore anonimo; se sei il proprietario conttata l'autore di questo libro.](../.gitbook/assets/screenshot-docs.google.com-2022.02.18-19\_31\_31.png)
 
 Lo studioso [Marshall Mcluhan](https://designopendata.files.wordpress.com/2014/05/themediumisthemassage\_marshallmcluhan\_quentinfiore.pdf) lo ha detto succintamente:
 
