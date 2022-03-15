@@ -1,7 +1,3 @@
----
-description: I
----
-
 # Per Studenti
 
 Questa libro fornisce una  introduzione  alle Digital Humanities con un focus privilegiato, ma non esclusivo, sull'analisi del testo digitale, una delle metodologie delle discipline umanistiche digitali,  attraverso una serie di unità divise in tre parti.&#x20;

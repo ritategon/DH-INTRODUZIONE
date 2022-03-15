@@ -1,9 +1,3 @@
----
-description: >-
-  Si preferisce lasciare la dicitura originale Close Reading e Distant Reading
-  preferendole alla traduzione "lettura ravvicinata e distante".
----
-
 # Intro Timeline
 
 ### Timeline

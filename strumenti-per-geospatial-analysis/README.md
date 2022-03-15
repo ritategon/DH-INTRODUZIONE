@@ -1,0 +1,2 @@
+# Strumenti per  Geospatial Analysis
+

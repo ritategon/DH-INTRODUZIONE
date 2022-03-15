@@ -2,7 +2,13 @@
 
 Come hai visto, ogni singola lezione contiene letture linkate e/o suggerite sul particolare argomento discusso in quella sezione. Qui ne trovi molte altre raggruppate per categoria.
 
-## Secondary Readings on the Digital Humanities
+### Archivi
+
+[**OpenDOAR**](https://v2.sherpa.ac.uk/opendoar/) **** è la Directory globale di archivi Open Access di qualità garantita. Puoi cercare e navigare tra migliaia di archivi registrati in base a una gamma di funzionalità, come posizione, software o tipo di materiale detenuto.&#x20;
+
+****[**DSpace**](https://duraspace.org/dspace/) è un software open source utilizzato per creare depositi istituzionali Open Access per le pubblicazioni scientifiche digitali. Questo software risponde ai bisogni specifici dei sistemi di archiviazione digitale, focalizzati sul deposito a lungo termine, l'accesso e la preservazione dei contenuti digitali. La piattaforma DSpace è stata sviluppata inizialmente per istituzioni scientifiche ed accademiche, ma è anche usata da musei, archivi di Stato, Biblioteche Nazionali, consorzi ed enti commerciali per gestire il proprio assetto digitale
+
+### Secondary Readings on the Digital Humanities
 
 * <mark style="color:red;">sono tutti da togliere e da sostiutire eventulamente</mark>
 * [Digital Humanities Zotero Group](https://www.zotero.org/groups/digital\_humanities/items)
@@ -12,7 +18,7 @@ Come hai visto, ogni singola lezione contiene letture linkate e/o suggerite sul 
 * LA Review of Books, [_The Digital in the Humanities_](https://lareviewofbooks.org/feature/the-digital-in-the-humanities) series
 * Rockwell, Geoffrey and Stéfan Sinclair. [_Hermeneutica: Computer-Assisted Interpretation in the Humanities_](https://mitpress.mit.edu/books/hermeneutica).
 
-## Tutorials and Textbooks
+### Tutorials and Textbooks
 
 * [Using R to analyze your data](https://libguides.wustl.edu/c.php?g=385216\&p=2611930)
 * Bird, Steven, Ewan Klein, and Edward Loper. [Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](http://www.nltk.org/book/).
@@ -21,7 +27,7 @@ Come hai visto, ogni singola lezione contiene letture linkate e/o suggerite sul 
 * [Beginner's Guide to Twitter Data](https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data)
 * [Sens Project](https://skene.dlls.univr.it/sens-corpora-tools-basic-guide/)
 
-## Strumenti
+### Strumenti
 
 * [Google NGram Viewer](https://books.google.com/ngrams)
 * [Autorship Attribution](https://neoneuro.com/products/authorship-attribution)
@@ -36,7 +42,7 @@ Come hai visto, ogni singola lezione contiene letture linkate e/o suggerite sul 
 * [Zotero](https://zotero.org)&#x20;
 * [Sketch Engine](https://www.sketchengine.eu/guide/)
 
-## Applicazioni di Text Analysis&#x20;
+### Applicazioni di Text Analysis&#x20;
 
 da rivedere perchè sono poco adatti per italiani
 
@@ -47,10 +53,3 @@ da rivedere perchè sono poco adatti per italiani
 * [How a Computer Program Helped Show J.K. Rowling write A Cuckoo's Calling](http://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/)
 * [Text Analysis of Trump's Tweets Confirms He Writes only the (Angrier) Android Half](http://varianceexplained.org/r/trump-tweets/) interessante
 * [Walmart Gets Its Worst Yelp Reviews in Black and Latino Neighborhoods](http://www.citylab.com/work/2016/08/walmart-get-its-worst-yelp-reviews-in-black-and-latino-neighborhoods/497864/)
-
-## Altro
-
-bello ma noin per italiani che non sanno inglese
-
-* [Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)](https://www.nines.org)
-* [Stanford Literary Lab](http://litlab.stanford.edu)

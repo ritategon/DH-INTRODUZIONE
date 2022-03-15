@@ -1,9 +1,3 @@
----
-description: >-
-  metti ess spagnolo sul l'odio https://doi.org/10.3916/C71-2022-02 e/o twitter
-  https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data#overview
----
-
 # Sentiment Analysis
 
 <mark style="color:red;">metti</mark>&#x20;
