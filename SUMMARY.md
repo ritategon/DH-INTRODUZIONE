@@ -27,7 +27,7 @@
   * [Prism 1](close-reading-2/prism-part-one.md)
   * [Esercizio](close-reading-2/exercises.md)
 * [Crowdsourcing](crowdsourcing.md)
-  * [Crowdsourcing](crowdsourcing/crowdsourcing.md)
+  * [Micro e Macro Tasking](crowdsourcing/crowdsourcing.md)
   * [Prism 2](crowdsourcing/prism-part-two.md)
   * [Esercizio](crowdsourcing/exercises.md)
 * [Archivi Digitali](archives.md)

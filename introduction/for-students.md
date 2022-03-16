@@ -2,7 +2,7 @@
 
 Questa libro fornisce una  introduzione  alle Digital Humanities con un focus privilegiato, ma non esclusivo, sull'analisi del testo digitale, una delle metodologie delle discipline umanistiche digitali,  attraverso una serie di unità divise in tre parti.&#x20;
 
-Esso supporta anche corsi sincroni: in questo caso, <mark style="color:blue;">**gli esercizi accompagnati da un asterisco si intendono come obbligatori**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">( \* livello basso di difficoltà; \*\* livello più alo di difficoltà: sentiti libero di scegliere le attività che ti sfidano, ma non ti mettono a disagio).</mark>
+Esso supporta anche corsi sincroni: in questo caso, <mark style="color:red;">**gli esercizi accompagnati da un asterisco si intendono come obbligatori**</mark> <mark style="color:red;"></mark><mark style="color:red;">( \* livello basso di difficoltà; \*\* livello più alo di difficoltà: sentiti libero di scegliere le attività che ti sfidano, ma non ti mettono a disagio). QUESTA COSA VA PESATA MEGLIO BISOGNA CALCOLARE UN PESO DI 7 ORE PER CHI è DEBOLE (\*) E 7 ORE OER CHI è FORTE \*\*</mark>
 
 Molti di voi sono probabilmente abituati ad analizzare i testi in una forma o nell'altra, sia considerando attentamente le parti di un testo letterario, sia pensando alle parole di un documento storico o di qualsiasi altra natura. Ma anche se faremo entrambe le cose, stiamo usando la frase "analisi del testo" in un modo diverso: qui parliamo di come possiamo usare i computer per aiutare ad analizzare i testi/documenti in modi nuovi.
 
