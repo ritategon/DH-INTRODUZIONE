@@ -35,7 +35,7 @@ Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuo
 
 ### Incontro 4
 
-* [Acquisire e creare dati](../acquisire-e-creare-dati/)
+* [Acquisire e creare dati](../acquisire-pulire-e-creare-dati/)
 * [Data Cleaning](../data-cleaning.md)
 
 ### Incontro  5
