@@ -28,7 +28,7 @@
   * [Esercizio](close-reading-2/exercises.md)
 * [Crowdsourcing](crowdsourcing.md)
   * [Crowdsourcing](crowdsourcing/crowdsourcing.md)
-  * [Prism Part 2](crowdsourcing/prism-part-two.md)
+  * [Prism 2](crowdsourcing/prism-part-two.md)
   * [Esercizio](crowdsourcing/exercises.md)
 * [Archivi Digitali](archives.md)
   * [Text Encoding Initiative](archives/tei.md)

@@ -1,44 +1,39 @@
-# Prism Part Two
+# Prism 2
 
-Think back to [Prism](prism.scholarslab.org) and the transparency game. So far we have only really focused on the single transparencies and the interpretations one individual supplied. But the crucial last element of the game involves collecting the transparencies and stacking them. Hold the stack up the light, and you get a whole rainbow: you can see what everyone thinks about the text. Prism's visualizations offer one way of adapting this activity to a digital environment.
+Ripensa a [Prism](http://prism.scholarslab.org) e al gioco della trasparenza. Finora ci siamo davvero concentrati solo sulle singole trasparenze e sulle interpretazioni fornite da un individuo. Ma l'ultimo elemento cruciale del gioco consiste nel raccogliere i fogli tarsparenti e impilarli. Tieni la pila su la luce e otterrai un intero arcobaleno: puoi vedere cosa pensano tutti del testo. Le visualizzazioni di Prism offrono un modo per adattare questa attività a un ambiente digitale.
 
-![prism transparencies stacked](/assets/crowdsourcing/prism-future-stacked.jpg)
+![prism transparencies stacked](../assets/crowdsourcing/prism-future-stacked.jpg)
 
-In this photo from the "Future Directions" page for Prism, you can see the prototype for another possible visualization that would shuffle through the various sets of highlights. Even without this animated interpretation, Prism allows you to get a sense of how a whole group interprets a text. The program collections you markings along with those of everyone who has ever read that text in Prism. We can begin to get some sense of trends in the ways that the group reads.
+In questa foto dalla pagina “Future Directions”di Prism, puoi vedere il prototipo per un'altra possibile visualizzazione che mischierebbe i vari set di punti salienti. Anche senza questa interpretazione animata, Prism ti consente di avere un'idea di come un intero gruppo interpreta un testo. Il programma raccoglie i tuoi segni insieme a quelli di tutti coloro che hanno mai letto quel testo in Prism. Possiamo iniziare ad avere un'idea delle tendenze nei modi in cui il gruppo legge.&#x20;
 
-Prism was designed as a middle road between the two types of crowdsourcing projects that we discussed in the last section. By asking users to mark for a restricted number of categories, it can quantify those readings and visualize them in interesting ways. But it also asks for readers to actually read the text - interpreting a document along certain guidelines still asks readers to exercise the full range of their powers as thinking people. For this reason, the [designers of Prism see it as ](http://llc.oxfordjournals.org/content/early/2014/07/08/llc.fqu030.full?keytype=ref&ijkey=4zaX5fIvQwiLhIJ)**[crowdsourcing interpretation](http://llc.oxfordjournals.org/content/early/2014/07/08/llc.fqu030.full?keytype=ref&ijkey=4zaX5fIvQwiLhIJ)**.
+Prism è stato concepito come una via di mezzo tra i due tipi di progetti di crowdsourcing di cui abbiamo discusso nell'ultima sezione. Chiedendo agli utenti di contrassegnare un numero limitato di categorie, può quantificare quelle letture e visualizzarle in modi interessanti. Ma chiede anche ai lettori di leggere effettivamente il testo: interpretare un documento seguendo determinate linee guida chiede comunque ai lettori di esercitare l'intera gamma dei loro poteri di persone pensanti. Per questo motivo, i designer di Prism lo vedono come una [crowdsourcing interpretation](http://llc.oxfordjournals.org/content/early/2014/07/08/llc.fqu030.full?keytype=ref\&ijkey=4zaX5fIvQwiLhIJ).
 
-Prism offers a few options to facilitate group reading. Most importantly, it assumes very little about how its users will use the tool. Anyone can upload their own text as a Prism and, within certain guidelines, adapt the tool to their own purposes. When logged in, you can create a Prism by clicking the big create button to pull up the uploading interface:
+Prism offre alcune opzioni per facilitare la lettura di gruppo. Soprattutto, presuppone molto poco su come i suoi utenti utilizzeranno lo strumento. Chiunque può caricare il proprio testo come Prisma e, entro determinate linee guida, adattare lo strumento ai propri scopi. Una volta effettuato l'accesso, puoi creare un prisma facendo clic sul grande pulsante di creazione per visualizzare l'interfaccia di caricamento:
 
-![prism creation interface](/assets/crowdsourcing/prism-create-one.jpg)
+![prism creation interface](../assets/crowdsourcing/prism-create-one.jpg)
 
-You upload a text by pasting it into the window provided. Prism does not play well with super long texts, so you may have to play around in order to find a length that works for the tool as well as for you. The three facets on the right correspond to the three marking categories according to which you want users to highlight. The rest of these categories should be self-explanatory. Note, however, that you will only be able to give a short description to readers: your document and marking categories will largely have to stand on their own.
+Carichi un testo incollandolo nella finestra fornita. Prism non funziona bene con testi super lunghi, quindi potresti dover giocare per trovare una lunghezza che funzioni per lo strumento oltre che per te. Le tre sfaccettature a destra corrispondono alle tre categorie di marcatura in base alle quali si desidera che gli utenti evidenzino. Il resto di queste categorie dovrebbe essere autoesplicativo. Nota, tuttavia, che sarai in grado di fornire solo una breve descrizione ai lettori: il tuo documento e le categorie di marcatura dovranno in gran parte stare da sole.
 
-<img src="/assets/crowdsourcing/prism-create-two.jpg" alt="listed vs unlisted prism interface" class="img-right" id="prism-licensing">
+![listed vs unlisted prism interface](../assets/crowdsourcing/prism-create-two.jpg)
 
-Below these main parameters for your text, you will be asked to make some other choices that may be less intuitive.
+Sotto questi parametri principali per il tuo testo, ti verrà chiesto di fare alcune altre scelte che potrebbero essere meno intuitive.&#x20;
 
-By default, Prism assumes that you want the text and all its markings to be made available to the public. Selecting **unlisted** will make your Prism private so that only to people to whom you send the URL can view it. Once you create the Prism, you will want to be extra certain that you copy that URL down somewhere so that you can send it out to your group.
+Per impostazione predefinita, Prism presuppone che tu voglia che il testo e tutti i suoi contrassegni siano resi disponibili al pubblico. Selezionando non in elenco, il tuo Prism sarà privato in modo che solo le persone a cui invii l'URL possano vederlo. Una volta creato il prisma, vorrai essere più sicuro di copiare quell'URL da qualche parte in modo da poterlo inviare al tuo gruppo. Prism ti chiederà anche quale licenza vuoi attribuire ai tuoi materiali. Molte delle scelte offerte qui sono le licenze [creative commons](https://creativecommons.org), ma puoi anche scegliere dominio pubblico o fair use a seconda delle tue esigenze. Se non sei sicuro, puoi sempre selezionare nessuna licenza, ma varrebbe la pena fare una piccola ricerca sui materiali che stai caricando per scoprirne lo stato legale.&#x20;
 
-Prism will also ask you what license you want to attribute to your materials. Many of the choices offered here are [creative commons](https://creativecommons.org/) licenses, but you can also choose public domain or fair use depending on your needs. If you are unsure, you can always select no license, but it would be worth doing a little research about the materials you are uploading to find out their legal status.
+Una volta caricato un testo, il modo più semplice per trovarlo è accedere alla tua pagina personale facendo clic sul collegamento “MYPRISMS” dal menu in alto. In questa pagina del profilo puoi accedere facilmente sia ai testi che hai caricato sia a quelli che hai evidenziato ma che appartengono ad altri (molto utile se perdi l'URL di un testo non elencato).
 
-Once you upload a text, the easiest way to find it is to go your personal page by clicking the "MYPRISMS" link from the top menu. In this profile page, you can easily access both the texts that you have uploaded as well as the ones that you have highlighted but that belong to others \(quite handy if you lose the URL for an unlisted text\).
+![myprisms page](../assets/crowdsourcing/prism-myprisms.jpg)
 
-![myprisms page](/assets/crowdsourcing/prism-myprisms.jpg)
+Con questi strumenti puoi caricare una serie di testi per qualsiasi tipo di esperimento. Si è tentati di dire che sei limitato dalla tua immaginazione, ma ti imbatterai in scenari in cui i parametri dello strumento ti causano mal di testa. Va bene! Cogli queste occasioni per riflettere:&#x20;
 
-With these tools, you can upload a range of texts for any kind of experiment. It is tempting to say that you are limited by your imagination, but you will run up against scenarios in which the parameters for the tool cause you headaches. That's OK! Take these opportunities to reflect:
+Cosa non ti permetterà di fare lo strumento?&#x20;
 
-* What will the tool not let you do?
+Riuscite a immaginare buone ragioni per queste limitazioni?&#x20;
 
-* Can you imagine good reasons for these limitations?
+Come progettereste uno strumento diverso?
 
-* How would you design a different tool?
+Mentre lavori su Prism, pensa in modo critico al concetto di interpretazione crowdsourcing.
 
+Ritieni che questo tipo di lavoro sia fondamentalmente più abilitante del tipo che abbiamo visto con Typewright, Recaptcha e Transcribe Bentham?&#x20;
 
-As you work through Prism, think critically about the concept of crowdsourced interpretation.
-
-* Do you feel that this sort of work is fundamentally more empowering than the kind we saw with Typewright, Recaptcha, and Transcribe Bentham?
-
-* Are there other, better ways of facilitating group collaboration, digital or otherwise?
-
-
+Ci sono altri modi migliori per facilitare la collaborazione di gruppo, digitali o meno?
