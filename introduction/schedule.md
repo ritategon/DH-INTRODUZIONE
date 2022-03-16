@@ -10,13 +10,13 @@ Di seguito il piano. È molto probabile che durante il corso sincrono ci saranno
 
 ## Descrizione
 
-Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuove tecnologie consentano ai computer di leggere" grandi quantità di informazioni per fare luce sul passato e sul presente (analisi diacronica o sincronica) con tutte le cautele che sono necessarie. Sarai introdotto ad una prima esplorazione della natura e di alcuni strumenti di analisi del testo/data mining per le discipline umanistiche. Esso non presuppone una conoscenza specifica preliminare, ma abilità intermedie di uso delle tecnologie digitali.
+Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuove tecnologie consentano ai computer di "leggere" grandi quantità di informazioni per fare luce sul passato e sul presente (analisi diacronica o sincronica) con tutte le cautele che sono necessarie. Sarai introdotto ad una prima esplorazione della natura e di alcuni strumenti di analisi del testo/data mining per le discipline umanistiche. Esso non presuppone una conoscenza specifica preliminare, ma abilità intermedie di uso delle tecnologie digitali.
 
 ## Schedulazione
 
 ### Incontro 1
 
-* Presentazione del corso
+* [Presentazione del corso](../)
 * [Introduzione alla DH](../close-reading/)
 * [Esempi di DH](../esempi-di-dh/)
 * [Forme di lettura](../close-reading-1/)
@@ -26,31 +26,26 @@ Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuo
 
 * [Close e Distant Reading](../close-reading-2/close-reading.md)
 * [Crowdsorcing ](../crowdsourcing/crowdsourcing.md)
+* [Introduzione agli Archivi Digitali](../archives.md)
 
 ### Incontro 3
 
 * [Archivi Digitali](../archives.md)
-* [Data Cleaning](../data-cleaning.md)
+* [Strumenti per la Geospatial Analysis](../strumenti-per-geospatial-analysis/)
 
 ### Incontro 4
 
+* [Acquisire e creare dati](../acquisire-e-creare-dati/)
+* [Data Cleaning](../data-cleaning.md)
+
+### Incontro  5
+
 * [Cyborg Readers](../cyborg-readers.md)
 * [Reading at Scale](../reading-at-scale.md)
-
-### Incontro 5
-
-* Topic Modeling
-* Classifiers
+* [Stylometria](../stylometria/)
 
 ### Incontro 6
 
-* vv
-* mm
-
-###
-
-###
-
-###
-
-###
+* [Topic Modeling](../topic-modeling.md)
+* [Classifiers](../classifiers.md)
+* [Sentiment Analysis](../sentiment-analysis/sentiment-analysis.md)
