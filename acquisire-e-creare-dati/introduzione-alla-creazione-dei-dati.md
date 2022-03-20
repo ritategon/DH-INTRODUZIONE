@@ -1,0 +1,3 @@
+# Introduzione alla creazione dei dati
+
+I dati delle Digital Humanities sono spesso generati da fonti fisiche e analogiche. Ad esempio, se si desidera digitalizzare un libro raro del XVI secolo, è possibile recuperare il libro fisico, fotografare le pagine ed eseguire il riconoscimento ottico dei caratteri (OCR) per riconoscere i caratteri scritti e trasformare le immagini in un formato di file di testo. In questa lezione esploreremo diverse modalità di digitalizzazione comuni all'interno delle Digital Humanities, che vanno dalla digitalizzazione del testo alla digitalizzazione dei manufatti archeologici, insieme a esempi del loro utilizzo.
