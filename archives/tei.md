@@ -132,3 +132,5 @@ Encoding is meant to convey abstract humanities concepts to the machine so that 
 
 * Di Jacob Heil una ottima argomentazione a favore delle pratiche di markup  "[Why We TEI](http://digitalscholarship.ohio5.org/2016/02/why-we-tei-2/)."
 * Ryan Cordell in "[On Ignoring Encoding](http://ryancordell.org/research/dh/on-ignoring-encoding/)" fornisce una grande difesa della codifica testuale come parte fondamentale delle discipline umanistiche digitali.
+* Introduzione al TEI in italiano [https://tei-c.org/Vault/P4/Lite/teiu5\_it.html](https://tei-c.org/Vault/P4/Lite/teiu5\_it.html)
+* Teorie e pratiche nell’uso dell’XML/TEI per la codifica dei testi [https://www.iliesi.cnr.it/iniziative/XML-TEI.pdf](https://www.iliesi.cnr.it/iniziative/XML-TEI.pdf)

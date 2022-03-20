@@ -1,23 +1,56 @@
-# Esercizio
+# Esercizio\*
 
-* <mark style="color:red;">farei fare un semplice ex di marcatura CON CORRETTORE O CORREZIONE TRA PARI</mark>
-* Imagine you are marking the following [passage](http://www.victorianlondon.org/prisons/breakingwindows.htm) on prison life from [The Dictionary of Victorian London](http://www.victorianlondon.org) in TEI. What elements would you tag or mark? (No need to actually look up the valid TEI codes for such things - you can just invent fake tags for what you would be interested in.)
+{% hint style="info" %}
+**Instruzioni**
 
-***
+In questa attività ti eserciterai ad applicare la struttura a una breve poesia_**.**_ Prima vedrai come codificare una breve poesia utilizzando la codifica TEI e poi avrai l'opportunità di esercitarti a taggare un'altra breve poesia.
 
-Victorian London - Prisons - breaking windows to get into prison
+Inizia leggendo e analizzando l'esempio fornito, inclusa la poesia di Milton.
 
-WINDOW BREAKING
+Quindi applica lo stesso tipo di etichettatura all'esercizio che include la poesia di Keats.
 
-Sir, - Instances are now becoming more frequent of paupers preferring a prison to a workhouse, and resorting to the method of window breaking, as described in your police report of yesterday. Now, the law in its present state is merely an incentive to a repetition of the act; and, therefore, as it affords me no redress, I intend to take it into my own hands. I employ two porters on my premises, and have provided them with stout cudgels. If any pauper should deliberately break a large square of glass they will rush out, and thrash them most unmercifully. Where is the advantage in giving them into custody? By that means you confer a favour on the offender; and the very hour he is at liberty he will return and continue to repeat the offence until again incarcerated. It is no argument to tell us to use less expensive glass, as the pauper would soon find other means of accomplishing his object. What is required is this - and I ask the assistance of your all powerful pen in its favour - that a law should be passed condemning the perpetrator to a sound whipping and immediate discharge.
+(Suggerimento: potresti trovare più facile copiare e incollare la poesia dell'esercizio nel tuo documento di modifica del testo, applicare i tag, quindi copiare e incollare la tua risposta finale nello spazio fornito.)
+{% endhint %}
 
-I am, Sir, your obedient servant, A CITY TRADESMAN.
+### Un esempio&#x20;
 
-_letter_ in The Times, January 5, 1850
+Facciamo pratica applicando la struttura a dati non strutturati in un esempio reale dal vivo. Un esempio in cui potresti voler strutturare i dati è analizzare digitalmente la struttura delle rime di un corpus di poesie. Da solo, il tuo computer non saprà quali parole in una poesia rima, ma se tagghi quelle parole, puoi indicare lo schema di rime per qualsiasi poesia sul tuo computer. Useremo lo standard Text Encoding Initiative (TEI) che precedentemente è stato presentato.
 
-***
+Prendiamo 4 versi del sonetto VII di John Milton's:
 
-* If you could create an archive of some nineteenth-century materials, what would interest you and why?
-* What legal or propietary issues would you have to sort out as part of the project?
-* Who do you imagine would be interested in your archive?
-* Would your site be open access or behind a paywall? Why?
+(1) How soon hath Time, the subtle thief of youth,&#x20;
+
+(2) Stolen on his wing my three and twentieth year!&#x20;
+
+(3) My hasting days fly on with full career&#x20;
+
+(4) But my late spring no bud or blossom shew'th.
+
+In TEI si presenta come segue
+
+```
+<lg>
+    <l>How soon hath Time, the subtle thief of <rhyme label="a">youth</rhyme>,</l>
+    <l>Stolen on his wing my three and twentieth <rhyme label="b">year</rhyme>!</l>
+    <l>My hasting days fly on with full <rhyme label="b">career</rhyme></l>
+    <l>But my late spring no bud or blossom <rhyme label="a">shew'th</rhyme>.</l>
+</lg>
+```
+
+Per indicare l’inzio di ogni riga  si usa il tag  "\<l>" e per indicare la fine di ogni riga , si usa il tag        "\</l>" .
+
+Similmente, per  indicare l’inizio di un gruppo di righe si usa  il tag  "\<lg>" e per indicare la fine dello stesso gruppo di linee si usa il tag  "\</lg>".
+
+Allo stesso modo, marchiamo l’inizio di una parola in rima con il tag \<rhyme> e la fine con il tag \</rhyme> .
+
+La rima dei 4 versi è ABBA ("youth" rima con  "shew'th" e "year" con "career"), così marchiamo le parole finali dei versi  1 e 4 con "a"  e le finali dei versi  2 e3 con  "b".&#x20;
+
+Ora, che hai compreso le basi dei tag TEI, annota la  quantina che segue, indicando lo schema delle rime e le divisioni di riga nello stesso modo di cui sopra. Esamineremo il lavoro insieme.
+
+**Francesco Petrarca: "Solo et pensoso i più deserti campi"**
+
+1\) Solo et pensoso i più deserti campi\
+2\) vo mesurando a passi tardi et lenti,\
+3\) et gli occhi porto per fuggire intenti\
+4\) ove vestigio human l’arena stampi.
+
