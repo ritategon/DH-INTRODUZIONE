@@ -1,4 +1,4 @@
-# Crowdsourcing
+# Micro e Macro Tasking
 
 Pensa a uno scenario comune: stai acquistando qualcosa online e, prima che il sistema ti permetta di effettuare il check-out, devi inserire del testo, trascrivere dell'audio o comunque dimostrare di non essere un robot. Farlo richiede solo pochi secondi del tuo tempo, ma tali transazioni avvengono milioni di volte ogni giorno su Internet. L'energia combinata sprecata in interazioni così semplici è sbalorditiva.
 
@@ -23,4 +23,18 @@ Vale la pena soffermarsi su tutti questi esempi per considerare il lavoro in ess
 
 In molti casi, questi progetti digitali costano ingenti somme di denaro e, secondo la critica, questi fondi avrebbero potuto fornire dipendenti pagati effettivi anziché volontari. Alcuni di questi partecipanti al crowdsourcing potrebbero non essersi nemmeno resi conto che stavano lavorando. Nel caso di Recaptcha, probabilmente hai involontariamente offerto il tuo tempo per un progetto di crowdsourcing senza nemmeno rendertene conto. Quali sono le pratiche etiche per condurre progetti di volontariato su tale scala? Cosa ti occorrerebbe per sentirti adeguatamente ricompensato per il tuo tempo? Queste sono domande aperte senza risposte chiare, ma vale la pena tenerle a mente. Pensiamo che questa consapevolezza e autoriflessione debbano essere alla base di modi etici di impegnarsi in progetti come questi. Dopotutto, Typewright, Recaptcha e Transcribe Bentham producono grandi risultati, ma lo fanno impiegando l'energia umana per compiti abbastanza umili. Wikipedia solleva altre importanti domande sul crowdsourcing: la folla può fare di più? Cosa succede quando diamo il controllo del progetto alla folla?
 
-##
+{% hint style="info" %}
+**Esempi di ambienti di microtasking**&#x20;
+
+Notizia del 2014 aggiornata nel 2018 nel contesto italiano:&#x20;
+
+[https://poloarchivistico.regione.emilia-romagna.it/notizie/volontari-a-raccolta-per-digitalizzare-gli-smithsonians](https://poloarchivistico.regione.emilia-romagna.it/notizie/volontari-a-raccolta-per-digitalizzare-gli-smithsonians)
+
+Image and Full Transcription: (successful transcription of handwritten text): [https://transcription.si.edu/transcribe/15654/NMAAHC-007675740\_00588](https://transcription.si.edu/transcribe/15654/NMAAHC-007675740\_00588)
+
+Organization: Smithsonian Transcription Center ([https://transcription.si.edu](https://transcription.si.edu))
+
+Title of Specific Project in Exampl**e**: District of Columbia Education, Records Relating to School Buildings, Grounds, and Supplies, Quartermaster’s Monthly Reports ([https://transcription.si.edu/project/15654](https://transcription.si.edu/project/15654))
+
+Link to Catalog of All Projects Undergoing Crowdsourced Transcription by Smithsonian Transcription Center: [https://transcription.si.edu/browse?filter=\&sort=](https://transcription.si.edu/browse?filter=\&sort=)
+{% endhint %}
