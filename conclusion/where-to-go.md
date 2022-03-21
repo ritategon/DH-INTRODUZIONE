@@ -13,7 +13,7 @@ https://www.marktechpost.com/2022/03/14/deepmind-researchers-develop-ithaca-a-de
 https://www.nature.com/articles/s41586-022-04448-z.pdf\
 ](https://deepmind.com/blog/article/Predicting-the-past-with-Ithacahttps://www.marktechpost.com/2022/03/14/deepmind-researchers-develop-ithaca-a-deep-neural-network-for-restoring-and-attributing-ancient-texts/https://www.nature.com/articles/s41586-022-04448-z.pdf)
 
-![](../.gitbook/assets/screenshot-deepmind.com-2022.03.21-09\_13\_16.png)
+![](<../.gitbook/assets/screenshot-deepmind.com-2022.03.21-09\_13\_16 (1).png>)
 
 
 
