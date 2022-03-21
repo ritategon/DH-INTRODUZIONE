@@ -8,6 +8,19 @@ description: >-
 
 # E adesso?
 
+[https://deepmind.com/blog/article/Predicting-the-past-with-Ithaca\
+https://www.marktechpost.com/2022/03/14/deepmind-researchers-develop-ithaca-a-deep-neural-network-for-restoring-and-attributing-ancient-texts/\
+https://www.nature.com/articles/s41586-022-04448-z.pdf\
+](https://deepmind.com/blog/article/Predicting-the-past-with-Ithacahttps://www.marktechpost.com/2022/03/14/deepmind-researchers-develop-ithaca-a-deep-neural-network-for-restoring-and-attributing-ancient-texts/https://www.nature.com/articles/s41586-022-04448-z.pdf)
+
+![](../.gitbook/assets/screenshot-deepmind.com-2022.03.21-09\_13\_16.png)
+
+
+
+
+
+
+
 You've come a long way! Thanks for sticking with us!
 
 You've learned a lot. Thought a lot. Read a lot. What comes next? We've talked about a bunch of different approaches to text analysis, so hopefully you have some ideas about things that interest you. One way forward might be to experiment with new tools. Or you could delve more deeply into a particular approach that piqued your interest. Perhaps while moving along you found yourself wishing that a tool could do something that it just wasn't set up to do.
