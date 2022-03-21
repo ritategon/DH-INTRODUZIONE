@@ -45,7 +45,7 @@ Allo stesso modo, marchiamo l’inizio di una parola in rima con il tag \<rhyme>
 
 La rima dei 4 versi è ABBA ("youth" rima con  "shew'th" e "year" con "career"), così marchiamo le parole finali dei versi  1 e 4 con "a"  e le finali dei versi  2 e3 con  "b".&#x20;
 
-Ora, che hai compreso le basi dei tag TEI, annota la  quantina che segue, indicando lo schema delle rime e le divisioni di riga nello stesso modo di cui sopra. Esamineremo il lavoro insieme.
+Ora, che hai compreso le basi dei tag TEI, annota la  quantina che segue, indicando lo schema delle rime e le divisioni di riga nello stesso modo di cui sopra. Caricalo sotto. Esamineremo il lavoro insieme.
 
 **Francesco Petrarca: "Solo et pensoso i più deserti campi"**
 
@@ -53,4 +53,6 @@ Ora, che hai compreso le basi dei tag TEI, annota la  quantina che segue, indica
 2\) vo mesurando a passi tardi et lenti,\
 3\) et gli occhi porto per fuggire intenti\
 4\) ove vestigio human l’arena stampi.
+
+{% embed url="https://digipad.app/p/132051/15f7d6b13689e" %}
 
