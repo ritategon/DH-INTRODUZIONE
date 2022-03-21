@@ -39,3 +39,5 @@ Al di là del fatto che puoi avere molta fiducia nei progetti che trovi qui, NIN
 
 * Our World in Data [https://ourworldindata.org/](https://ourworldindata.org)
 * UNIBO, Corpora and tools [https://corpora.dipintra.it/](https://corpora.dipintra.it)
+* Homer multitext project [https://github.com/homermultitext](https://github.com/homermultitext)
+* Perseus Digital Library [https://www.perseus.tufts.edu/hopper/grants/million.jsp](https://www.perseus.tufts.edu/hopper/grants/million.jsp)
