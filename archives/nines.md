@@ -35,8 +35,7 @@ Al di là del fatto che puoi avere molta fiducia nei progetti che trovi qui, NIN
 
 ![](../.gitbook/assets/screenshot-biblio.sns.it-2022.03.21-20\_47\_24.png)
 
-###
-
 ### Ulteriori risorse
 
-Our World in Data [https://ourworldindata.org/](https://ourworldindata.org)
+* Our World in Data [https://ourworldindata.org/](https://ourworldindata.org)
+* UNIBO, Corpora and tools [https://corpora.dipintra.it/](https://corpora.dipintra.it)

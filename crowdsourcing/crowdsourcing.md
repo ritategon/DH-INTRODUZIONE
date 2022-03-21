@@ -30,6 +30,8 @@ Notizia del 2014 aggiornata nel 2018 nel contesto italiano:&#x20;
 
 [https://poloarchivistico.regione.emilia-romagna.it/notizie/volontari-a-raccolta-per-digitalizzare-gli-smithsonians](https://poloarchivistico.regione.emilia-romagna.it/notizie/volontari-a-raccolta-per-digitalizzare-gli-smithsonians)
 
+[https://www.zooniverse.org/lab](https://www.zooniverse.org/lab)
+
 Image and Full Transcription: (successful transcription of handwritten text): [https://transcription.si.edu/transcribe/15654/NMAAHC-007675740\_00588](https://transcription.si.edu/transcribe/15654/NMAAHC-007675740\_00588)
 
 Organization: Smithsonian Transcription Center ([https://transcription.si.edu](https://transcription.si.edu))
