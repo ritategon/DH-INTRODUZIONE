@@ -45,7 +45,7 @@
   * [Archivi Digitali](archives/nines.md)
     * [Database Relazionali](archives/nines/database-relazionali.md)
   * [Esercizio\*](archives/exercises.md)
-* [Strumenti per Geospatial Analysis](strumenti-per-geospatial-analysis/README.md)
+* [Analisi Geospatiale](strumenti-per-geospatial-analysis/README.md)
   * [Page 1](strumenti-per-geospatial-analysis/page-1.md)
   * [Page 2](strumenti-per-geospatial-analysis/page-2.md)
   * [Eserciziox](strumenti-per-geospatial-analysis/eserciziox.md)
