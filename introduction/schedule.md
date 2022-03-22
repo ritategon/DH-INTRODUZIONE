@@ -25,18 +25,18 @@ Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuo
 ### Incontro 2
 
 * [Close e Distant Reading](../close-reading-2/close-reading.md)
-* [Crowdsorcing ](../crowdsourcing/crowdsourcing.md)
-* [Introduzione agli Archivi Digitali](../archives.md)
+* [Acquisire e Creare Dati](../acquisire-pulire-e-creare-dati/)
+* [Data Cleaning](../data-cleaning.md)[ ](../crowdsourcing/crowdsourcing.md)
 
 ### Incontro 3
 
+* [Crowdsorcing ](../crowdsourcing/crowdsourcing.md)
 * [Archivi Digitali](../archives.md)
 * [Strumenti per la Geospatial Analysis](../strumenti-per-geospatial-analysis/)
 
 ### Incontro 4
 
-* [Acquisire e creare dati](../acquisire-pulire-e-creare-dati/)
-* [Data Cleaning](../data-cleaning.md)
+* [Strumenti per la Geospatial Analysis](../strumenti-per-geospatial-analysis/)
 
 ### Incontro  5
 
@@ -49,3 +49,4 @@ Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuo
 * [Topic Modeling](../topic-modeling.md)
 * [Classifiers](../classifiers.md)
 * [Sentiment Analysis](../sentiment-analysis/sentiment-analysis.md)
+* [Conclusioni](../conclusion.md)
