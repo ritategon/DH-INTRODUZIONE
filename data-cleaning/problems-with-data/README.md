@@ -75,7 +75,7 @@ Questi dati causerebbero problemi con il terzo passaggio. Per cominciare, come f
 * Cerca una virgola nella riga. Prima della virgola troverai il cognome. Dopo di esso, troverai il nome.
 * Cerca uno spazio nella riga. Prima dello spazio troverai il nome. Dopo di esso, troverai il cognome.
 
-Il primo è il modo più comune di rappresentare dati come questo. L'uso delle virgole per denotare le diverse parti di dati è così popolare che il formato ha il proprio nome: **valore separato da virgole** o **csv** (lo abbiamo incontrato nella sezione [La forma dei dati](../../acquisire-pulire-e-creare-dati/la-forma-dei-dati.md))**.** Ha un vantaggio rispetto al secondo formato che suddivide i dati in base agli spazi:
+Il primo è il modo più comune di rappresentare dati come questo. L'uso delle virgole per denotare le diverse parti di dati è così popolare che il formato ha il proprio nome: **valore separato da virgole** o **csv** (lo abbiamo incontrato nella sezione [La forma dei dati](../../acquisire-e-creare-dati/forma-dei-dati/))**.** Ha un vantaggio rispetto al secondo formato che suddivide i dati in base agli spazi:
 
 ```
 Author Names

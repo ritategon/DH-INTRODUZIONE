@@ -1,4 +1,4 @@
 # Conclusioni
 
-* [Where to Go Next](conclusion/where-to-go.md)
+* [E adesso?](conclusion/where-to-go.md)
 * [Ulteriori risorse](conclusion/resources.md)

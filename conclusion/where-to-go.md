@@ -41,5 +41,5 @@ A logical next step for you might be to learn a programming language that can he
 
 This workbook by no means exhausts the topic of digital text analysis, but we hope that you have learned enough to get a sense of the possibilities that such methods can bring. Check out the [Further Resources](resources.md) page for other approaches, inspirations, and provocations. If, while reading the book, you found errors or sections that need clarification, please drop a note in our [discussion forums](https://www.gitbook.com/book/bmw9t/introduction-to-text-analysis/discussions) or on our [GitHub issues page](https://github.com/bmw9t/introduction-to-text-analysis/issues).
 
-Thanks for reading!
+Grazie per essere attivato fino a qui :)
 

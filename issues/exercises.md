@@ -4,9 +4,7 @@ description: Per l'attività sono calcolate 2 ore
 
 # Esercizio\*
 
-
-
-Nella repository che trovi in basso (codice di accesso **8614**) Inserisci le risposte alle seguenti domande:
+Inserisci nella repository che trovi in basso le risposte alle seguenti domande:
 
 1. Qual è il tuo background con i computer? Interpreta questa domanda nel modo più ampio che desideri.&#x20;
 2. Prenditi qualche minuto per riflettere su come leggi e cosa succede quando leggi. Quindi descrivi brevemente il processo.&#x20;
