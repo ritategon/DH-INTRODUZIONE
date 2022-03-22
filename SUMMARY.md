@@ -50,7 +50,7 @@
   * [Page 2](strumenti-per-geospatial-analysis/page-2.md)
   * [Eserciziox](strumenti-per-geospatial-analysis/eserciziox.md)
 * [Cyborg Readers](cyborg-readers.md)
-  * [How Computers Read Texts](cyborg-readers/computer-reading.md)
+  * [Come un Computer Legge un Testo](cyborg-readers/computer-reading.md)
   * [Voyant Parte 1](cyborg-readers/voyant-part-one.md)
   * [Esercizio](cyborg-readers/exercises.md)
 * [Reading at Scale](reading-at-scale.md)
