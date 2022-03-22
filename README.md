@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/IMG_20210717_170044.jpg
-coverY: 446
+cover: .gitbook/assets/Presentazione senza titolo (2).png
+coverY: 0
 ---
 
 # Prefazione
