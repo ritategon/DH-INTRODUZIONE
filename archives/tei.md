@@ -1,56 +1,53 @@
----
-description: >-
-  vd qua ottimo. valuto il rif a oxigen proprietario, meglio https://atom.io/ e
-  qui per le prove https://digital-editing.fas.harvard.edu/editor/
----
-
 # Text Encoding Initiative
 
-<mark style="color:red;">oppure catma</mark> [<mark style="color:red;">https://portal.catma.de/catma/</mark>](https://portal.catma.de/catma/) <mark style="color:red;">anche per exx</mark>
+{% hint style="info" %}
+Guarda l'immagine e prova a pensare alle implicazioni sottese. Quali sono i limiti e potenzialità dei due contesti?
+{% endhint %}
 
 {% embed url="http://digitalscholarship.ohio5.org/wp-content/uploads/2016/01/website_blog_scholar_screen2-768x663.jpg" %}
 
-<mark style="color:red;">BISOGN METTER ESEMPI DI TESTO ITALIANO</mark>
+Cominciamo da questa poesia di Oscar Wild.&#x20;
 
-> Yet each man kills the thing he loves
+{% hint style="info" %}
+(Anzi prima di cominciare, se vuoi, prenditi una pausa, ma proprio con lo scopo di una pausa, con una interpretazione di questo testo di [Jeanne Moreau ](https://drive.google.com/file/d/1s\_ACW71qnJb2YjZ7Ui-QHDESJnYtOCl\_/view?usp=sharing)ripresa anche da Fassbinder "Querelle" del 1982).
+{% endhint %}
 
-> By each let this be heard.
+```
+  Yet each man kills the thing he loves
+  By each let this be heard.
+  Some do it with a bitter look,
+  Some with a flattering word.
+  The coward does it with a kiss,
+  The brave man with a sword!
+  
+  Oscar Wilde, The Ballad of Reading Gaol 
+```
 
-> Some do it with a bitter look,
+Questo corso studia i testi e le cose che i computer possono fare con essi. Ma, mentre leggi, potresti notare che non possono fare molto. Molti dei metodi che vedrai sono semplicemente metodi sofisticati per contare le parole, mentre, come già sapevi e come [abbiamo visto](../close-reading-1/),  la lettura comporta processi di interpretazione e analisi molto più complicati. Quando leggiamo, tendiamo a saltare a comprensioni molto più complicate di un testo:
 
-> Some with a flattering word.
+* Cosa significa questo ?&#x20;
+* Quali elementi del testo trasmettono questo significato? Come lo fanno?
 
-> The coward does it with a kiss,
+I computer hanno difficoltà con concetti astratti e tendono a lavorare in gerarchie e strutture ben definite e, anche allora, conoscono solo quelle strutture di cui qualcuno ha parlato loro. Ad esempio, se dovessimo dire a un computer: "Ehi! Trovami la poesia in questa lezione!" Non avrebbe idea di cosa stiamo parlando: dobbiamo trovare un modo per dire al computer dove può trovare la poesia. In questo momento pensa solo che il testo di Wilde postato sopra non sia diverso dalle altre righe di testo in questa pagina. È tutto solo testo.
 
-> The brave man with a sword!
+Un programma per computer che lo esamina non riconoscere nemmeno quei sei versi come correlati in alcun modo. Non capiresce nulla di come i componenti interni di quelle linee siano collegati tra loro. Però esistono molte vie per rappresentare queste informazioni strutturali e possiamo fare sì che funzionino per un computer operando in un modo che tu come umano, attraverso un linguaggio e un sistema, puoi ti tuo utilizzare da solo durante la lettura.&#x20;
 
-> Oscar Wilde, _The Ballad of Reading Gaol_
+Pensa a tutte le annotazioni che metti sulle tue pagine mentre le leggi (ripensa allo scriba/copista dell'immagine che sta in apertura di questa sezione).  Ma immagina se dovessi annotare sistematicamente alcune caratteristiche strutturali del testo. Possiamo pensare al passaggio di Wilde, dopotutto, come a una serie di concetti annidati:
 
-This book studies texts and the things that computers can do with them. But, as you read along, you may notice that they cannot do all that much. Many of the methods that you will learn are simply sophisticated ways of counting words, whereas reading entails far more complicated processes of interpretation and analysis. When we read, we tend to skip to much more complicated understandings of a text:
+* C'è una strofa.&#x20;
+* Questa strofa contiene alcuni versi.&#x20;
+* Ogni riga ha del testo.
+* Parte di quel testo contiene una rima.
 
-* What does it mean?
-* What elements of the text convey meaning? How do they do so?
+E possiamo rappresentarlo graficamente, in questo modo, dove una linea nera denota i limiti della stanza, una blu orizzontale rappresenta le linee e i colori rotanti sotto le parole finali descrivono uno schema di rime:
 
-Computers have a hard with abstract concepts like this. Computers tend to work in hierarchies and clear-cut structures, and, even then, they only know about those structures that someone has told them about. For example, if we were to say to a computer, "Hey! Find me the poem in this lesson!" It would have no idea what we were talking about: we have to find some way of telling the computer where it can find the poem. Right now it just thinks the text up there is no different from the other lines of text on this page. It's all just text.
+![annotaree/marcare una poesia a mano](../assets/archives/tei-graphic.jpg)
 
-A computer program looking at the above passage from Oscar Wilde's _The Ballad of Reading Gaol_ would, most likely, not even recognize those six lines as related in any way. Nor it would understand anything about how the internal components of those lines are connected to each other. There are a number of ways to represent such structural information, and we can get towards one that works for a computer by working through a system that you might use on your own when you read.
-
-Think about all the annotations that you put on your own pages as you read them. If you are anything like us, your markings tend to be all over the place. But imagine if you were to systematically note certain structural features of the text. We can think of the Wilde passage, after all, as a series of nested concepts:
-
-* There is a stanza.
-* This stanza contains some lines.
-* Each line has text.
-* Some of that text contains a rhyme.
-
-And we can represent it graphically, like so, where a black line denotes the bounds of the stanza, a horizontal blue one represents the lines, and the rotating colors under the final words describe a rhyme scheme:
-
-![marking up poem by hand graphically](../assets/archives/tei-graphic.jpg)
-
-But you would probably need a moment to figure out what was going on if you came to this having not highlighted things yourself. We can do better. The following text annotations are a bit clearer and get closer to something we could understand without having any context. In fact, you may have worked with annotations like these before if you've taken a poetry class:
+Possiamo fare di meglio. Le seguenti annotazioni di testo sono un po' più chiare e si avvicinano a qualcosa che potremmo capire senza alcun contesto.&#x20;
 
 ![tei with text annotations](../assets/archives/tei.jpg)
 
-For a computer to understand this, we need an even more delineated way of describing the passage. We have to pay careful attention to **syntax**, the ways in which we mark particular things to provide information to the computer. Computers require very specific systematic guidelines to be able to process information, as you will learn in our chapter on "[Cyborg Readers](cyborg-readers.md)". For example, we would have to consistently use lower-case letters to represent rhyme schemes. And "line 1" to represent the first line of a poem instead of "line one." We need a clear and uniform way for describing the parts of the poem that never changes. Any variations from these rules would cause unwanted and unintended effects. Scholars have been working for years to develop such a system for describing texts in a way that can be processed by software. The **Text Encoding Initiative (TEI)**, the result of this work, is an attempt to make abstract humanities concepts legible to machines. If we apply TEI to the passage, it might begin to look something like this:
+Perché un computer lo capisca, abbiamo bisogno di un modo ancora più delineato per descrivere il passaggio. Dobbiamo prestare molta attenzione alla sintassi, ai modi in cui contrassegniamo cose particolari per fornire informazioni al computer. I computer richiedono linee guida sistematiche molto specifiche per poter elaborare le informazioni, come vedrai nella sezione sui [**Cyborg Readers**](../cyborg-readers.md). Ad esempio, dovremmo usare costantemente lettere minuscole per rappresentare schemi di rime. E "riga 1" per rappresentare la prima riga di una poesia invece di "riga uno". Abbiamo bisogno di un modo chiaro e uniforme e costante per descrivere le parti della poesia. Qualsiasi variazione a queste regole causerebbe effetti indesiderati e non intenzionali. Gli studiosi hanno lavorato per anni per sviluppare un tale sistema per descrivere i testi in un modo che possa essere elaborato dal software. La **Text Encoding Initiative (TEI)**, il risultato di questo lavoro, è un tentativo di rendere leggibili alle macchine concetti umanistici astratti. Se applichiamo  il TEI al passaggio, potrebbe iniziare ad assomigliare a questo:
 
 ```
 <lg>
@@ -63,19 +60,19 @@ For a computer to understand this, we need an even more delineated way of descri
 </lg>
 ```
 
-Notice how our concepts like 'stanza' and 'line' have here translated into particular **tags**:
+Nota che i nostri concetti come "stanza" e "linea" sono stati qui tradotti in tag particolari:
 
 ```
-Our stanza becomes marked by <lg> (line grouping).
-Our lines become marked with <l> (line).
-Each set of tags has both an opening (<lg>) and a closing (</lg>) tag. 
-Closing tags are almost identical to opening tags except for a forward slash - /.
-Tags have intuitive relationships to the concepts that they represent: <l> corresponds to line, and <lg> corresponds to line group.
+La stanza viene marcata <lg> (line grouping).
+La linea viene marcata <l> (line).
+Ogni set di tag ha sia una apertura (<lg>) che una chiusura (</lg>). 
+I tag di chiusura sono quasi identici ai tag di apertura ad eccezione di una barra-slash - /.
+I tag hanno relazioni intuitive con i concetti che rappresentano: <l> corrisponde alla linea e <lg> corrisponde al gruppo di linee
 ```
 
-The opening and closing tags wrap around and determine the locations of particular structural elements for the computer: a line exists from here to there, a stanza exists from here to there, and so on. And take note of how certain tags can exist inside others. These framing elements help the computer understand the boundaries of the concepts we are describing, and they help to provide structure to the text. Think of TEI as a new layer that exists on top of the text. Words offer one layer of meaning, but we add new layers by marking the text up with these fixed annotations. This **markup** gives the computer (or future readers) more nuanced ways of understanding how the parts in a text relate to one another.
+I tag di apertura e chiusura avvolgono e determinano le posizioni di particolari elementi strutturali per il computer: esiste una linea da qui a lì, una stanza esiste da qui a lì e così via. E prendi nota di come determinati tag possono esistere all'interno di altri. Questi elementi di inquadratura aiutano il computer a comprendere i confini dei concetti che stiamo descrivendo e aiutano a strutturare il testo. Pensa al TEI come a un nuovo livello che esiste sopra il testo. Le parole offrono un livello di significato, ma aggiungiamo nuovi livelli contrassegnando il testo con queste annotazioni fisse. Questo **markup** offre al computer (o ai futuri lettori) modi più sfumati di comprendere come le parti di un testo si relazionino tra loro.
 
-We can give further details to the poem. For example:
+Ecco come possiamo dare ulteriori dettagli alla poesia su cui siamo concentrati. Per esempio:
 
 ```
 <lg type="poem">
@@ -93,9 +90,9 @@ We can give further details to the poem. For example:
 </lg>
 ```
 
-Here we've added an extra stanza group as well as an outer tag to denote that this is, in fact, a poem. We also give **attributes** to certain tags to provide more information about them: type="stanza" tells the computer that the contents of this tag refer to a poem. Remember the nested hierarchy we talked about earlier? Notice how we represent it graphically by indentation. The outer poem element contains two stanzas, which contain some lines, and those have some text. You can run your eye down the text and see the structure. Some programming languages will actually error if you do not pay attention to such things. But, either way, it just helps us keep things clean and easy to read.
+Qui abbiamo aggiunto un gruppo di stanze extra e un tag esterno per indicare che questa è, in effetti, una poesia. Diamo anche **attributi** a determinati tag per fornire maggiori informazioni su di essi: type="stanza" dice al computer che il contenuto di questo tag si riferisce a una poesia. Ricordi la gerarchia nidificata di cui abbiamo parlato prima? Nota come la rappresentiamo graficamente per **indentazione**. L'elemento poetico esterno contiene due stanze, che contengono alcuni versi, e quelle hanno del testo. Puoi scorrere il testo e vedere la struttura. Alcuni linguaggi di programmazione in realtà commettono errori se non presti attenzione a queste cose. Ma, in ogni caso, ci aiuta solo a mantenere le cose pulite e facili da leggere.
 
-One last thing. Remember our rhyme scheme and line numbers? We can encode those too:
+Un'ultima cosa. Ricordi il nostro schema di rime e i numeri di riga? Possiamo codificare anche quelli:
 
 ```
 <lg type="stanza">
@@ -130,7 +127,11 @@ Encoding is meant to convey abstract humanities concepts to the machine so that 
 
 ### Ulteriori risorse
 
+* TEI web editor [https://digital-editing.fas.harvard.edu/editor/](https://digital-editing.fas.harvard.edu/editor/)
+* Ambiente di sviluppo integrato e collaborativo [https://atom.io/](https://atom.io)&#x20;
+* Ambiente di annotazione e analisi collabaorativa [https://portal.catma.de/catma/](https://portal.catma.de/catma/)
 * Di Jacob Heil una ottima argomentazione a favore delle pratiche di markup  "[Why We TEI](http://digitalscholarship.ohio5.org/2016/02/why-we-tei-2/)."
 * Ryan Cordell in "[On Ignoring Encoding](http://ryancordell.org/research/dh/on-ignoring-encoding/)" fornisce una grande difesa della codifica testuale come parte fondamentale delle discipline umanistiche digitali.
 * Introduzione al TEI in italiano [https://tei-c.org/Vault/P4/Lite/teiu5\_it.html](https://tei-c.org/Vault/P4/Lite/teiu5\_it.html)
 * Teorie e pratiche nell’uso dell’XML/TEI per la codifica dei testi [https://www.iliesi.cnr.it/iniziative/XML-TEI.pdf](https://www.iliesi.cnr.it/iniziative/XML-TEI.pdf)
+
