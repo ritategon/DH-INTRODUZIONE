@@ -73,6 +73,8 @@
   * [Sentiment Analysis](sentiment-analysis/sentiment-analysis.md)
   * [Sentiment Analysis in azione](sentiment-analysis/sentiment-analysis-in-action.md)
   * [Esercizio](sentiment-analysis/exercises.md)
+* [Digital Ethics](digital-ethics/README.md)
+  * [Licenze](digital-ethics/licenze.md)
 * [Conclusioni](conclusion.md)
   * [E adesso?](conclusion/where-to-go.md)
   * [Ulteriori Risorse](conclusion/resources.md)
