@@ -1,15 +1,6 @@
----
-description: una guida https://guides.lib.uci.edu/digital_humanities/mapping
----
-
 # Page 1
 
-da vedere [https://storymaps.arcgis.com/stories](https://storymaps.arcgis.com/stories) molto valido per una narrazione geo ecc ma non lavora sulla analisi del dati
+QUI PUò ESSERE UNA COSA FACILE PER CHE PUNTA SU GEO STORIA STUDIO SOCIALE RAPRESENTAZIONE NARRATA
 
-da vedere [https://mapwarper.net/](https://mapwarper.net)
+da vedere [https://storymaps.arcgis.com/stories](https://storymaps.arcgis.com/stories) molto valido per una narrazione geo ecc ma non lavora sulla analisi del dati  OK&#x20;
 
-da vedere [https://guides.temple.edu/c.php?g=78518\&p=506481](https://guides.temple.edu/c.php?g=78518\&p=506481)
-
-da vedere [https://worldmap.maps.arcgis.com/home/index.html](https://worldmap.maps.arcgis.com/home/index.html)
-
-da vedere [https://www.qgis.org/en/site/](https://www.qgis.org/en/site/)
