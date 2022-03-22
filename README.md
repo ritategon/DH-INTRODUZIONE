@@ -1,6 +1,6 @@
 ---
 coverY: 0
-cover: .gitbook/assets/IMG_20210717_170056_1.jpg
+cover: .gitbook/assets/IMG_20210717_170116.jpg
 ---
 
 # Prefazione
