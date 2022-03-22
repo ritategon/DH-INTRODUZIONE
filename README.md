@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Presentazione senza titolo (2).png
+cover: .gitbook/assets/Presentazione senza titolo (3).png
 coverY: 0
 ---
 
