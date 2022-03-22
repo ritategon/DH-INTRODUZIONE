@@ -4,7 +4,7 @@ description: una guida https://guides.lib.uci.edu/digital_humanities/mapping
 
 # Page 1
 
-da vedere [https://storymaps.arcgis.com/stories](https://storymaps.arcgis.com/stories)
+da vedere [https://storymaps.arcgis.com/stories](https://storymaps.arcgis.com/stories) molto valido per una narrazione geo ecc ma non lavora sulla analisi del dati
 
 da vedere [https://mapwarper.net/](https://mapwarper.net)
 
