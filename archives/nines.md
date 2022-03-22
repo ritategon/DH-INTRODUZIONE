@@ -12,9 +12,9 @@ Se hai mai provato ad accedere a una risorsa da un giornale online e ti sei poi 
 
 * Mantenere i materiali online richiede finanziamenti sostenuti nel tempo. Come è possibile mantenere il lavoro ad accesso aperto se presentato gratuitamente?
 
-Una volta che i materiali sono stati messi online, è possibile collegarli a una rete globale più ampia di materiali digitali simili. Allo stesso modo in cui una biblioteca raccoglie informazioni sui propri materiali per organizzarsi in modo sistematico (maggiori informazioni sui **metadati** nella nostra lezione sui "[Problemi con i dati](../../data-cleaning/problems-with-data/)"), studiosi e archivisti devono supervisionare il processo affinché questo networking avvenga. Ad esempio, gli standard tecnici cambiano (i tag TEI possono cambiare nel tempo), quindi i materiali d'archivio richiedono una manutenzione costante. Se hai mai utilizzato un archivio digitale, hai beneficiato di una quantità enorme e spesso invisibile di lavoro dietro le quinte. Il lavoro nascosto dei professionisti di gallerie, biblioteche, archivi e musei  assicura che il nostro patrimonio culturale rimanga accessibile e sostenibile per i secoli a venire.
+Una volta che i materiali sono stati messi online, è possibile collegarli a una rete globale più ampia di materiali digitali simili. Allo stesso modo in cui una biblioteca raccoglie informazioni sui propri materiali per organizzarsi in modo sistematico (maggiori informazioni sui **metadati** nella nostra lezione sui "[Problemi con i dati](../data-cleaning/problems-with-data/)"), studiosi e archivisti devono supervisionare il processo affinché questo networking avvenga. Ad esempio, gli standard tecnici cambiano (i tag TEI possono cambiare nel tempo), quindi i materiali d'archivio richiedono una manutenzione costante. Se hai mai utilizzato un archivio digitale, hai beneficiato di una quantità enorme e spesso invisibile di lavoro dietro le quinte. Il lavoro nascosto dei professionisti di gallerie, biblioteche, archivi e musei  assicura che il nostro patrimonio culturale rimanga accessibile e sostenibile per i secoli a venire.
 
-![nines splash page](../../assets/archives/nines-splash.jpg)
+![nines splash page](../assets/archives/nines-splash.jpg)
 
 La Networked Infrastructure for Nineteenth-Century Electronic Scholarship (**NINES**) è una di queste organizzazioni di discipline umanistiche digitali che tenta di facilitare il processo di archiviazione raccogliendo materiali d'archivio relativi al diciannovesimo secolo. Potresti pensare a NINES come a uno sportello unico per tutte le esigenze di archiviazione del diciannovesimo secolo. Riunisce progetti peer-reviewed su letteratura e cultura che diversi gruppi di ricerca in tutto il mondo hanno messo insieme; alcuni si concentrano su un singolo autore, altri su un genere o su una questione particolare (disabilità o cause giudiziarie). Se vai sul sito e scorri "Siti web federati", vedrai la gamma di progetti a cui puoi accedere da NINES, da uno sul commercio librario del diciottesimo secolo in Francia a un altro con le lettere di Emily Dickinson.&#x20;
 
@@ -33,13 +33,13 @@ Al di là del fatto che puoi avere molta fiducia nei progetti che trovi qui, NIN
 
 #### Un ambiente italiano
 
-![](../../.gitbook/assets/screenshot-biblio.sns.it-2022.03.21-20\_47\_24.png)
+![](../.gitbook/assets/screenshot-biblio.sns.it-2022.03.21-20\_47\_24.png)
 
 ### Una sintesi (molto parziale)
 
 Come hai capito, una grande quantità di dati di DH, cioè così concepiti  è disponibile per il **download** come file prestrutturati tramite repository online. Questi dati sono comunemente creati e ospitati da governi, università o altre grandi istituzioni. Ottenere dati da questi repository è spesso semplice come selezionare i set di dati desiderati tramite l'interfaccia utente del repository e fare clic su "download". Cerca in alcuni delle repository elencate di seguito e prova a scaricare un set di dati per te stesso.
 
-![](../../.gitbook/assets/screenshot-learning.edx.org-2022.03.22-14\_34\_55.png)
+![](../.gitbook/assets/screenshot-learning.edx.org-2022.03.22-14\_34\_55.png)
 
 ### Ulteriori risorse
 

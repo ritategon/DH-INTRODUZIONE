@@ -1,4 +1,4 @@
-# Database relazionali
+# Database Relazionali
 
 Un database è una raccolta organizzata di dati contenuti in un sistema digitale che ne consente la creazione, la modifica e il recupero. Le query – richieste di dati corrispondenti a un insieme specifico di requisiti formali – consentono di porre domande precise e non ambigue su aspetti di tutti i dati contenuti nel database in un modo a cui il software del database può rispondere efficacemente.
 
