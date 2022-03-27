@@ -1,20 +1,20 @@
 # Voyant Parte 1
 
-Upon arriving at Voyant you will encounter a space where you can upload texts. For the following graphs, we have uploaded the full text of _The String of Pearls_, the 1846-1847 penny dreadful that featured Sweeney Todd, the demon barber of Fleet Street. Feel free to [download that dataset](../assets/the-string-of-pearls-full.txt) and use it to produce the same results for following along, or upload your own texts using the window provided.
-
 Useremo uno strumento chiamato [Voyant](http://voyant-tools.org) per introdurre alcuni argomenti di base nell'analisi del testo legati alla lettura cyborg.&#x20;
 
-Ebntrando in Voyant incontrerai uno spazio in cui puoi caricare testi. Per i grafici seguenti, abbiamo caricato il testo completo di The String of Pearls, il terribile penny del 1846-1847 che comprendeva Sweeney Todd, il barbiere demone di Fleet Street. Sentiti libero di scaricare quel set di dati e usarlo per produrre gli stessi risultati per seguirlo o caricare i tuoi testi utilizzando la finestra fornita.
+Entrando in Voyant incontrerai uno spazio in cui puoi caricare testi. Per i grafici seguenti, è stato caricato il testo completo di [_The String of Pearls_](https://github.com/ritategon/DH-INTRODUZIONE/blob/0624204a28317bc3c07d9189140ac5f4bec40c7f/assets/the-string-of-pearls-full.txt), testo del 1846-1847.
 
-![Voyant splash page and text uploader](../assets/cyborg-readers/voyant-splash-page.jpg) After Voyant processes your text you'll get a series of window panes with lots of information. Voyant packages several features into one tight digital package: each pane offers you different ways of interacting with the text.
+![Voyant splash page and text uploader](../assets/cyborg-readers/voyant-splash-page.jpg)&#x20;
+
+Dopo che Voyant ha elaborato il tuo testo, otterrai una serie di riquadri con molte informazioni. Voyant racchiude diverse funzionalità in un unico pacchetto digitale compatto: ogni riquadro offre diversi modi di interagire con il testo.
 
 ![default view of string of pearls in voyant](../assets/cyborg-readers/voyant-overview.jpg)
 
-Voyant gives you lots of options, so do not be overwhelmed. Voyant provides [great documentation](http://docs.voyant-tools.org/start/) for working through their interface, and we will not rehearse them all again here. Instead, we will just focus on a few features. The top left pane may be the most familiar to you:
+Voyant ti offre molte opzioni, quindi non lasciarti sopraffare. Qui ci concentreremo solo su alcune funzionalità. Il riquadro in alto a sinistra potrebbe essere il più familiare per te:
 
 ![voyant default wordcloud of string of pearls](../assets/cyborg-readers/voyant-word-cloud-default.jpg)
 
-Word clouds like these have been made popular in recent years by [Wordle](http://www.wordle.net). They do nothing more than count the different words in a text: the more frequent a particular word appears, the larger its presence in the word cloud. In fact, Voyant allows you to see the underlying frequencies that it is using to generate the cloud if you click the "Corpus Terms" button above the word cloud.
+Le nuvole di parole come queste sono state rese popolari negli ultimi anni da Wordle. Non fanno altro che contare le diverse parole di un testo: più frequentemente una determinata parola appare, maggiore è la sua presenza nella nuvola. In effetti, Voyant ti consente di vedere le frequenze sottostanti che sta utilizzando per generare il cloud se fai clic sul pulsante "Termini del corpus" sopra il cloud di parole.
 
 ![underlying corpus term frequency](../assets/cyborg-readers/voyant-term-frequencies.jpg)
 
