@@ -16,7 +16,7 @@ Voyant ti offre molte opzioni, quindi non lasciarti sopraffare. Qui ci concentre
 
 Le nuvole di parole come queste sono state rese popolari negli ultimi anni da Wordle. Non fanno altro che contare le diverse parole di un testo: più frequentemente una determinata parola appare, maggiore è la sua presenza nella nuvola. In effetti, Voyant ti consente di vedere le frequenze sottostanti che sta utilizzando per generare il cloud se fai clic sul pulsante "Termini del corpus" sopra il cloud di parole.
 
-![frequenza dei termini mel corpus](../assets/cyborg-readers/voyant-term-frequencies.jpg)
+![Frequenza dei termini mel corpus](../assets/cyborg-readers/voyant-term-frequencies.jpg)
 
 Concordanze come queste sono alcune delle più antiche forme di analisi del testo che abbiamo e i computer sono particolarmente bravi a produrle. In effetti, un progetto di questo tipo è spesso citato come una delle storie di origine delle digital humanities: la massiccia analisi delle concordanze nelle opere di [San Tommaso d'Aquino di padre Roberto Busa](https://www.historyofinformation.com/detail.php?entryid=2321), iniziata su schede perforate negli anni Quaranta e Cinquanta. È stato uno dei primi lavori nel suo genere ed è stato determinante per gli sviluppi successivi delle DH.
 
@@ -28,7 +28,7 @@ Nota le parole che non vedi in questo elenco: parole come 'a' o 'the.' Parole co
 
 Utilizza l'elenco a discesa per passare da  'auto-detect' a 'none' (da 'rilevamento automatico' a 'nessuno'. Ora la concordanza ti mostrerà le effettive frequenze delle parole nel testo. Si noti che la frequenza di 'said' , cioè il risultato numero uno nel grafico originale, non si avvicina nemmeno all'uso di articoli, preposizioni e pronomi.
 
-![concordanze senza stopwords](../assets/cyborg-readers/stopword-free-concordance.jpg)
+![Concordanze senza stopwords](../assets/cyborg-readers/stopword-free-concordance.jpg)
 
 Parole come queste ricorrono con tale frequenza che spesso è necessario rimuoverle del tutto per ottenere risultati significativi. Ma l'elenco delle parole che potremmo voler rimuovere cambia a seconda del contesto. Ad esempio, la lingua non rimane stabile nel tempo. Decadi e secoli diversi hanno modelli linguistici diversi di cui potresti dover rendere conto. Gli studiosi shakespeariani potrebbero voler utilizzare un [elenco di stopwords dei primi tempi moderni ](https://github.com/ritategon/DH-INTRODUZIONE/blob/master/assets/early-modern-stopwords.txt)fornito da Stephen Wittek. Puoi usare questa stessa area di Voyant per modificare la stoplist per questa sessione di Voyant. In questo modo avrai un maggiore controllo sullo strumento e ti consentirà di adattarlo alle tue particolari domande di ricerca.&#x20;
 
@@ -36,13 +36,15 @@ Ci sono però alcuni casi in cui potremmo preoccuparci molto solo di queste _par
 
 Torniamo alla nuvola di parole. Utilizzando il dispositivo di scorrimento sotto la nuvola di parole, puoi ridurre o espandere il numero di termini visibili nella visualizzazione. Scorrilo completamente a destra per includere il numero massimo di parole.
 
-![voyant word clouse dense](../assets/cyborg-readers/voyant-word-cloud-dense.jpg)
+![Nuvola di parole in Voyant in forma densa ](../assets/cyborg-readers/voyant-word-cloud-dense.jpg)
 
 Just like the stopword list can be used to adjust the filters to give you meaningful results, this slider adjusts the visualization that you get. It should become clear as you play with both options that different filters and different visualizations can give you radically different readings. The results are far from objective: your own reading, the tool itself, and how you use it all shape the data as it comes to be known.
 
 This is a good reminder that you should not think of digital tools as gateways to fixed and clear truths, either about historical periods or individual texts. Voyant may seem somehow objective in that it produces mathematical calculations and data visualizations, but now you've seen that you can easily alter the results. These techniques of "distant reading" are same as the models of "close reading" we talked about earlier in that both only lead to asking more questions and positing more interpretations.
 
 That is a good thing.
+
+Proprio come l'elenco delle parole non significative può essere utilizzato per regolare i filtri per darti risultati significativi, questo dispositivo di scorrimento regola la visualizzazione che ottieni. Quando giochi con entrambe le opzioni, dovrebbe diventare chiaro che filtri e visualizzazioni diverse possono darti letture radicalmente diverse. I risultati sono tutt'altro che obiettivi: la tua lettura, lo strumento stesso e il modo in cui lo usi modellano i dati man mano che vengono conosciuti. Questo è un buon promemoria per ricordare che non dovresti pensare agli strumenti digitali come porte a verità fisse e chiare, né su periodi storici né su singoli testi. Voyant può sembrare in qualche modo obiettivo in quanto produce calcoli matematici e visualizzazioni di dati, ma ora hai visto che puoi facilmente modificare i risultati. Queste tecniche di "lettura a distanza" sono le stesse dei modelli di "lettura ravvicinata" di cui abbiamo parlato in precedenza, in quanto entrambe portano solo a porre più domande e a formulare più interpretazioni. Questa è una buona cosa.
 
 ## Interpreting Word Clouds
 
@@ -66,5 +68,6 @@ Some of these conclusions were probably pretty obvious as you read these two wor
 
 ## Further Resources
 
+* Padre Busa: [1](https://it.wikipedia.org/wiki/Roberto\_Busa) e [2](https://www.ibm.com/easytools/runtime/hspx/prod/public/X0027/PortalX/page/pageTemplate?s=78c374df5c884363b46454a5ffefb5d9\&c=6623351d59604a11b2c845760f87280f).&#x20;
 * Il testo prodotto da Geoffrey Rockwell and Stéfan Sinclair, i creatori di Voyant: [_Hermeneutica_](https://mitpress.mit.edu/books/hermeneutica).
 * Introduzione alla ricerca umanistica con l'uso dei big data di Shawn Graham, Ian Milligan, and Scott Weingart [_Exploring Big Historical Data: The Historian's Macroscope_](http://www.themacroscope.org/2.0/).
