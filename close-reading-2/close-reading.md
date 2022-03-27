@@ -62,7 +62,7 @@ Incominciando qui un close reading, potrei chiedere:
 
 Si può  rispondere a queste domande in molti modi e questa ambiguità fa parte del problema. Il close reading come metodo è un modo per allenarti a cercare i dettagli, le prove che utilizzerai per interpretare un passaggio, ma il modo in cui le usi dipende da te. Questa prova diventa il materiale che usi per produrre una tua analisi che si può chiamare il tuo close reading. Utilizzando le domande su _Anecdotes on the Countess du Barry_, potresti argomentare che queste frasi la rappresentano come un oggetto, un bene commerciale o una merce per il consumo del re. Potrei anche pensare che le parole del conte du Barry ldimostrino che è volgare e rozzo, una figura indegna di contatto con la corte di Versailles.
 
-### **Testi primari e secondari per l'analisi storica**
+### **Testi principali e secondari per l'analisi storica**
 
 Oltre a leggere attentamente i testi, devi anche pensare al tipo di testo con cui stai lavorando e alla sua relazione con il suo contesto storico. Per cominciare, va considerato se il lavoro che stai leggendo sia un **testo principale** o un **testo secondario**. La [Biblioteca Healey](https://umb.libguides.com/c.php?g=351019\&p=2367357) ha una buona serie di definizioni:
 
