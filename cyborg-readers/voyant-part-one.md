@@ -2,39 +2,39 @@
 
 Useremo uno strumento chiamato [Voyant](http://voyant-tools.org) per introdurre alcuni argomenti di base nell'analisi del testo legati alla lettura cyborg.&#x20;
 
-Entrando in Voyant incontrerai uno spazio in cui puoi caricare testi. Per i grafici seguenti, è stato caricato il testo completo di [_The String of Pearls_](https://github.com/ritategon/DH-INTRODUZIONE/blob/0624204a28317bc3c07d9189140ac5f4bec40c7f/assets/the-string-of-pearls-full.txt), testo del 1846-1847.
+Entrando in Voyant incontrerai uno spazio in cui puoi caricare testi. Per i grafici seguenti, è stato caricato il testo completo di [_The String of Pearls_](https://github.com/ritategon/DH-INTRODUZIONE/blob/0624204a28317bc3c07d9189140ac5f4bec40c7f/assets/the-string-of-pearls-full.txt) __ (puoi prenderlo e fare tu stesso le prove), testo del 1846-1847, il cui protagonista è l'inquietante Todd.
 
 ![Voyant splash page and text uploader](../assets/cyborg-readers/voyant-splash-page.jpg)&#x20;
 
 Dopo che Voyant ha elaborato il tuo testo, otterrai una serie di riquadri con molte informazioni. Voyant racchiude diverse funzionalità in un unico pacchetto digitale compatto: ogni riquadro offre diversi modi di interagire con il testo.
 
-![default view of string of pearls in voyant](../assets/cyborg-readers/voyant-overview.jpg)
+![Visualizzazione di default di String of pearls in Voyant](../assets/cyborg-readers/voyant-overview.jpg)
 
 Voyant ti offre molte opzioni, quindi non lasciarti sopraffare. Qui ci concentreremo solo su alcune funzionalità. Il riquadro in alto a sinistra potrebbe essere il più familiare per te:
 
-![voyant default wordcloud of string of pearls](../assets/cyborg-readers/voyant-word-cloud-default.jpg)
+![Voyant: nuvola di parole predefinita  String of pearls](../assets/cyborg-readers/voyant-word-cloud-default.jpg)
 
 Le nuvole di parole come queste sono state rese popolari negli ultimi anni da Wordle. Non fanno altro che contare le diverse parole di un testo: più frequentemente una determinata parola appare, maggiore è la sua presenza nella nuvola. In effetti, Voyant ti consente di vedere le frequenze sottostanti che sta utilizzando per generare il cloud se fai clic sul pulsante "Termini del corpus" sopra il cloud di parole.
 
-![underlying corpus term frequency](../assets/cyborg-readers/voyant-term-frequencies.jpg)
+![frequenza dei termini mel corpus](../assets/cyborg-readers/voyant-term-frequencies.jpg)
 
-Concordances like these are some of the oldest forms of text analysis that we have, and computers are especially good at producing them. In fact, a project of this kind is frequently cited as one of the origin stories of digital humanities: [Father Roberto Busa's massive concordance of the works of St. Thomas Aquinas](http://www.historyofinformation.com/expanded.php?id=2321), begun on punch cards in the 1940's and 1950's. It was one of the first works of its kind and was instrumental in expanding the kinds of things that we could use computers to do.
+Concordanze come queste sono alcune delle più antiche forme di analisi del testo che abbiamo e i computer sono particolarmente bravi a produrle. In effetti, un progetto di questo tipo è spesso citato come una delle storie di origine delle digital humanities: la massiccia analisi delle concordanze nelle opere di [San Tommaso d'Aquino di padre Roberto Busa](https://www.historyofinformation.com/detail.php?entryid=2321), iniziata su schede perforate negli anni Quaranta e Cinquanta. È stato uno dei primi lavori nel suo genere ed è stato determinante per gli sviluppi successivi delle DH.
 
-Busa's work took years. We can now carry out similar searches in seconds, and we can learn a lot by simply counting words. The most frequent words, by far, are 'said' and 'Todd," which makes a certain amount of sense. Many characters might speak and, when they do, they are probably talking about or to the central character, if they aren't Todd himself.
+Il lavoro di Busa ha richiesto anni. Ora possiamo eseguire ricerche simili in pochi secondi e possiamo imparare molto semplicemente contando le parole. Le parole di gran lunga più frequenti sono "detto" e "Todd", il che può parere ovvio. Molti personaggi potrebbero parlare e, quando lo fanno, probabilmente stanno parlando riguardo al o al protagonista, se non sono il protagonista stesso, Todd.
+
+Nota le parole che non vedi in questo elenco: parole come 'a' o 'the.' Parole come queste, quelle che chiamiamo **stopwords**, sono così comuni che spesso sono completamente escluse dalle analisi, il ragionamento è che diventano qualcosa di simile al rumore linguistico, mettendo in ombra le parole che potrebbero essere più significative per il documento. Ora, per vedere le parole che Voyant esclude per impostazione predefinita, passa con il mouse accanto al punto interrogativo nella parte superiore del riquadro e fai clic sulla seconda opzione da destra.&#x20;
 
 ![voyant settings](../assets/cyborg-readers/voyant-settings.jpg)
 
-Notice the words that you do not see on this list: words like 'a' or 'the.' Words like these, what we call **stopwords**, are _so_ common that they are frequently excluded from analyses entirely, the reasoning being that they become something like linguistic noise, overshadowing words that might be more meaningful to the document. To see the words that Voyant excludes by default, hover next to the question mark at the top of the pane and click the second option from the right.
+Utilizza l'elenco a discesa per passare da  'auto-detect' a 'none' (da 'rilevamento automatico' a 'nessuno'. Ora la concordanza ti mostrerà le effettive frequenze delle parole nel testo. Si noti che la frequenza di 'said' , cioè il risultato numero uno nel grafico originale, non si avvicina nemmeno all'uso di articoli, preposizioni e pronomi.
 
-Use the dropdown list to switch from 'auto-detect' to none. Now the concordance will show you the actual word frequencies in the text. Notice that the frequency of 'said', the number one result in the original graph, does not even come close to the usage of articles, prepositions, and pronouns.
+![concordanze senza stopwords](../assets/cyborg-readers/stopword-free-concordance.jpg)
 
-![concordance with no stopwords](../assets/cyborg-readers/stopword-free-concordance.jpg)
+Parole come queste ricorrono con tale frequenza che spesso è necessario rimuoverle del tutto per ottenere risultati significativi. Ma l'elenco delle parole che potremmo voler rimuovere cambia a seconda del contesto. Ad esempio, la lingua non rimane stabile nel tempo. Decadi e secoli diversi hanno modelli linguistici diversi di cui potresti dover rendere conto. Gli studiosi shakespeariani potrebbero voler utilizzare un [elenco di stopwords dei primi tempi moderni ](https://github.com/ritategon/DH-INTRODUZIONE/blob/master/assets/early-modern-stopwords.txt)fornito da Stephen Wittek. Puoi usare questa stessa area di Voyant per modificare la stoplist per questa sessione di Voyant. In questo modo avrai un maggiore controllo sullo strumento e ti consentirà di adattarlo alle tue particolari domande di ricerca.&#x20;
 
-Words like these occur with such frequency that we often need to remove them entirely in order to get meaningful results. But the list of words that we might want to remove changes depending on the context. For example, language does not remain stable over time. Different decades and centuries have different linguistic patterns for which you might need to account. Shakespearean scholars might want to use an [early modern stopword list](../assets/early-modern-stopwords.txt) provided by Stephen Wittek. You can use this same area of _Voyant_ to edit the stoplist for this session of Voyant. Doing so will give you greater control over the tool and allow you to fine-tune it to your particular research questions.
+Ci sono però alcuni casi in cui potremmo preoccuparci molto solo di queste _parole rumorose_. Possono dirci molto su come scrive un autore, cioè sul suo stile: infatti, quelle stesse parole che potrebbero sembrare non trasmettere molto sul contenuto sono gli elementi costitutivi dello stile di un autore. Manometti l'uso di preposizioni o pronomi da parte di qualcuno e cambierai rapidamente la natura della sua voce.&#x20;
 
-There are some instances in which we might care a lot about just these noisy words. They can tell us _how_ an author writes: those very words that might seem not to convey much about the content are the building blocks of an author's style. Tamper with someone's use of prepositions or pronouns and you will quickly change the nature of their voice.
-
-Let's return to the word cloud. Using the slider below the word cloud, you can reduce or expand the number of terms visible in the visualization. Slide it all the way to the right to include the maximum number of words.
+Torniamo alla nuvola di parole. Utilizzando il dispositivo di scorrimento sotto la nuvola di parole, puoi ridurre o espandere il numero di termini visibili nella visualizzazione. Scorrilo completamente a destra per includere il numero massimo di parole.
 
 ![voyant word clouse dense](../assets/cyborg-readers/voyant-word-cloud-dense.jpg)
 
