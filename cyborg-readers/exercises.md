@@ -1,18 +1,16 @@
-# Exercises
+# Esercizio
 
-* How many tokens are in the following sentence? How many types?
+* Quanti token ci sono nella frase seguente? Quanti tipi?
 
-> 'Speak!' cried Todd, 'speak! and speak the truth, or your last hour is come!
+> “Ma lor signori son troppo giusti, troppo ragionevoli...”
 
-* Write out a normalized, tokenized version of the sentence.
+* Scrivi una versione normalizzata e tokenizzata della frase.
 
-Upload the text for _The String of Pearls_ available [here](https://raw.githubusercontent.com/bmw9t/introduction-to-text-analysis/master/assets/the-string-of-pearls-full.txt) into [_Voyant_](voyant-tools.org). Analyze the results. If things seem particularly slow, you can try working with a smaller chunk of the text.
+Carica in Voyant il testo del primo capitolo de _I promessi Sposi_ disponibile [qui](https://github.com/ritategon/DH-INTRODUZIONE/blob/0624204a28317bc3c07d9189140ac5f4bec40c7f/assets/I%20promessi%20sposi-%20cap.1). Analizza i risultati.&#x20;
 
-* Use Voyant to examine gender in the text. What kind of words do you need to look at? Which parts of Voyant? Make some sort of observations about your findings \(3-5 sentences\). Feel free to include a screenshot of the visualizations to help describe your observations.
-* How would you measure moments of heightened suspense in the text? Take a spin at doing it if you think have a solid idea. Or simply theorize in 3-5 sentences.
+* Usa Voyant per esaminare il genere nel testo. Che tipo di parole devi guardare? Quali parti di Voyant? Fai delle osservazione sui tuoi risultati (3-5 frasi). Sentiti libero di includere uno screenshot delle visualizzazioni per aiutare a descrivere le tue osservazioni.
+* Come misureresti i momenti di maggiore suspense nel testo? Prova a farlo se pensi di avere un'idea solida. O semplicemente teorizza in 3-5 frasi.
 
-Now upload the text for the various articles on [_Lloyd's Weekly Newspaper about The Hampstead Murders_](http://vrchristensen.com/http:/vrchristensen.com/category/newspaper-articles/lloyds-weekly-newspaper/) to Voyant and analyze them. This is the coverage of a late nineteenth-century murder case with a female victim and perpetrator.
+Carica sotto il file della tua attività.&#x20;
 
-* What is one other thing that you notice about the word cloud for this text? How might you back up these claims and interpretations if you were to read this series of articles? 3-5 sentences.
-
-
+{% embed url="https://digipad.app/p/136298/0e3d89fbf1039" %}
