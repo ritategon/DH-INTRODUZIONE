@@ -66,5 +66,5 @@ Some of these conclusions were probably pretty obvious as you read these two wor
 
 ## Further Resources
 
-* Geoffrey Rockwell and Stéfan Sinclair, the creators of Voyant, have a great book on using it for text analysis: [_Hermeneutica_](https://mitpress.mit.edu/books/hermeneutica).
-* Shawn Graham, Ian Milligan, and Scott Weingart have an excellent introduction to working with humanities data in [_Exploring Big Historical Data: The Historian's Macroscope_](http://www.themacroscope.org/2.0/).
+* Il testo prodotto da Geoffrey Rockwell and Stéfan Sinclair, i creatori di Voyant: [_Hermeneutica_](https://mitpress.mit.edu/books/hermeneutica).
+* Introduzione alla ricerca umanistica con l'uso dei big data di Shawn Graham, Ian Milligan, and Scott Weingart [_Exploring Big Historical Data: The Historian's Macroscope_](http://www.themacroscope.org/2.0/).
