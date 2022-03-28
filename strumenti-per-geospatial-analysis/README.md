@@ -16,6 +16,8 @@ da vedere [https://worldmap.maps.arcgis.com/home/index.html](https://worldmap.ma
 
 da vedere [https://www.qgis.org/en/site/](https://www.qgis.org/en/site/)
 
+da vedere [https://exposingtheinvisible.org/en/guides/geolocating-images-suncalc](https://exposingtheinvisible.org/en/guides/geolocating-images-suncalc)
+
 * [pag1](page-1.md)
 * [pag2](page-2.md)
 * [exx](eserciziox.md)
