@@ -8,7 +8,7 @@
 
 > There is a finite amount of time that you can spend reading.
 >
-> (trad. C'è un tempo limitato che puoi dedicare alla lettura.)
+> (trad. C'è un tempo limitato che si può dedicare alla lettura.)
 
 La lezione era che ci sono limiti alla quantità di materiale che anche il lettore più vorace può assorbire. Si può sentire il bisogno di leggere tutto, ma le possibilità sono oggettivamnete limitate. Quindi vale la pena di leggere quel che si può con attenzione.
 
@@ -53,7 +53,7 @@ Per la verità, non è necessario sapere nulla di statistica o informatica per p
 
 Non si può leggere tutto, abbiamo detto. Invece, concentriamoci su ciò in cui gli esseri umani sono bravi: leggere con cura e offrire interpretazioni. Il computer può lavorare con grandi numeri molto più velocemente di noi. Il  nostro compito è aiutarlo a farlo in modo significativo.
 
-## Further Reading
+### Ulteriori Letture
 
 * Ryan Cordell fornisce un utile esame dell'interconnessione tra lettura ravvicinata e distante in "[Scale as Deformance](http://ryancordell.org/research/scale-as-deformance/)"
 
