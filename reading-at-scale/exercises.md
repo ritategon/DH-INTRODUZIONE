@@ -1,3 +1,9 @@
+---
+description: >-
+  metti un dip pad che può stare aperto o un perusal che prrò è più chiuso e
+  difficile da gestire
+---
+
 # Esercizio
 
 Porta pazienza se non sai l'inglese (ricorda il tasto destro), ma qui puoi vedere tre progetti che adottano approcci di lettura a distanza di vario genere:
@@ -6,12 +12,13 @@ Porta pazienza se non sai l'inglese (ricorda il tasto destro), ma qui puoi veder
 2. [Viral Texts](http://viraltexts.org)
 3. [Syuzhet Part One](http://www.matthewjockers.net/2015/02/02/syuzhet/), [Syuzhet Part Two](http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/)
 
-Select one of the projects and familiarize yourself with it. Answer the following questions:
+Seleziona uno dei progetti e familiarizza con esso. Rispondi poi alle seguenti domande:&#x20;
 
-* What is their object of study? What is their corpus?
-* What research questions are they interested in answering?
-* What methodologies do they use?
-* Select one visualization from the project. Screenshot it, and explain what is going on in the image.
-* What do you think about the project? What are some questions that you have about it? What interests you about it?
+* Qual è il loro oggetto di studio?&#x20;
+* Qual è il loro corpus?&#x20;
+* A quali domande di ricerca sono interessati a rispondere?&#x20;
+* Quali metodologie utilizzano?&#x20;
+* Seleziona una visualizzazione dal progetto. Catturalo e spiega cosa sta succedendo nell'immagine.&#x20;
+* Cosa ne pensi del progetto? Hai domane a riguardo? Cosa trovi interesante?
 
-These projects may incorporate methodologies, tools, or programming languages that we have not covered in this book. Don't worry! You are not expected to understand everything.
+Questi progetti possono incorporare metodologie, strumenti o linguaggi di programmazione che non abbiamo trattato in questo libro. Non preoccuparti! Non ci si aspetta che tutto sia già noto e chiaro.
