@@ -1,6 +1,6 @@
 # Ulteriori Risorse
 
-Come hai visto, ogni singola lezione contiene letture linkate e/o suggerite sul particolare argomento discusso in quella sezione. Qui trovi importanti archivi, una sintesi degli strumenti usati e qualche utile tutorial se ti sei appassionato e vuoi continuare.
+Come hai visto, ogni singola lezione contiene letture linkate e/o suggerite sul particolare argomento discusso in quella sezione. Qui trovi importanti archivi, una sintesi degli strumenti usati (con un paio di aggiunte) e qualche utile tutorial se ti sei appassionato e vuoi continuare per conto tuo.
 
 ### Archivi
 
@@ -18,7 +18,7 @@ Come hai visto, ogni singola lezione contiene letture linkate e/o suggerite sul 
 * [Sens Project](https://skene.dlls.univr.it/sens-corpora-tools-basic-guide/)&#x20;
 * [Digital Humanities Zotero Group](https://www.zotero.org/groups/digital\_humanities/items)
 
-### Sintesi degli strumenti presentati (ok)
+### Sintesi degli strumenti presentati&#x20;
 
 * [Google NGram Viewer](https://books.google.com/ngrams)
 * [Autorship Attribution](https://neoneuro.com/products/authorship-attribution)
