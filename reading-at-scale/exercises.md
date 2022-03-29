@@ -1,13 +1,10 @@
-# Exercises
+# Esercizio
 
-Here are three projects that take distant reading approaches of various kinds:
+Porta pazienza se non sai l'inglese (ricorda il tasto destro), ma qui puoi vedere tre progetti che adottano approcci di lettura a distanza di vario genere:
 
-1. [Quantifying Kissinger](http://www.quantifyingkissinger.com/)
-
-2. [Viral Texts](http://viraltexts.org/)
-
+1. [Quantifying Kissinger](https://blog.quantifyingkissinger.com)
+2. [Viral Texts](http://viraltexts.org)
 3. [Syuzhet Part One](http://www.matthewjockers.net/2015/02/02/syuzhet/), [Syuzhet Part Two](http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/)
-
 
 Select one of the projects and familiarize yourself with it. Answer the following questions:
 
@@ -18,4 +15,3 @@ Select one of the projects and familiarize yourself with it. Answer the followin
 * What do you think about the project? What are some questions that you have about it? What interests you about it?
 
 These projects may incorporate methodologies, tools, or programming languages that we have not covered in this book. Don't worry! You are not expected to understand everything.
-
