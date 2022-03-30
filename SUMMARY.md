@@ -48,7 +48,7 @@
 * [Analisi Geospatiale](strumenti-per-geospatial-analysis/README.md)
   * [Page 1](strumenti-per-geospatial-analysis/page-1.md)
   * [Page 2](strumenti-per-geospatial-analysis/page-2.md)
-  * [Eserciziox](strumenti-per-geospatial-analysis/eserciziox.md)
+  * [Esercizio](strumenti-per-geospatial-analysis/eserciziox.md)
 * [Cyborg Readers](cyborg-readers.md)
   * [Come un Computer Legge un Testo](cyborg-readers/computer-reading.md)
   * [Voyant Parte 1](cyborg-readers/voyant-part-one.md)

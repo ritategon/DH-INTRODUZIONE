@@ -1,7 +1,3 @@
----
-description: Grazie per essere arrivato sino a qui :)
----
-
 # Conclusioni
 
 * [Digital Ethics](conclusion/digital-ethics.md)

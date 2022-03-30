@@ -8,9 +8,9 @@ description: >-
 
 # Sviluppi
 
-[https://deepmind.com/blog/article/Predicting-the-past-with-Ithaca\
-https://www.marktechpost.com/2022/03/14/deepmind-researchers-develop-ithaca-a-deep-neural-network-for-restoring-and-attributing-ancient-texts/\
-https://www.nature.com/articles/s41586-022-04448-z.pdf\
+vvvv [https://ithaca.deepmind.com/](https://ithaca.deepmind.com)
+
+bbbb [https://colab.research.google.com/github/deepmind/ithaca/blob/master/colabs/ithaca\_inference.ipynb#scrollTo=5s0YKY6eLKyI](https://colab.research.google.com/github/deepmind/ithaca/blob/master/colabs/ithaca\_inference.ipynb#scrollTo=5s0YKY6eLKyI)[\
 ](https://deepmind.com/blog/article/Predicting-the-past-with-Ithacahttps://www.marktechpost.com/2022/03/14/deepmind-researchers-develop-ithaca-a-deep-neural-network-for-restoring-and-attributing-ancient-texts/https://www.nature.com/articles/s41586-022-04448-z.pdf)
 
 ![](../.gitbook/assets/screenshot-deepmind.com-2022.03.21-09\_13\_16.png)

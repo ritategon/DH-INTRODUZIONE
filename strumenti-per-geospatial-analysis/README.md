@@ -18,6 +18,6 @@ da vedere [https://www.qgis.org/en/site/](https://www.qgis.org/en/site/)
 
 da vedere [https://exposingtheinvisible.org/en/guides/geolocating-images-suncalc](https://exposingtheinvisible.org/en/guides/geolocating-images-suncalc)
 
-* [pag1](page-1.md)
+* [pag1](page-1.md) da riniminare e linkare
 * [pag2](page-2.md)
-* [exx](eserciziox.md)
+* [Esercizio](eserciziox.md)
