@@ -2,7 +2,7 @@
 
 Questo è un tema importante che richiederebbe almeno una sua propria sezione. Invece ci accontentiamo di un passaggio di sorvolo.&#x20;
 
-La questione ruota intorno a due interessi rilevanti: la tutela dell'autorialità e la necessità della apertura dei prodotti della ricerca e della conoscenza.&#x20;
+La questione ruota intorno a due interessi rilevanti: la tutela dell'autorialità e la necessità della apertura dei prodotti della ricerca e della conoscenza, certo per rendere ragione dei contributi economici eventualmente ricevuto per la ricerca, ma soprattutto perchè è dimostrato che la condivisione e la contaminazione sono essenziali per il progresso degli individui e della società.
 
 In [questa pagina](https://it.wikipedia.org/wiki/Open\_access) puoi trovare informazioni sulle forme dell'**OA, Open Access** per le pubblicazioni scientifiche, introdotte accanto al rilascio in **copyright,** e le importanti dichiarazioni universali a partire dalla Dichiarazione di Budapest del 2001 che hanno determinato il cambio di paradigma cui stiamo assistendo.
 

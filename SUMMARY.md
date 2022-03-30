@@ -75,5 +75,5 @@
   * [Esercizio](sentiment-analysis/exercises.md)
 * [Conclusioni](conclusion.md)
   * [Digital Ethics](conclusion/digital-ethics.md)
-  * [E adesso?](conclusion/where-to-go.md)
+  * [Sviluppi](conclusion/where-to-go.md)
   * [Ulteriori Risorse](conclusion/resources.md)
