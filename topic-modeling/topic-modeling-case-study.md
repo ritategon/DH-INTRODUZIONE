@@ -1,12 +1,14 @@
-# Topic Modeling Case Study
+# Un Esempio di Topic Modeling
 
-In the previous section, we described how a single text could be broken up into a list of words and their frequencies, and we also suggested that a single text might be composed of any number of discourses or topics. Given enough time and energy, we can imagine a tool that would infer these topics for us without us having to read all of our documents first. The approach that we will take is a technique called **topic modeling**, a computational method that allows you to discover the topics that construct a text. Topic modeling does so by exercising a variety of statistical protocols over and over again on a text. Executing topic modeling projects yourself takes more hands-on programming than we want to introduce in this coursebook. So instead of exercising the techniques themselves or offering a tool for doing so, we are going to attempt to describe what topic modeling is and how to interpret results from it using a case study. Come talk to either of us in person if you want to go further and explore topic modeling on your own.
+Nella sezione precedente, è stato descritto come un singolo testo potrebbe essere suddiviso in un elenco di parole con le relative frequenze; abbiamo anche suggerito che un singolo testo potrebbe essere composto da un numero qualsiasi di topic. Possiamo immaginare uno strumento che possa inferire/dedurre questi topic per noi senza che dobbiamo prima leggere tutti i nostri documenti. L'approccio è appunto il **topic modeling**, un metodo computazionale che permette di scoprire i topic che costruiscono un testo. Esso viene realizzato esercitando una varietà di protocolli statistici più e più volte su un testo. L'esecuzione di progetti di topic modeling richiede conoscenze e abilità di programmazione superiori a quelle previste in questo corso introduttivo. Quindi, invece di esercitare le tecniche stesse o offrire uno strumento per farlo, l'obiettivo qui è cercare di descrivere e far intendere meglio cosa il topic modeling sia  e come interpretarne i risultati utilizzando un caso di studio. Se vuoi andare oltre, molto bene: nella sezione _Ulteriori Risorse_ posta sotto, potrai trovare qualche utile approfondimento.
 
-We will do a lot of statistical hand-waving in what follows, but we have some extra resources at the bottom of the page if you are interested in learning more about the mechanics of how topic modeling works. In the previous [Bags of Words](/topic-modeling/bags-of-words.md) lesson, we walked through a paragraph and suggested that by skimming it you could infer the types of topics that it discussed. Topic modeling works in a similar way: the software looks for words that tend to occur next to each in statistically significant ways. The sum total of these words that occur next to each other becomes legible to a reader as a topic. The previous lesson looked at a single paragraph to think about the kinds of topics it might contain. You can imagine how this would get complicated very quickly when working beyond such a small scale. As humans, we have an upper limit to how much we can hold in our head: we can only keep a few topics in our brains at a time, a few texts in our thoughts. A computer doesn't have that same problem. Topic modeling software can process hundreds of thousands of texts, over and over again, refining its sense of how all the pieces fit together. It can give us a sense of the themes and discourses that run beneath an entire corpus.
-
-So when you run topic modeling software, it looks for words that occur near each other in texts in meaningful ways over the course of the corpus. In most cases, it looks for words that occur in documents together. Remember, these words are not dependent on their location _within_ the document. Topic modeling works on a bag of words model that only cares about whether or not the words occur within the text, not their position within it. But you might occassionally **chunk** larger documents into a series of paragraphs so that the software thinks about them each as separate documents for finer granularity. There are a number of similar tricks for refining your processes
+Nella precedente lezione Bag of Words, abbiamo esaminato un paragrafo e suggerito che, scorrendolo, avresti potuto inferire/dedurre i topic presenti. Il topic modeling funziona in modo simile: il software cerca le parole che tendono a comparire accanto a ciascuna in modi statisticamente significativi. La somma totale di queste parole che ricorrono una accanto all'altra diventa leggibile per un lettore come topic. La lezione precedente ha esaminato un singolo paragrafo ma puoi immaginare come questo si complichi molto rapidamente quando si lavora oltre una scala così piccola. Abbiamno limiti cognitivi e possiamo mantenere solo pochi topic alla volta nel nostro cervello, pochi testi nei nostri pensieri. Un computer non ha lo stesso problema. Il software di modellazione degli argomenti può elaborare centinaia di migliaia di testi, più e più volte, perfezionando il senso di come tutti i pezzi si incastrano. Può darci un'idea dei topic presenti in un intero corpus.
 
 After topic modeling a whole corpus, depending on the software you use, you will often be given a lot of information that can be hard to parse. All of these add up to the results of your project. The first important piece, a topic/term matrix, will contain lines that look something like this:
+
+Quindi, quando si esegue un software di topic modeling, eso cerca le parole che ricorrono l'una vicino all'altra nei testi in modi significativi attraverso il corpus caricato. Nella maggior parte dei casi, cerca le parole che ricorrono insieme nei documenti che come ricordi, non dipendono dalla loro posizione all'interno del documento: infatti, il topic modeling funziona su un modello di bag of words a cui importa solo se le parole si trovino o meno all'interno del testo, non la loro posizione al suo interno. Ma occasionalmente potresti suddividere (la parola tecnica è fare **chunk** documenti più grandi in una serie di paragrafi in modo che il software li consideri ciascuno come documenti separati per una maggiore granularità. Esistono numerosi trucchi simili per perfezionare i processi.
+
+Dopo aver modellato un argomento su un intero corpus, a seconda del software utilizzato, spesso ti verranno fornite molte informazioni che possono essere difficili da analizzare. Tutti questi si sommano ai risultati del tuo progetto. Il primo pezzo importante, un argomento
 
 ```
 0 2.5 librivox httpupload mp orgshareupload duration mb het de heres van ik size een je en dat te bart voor
@@ -44,7 +46,7 @@ The real work of topic modeling involves interpreting these topics in ways to ma
 
 Looking at these topics, we might see that a number of them deal with aspects of sound recording. In particular, the texts often tend to talk about the act of producing these recordings. This makes sense, as users of LibriVox actually create and upload recordings themselves. Topics 15 and 17 are also notable, as they represent French and German language topics. In any large corpus that is primarily one language, texts written in other languages will tend to group together. If we assumed before that medical language would tend to occur next to each other, this makes sense. French vocabulary is far more likely to appear next to other French vocabulary, in a text that is entirely French, relative to a larger corpus that is primarily in English.
 
-For each document in the corpus, topic modeling also spits out a matrix showing what percentage each topic is likely to contribute to that text. The matrix might contain hundreds of thousands of segments that look something like this \(modified slightly for readability\):
+For each document in the corpus, topic modeling also spits out a matrix showing what percentage each topic is likely to contribute to that text. The matrix might contain hundreds of thousands of segments that look something like this (modified slightly for readability):
 
 ```
 0 httpsforum.librivox.orgviewtopic.phpf23t2 
@@ -68,7 +70,6 @@ For each document in the corpus, topic modeling also spits out a matrix showing 
 4 0.035211267605633804 
 3 0.035211267605633804 
 0 0.035211267605633804 
-
 ```
 
 The first line here contains information about the document, an ID for the document and then a name for it. In this case, each forum post has its own URL, so we are using the URL for the ID:
@@ -77,9 +78,7 @@ The first line here contains information about the document, an ID for the docum
 0 httpsforum.librivox.orgviewtopic.phpf23t2
 ```
 
-This post is post number 0, the first post chronicled by the topic modeling software. Brandon stripped out some of the punctuation, but you probably recognize what follows as looking sort of like a URL. This topic modeling information corresponds to a forum post that exists at this URL:
-[https://forum.librivox.org/viewtopic.php?f=23&t=2](https://forum.librivox.org/viewtopic.php?f=23&t=2).
-What follows is a list of each topic our topic modeling software produced and the weight of each topic for that document:
+This post is post number 0, the first post chronicled by the topic modeling software. Brandon stripped out some of the punctuation, but you probably recognize what follows as looking sort of like a URL. This topic modeling information corresponds to a forum post that exists at this URL: [https://forum.librivox.org/viewtopic.php?f=23\&t=2](https://forum.librivox.org/viewtopic.php?f=23\&t=2). What follows is a list of each topic our topic modeling software produced and the weight of each topic for that document:
 
 ```
 12 0.14788732394366197
@@ -87,38 +86,28 @@ What follows is a list of each topic our topic modeling software produced and th
 11 0.07746478873239436
 17 0.035211267605633804
 15 0.035211267605633804
-
 ```
 
-So topics 12, 1, and 11, in that order, are the three most prominent topics in the document. Topic 12 has a weight of 14% in the document, and so on. Topic 12 is far more likely to appear in this document than topics 17 and 15. Using this information, if we know the dates that each text was published, we can actually determine the rise and fall in prominence of different topics over time \(see the Further Resources on this page for cautions when doing so\). We could see how discourse ebbs and flows over the course of our corpus. Remember topics 15 and 17, our German and French language topics? They aren't especially prominent in this first text, which makes sense because it was written in English. There is a pretty low likelihood that German or French words are going to show up in an otherwise English text, all things considered. But we can use this information to get a sense of where French and German texts are likely to occur by charting the ebb and flow of the French and German topics over time:
+So topics 12, 1, and 11, in that order, are the three most prominent topics in the document. Topic 12 has a weight of 14% in the document, and so on. Topic 12 is far more likely to appear in this document than topics 17 and 15. Using this information, if we know the dates that each text was published, we can actually determine the rise and fall in prominence of different topics over time (see the Further Resources on this page for cautions when doing so). We could see how discourse ebbs and flows over the course of our corpus. Remember topics 15 and 17, our German and French language topics? They aren't especially prominent in this first text, which makes sense because it was written in English. There is a pretty low likelihood that German or French words are going to show up in an otherwise English text, all things considered. But we can use this information to get a sense of where French and German texts are likely to occur by charting the ebb and flow of the French and German topics over time:
 
-![topic modeling french and german topics over time](/assets/topic-modeling/topic-modeling-french-german.jpg)
+![topic modeling french and german topics over time](../assets/topic-modeling/topic-modeling-french-german.jpg)
 
 We get clear spikes in the German topic from September to December 2014, and slightly smaller peaks in the French topic in late 2007 and 2008. Since we know that these topics represent pretty coherent approximations of the use of French and German language in the corpus, we can use techniques like these to argue that these particular moments represent periods of heightened activity by the French and German communities of LibriVox users. Based on this evidence, we could make arguments about the global interconnectedness of the community of LibriVox users. We might then take this information back to the corpus and ask new questions based on this data.
 
 * What kinds of books are important to these communities?
-
 * What kinds of conversations are they having?
-
 * Why do these languages spike at these particular times?
 
+Until now, we have stressed approaching text analysis with a clear sense of your interests and the research questions that drive them. Topic modeling works a little differently: it is more useful for exploratory work. We call topic modeling **unsupervised classification** because we are asking the computer to analyze and mark a text without giving it any clear directions. We just say, "here is some text. Do your thing and tell me what you find." A **supervised classifier** would take information from us to help it make decisions. We might say, "read this text. If it has more than fifty uses of the word 'crime' mark it as 'detective fiction.' If it has fifty uses of the word 'love,' mark it as 'romance'" (more on supervised classifieres in the next chapter). Unsupervised classifiers like topic modeling instead know very little about the underlying texts that they are examining. Instead, they process them based on an underlying model.
 
-Until now, we have stressed approaching text analysis with a clear sense of your interests and the research questions that drive them. Topic modeling works a little differently: it is more useful for exploratory work. We call topic modeling **unsupervised classification** because we are asking the computer to analyze and mark a text without giving it any clear directions. We just say, "here is some text. Do your thing and tell me what you find." A **supervised classifier** would take information from us to help it make decisions. We might say, "read this text. If it has more than fifty uses of the word 'crime' mark it as 'detective fiction.' If it has fifty uses of the word 'love,' mark it as 'romance'" \(more on supervised classifieres in the next chapter\). Unsupervised classifiers like topic modeling instead know very little about the underlying texts that they are examining. Instead, they process them based on an underlying model.
-
-In the last lesson we called the **bag of words** model an epistemology of texts, a way of understanding documents that might be different from what you were familiar with. In the case of the kind of topic modeling we have been discussing, that model could further be called **Latent Dirichlet Allocation \(LDA\)**. We won't go into any detail about the specifics of LDA, but it is important to know that this is the model you are working with and that LDA assumes that a text is constructed from a small number of topics.
+In the last lesson we called the **bag of words** model an epistemology of texts, a way of understanding documents that might be different from what you were familiar with. In the case of the kind of topic modeling we have been discussing, that model could further be called **Latent Dirichlet Allocation (LDA)**. We won't go into any detail about the specifics of LDA, but it is important to know that this is the model you are working with and that LDA assumes that a text is constructed from a small number of topics.
 
 Don't be alarmed if topic modeling seems much more abstract than the material we have covered until now. To really understand how topic modeling works under the hood, you will need to have a grasp of a variety of different topics in machine learning and statistics. We are not so concerned that you understand these specifics. We care, instead, that you understand the idea behind it, have some sense of how to read make sense of other topic modeling projects, and be able to explain them to others in general terms.
 
-## Further Resources
+## Ulteriori risorse
 
-* Andrew Goldstone and Ted Underwood have a great case study of [topic modeling ](https://andrewgoldstone.com/blog/2012/12/13/pmla/)_[PMLA](https://andrewgoldstone.com/blog/2012/12/13/pmla/)_ that also includes lots of useful introductions to topic modeling.
-
+* Andrew Goldstone and Ted Underwood have a great case study of [topic modeling ](https://andrewgoldstone.com/blog/2012/12/13/pmla/)[_PMLA_](https://andrewgoldstone.com/blog/2012/12/13/pmla/) that also includes lots of useful introductions to topic modeling.
 * The Programming Historian has a [good introduction](http://programminghistorian.org/lessons/topic-modeling-and-mallet) for executing topic modeling yourself using Mallet. It gets technical, but the early surveys of what topic modeling is can be very helpful.
-
 * For a more thorough explanation of how the algorithm behind topic modeling works, you might take a look at Lisa Rhody's [class exercise for teaching LDA](https://github.com/lmrhody/topicmodelgame).
-
 * Miriam Posner is helpful on [understanding topic modeling results](http://miriamposner.com/blog/very-basic-strategies-for-interpreting-results-from-the-topic-modeling-tool/).
-
 * Benjamin Schmidt in "[Words Alone: Dismantling Topic Modeling in the Humanities](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/#appendix)" provides very useful cautions when working with topic models over time.
-
-
