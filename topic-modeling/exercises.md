@@ -1,6 +1,26 @@
 # Esercizio
 
-[https://techblog.smc.it/it/2021-10-22/topic-modelling](https://techblog.smc.it/it/2021-10-22/topic-modelling)
+ancora da vedere confermnare ecc
+
+{% embed url="https://radimrehurek.com/gensim" %}
+
+{% embed url="https://www.escriptorium.uk/send_email_signup.php" %}
+
+{% embed url="https://thedigitalskye.com/2020/11/07/topic-modelling-for-absolute-beginners" %}
+
+{% embed url="https://lib.manhattan.edu/c.php?g=728252&p=5752366" %}
+
+{% embed url="http://programminghistorian.org/en/lessons/topic-modeling-and-mallet" %}
+
+{% embed url="https://github.com/lmrhody/topicmodelgame" %}
+
+{% embed url="http://miriamposner.com/blog/very-basic-strategies-for-interpreting-results-from-the-topic-modeling-tool" %}
+
+{% embed url="https://kate-editor.org/it" %}
+
+{% embed url="http://www.r2d3.us/visual-intro-to-machine-learning-part-1" %}
+
+{% embed url="https://techblog.smc.it/it/2021-10-22/topic-modelling" %}
 
 Ci sono due possibilità.
 
