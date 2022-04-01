@@ -32,11 +32,11 @@ Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuo
 
 * [Crowdsorcing ](../crowdsourcing/crowdsourcing.md)
 * [Archivi Digitali](../archives.md)
-* [Strumenti per la Geospatial Analysis](../strumenti-per-geospatial-analysis/)
+* [Analisi Geospaziale ](../strumenti-per-geospatial-analysis/)
 
 ### Incontro 4
 
-* [Strumenti per la Geospatial Analysis](../strumenti-per-geospatial-analysis/)
+* [Analisi Geospaziale](../strumenti-per-geospatial-analysis/)
 
 ### Incontro  5
 

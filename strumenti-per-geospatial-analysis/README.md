@@ -1,5 +1,5 @@
 ---
-description: una guida https://guides.lib.uci.edu/digital_humanities/mapping
+description: una guida https://guides.lib.uci.edu/digital_humanities/mapping ok
 ---
 
 # Analisi Geospatiale
@@ -18,6 +18,6 @@ da vedere [https://www.qgis.org/en/site/](https://www.qgis.org/en/site/)
 
 da vedere [https://exposingtheinvisible.org/en/guides/geolocating-images-suncalc](https://exposingtheinvisible.org/en/guides/geolocating-images-suncalc)
 
-* [pag1](page-1.md) da riniminare e linkare
+* [pag1](page-1.md) da riniminare&#x20;
 * [pag2](page-2.md)
-* [Esercizio](eserciziox.md)
+* [Esercizio](eserciziox.md)nnn

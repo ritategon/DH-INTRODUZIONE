@@ -1,8 +1,8 @@
 ---
 description: >-
-  Si preferisce lasciare la dicitura originale Close Reading e Distant Reading
-  preferendole alla traduzione "lettura ravvicinata e distante". Si introducono
-  definizioni e fonti di riferimento
+  Si lascia la dicitura originale Close Reading e Distant Reading preferendole
+  alla traduzione "lettura ravvicinata e distante". Si introducono definizioni e
+  fonti di riferimento.
 ---
 
 # Close e Distant Reading
@@ -15,7 +15,7 @@ description: >-
 
 ![](../.gitbook/assets/screenshot-carletonu.pressbooks.pub-2022.02.22-20\_18\_32.png)
 
-### Proviamo ad approfondire&#x20;
+### Proviamo ad entrae nella questione&#x20;
 
 Il _**close reading**_ è un'attività che ti tiene concentrati su e all'interno di un testo, valutando singole parole, forme di pensiero, dispositivi retorici, modelli di descrizione e caratterizzazione e così via, al fine di comprendere il risultato artistico del testo. Si distingue dal e si intreccia con il _**distant reading**_, che ha un significato specifico (coniato da [Franco Moretti](https://it.wikipedia.org/wiki/Franco\_Moretti)), ma può anche riferirsi generalmente all'uso di metodi computazionali per l'analisi dei testi letterari.
 
@@ -135,7 +135,9 @@ Abbiamo già visto degli strumenti. Di seguito si fa un po' di orfine e se ne in
 * [MALLET:](http://mallet.cs.umass.edu) Maps patterns across texts with various tools.
 * [Diorisis](https://www.crs.rm.it/diorisissearch/). Vd qui per una presentazione [Brill](https://brill.com/view/journals/rdj/3/1/article-p55\_55.xml?language=en).
 
-
+{% hint style="info" %}
+Il [Roy Rosenzweig Center for History and New Media](https://rrchnm.org) detiene il copyright per gli estratti usati nella sezione [Close e Distant Reading](./). Il testo completo del passaggio può essere trovato nel sito CHNM [qui](https://revolution.chnm.org/d/261/).
+{% endhint %}
 
 ### Risorse Aggiuntive
 
