@@ -8,15 +8,11 @@ Proviamo un altro esempio, adattato dal [farmers' market game](https://github.co
 
 Now imagine, instead, that we give you a slightly different exercise. We give you a bag filled with dragon fruit, star fruit, and durian. Imagine that you don't know anything about these fruits. We say, "find me all the durian." You could sort the fruit into piles all day long, but, if you don't know anything about durian, you won't be able to pick out the fruit you need. So we give you a little **training** by first bringing in ten examples of durian for you to study. We say, "Look at them. Study them. Pay attention to these characteristics: durian have spikes, they are big, and they are yellow-ish." We might also give you several examples of non-durian fruit so that you can get a sense of what durian doesn't look like. This set of fruit, where we tell you the correct labels for the fruit, is called our **training set**. Now, you have something to work with! You pull a fruit. No spikes. So you start a pile called not durian. The next one has spikes. Durian! You keep going until you have two piles, one that contains fruit that you think is a durian and one that contains fruit that you think are not.
 
-Ora immagina, invece, che ti diamo un esercizio leggermente diverso. Ti diamo una borsa piena di frutti del drago, frutti di stella e durian. Immagina di non sapere nulla di questi frutti. Diciamo "trovami tutto il durian". Puoi ordinare la frutta in pile tutto il giorno, ma, se non sai nulla di durian, non sarai in grado di raccogliere la frutta di cui hai bisogno. Quindi ti diamo un po' di formazione portando prima dieci esempi di durian da studiare. Diciamo: "Guardali. Studiali. Presta attenzione a queste caratteristiche: i durian hanno punte, sono grandi e sono giallastri". Potremmo anche darti diversi esempi di frutta non durian in modo che tu possa avere un'idea di come non appare il durian. Questo set di frutta, dove ti diciamo le etichette corrette per la frutta, è chiamato il nostro set di formazione. Ora hai qualcosa con cui lavorare! Tiri un frutto. Nessun picco. Quindi inizi una pila chiamata non durian. Il prossimo ha dei picchi. Duriano! Continua finché non hai due pile, una che contiene frutta che ritieni sia un durian e una che contiene frutta che pensi non lo siano.
-
-![Pitaya o Dragon Fruit](../.gitbook/assets/download.webp)
-
-![Carambola o Star Fruit](../.gitbook/assets/jc-tropical-starfruit-carambola.png)
+Ora immagina, invece, che ti diamo un esercizio leggermente diverso. Ti diamo una borsa piena di frutti del drago, frutti di stella e durian. Immagina di non sapere nulla di questi frutti. Diciamo "trovami tutti i durian". Puoi ordinare la frutta in pile tutto il giorno, ma, se non sai nulla dei durian, non sarai in grado di raccogliere la frutta di cui hai bisogno. Quindi ti diamo un po' di formazione portando prima dieci esempi di durian da studiare. Diciamo: "Guardali. Studiali. Presta attenzione a queste caratteristiche: i durian hanno spuntoni, sono grandi e sono giallastri". Potremmo anche darti diversi esempi di frutta non durian in modo che tu possa avere un'idea di come non appare il durian. Questo set di frutta, dove ti diciamo le etichette corrette per la frutta, è chiamato il nostro set di formazione. Ora hai qualcosa con cui lavorare! Tiri fuori un frutto. Nessuno spuntone. Quindi inizi una pila chiamata non durian. Il prossimo ha dei picchi. Durian! Continui finché non hai due pile, una che contiene frutta che ritieni sia un durian e una che contiene frutta che pensi non lo sia.
 
 ![Durian](../.gitbook/assets/Malaysia-Fresh-Fruit-of-Musang-King-Duri.webp)
 
-Questo tipo di classificazione è chiamato **supervised classification**. Avrebbe dovuto esserti insegnato quali fossero le caratteristiche di un durian prima di poter davvero fare qualsiasi cosa. Chiameremmo questa raccolta di tratti un **feature set** (set di funzionalità) e potrebbe assomigliare a questo sotto:
+Questo tipo di classificazione è chiamato **supervised classification**,  cioè avrebbe dovuto esserti insegnato quali fossero le caratteristiche di un durian prima di poter davvero fare qualsiasi cosa. Chiameremmo questa raccolta di caratteristiche un **feature set** (set di caratteristiche) e potrebbe assomigliare a questo sotto:
 
 ```
 feature_set = {
@@ -26,21 +22,25 @@ feature_set = {
 }
 ```
 
-Don't worry too much about the brackets, equals sign, etc. These are just a common way of organizing the information so that the computer can read them. Here, we're just saying that this feature set defines what a durian looks like: the fruit has to have spikes, be large, and yellow-ish. This allows us to make a reasonable guess as to whether or not any one piece of fruit we pull out of the bag was a durian. Notice how you can only work in binaries: the fruit is either a durian or not. Your not-durian pile had star fruit and dragon fruit in it, since you weren't really able to distinguish between the two in this thought experiment. If we pulled out a star fruit, we could only answer something like the following:
+Non preoccuparti troppo delle parentesi, del segno di uguale, ecc. Questi sono solo un modo comune di organizzare le informazioni in modo che il computer possa leggerle. Qui, stiamo solo dicendo che questo feature set definisce l'aspetto di un durian: il frutto deve avere punte, essere grande e giallastro. Questo ci permette di fare un'ipotesi ragionevole sul fatto che qualsiasi frutto che tiriamo fuori dal sacchetto sia o meno un durian. Nota che puoi lavorare solo in modalità binari: il frutto è un durian o meno. La tua pila di non durian conteneva dunqe frutti di stelle e frutti del drago, dal momento che non eri davvero in grado di distinguere tra i due in questo esperimento immaginario. Se tirassimo fuori una carambola, potremmo solo rispondere a qualcosa del genere:
 
 ```
 fruit.is_durian?
 >>> False
 ```
 
-Or this if we were looking at a durian:
+O questo, se stessimo guardando un durian:
 
 ```
 fruit.is_durian?
 >>> True
 ```
 
-The test is actually pretty simple in its results, even if the feature set that leads to them is more nuanced. True and False are referred to as **boolean data types** in programming, and these boolean values are used to test or represent whether something is just that - true or false.
+Il test è in realtà piuttosto semplice nei risultati, anche se il features set che li porta è più sfumato. True e False sono indicati come **boolean data types**nella programmazione e questi valori booleani vengono utilizzati per verificare o rappresentare se qualcosa è proprio questo, vero o falso.&#x20;
+
+{% hint style="info" %}
+In informatica, una **variabile booleana**, o semplicemente **booleano**, è un tipo di dato che assume valori "booleani", ovvero soltanto due possibili valori che rappresentano il valore di verità. Tipicamente i due possibili valori sono indicati come "vero" o "falso" (in [inglese](https://it.wikipedia.org/wiki/Lingua\_inglese) "true" o "false") oppure come 1 o 0.
+{% endhint %}
 
 We have been developing a series of tests for fruit types, but they might not be perfectly correct: after all, there are other fruits that are large, spikey and yellow-ish. A kiwano melon could have gotten thrown into the mix, and you might have incorrectly identified it as a durian. Or you might have gotten an unripe durian, which you incorrectly tossed in the wrong pile because it was green. So we could better characterize our two piles as "probably not durian" and "probably durian."
 
