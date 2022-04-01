@@ -114,6 +114,7 @@ Non allarmarti se il topic modeling ti sembra molto più astratto del materiale 
 ## Ulteriori risorse
 
 * Andrew Goldstone and Ted Underwood un interessante studio di caso di [topic modeling ](https://andrewgoldstone.com/blog/2012/12/13/pmla/)[_PMLA_](https://andrewgoldstone.com/blog/2012/12/13/pmla/) che include anche una utile introduzione al topic modeling.
+* [Topic Modelling for Absolute Beginners](https://thedigitalskye.com/2020/11/07/topic-modelling-for-absolute-beginners/)
 * Il Programming Historian offre una  [buona introduzione](http://programminghistorian.org/lessons/topic-modeling-and-mallet) al topic modeling usando Mallet. E' tecnico ma molto utile.
 * Per una spiegazione più approfondita di come funziona l'algoritmo alla base del topic modeling, potresti dare un'occhiata all'[esercizio in classe di Lisa Rhody](https://github.com/lmrhody/topicmodelgame) per insegnare LDA.
 * Miriam Posner è molto utile per  [comprendere i risultati di topic modeling](http://miriamposner.com/blog/very-basic-strategies-for-interpreting-results-from-the-topic-modeling-tool/).
