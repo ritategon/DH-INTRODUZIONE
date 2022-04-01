@@ -1,5 +1,7 @@
 # Esercizio
 
+[https://techblog.smc.it/it/2021-10-22/topic-modelling](https://techblog.smc.it/it/2021-10-22/topic-modelling)
+
 Ci sono due possibilità.
 
 La prima è eseguire passo passo le indicazioni che provengono da questa [guida ](https://techblog.smc.it/it/2021-10-22/topic-modelling)e fare tu una prova. Si tratta di copiare. L'ambiente di sviluppo usato è Python
