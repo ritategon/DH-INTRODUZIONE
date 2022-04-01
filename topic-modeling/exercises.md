@@ -21,12 +21,14 @@ ancora da vedere confermnare ecc
 {% embed url="http://www.r2d3.us/visual-intro-to-machine-learning-part-1" %}
 
 {% embed url="https://techblog.smc.it/it/2021-10-22/topic-modelling" %}
+o due possibilità.
+{% endembed %}
 
-Ci sono due possibilità.
+Di seguito trovi due possibilità.
 
-La prima è eseguire passo passo le indicazioni che provengono da questa [guida ](https://techblog.smc.it/it/2021-10-22/topic-modelling)e fare tu una prova. Si tratta di copiare. L'ambiente di sviluppo usato è Python
+**La prima** è eseguire passo passo le indicazioni che provengono da questa [guida ](https://techblog.smc.it/it/2021-10-22/topic-modelling)e fare tu una prova. Si tratta di copiare. L'ambiente di sviluppo usato è Python
 
-La seconda: leggi "Of Monsters, Men -- and Topic Modelling" di Robert Nelson dal New York Times (Tasto destro e traduci). È disponibile [qui](https://opinionator.blogs.nytimes.com/2011/05/29/of-monsters-men-and-topic-modeling/) oppure, se non si apre, puoi cercarlo sul tuo motore di ricerca preferito; il link dovrebbe portarti all'articolo. Puoi trovare maggiori informazioni sul progetto più ampio e sui singoli argomenti [qui](https://dsl.richmond.edu/dispatch/Topics).
+**La seconda**: leggi "Of Monsters, Men -- and Topic Modelling" di Robert Nelson dal New York Times (Tasto destro e traduci). È disponibile [qui](https://opinionator.blogs.nytimes.com/2011/05/29/of-monsters-men-and-topic-modeling/) oppure, se non si apre, puoi cercarlo sul tuo motore di ricerca preferito; il link dovrebbe portarti all'articolo. Puoi trovare maggiori informazioni sul progetto più ampio e sui singoli argomenti [qui](https://dsl.richmond.edu/dispatch/Topics).
 
 Ora prova a rispondere alle domande che seguono.
 
