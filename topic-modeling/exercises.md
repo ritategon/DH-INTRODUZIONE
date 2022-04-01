@@ -1,6 +1,6 @@
 # Esercizio
 
-ancora da vedere confermnare ecc
+ancora da vedere confermnare ecc per ex 1
 
 {% embed url="https://radimrehurek.com/gensim" %}
 
