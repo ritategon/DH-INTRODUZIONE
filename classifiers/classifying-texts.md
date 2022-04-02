@@ -1,10 +1,10 @@
 # Classifying Texts
 
-At this point, you might be saying, "Supervised classification is all well and good, but how does this relate to text analysis? I'm going to go back to googling for animal photos."
+A questo punto, potresti dire: "La classificazione supervisionata va bene, ma come si collega all'analisi del testo? Me ne torno a cercare su Google foto di animali".&#x20;
 
-Stop right there! We've got one for you. If you think you're tired, how do you think this dog feels? Impersonating bagels is exhausting.
+Aspetta! Ne abbiamo uno per te. Se pensi di essere stanco, come pensi che si senta questo cane? Impersonare i bagel è estenuante. Forza!
 
-![sarah's sleeping dog](../assets/sleepingstarbuck.jpg)
+![](../assets/sleepingstarbuck.jpg)
 
 Now that you're back and not going anywhere, we should acknowledge that your point is a good one. We wanted to stay relatively simple in the last lesson so that you could get a handle on the basics of supervised classification, but let's think about the ways you could apply this method to texts. The [NLTK book](http://www.nltk.org/book/ch06.html) (which you should check out if you want to go into more depth into text analysis) lists some common text classification tasks:
 
