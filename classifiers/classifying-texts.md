@@ -2,26 +2,26 @@
 
 A questo punto, potresti dire: "La classificazione supervisionata va bene, ma come si collega all'analisi del testo? Me ne torno a cercare su Google foto di animali".&#x20;
 
-Aspetta! Ne abbiamo uno per te. Se pensi di essere stanco, come pensi che si senta questo cane? Impersonare i bagel è estenuante. Forza!
+Aspetta! Ce n'è qui uno per te. Se pensi di essere stanco, come pensi che si senta questo cane? Impersonare i bagel è estenuante. Forza!
 
 ![](../assets/sleepingstarbuck.jpg)
 
-Now that you're back and not going anywhere, we should acknowledge that your point is a good one. We wanted to stay relatively simple in the last lesson so that you could get a handle on the basics of supervised classification, but let's think about the ways you could apply this method to texts. The [NLTK book](http://www.nltk.org/book/ch06.html) (which you should check out if you want to go into more depth into text analysis) lists some common text classification tasks:
+Bene: sei rimasto. Ti va riconosciuto un punto a favore :thumbsup:. L' ultima lezione voleva essere semplice in modo che tu potessi avere un'idea delle basi della classificazione supervisionata. Ora bisogna pensare a come applicare questo metodo ai testi. Il libro [NLTK](https://www.nltk.org/book/ch06.html) (che potresti consultare nel caso tu voglia approfondire la text anlysis) elenca alcune attività comuni di classificazione del testo:
 
-> * Deciding whether an email is spam or not.
-> * Deciding what the topic of a news article is, from a fixed list of topic areas such as "sports," "technology," and "politics."
-> * Deciding whether a given occurrence of the word bank is used to refer to a river bank, a financial institution, the act of tilting to the side, or the act of depositing something in a financial institution.
+> * Decidere se un'e-mail sia spam o meno.
+> * Decidere quale sia l'argomento di un articolo di notizie da un elenco fisso di aree tematiche come "sport", "tecnologia" e "politica".&#x20;
+> * Decidere se una determinata occorrenza della parola bank (in inglese) sia usata per riferirsi alla riva di un fiume, a un istituto finanziario, all'atto di inclinarsi di lato o all'atto di depositare qualcosa in un istituto finanziario.
 
-Let's break each of these tasks down. Remember, a supervised classifier relies on labeled data for a training set. This sample data that you'll be using depends directly on the type of problem you are interested in. You could work backwards, and figure out what kind of training data you would need from the question you are interested in:
+Analizziamo ciascuno di questi compiti. Ricorda, un classificatore supervisionato si basa sui dati etichettati per un set di addestramento. Questi dati di esempio che utilizzerai dipendono direttamente dal tipo di problema che ti interessa. Potresti lavorare a ritroso e capire di che tipo di dati di allenamento avresti bisogno a partire dalla domanda che è oggetto del tuo interesse:
 
-* To decide whether an email is spam, you will need lots of examples of junk email.
-* To tag a news article as belonging to a particular category, you will need examples of articles from each of those categories.
-* To determine the use of the word 'bank,' you will need examples of the word used in all these possible contexts.
+* Per decidere se un'e-mail è spam, avrai bisogno di molti esempi di posta indesiderata.&#x20;
+* Per contrassegnare un articolo di notizie come appartenente a una particolare categoria, avrai bisogno di esempi di articoli di ciascuna di queste categorie.&#x20;
+* Per determinare l'uso della parola "bank", avrai bisogno di esempi della parola usata in tutti questi possibili contesti.
 
-In each case, it's not enough to just dump data into the classifier. You would also have to decide what feature sets you want to examine for the training sets for each task. Take the task of building a spam filter. To determine whether or not a text is spam, you would need to decide what features you find to be indicative of junk mail. And you have many options! Here are just a few:
+In ogni caso, non è sufficiente scaricare i dati nel classifier (classificatore). Dovresti anche decidere quali set di funzionalità vuoi esaminare per training set per ciascuna attività. Decidi di creare un filtro antispam. Per determinare se un testo è spam o meno, dovresti decidere quali caratteristiche ritieni indicative della posta indesiderata. E hai molte opzioni! Qui ci sono solo alcuni:
 
-* You might decide that word choice is indicative of spam. An email that reads "Buy now! Click this link to see an urgent message!" is probably junk. So you'd need to break up your representative spam texts into tokenized lists of vocabulary. From there you would work to give the classifier a sense of those words likely to result in unwanted messages.
-* You might notice that all your spam notifications come from similar emails. You could train the classifier to identify certain email addresses, pull out those which have known spam addresses, and tag them as spam.
+* Potresti decidere che la scelta della parola sia indicativa di spam. Un'e-mail che dice "Acquista ora! Fai clic su questo collegamento per visualizzare un messaggio urgente!" è probabilmente spam. Quindi dovresti suddividere i tuoi messaggi di spam rappresentativi in elenchi di vocaboli tokenizzati. Da lì lavoreresti per dare al classifier un senso di quelle parole che potrebbero comparire in messaggi indesiderati.&#x20;
+* Potresti notare che tutte le tue notifiche di spam provengono da email simili. Puoi addestrare il classificatore a identificare determinati indirizzi e-mail, estrarre quelli che hanno indirizzi di spam noti e contrassegnarli come spam.
 
 You could certainly come up with other approaches. In any case, you would need to think about a series of questions common to all text analysis projects:
 
