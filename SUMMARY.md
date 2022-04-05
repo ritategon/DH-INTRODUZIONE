@@ -61,7 +61,7 @@
   * [Bags of Words](topic-modeling/bags-of-words.md)
   * [Un Esempio di Topic Modeling](topic-modeling/topic-modeling-case-study.md)
   * [Esercizio](topic-modeling/exercises.md)
-* [Classifiers](classifiers.md)
+* [Topic Classification](classifiers.md)
   * [Supervised Classifiers](classifiers/supervised-classifiers.md)
   * [Classifying Texts](classifiers/classifying-texts.md)
   * [Esercizio](classifiers/exercises.md)
