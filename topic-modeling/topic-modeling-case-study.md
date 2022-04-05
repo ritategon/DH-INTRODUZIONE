@@ -1,3 +1,7 @@
+---
+description: Qui si spiega il nesso tra Topic Modeling e Unsupervised Classification
+---
+
 # Un Esempio di Topic Modeling
 
 Nella sezione precedente, è stato descritto come un singolo testo potrebbe essere suddiviso in un elenco di parole con le relative frequenze; abbiamo anche suggerito che un singolo testo potrebbe essere composto da un numero qualsiasi di topic. Possiamo immaginare uno strumento che possa inferire/dedurre questi topic per noi senza che dobbiamo prima leggere tutti i nostri documenti. L'approccio è appunto il **topic modeling**, un metodo computazionale che permette di scoprire i topic che costruiscono un testo. Esso viene realizzato esercitando una varietà di protocolli statistici più e più volte su un testo. L'esecuzione di progetti di topic modeling richiede conoscenze e abilità di programmazione superiori a quelle previste in questo corso introduttivo. Quindi, invece di esercitare le tecniche stesse o offrire uno strumento per farlo, l'obiettivo qui è cercare di descrivere e far intendere meglio cosa il topic modeling sia  e come interpretarne i risultati utilizzando un caso di studio. Se vuoi andare oltre, molto bene: nella sezione _Ulteriori Risorse_ posta sotto, potrai trovare qualche utile approfondimento.
@@ -107,9 +111,7 @@ Fino ad ora, abbiamo sottolineato la necessità di avere un approccio all'analis
 
 Nell'ultima lezione si è osservato che il modello **bag of words**  rappresenta un'epistemologia dei testi, un modo di intendere i documenti che potrebbe essere diverso da quello con cui finora hai avuto familiarità. Per la precisione il tipo di topic modeling  di cui qui abbiamo discusso, viene chiamato **Latent Dirichlet Allocation (LDA)**. Non entreremo nei dettagli sulle specifiche del LDA, ma è importante sapere che questo è il modello con cui stai lavorando e che LDA presuppone che un testo sia costruito da un numero limitato di topic.
 
-Don't be alarmed if topic modeling seems much more abstract than the material we have covered until now. To really understand how topic modeling works under the hood, you will need to have a grasp of a variety of different topics in machine learning and statistics. We are not so concerned that you understand these specifics. We care, instead, that you understand the idea behind it, have some sense of how to read make sense of other topic modeling projects, and be able to explain them to others in general terms.
-
-Non allarmarti se il topic modeling ti sembra molto più astratto del materiale che abbiamo trattato fino ad ora. Per capire davvero come funzioni, dovrai avere una conoscenza di una varietà di argomenti diversi specifici del machine learning e della statistica. Non siamo così preoccupati che tu capisca queste specifiche. E' importante,  invece, che tu comprenda l'idea alla base, che tu abbia colto cosa sia e come funzioni il topic modeling e che tu sia in grado di spiegarli ad altri seppure in termini generali.
+Non allarmarti se il topic modeling ti sembra molto più astratto del materiale che abbiamo trattato fino ad ora. Per capire davvero come funzioni, dovrai avere una conoscenza di una varietà di argomenti diversi specifici del machine learning e della statistica. E qui non si pretende che tu capisca queste specifiche. E' importante,  invece, che tu comprenda l'idea alla base, che tu abbia colto cosa sia e come funzioni il topic modeling e che tu sia in grado di spiegarli ad altri seppure in termini generali.
 
 ## Ulteriori risorse
 

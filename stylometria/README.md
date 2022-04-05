@@ -1,3 +1,7 @@
+---
+description: cioè Text classification come es di uso di supervised classifiers
+---
+
 # Stylometria
 
 * [R](r.md)
