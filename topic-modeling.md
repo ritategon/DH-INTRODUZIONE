@@ -1,5 +1,5 @@
 ---
-description: Inroduzione al Topic Modeling Unsupervised Classification
+description: Inroduzione al Topic Modeling mediante Unsupervised Classification
 ---
 
 # Topic Modeling
