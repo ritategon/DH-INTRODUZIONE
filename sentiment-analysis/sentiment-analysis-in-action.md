@@ -1,6 +1,6 @@
 # Sentiment Analysis in azione
 
-Per illustrare come funziona la sentiment analysis, esaminiamo un paio di progetti diversi. Ci sarà  una buona dose di riferimenti ai dettagli tecnici, ma così ti fari  un'idea del tipo di lavoro che si fa nei progetti di sentiment analysis.
+Per illustrare come funziona la sentiment analysis, esaminiamo un paio di progetti diversi. Ci sarà  una buona dose di riferimenti ai dettagli tecnici, ma lo scopo è che tu ti faccia   un'idea del tipo di lavoro che ci sta sotto.
 
 ## Jockers and Syuzhet
 
