@@ -113,6 +113,12 @@ Nell'ultima lezione si è osservato che il modello **bag of words**  rappresenta
 
 Non allarmarti se il topic modeling ti sembra molto più astratto del materiale che abbiamo trattato fino ad ora. Per capire davvero come funzioni, dovrai avere una conoscenza di una varietà di argomenti diversi specifici del machine learning e della statistica. E qui non si pretende che tu capisca queste specifiche. E' importante,  invece, che tu comprenda l'idea alla base, che tu abbia colto cosa sia e come funzioni il topic modeling e che tu sia in grado di spiegarli ad altri seppure in termini generali.
 
+### Sintesi
+
+Proviamo ora a fare una sintesi.
+
+Il **Topic Modeling** è un'azione legata al **NLP (Natural Language Processing**); prevede forme di **Unsupervised Analysis** che non hanno bisogno di dataset etichettati. Usa tecniche di Latent Semantic Analysis (LSA) e  **LDA (Latent Dirichlet Allocation)**. Noi abbiamo esplorato la seconda.
+
 ## Ulteriori risorse
 
 * Andrew Goldstone and Ted Underwood un interessante studio di caso di [topic modeling ](https://andrewgoldstone.com/blog/2012/12/13/pmla/)[_PMLA_](https://andrewgoldstone.com/blog/2012/12/13/pmla/) che include anche una utile introduzione al topic modeling.

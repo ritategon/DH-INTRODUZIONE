@@ -54,11 +54,9 @@ Allo stesso modo, forse vuoi trovare un sistema di classificazione per ordinare 
 
 ![Bagel](../.gitbook/assets/Country-Bagel-Triple-Stack.png)
 
-Ma aspetta: questo cane soddisfa tutti i criteri per un semplice bagel e sicuramente non è un bagel. Il nostro classificatore può dire, nella migliore delle ipotesi, "probabilmente bagel" o "probabilmente non bagel". E a volte è sbagliato. A volte la vita ti dà un cane e tutto ciò che puoi vedere è un bagel. (Vai [qui](https://www.boredpanda.com/dog-food-comparison-bagel-muffin-lookalike-teenybiscuit-karen-zack/) per ulteriori informazioni su questo problema di classificazione.)
+Ma aspetta: questo cane soddisfa tutti i criteri per un semplice bagel e sicuramente non è un bagel. Il nostro classificatore può dire, nella migliore delle ipotesi, "probabilmente bagel" o "probabilmente non bagel". E a volte è sbagliato. A volte la vita ti dà un cane e tutto ciò che puoi vedere è un bagel. (Vai [qui](https://www.boredpanda.com/dog-food-comparison-bagel-muffin-lookalike-teenybiscuit-karen-zack/) per ulteriori informazioni su questo problema di classificazione trattato in modo piuttosto curioso).
 
 ![Bagel Dog](../.gitbook/assets/bagel2.jpg)
-
-
 
 L'uso della parola "probabilmente" dovrebbe essere un indizio che siamo passati alla probabilità e alla statistica. Quello che abbiamo sviluppato sopra sono **naive Bayes classifiers** molto semplici. Thomas Bayes era uno statistico del diciottesimo secolo e questo classificatore si basa sulla sua teoria statistica. Esistono altri tipi di classificatori, ma questo tipo presuppone che ogni caratteristica (dimensione, colore, spigolosità nell'esempio della frutta; forma e puntinatura nell'esempio del bagel) nel nostro set di funzioni abbia voce in capitolo nel determinare come classificare qualcosa che è sconosciuto.
 
@@ -66,11 +64,40 @@ In una situazione del mondo reale, probabilmente ti sarebbero stati forniti anch
 
 In questo caso, le nostre etichette sono durian o non durian, vero o falso, anche se potresti avere più di due etichette. Il classificatore quindi seleziona l'etichetta con la probabilità maggiore. Ci siamo allenati a classificare la frutta e potremmo replicare lo stesso processo sul durian in un secondo momento. Se arriva un mastro fruttivendolo, potrebbe probabilmente dirci quanto siamo stati precisi. Potremmo quindi confrontare la nostra precisione con quella di un'altra persona esperta nel classificare la frutta e potremmo capire chi è il classificatore migliore. Potremmo anche capire la percentuale di volte in cui ciascuno dei nostri sistemi di classificazione è probabile che sia corretto!
 
-Tutto ciò potrebbe sembrare un po' lontano dal tipo di lavoro che abbiamo svolto in altre parti del libro. Presenta un orizzonte molto tecnico con un linguaggio semplice ed esempi al limite dela banalità. Ciò è stato fatto con il preciso obiettivo che tu vedessi in modo comprensibile i meccanismi sottesi alla classificazione,  prima di procedere all'utilizzo di software che usano questi algoritmi per analizzare set di dati testuali.&#x20;
+Tutto ciò potrebbe sembrare un po' lontano dal tipo di lavoro che abbiamo svolto in altre parti del libro. Presenta un orizzonte effettivamente molto tecnico con un linguaggio semplice ed esempi al limite della banalità. Ciò però è stato fatto con il preciso obiettivo che tu vedessi in modo comprensibile i meccanismi sottesi alla classificazione,  prima di procedere all'utilizzo di software che usano questi algoritmi per analizzare set di dati testuali.&#x20;
 
-### Topic Classification
+### Sintesi
 
-metti sintesi el quaderbnetto ed esempi
+Proviamo ora a fare una sintesi.
+
+<mark style="color:red;">**A**</mark>
+
+Nella [sezione precente](../topic-modeling.md) abbiamo visto il **Topic Modeling**: esso è un'azione (un modello statistico che usa una tecnica di apprendimento automatico) legata al **NLP (Natural Language Processing**); prevede forme di **Unsupervised Analysis** che non hanno bisogno di dataset etichettati. Usa tecniche di Latent Semantic Analysis (LSA) e  **LDA (Latent Dirichlet Allocation)**. Noi abbiamo esplorato la LDA nella sezione [Un Esempio di Topic Modeling](../topic-modeling/topic-modeling-case-study.md).
+
+<mark style="color:red;">**B**</mark>
+
+In questa sezione stiamo vedendo la **Topic Classification** che prevede forme di **Supervided Analysis**: anch'essa è legata al **NLP**, così come lo sono ad esempio:&#x20;
+
+* **Text Analysis**: analisi di un testo e, laddove richiesto, individuazione di elementi chiave (es. argomenti, persone, date);
+* **Text Classification**: interpretazione di un testo per classificarlo in una categoria predefinita (es. spam);
+* **Sentiment Analysis**: rilevamento dell’umore all’interno di un testo (es. recensione positiva/negativa);
+* **Intent Monitoring**: comprensione del testo per prevedere comportamenti futuri (es. la volontà di acquisto da parte di un cliente);
+* **Smart Search**: ricerca, all’interno di archivi, dei documenti che meglio corrispondono ad un’interrogazione posta in linguaggio naturale;
+* **Text Generation**: generazione automatic di un testo;
+* **Automatic Summarization**: produzione di una versione sintetica di uno o più documenti testuali;
+* **Language Translation**: traduzione di testi scegliendo, volta per volta, il significato migliore a seconda del contesto.
+
+Dunque, nell'ambito della Topic Classification troviamo la **Text Classification** che viene presentata [di seguito](classifying-texts.md) e che serve tra l'altro a rispondere a domande come queste:
+
+* questa mail è spam?
+* chi ha scritto questo testo?
+* qual è il genere dell'autore?
+* qual è il topic dell'articolo?
+* qual è il sentiment del testo/corpus?
+* di che lingua si tratta?
+* quale sono i trend nei feedback degli uenti?
+
+(Il NLP si intreccia con le tecniche di [Machine Learning](https://blog.osservatori.net/it\_it/machine-learning-come-funziona-apprendimento-automatico) e [Deep Learning](https://blog.osservatori.net/it\_it/deep-learning-significato-esempi-applicazioni): entrambi sono modi con cui applicare l'Intelligenza Artificiale).
 
 ### Further Resourceses  <a href="#furtherresourcsupervisedclassifiers" id="furtherresourcsupervisedclassifiers"></a>
 
