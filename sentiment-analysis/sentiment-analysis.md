@@ -44,5 +44,4 @@ Computers might not be able to feel, but perhaps we can train them to know what 
 ## Further Resources
 
 * "[The Universal Shapes of Stores, According to Kurt Vonnegut](http://io9.gizmodo.com/the-universal-shapes-of-stories-according-to-kurt-vonn-1526559996)" has a brief explanation of Vonngeut's relationshop to the theory about plot trajectories.
-* Maya Eilam has represented Vonnegut's theory about shapes in [a variety of infographics](http://www.mayaeilam.com/2012/01/01/the-shapes-of-stories-a-kurt-vonnegut-infographic/).
-* Jockers has a series of posts on his sentiment analysis project that begins [here](http://www.matthewjockers.net/2015/02/02/syuzhet/). These posts were where we first read about the connection to the Vonnegut clip.
+* [Matthew L. Jockers](https://orcid.org/0000-0001-5599-3706) ha una serie di post sul suo progetto di sentiment analysis che inizia [qui](https://www.matthewjockers.net/2015/02/02/syuzhet/). In questi post trovi la connessione alla clip di Vonnegut.
