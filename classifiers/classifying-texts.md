@@ -30,27 +30,25 @@ Potresti sicuramente trovare altri approcci. In ogni caso bisognerebbe pensare a
 * Quale di questi può essere misurata dal computer?&#x20;
 * Che tipo di dati di esempio sono necessari per questo problema? Di quali dispongo già?
 
-All'inizio rispondere a queste domande può essere difficile, ma, con la pratica, sarai in grado di separare le domande fattibili sulle discipline umanistiche da quelle a cui è impossibile rispondere. Inizierai ad avere un'idea di ciò che potrebbe essere misurato e analizzato, oltre a capire se valga o meno la pena farlo. Inizierai anche a farti un'idea di che tipo di progetti sono interessanti e valga la pena perseguire. (Aggiungi il fatto che da un punto di vista cognitivo questo tipo di operazione hanno un gran impatto nella testa di uno studente).
+All'inizio rispondere a queste domande può essere difficile, ma, con la pratica, si è grado di separare le domande fattibili sulle discipline umanistiche da quelle a cui è impossibile rispondere. Via via si riesce ad avere un'idea di ciò che potrebbe essere misurato e analizzato, oltre a capire se valga o meno la pena farlo. (Aggiungi il fatto che da un punto di vista cognitivo questo tipo di operazione hanno un gran impatto sulla capacità riflessive di uno studente).
 
-Ora, esercitiamoci su un approccio supervisionato a un problema comune nell'analisi del testo: l'attribuzione della paternità. A volte i testi arrivano a noi senza alcun autore attribuito loro e potremmo voler sapere chi li abbia scritti. O forse un singolo testo potrebbe essere scritto sotto uno pseudonimo, ma potresti avere una buona idea di chi potrebbe essere l'autore. Potresti affrontare questo problema in una varietà di modi senza supervisione, rappresentando graficamente la somiglianza o la differenza di autori particolari sulla base di una serie di algoritmi. Ma se hai un'idea abbastanza precisa di chi potrebbe essere l'autore di un particolare testo, puoi adottare un approccio supervisionato al problema. Vediamo l' elenco dei passaggi necessari:
+Ora, proviamo a ragionare su un approccio supervisionato riferito ad un problema comune nell'analisi del testo: l'attribuzione della paternità. A volte i testi arrivano a noi senza alcun autore attribuito loro e potremmo voler sapere chi li abbia scritti, oppure un singolo testo potrebbe essere scritto sotto uno pseudonimo. Il problema può essere affrontato in una varietà di modi senza supervisione, rappresentando graficamente la somiglianza o la differenza di autori specifici. Ma se si ha un'idea abbastanza precisa di chi potrebbe essere l'autore, si può adottare un approccio supervisionato al problema. Vediamo l' elenco dei passaggi necessari:
 
 * Qual è la mia domanda di ricerca?
   * Vogliamo identificare l'autore ignoto di un testo.
-* Come è possibile suddividere la mia domanda di grandi dimensioni in parti più piccole?
+* Come è possibile suddividere la domanda di grandi dimensioni in parti più piccole?
   * Abbiamo un'ipotesi ragionevole su alcuni possibili autori, quindi possiamo usarli come oggetti di studio. Assumiamo anche che la paternità possa essere associata allo stile.
 * Quale di questi può misurare il computer?
   * Bene, lo stile è la somma totale di vocabolario, punteggiatura e schemi retorici, tra le altre cose. Si possono contare tutti!
 * Che tipo di dati di esempio abbiamo che possiamo usare per risolvere questo problema?
-  * Abbiamo il testo sconosciuto. E abbiamo anche diversi testi dei miei potenziali autori che possiamo confrontare con esso.
-
-sostituisci con questo [https://towardsdatascience.com/no-fear-stylometry-with-expert-ai-163892fd234](https://towardsdatascience.com/no-fear-stylometry-with-expert-ai-163892fd234) &#x20;
+  * Abbiamo il testo sconosciuto. E abbiamo anche diversi testi dei potenziali autori che possiamo confrontare con esso.
 
 Processi simili sono stati utilizzati per una varietà di casi di attribuzione della paternità. Il più famoso degli ultimi tempi è probabilmente quello di Robert Galbraith, uscito con The Cuckoo's Calling nel 2013. Utilizzando un processo simile di misurazione della somiglianza linguistica, Patrick Juola è stato in grado di testare un'ipotesi che J.K. Rowling aveva pubblicato il romanzo poliziesco con uno pseudonimo. Puoi leggere di più sul processo [qui](https://www.scientificamerican.com/article/how-a-computer-program-helped-show-jk-rowling-write-a-cuckoos-calling/).  Un altro caso interessante si riferisce a Elena Ferrante: numerosi approcci sono raccolti dalla Padova University Press in [_Drawing Elena Ferrante's Profile_](http://www.padovauniversitypress.it/system/files/preview/9788869381300.pdf) __ gli atti del convegno svoltosi a Venezia nel 2017.
 
 Abbiamo appena scalfito la superficie del campo della **stilometria**, o dello studio dello stile linguistico utilizzando una varietà di metriche statistiche. Puoi portare avanti questo processo di ricerca utilizzando diversi linguaggi di programmazione:
 
 * [R con Stylo](https://computationalstylistics.github.io); [qui](https://computationalstylistics.github.io/stylo\_nutshell/) puoi esplorare un tutorial passo passo, ma anche [qui.](http://dh2013.unl.edu/abstracts/ab-136.html)
-*
+* [Python](https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python).
 
 
 
