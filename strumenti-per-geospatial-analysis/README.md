@@ -4,6 +4,8 @@ description: una guida https://guides.lib.uci.edu/digital_humanities/mapping ok
 
 # Analisi Geospatiale
 
+[https://libguides.mit.edu/gis/webmap](https://libguides.mit.edu/gis/webmap)&#x20;
+
 da vedere [https://storymaps.arcgis.com/stories](https://storymaps.arcgis.com/stories) molto valido per una narrazione geo ecc ma non lavora sulla analisi del dati  OK&#x20;
 
 da vedere [https://hdlab.stanford.edu/palladio-app/#/upload](https://hdlab.stanford.edu/palladio-app/#/upload) questo lavora con data sets OK

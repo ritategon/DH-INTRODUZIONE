@@ -1,3 +1,9 @@
+---
+description: >-
+  Introduzione alla Topic Classification mediante Supervised Classification
+  usando i Naive Bayes Classifiers
+---
+
 # Supervised Classifiers
 
 Nella lezione [Un Esempio di Topic Modeling](../topic-modeling/topic-modeling-case-study.md), abbiamo parlato di  **unsupervised classification** ovvero classificazione non supervisionata, perché chiediamo al computer di analizzare e contrassegnare un testo senza dargli indicazioni precise _ex ante_: infatti, quando il topic modeling esplora i testi per trovare i discorsi sottostanti presenti al loro interno, i nostri testi non sono stati etichettati in alcun modo. Non abbiamo detto "topic modeling attivati ed cerca un argomento chiamato 'medicina". Un argomento di medicina consisterà principalmente nelle parole "anatomia", "scienza", "ospedale" ecc. Fammi sapere cos'altro trovi!" . Al contrario, il software di topic modeling ha prodotto gruppi di parole che pensava fossero correlate con un input relativamente limitato da parte nostra. Questo ha il vantaggio di mostrarci schemi della cui esistenza potremmo non esserci resi conto. Il topic modeling è utile proprio per esplorare un corpus e scoprire nuove cose su di esso.
@@ -66,8 +72,9 @@ Tutto ciò potrebbe sembrare un po' lontano dal tipo di lavoro che abbiamo svolt
 
 metti sintesi el quaderbnetto ed esempi
 
-## Further Resources
+### Further Resourceses  <a href="#furtherresourcsupervisedclassifiers" id="furtherresourcsupervisedclassifiers"></a>
 
-* Il libro sul  [NLTK](https://www.nltk.org) (Natural Language Toolkit) presenta [una valida sezione](http://www.nltk.org/book/ch06.html#naive-bayes-classifiers) sui naive Bayes classifiers. Il libro è un tutorial di Python ed ha una dimensione molto tecnica.
+* Il libro sul  [NLTK](https://www.nltk.org) (Natural Language Toolkit) presenta [una valida sezione](http://www.nltk.org/book/ch06.html#naive-bayes-classifiers) sui naive Bayes classifiers. Il libro è una guida che usa il linguaggio Python ed ha una dimensione molto tecnica.
+* [Introduzione a Python per le DH](https://pythonhumanities.com/python-for-dh-course/) (non prevede la conoscenza di programmazione)ò.
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) fornisce un'introduzione ad altri tipi di classificatori.
 * Fabio Ciotti, [What's in a Topic Model? Critica teorica di un metodo computazionale per l’analisi del testo. Testo & Senson.18, 2017](https://testoesenso.it/index.php/testoesenso/article/view/370/pdf\_227). L'interessante articolo si propone di affrontare criticamente, i fondamenti teorici di una nozione e di un metodo che sono oggi molto diffusi negli studi letterari computazionali, il topic modeling, appunto, inteso come l'individuazione statistico/probabilistica dei cluster lessicali che caratterizzano un insieme di testi, e l'analisi delle loro distribuzioni. Quando parla di fondamenti teorici si riferisce al ruolo che tale nozione può giocare nel contesto di una teoria del testo e di una metodologia della critica letteraria, e non ai suoi aspetti puramente matematici, che sono ovviamente saldamente basati sulla statistica e sulla teoria della probabilità bayesiana. Dopo una descrizione dei fondamenti tecnici della nozione di topic modelling procede a confrontare tale nozione con alcuni suoi possibili correlati in ambito teorico letterario, evidenziando i limiti di ogni possibile identificazione.

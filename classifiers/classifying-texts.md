@@ -6,11 +6,11 @@ Aspetta! Ce n'è qui uno per te. Se pensi di essere stanco, come pensi che si se
 
 ![](../assets/sleepingstarbuck.jpg)
 
-Bene: sei rimasto. Ti va riconosciuto un punto a favore :thumbsup:. L' ultima lezione voleva essere semplice in modo che tu potessi avere un'idea delle basi della classificazione supervisionata. Ora bisogna pensare a come applicare questo metodo ai testi. Il libro [NLTK](https://www.nltk.org/book/ch06.html) (che potresti consultare nel caso tu voglia approfondire la text anlysis) elenca alcune attività comuni di classificazione del testo:
+Bene: sei rimasto. Ti va riconosciuto un punto a favore :thumbsup:. L' ultima lezione voleva essere semplice in modo che tu potessi avere un'idea delle basi della classificazione supervisionata. Ora bisogna pensare a come applicare questo metodo ai testi. Il [capitolo 6](https://www.nltk.org/book/ch06.html)  del libro [NLTK ](https://www.nltk.org)(Natural Language Toolkit) che potresti consultare nel caso tu voglia approfondire la text analysis usando il linguaggio Python (vedi anche Further Resources alla fine della [sezione precedente](supervised-classifiers.md)) elenca alcune attività comuni di classificazione del testo:
 
-> * Decidere se un'e-mail sia spam o meno.
+> * Decidere se un' email sia spam o meno.
 > * Decidere quale sia l'argomento di un articolo di notizie da un elenco fisso di aree tematiche come "sport", "tecnologia" e "politica".&#x20;
-> * Decidere se una determinata occorrenza della parola bank (in inglese) sia usata per riferirsi alla riva di un fiume, a un istituto finanziario, all'atto di inclinarsi di lato o all'atto di depositare qualcosa in un istituto finanziario.
+> * Decidere se una determinata occorrenza ad esempio della parola _bank_ (in inglese) sia usata per riferirsi alla riva di un fiume, a un istituto finanziario, all'atto di inclinarsi di lato o all'atto di depositare qualcosa in un istituto finanziario.
 
 Analizziamo ciascuno di questi compiti. Ricorda, un classificatore supervisionato si basa sui dati etichettati per un set di addestramento. Questi dati di esempio che utilizzerai dipendono direttamente dal tipo di problema che ti interessa. Potresti lavorare a ritroso e capire di che tipo di dati di allenamento avresti bisogno a partire dalla domanda che è oggetto del tuo interesse:
 
@@ -18,32 +18,36 @@ Analizziamo ciascuno di questi compiti. Ricorda, un classificatore supervisionat
 * Per contrassegnare un articolo di notizie come appartenente a una particolare categoria, avrai bisogno di esempi di articoli di ciascuna di queste categorie.&#x20;
 * Per determinare l'uso della parola "bank", avrai bisogno di esempi della parola usata in tutti questi possibili contesti.
 
-In ogni caso, non è sufficiente scaricare i dati nel classifier (classificatore). Dovresti anche decidere quali set di funzionalità vuoi esaminare per training set per ciascuna attività. Decidi di creare un filtro antispam. Per determinare se un testo è spam o meno, dovresti decidere quali caratteristiche ritieni indicative della posta indesiderata. E hai molte opzioni! Qui ci sono solo alcuni:
+In ogni caso, non è sufficiente scaricare i dati nel classifier (classificatore). Dovresti anche decidere quali set di funzionalità vuoi esaminare per il training set per ciascuna attività. Decidi di creare un filtro antispam. Per determinare se un testo sia spam o meno, dovresti decidere quali caratteristiche ritieni indicative della posta indesiderata. E hai molte opzioni! Qui ci sono solo alcuni:
 
-* Potresti decidere che la scelta della parola sia indicativa di spam. Un'e-mail che dice "Acquista ora! Fai clic su questo collegamento per visualizzare un messaggio urgente!" è probabilmente spam. Quindi dovresti suddividere i tuoi messaggi di spam rappresentativi in elenchi di vocaboli tokenizzati. Da lì lavoreresti per dare al classifier un senso di quelle parole che potrebbero comparire in messaggi indesiderati.&#x20;
-* Potresti notare che tutte le tue notifiche di spam provengono da email simili. Puoi addestrare il classificatore a identificare determinati indirizzi e-mail, estrarre quelli che hanno indirizzi di spam noti e contrassegnarli come spam.
+* Potresti decidere che la scelta delle parole sia indicativa di spam. Un'email che dice "Acquista ora! Fai clic su questo collegamento per visualizzare un messaggio urgente!" è probabilmente spam. Quindi dovresti suddividere i tuoi messaggi di spam rappresentativi in elenchi di vocaboli tokenizzati. Da lì lavoreresti per dare al classifier un senso di quelle parole che potrebbero comparire in messaggi indesiderati.&#x20;
+* Potresti però anche notare che tutte le tue notifiche di spam provengono da email simili. E dunque potresti addestrare il classifier a identificare determinati indirizzi email, estrarre quelli che hanno indirizzi di spam noti e contrassegnarli come spam.
 
-You could certainly come up with other approaches. In any case, you would need to think about a series of questions common to all text analysis projects:
+Potresti sicuramente trovare altri approcci. In ogni caso bisognerebbe pensare ad una serie di domande comuni a tutti i progetti di analisi del testo:
 
-* What is my research question?
-* How can my large question be broken down into smaller pieces?
-* Which of those can be measured by the computer?
-* What kinds of example data do I need for this problem? What kinds do I already have in my possession?
+* Qual è la mia domanda di ricerca?&#x20;
+* Come è possibile suddividere la mia domanda di grandi dimensioni in parti più piccole?&#x20;
+* Quale di questi può essere misurata dal computer?&#x20;
+* Che tipo di dati di esempio sono necessari per questo problema? Di quali dispongo già?
 
-Going through these questions can be difficult at first, but, with practice, you will be able to separate feasible digital humanities questions from those that are impossible to answer. You will start to gain a sense of what could be measured and analyzed as well as figure out whether or not you might want to do so at all. You will also start to get a sense of what kind of projects are interesting and worth pursuing.
+All'inizio rispondere a queste domande può essere difficile, ma, con la pratica, sarai in grado di separare le domande fattibili sulle discipline umanistiche da quelle a cui è impossibile rispondere. Inizierai ad avere un'idea di ciò che potrebbe essere misurato e analizzato, oltre a capire se valga o meno la pena farlo. Inizierai anche a farti un'idea di che tipo di progetti sono interessanti e valga la pena perseguire. (Aggiungi il fatto che da un punto di vista cognitivo questo tipo di operazione hanno un gran impatto nella testa di uno studente).
 
-Now, let's practice on a supervised approach to a common problem in text analysis: authorship attribution. Sometimes texts come down to us with no authors at all attributed to them, and we might want to know who wrote them. Or maybe a single text might be written under a pseudonym, but you might have a good guess as to whom might be the author. You could approach this problem in a variety of unsupervised ways, graphing the similarity or difference of particular authors based on a number of algorithms. But if you have a pretty good guess as to whom the author of a particular text might be, you can take a supervised approach to the problem. To step through our same list of steps:
+Ora, esercitiamoci su un approccio supervisionato a un problema comune nell'analisi del testo: l'attribuzione della paternità. A volte i testi arrivano a noi senza alcun autore attribuito loro e potremmo voler sapere chi li abbia scritti. O forse un singolo testo potrebbe essere scritto sotto uno pseudonimo, ma potresti avere una buona idea di chi potrebbe essere l'autore. Potresti affrontare questo problema in una varietà di modi senza supervisione, rappresentando graficamente la somiglianza o la differenza di autori particolari sulla base di una serie di algoritmi. Ma se hai un'idea abbastanza precisa di chi potrebbe essere l'autore di un particolare testo, puoi adottare un approccio supervisionato al problema. Vediamo l' elenco dei passaggi necessari:
 
-* What is my research question?
-  * We want to be able to identify the unknown author of a text.
-* How can my large question be broken down into smaller pieces?
-  * We have a reasonable guess as to some possible authors, so we can use those as objects of study. We also are assuming that authorship can be associated with style.
-* Which of those can the computer measure?
-  * Well, style is the sum total of vocabulary, punctuation, and rhetorical patterns, among other things. Those can all be counted!
-* What kind of example data do we have that we can for this problem?
-  * We have the unknown text. And we also have several texts by my potential authors that we can compare against it.
+* Qual è la mia domanda di ricerca?
+  * Vogliamo identificare l'autore ignoto di un testo.
+* Come è possibile suddividere la mia domanda di grandi dimensioni in parti più piccole?
+  * Abbiamo un'ipotesi ragionevole su alcuni possibili autori, quindi possiamo usarli come oggetti di studio. Assumiamo anche che la paternità possa essere associata allo stile.
+* Quale di questi può misurare il computer?
+  * Bene, lo stile è la somma totale di vocabolario, punteggiatura e schemi retorici, tra le altre cose. Si possono contare tutti!
+* Che tipo di dati di esempio abbiamo che possiamo usare per risolvere questo problema?
+  * Abbiamo il testo sconosciuto. E abbiamo anche diversi testi dei miei potenziali autori che possiamo confrontare con esso.
+
+sostituisci con questo [https://towardsdatascience.com/no-fear-stylometry-with-expert-ai-163892fd234](https://towardsdatascience.com/no-fear-stylometry-with-expert-ai-163892fd234)  o questo [https://computationalstylistics.github.io/stylo\_nutshell/](https://computationalstylistics.github.io/stylo\_nutshell/) con qiuesto [https://journal.r-project.org/archive/2016/RJ-2016-007/RJ-2016-007.pdf](https://journal.r-project.org/archive/2016/RJ-2016-007/RJ-2016-007.pdf) e [http://dh2013.unl.edu/abstracts/ab-136.html](http://dh2013.unl.edu/abstracts/ab-136.html)
 
 To illustrate this experiment, we took two authors from our syllabus: Danielle Bowler and Pia Glenn. Using their author pages on [Eyewitness News](http://ewn.co.za/Contributors/Danielle-Bowler) and [xoJane](http://www.xojane.com/author/pia-glenn), we gathered articles that belonged to each. Bowler tends to write shorter pieces than Glenn, so our training set included about double the number of pieces by Bowler (10) as by Glenn (5). With this body of training data for each author, we uploaded the texts to a great online [authorship attribution tool](http://aicbt.com/authorship-attribution/online-software/) by AICBT. The tool allows you to upload sample data for two authors. With this set, you can then upload a text by an unknown author, and the software will try to guess who wrote it based on a variety of text analysis protocols. In this case, the mystery text was "[Freedom, Justice, and John Legend](http://ewn.co.za/2015/02/23/OPINION-Danielle-Bowler-Freedom-justice-and-John-Legend)" by Bowler. Author 1 is Glenn, and Author 2 is Bowler. The tool attempted to identify the author of the mystery text as follows. The images also include AICBT's helpful explanation of the different metrics that they are using to analyze the unknown text.
+
+Per illustrare questo esperimento, abbiamo preso due autori dal nostro programma: Danielle Bowler e Pia Glenn. Usando le loro pagine degli autori su [Eyewitness News](https://ewn.co.za/Contributors/Danielle-Bowler) e xoJane, abbiamo raccolto articoli che appartenevano a ciascuno. Bowler tende a scrivere pezzi più brevi di Glenn, quindi il nostro set di allenamento includeva circa il doppio del numero di pezzi di Bowler (10) e di Glenn (5). Con questo corpo di dati di formazione per ciascun autore, abbiamo caricato i testi su un ottimo strumento di attribuzione della paternità online di AICBT. Lo strumento consente di caricare dati campione per due autori. Con questo set, puoi quindi caricare un testo di un autore sconosciuto e il software proverà a indovinare chi lo ha scritto in base a una varietà di protocolli di analisi del testo. In questo caso, il testo del mistero era "Libertà, giustizia e John Legend" di Bowler. L'autore 1 è Glenn e l'autore 2 è Bowler. Lo strumento ha tentato di identificare l'autore del testo del mistero come segue. Le immagini includono anche l'utile spiegazione di AICBT delle diverse metriche che stanno utilizzando per analizzare il testo sconosciuto.
 
 ![authorship function](../assets/classifiers/authorship-function.jpg) ![authorship lexical](../assets/classifiers/authorship-lexical.jpg) ![authorship diversity](../assets/classifiers/authorship-punctuation.jpg)
 
@@ -71,3 +75,11 @@ Similar processes have been used for a variety of authorship attribution cases. 
 If we can measure it, we can test it. And you would be surprised at just how many humanities-based research questions we can measure. Taking complicated human concepts like authorship and breaking them down into quantifiable pieces is part of the fun. It is also what makes the process intellectually interesting. If it were easy, it would be boring.
 
 We have just barely scratched the surface of the field of **stylometry**, or the study of linguistic style using a variety of statistical metrics. You can carry this research process using a variety of programming languages, so you might take a look at our concluding chapter on [Where to Go Next](../conclusion/where-to-go.md) if you are interested in learning how to implement these sorts of experiments yourself.
+
+
+
+### Text Classification con Deep Learning
+
+prendi da qua ess [https://monkeylearn.com/text-classification-examples/](https://monkeylearn.com/text-classification-examples/) [https://monkeylearn.com/text-classification/#:\~:text=Deep%20learning%20architectures%20offer%20huge,Recurrent%20Neural%20Networks%20(RNN).](https://monkeylearn.com/text-classification/#:\~:text=Deep%20learning%20architectures%20offer%20huge,Recurrent%20Neural%20Networks%20\(RNN\).)
+
+poi metti come ess guidato per il greco ithaca [https://ithaca.deepmind.com/](https://ithaca.deepmind.com) prima con questo e poi con drive [https://colab.research.google.com/drive/1Pef1Q-lteXLYxBFT2Zd6t9kfu-7rekyY#scrollTo=hnK8uNKnDZlD](https://colab.research.google.com/drive/1Pef1Q-lteXLYxBFT2Zd6t9kfu-7rekyY#scrollTo=hnK8uNKnDZlD)  fonti usabili [https://epigraphy.packhum.org/](https://epigraphy.packhum.org)

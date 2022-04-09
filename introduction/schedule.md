@@ -42,7 +42,7 @@ Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuo
 
 * [Cyborg Readers](../cyborg-readers.md)
 * [Reading at Scale](../reading-at-scale.md)
-* [Stylometria](../stylometria/)
+* [Stylometria](broken-reference)
 
 ### Incontro 6
 

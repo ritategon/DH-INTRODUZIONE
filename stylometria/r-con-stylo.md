@@ -1,2 +1,0 @@
-# Stylometria-R con Stylo
-

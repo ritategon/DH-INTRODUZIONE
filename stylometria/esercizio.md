@@ -1,2 +1,0 @@
-# Esercizio R con Stylo
-
