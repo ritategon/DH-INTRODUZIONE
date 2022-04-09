@@ -1,5 +1,5 @@
 ---
-description: https://aicbt.com/authorship-attribution/     https://www.mytelescope.io/
+description: https://www.mytelescope.io/
 ---
 
 # Esercizio

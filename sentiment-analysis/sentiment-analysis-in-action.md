@@ -43,3 +43,7 @@ Note how even #angry just barely dips below 50 to be predominantly negative. We 
 
 * What might you imagine using sentiment analysis for?
 * What kinds of texts lend themselves especially well to reading for emotion?
+
+## Ulteriori Risorse
+
+* Scopri come acquisire i dati di Twitter ed elaborarli per renderli utilizzabili per ulteriori analisi: [Beginner's Guide to Twitter Data](https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data).
