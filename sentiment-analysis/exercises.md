@@ -8,5 +8,5 @@ Processalo nei due ambienti sotto indicati. Prendi nota di ciò che osservi e ca
 
 {% embed url="https://digipad.app/p/147630/bae048164791e" %}
 
-* [Stanford's sentiment analysis software.](https://nlp.stanford.edu/sentiment/)&#x20;
+* [Stanford's sentiment analysis software.](https://nlp.stanford.edu/sentiment/) Approfondimento [qui](https://nlp.stanford.edu/projects/socialsent/).
 * ****[SentimentAnalyzer ](https://www.danielsoper.com/sentimentanalysis/default.aspx)
