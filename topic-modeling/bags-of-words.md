@@ -131,7 +131,7 @@ But we also gain the ability to think about a text in new ways. Sentences are ju
 
 Ma acquisiamo anche la capacità di pensare a un testo in modi nuovi. Le frasi sono solo l'inizio. Puoi utilizzare un approccio basato sul bag of wors per determinare quanto libri o autori interi siano diversi o simili l'uno dall'altro. Se abbiamo elenchi di parole per ogni testo così come per il corpus (o insieme di documenti) nel suo insieme, possiamo effettivamente lavorare a ritroso per avere un'idea degli argomenti sottostanti di cui stavamo parlando un momento fa. Invece di scorrere un paragrafo per determinarne l'argomento di base, potremmo scansionare testi completi e scansionarne molti (il record di Brandon è di circa 1,8 milioni di testi in un corpus). E invece di cercare di avere un'idea di 1-3 argomenti, potremmo suddividere il nostro testo in 15-20 argomenti diversi. Ora sto bevendo un caffè, metre sto parlando di topic modelling.
 
-## Further Resources
+### Ulteriori Risorse <a href="#furtherresourcsupervisedclassifiers" id="furtherresourcsupervisedclassifiers"></a>
 
 * Vedi le utili pagine [Wikipedia](https://it.wikipedia.org/wiki/Modello\_della\_borsa\_di\_parole) in italiano e quella in inglese [Wikipedia](https://en.wikipedia.org/wiki/Bag-of-words\_model).
 * Per farti un'idea, vedi Il contributo dei topic models alla navigazione del [corpus delle sentenze della Cassazione](https://webstat.giustizia.it/Analisi%20e%20ricerche/Navigazione%20tematica%20del%20corpus%20della%20Cassazione.pdf).

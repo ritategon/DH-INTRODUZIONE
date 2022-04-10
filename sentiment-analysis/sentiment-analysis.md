@@ -41,7 +41,7 @@ As with any form of text analysis, the potential uses range as widely as your im
 
 Computers might not be able to feel, but perhaps we can train them to know what emotions look like. The very idea of measuring sentiment computationally is provocative. If we were working in big business, we would care a lot about the results of such projects. But, as humanists, we can also gain a lot just from trying to model such complicated topics. The process is as enlightening as the product.
 
-## Further Resources
+### Ulteriori Risorse <a href="#furtherresourcsupervisedclassifiers" id="furtherresourcsupervisedclassifiers"></a>
 
 * "[The Universal Shapes of Stores, According to Kurt Vonnegut](http://io9.gizmodo.com/the-universal-shapes-of-stories-according-to-kurt-vonn-1526559996)" has a brief explanation of Vonngeut's relationshop to the theory about plot trajectories.
 * [Matthew L. Jockers](https://orcid.org/0000-0001-5599-3706) ha una serie di post sul suo progetto di sentiment analysis che inizia [qui](https://www.matthewjockers.net/2015/02/02/syuzhet/). In questi post trovi la connessione alla clip di Vonnegut.

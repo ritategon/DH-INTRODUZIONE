@@ -64,7 +64,7 @@ In alternativa, i tipi di parole in queste due opere non sono affatto uguali. La
 
 Alcune di queste conclusioni probabilmente ti sono sembrate piuttosto ovvie. Probabilmente hai capito che _A String of Pearls_ è ambientato nella Londra della classe operaia, mentre _A Scandal in Bohemia_ si svolge in un ambiente più elevato. Potresti anche aver notato una differenza nel vocabolario, anche se l'uso di Voyant ha reso queste distinzioni più evidenti e ti ha fornito ulteriori dati a sostegno di qualsiasi affermazione che stavi facendo su di esse. Ma, probabilmente, non hai notato l'enfasi sull'azione rispetto all'importanza del luogo in queste due opere. Quindi questo è un buon esempio di come leggere con un occhio al computer possa portarti a nuove interpretazioni.
 
-## Further Resources
+### Ulteriori Risorse <a href="#furtherresourcsupervisedclassifiers" id="furtherresourcsupervisedclassifiers"></a>
 
 * Padre Busa: [1](https://it.wikipedia.org/wiki/Roberto\_Busa) e [2](https://www.ibm.com/easytools/runtime/hspx/prod/public/X0027/PortalX/page/pageTemplate?s=78c374df5c884363b46454a5ffefb5d9\&c=6623351d59604a11b2c845760f87280f).&#x20;
 * Il testo prodotto da Geoffrey Rockwell and Stéfan Sinclair, i creatori di Voyant: [_Hermeneutica_](https://mitpress.mit.edu/books/hermeneutica).
