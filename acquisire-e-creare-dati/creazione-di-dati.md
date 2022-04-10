@@ -6,7 +6,7 @@ I dati delle Digital Humanities sono spesso generati da fonti fisiche e analogic
 
 La digitalizzazione di testo analogico può essere una sfida in quanto comporta la trasformazione di qualsiasi cosa, dal testo scritto a mano a quello stampato, in rappresentazioni di testo digitali. In genere, i professionisti delle discipline umanistiche digitali utilizzeranno una strategia computazionale chiamata Optical Character Recognition (OCR) per riconoscere automaticamente i caratteri di testo nelle immagini scattate da un testo. Questo può essere un approccio rapido ed efficace per creare dati di testo digitali da un'origine testuale analogica, senza dover trascrivere manualmente i dati di testo. Tuttavia, in alcuni casi, l'OCR non funziona e i professionisti di Digital Humanities potrebbero dover trascrivere manualmente alcuni dati di testo (vedi esempio sotto). Esempio: se si desidera digitalizzare un libro raro del XVI secolo, è possibile recuperare il libro fisico, fotografare le pagine ed eseguire il riconoscimento ottico dei caratteri (OCR) per riconoscere i caratteri scritti e trasformare le immagini in un formato di file di testo. Vedi sotto per un flusso di lavoro idealizzato per tale digitalizzazione.
 
-Vedi sotto un utile schema del workflow di digitalizzazione&#x20;
+Vedi sotto un utile schema del workflow di digitalizzazione.
 
 {% embed url="https://courses.edx.org/asset-v1:HarvardX+DigHum_01+1T2019+type@asset+block@Idealized_Digitization_Workflow.jpg" %}
 Ideal Digitization Workflow - Created by Ceilyn Boyd for HarvardX

@@ -49,11 +49,3 @@ Abbiamo appena scalfito la superficie del campo della **stilometria**, o dello s
 
 * [R con Stylo](https://computationalstylistics.github.io); [qui](https://computationalstylistics.github.io/stylo\_nutshell/) puoi esplorare un tutorial passo passo, ma anche [qui.](http://dh2013.unl.edu/abstracts/ab-136.html)
 * [Python](https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python).
-
-
-
-### Text Classification con Deep Learning
-
-prendi da qua ess [https://monkeylearn.com/text-classification-examples/](https://monkeylearn.com/text-classification-examples/) [https://monkeylearn.com/text-classification/#:\~:text=Deep%20learning%20architectures%20offer%20huge,Recurrent%20Neural%20Networks%20(RNN).](https://monkeylearn.com/text-classification/#:\~:text=Deep%20learning%20architectures%20offer%20huge,Recurrent%20Neural%20Networks%20\(RNN\).)
-
-poi metti come ess guidato per il greco ithaca [https://ithaca.deepmind.com/](https://ithaca.deepmind.com) prima con questo e poi con drive [https://colab.research.google.com/drive/1Pef1Q-lteXLYxBFT2Zd6t9kfu-7rekyY#scrollTo=hnK8uNKnDZlD](https://colab.research.google.com/drive/1Pef1Q-lteXLYxBFT2Zd6t9kfu-7rekyY#scrollTo=hnK8uNKnDZlD)  fonti usabili [https://epigraphy.packhum.org/](https://epigraphy.packhum.org)
