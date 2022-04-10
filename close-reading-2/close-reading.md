@@ -122,7 +122,7 @@ Interrogare le fonti in questo modo è solo una delle modalità di comprensione 
 
 ### Strumenti
 
-Abbiamo già visto degli strumenti. Di seguito si fa un po' di ordine e se ne indicano altri:
+Abbiamo già visto degli strumenti. Di seguito si fa un po' di orfine e se ne indicano altri:
 
 * [AntConc:](http://www.laurenceanthony.net/software/antconc/) A freeware corpus analysis toolkit for concordancing and text analysis.
 * [Word Cloud:](https://www.wordclouds.com) Create free word clouds that represent the frequency of words used.

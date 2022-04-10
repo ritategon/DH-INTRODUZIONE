@@ -144,4 +144,4 @@ Prendere in considerazione tutti i diversi standard di metadati e i loro usi sar
 
 ## Ulteriori risorse
 
-* Chris Woolford offre una spiegazione più dettagliata di come l'OCR lavora [explainthatstuff.com](http://www.explainthatstuff.com/how-ocr-works.html). (Ricorda sempre di usare tasto destro "traduci" se l'inglese ti mette in difficoltà).
+* Chris Woolford offre una spiegazione più dettagliata di come l'OCR lavora [explainthatstuff.com](http://www.explainthatstuff.com/how-ocr-works.html). (Ricorda sempre di usare tasto destro "traduci" se l'inglese ti mette in deifficoltà):

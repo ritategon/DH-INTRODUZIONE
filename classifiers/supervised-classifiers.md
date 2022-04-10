@@ -99,7 +99,7 @@ Dunque, nell'ambito della Topic Classification troviamo la **Text Classification
 
 (Il NLP si intreccia con le tecniche di [Machine Learning](https://blog.osservatori.net/it\_it/machine-learning-come-funziona-apprendimento-automatico) e [Deep Learning](https://blog.osservatori.net/it\_it/deep-learning-significato-esempi-applicazioni): entrambi sono modi con cui applicare l'Intelligenza Artificiale).
 
-### Further Resourceses  <a href="#furtherresourcsupervisedclassifiers" id="furtherresourcsupervisedclassifiers"></a>
+### Ulteriori Risorse  <a href="#furtherresourcsupervisedclassifiers" id="furtherresourcsupervisedclassifiers"></a>
 
 * Il libro sul  [NLTK](https://www.nltk.org) (Natural Language Toolkit) presenta [una valida sezione](http://www.nltk.org/book/ch06.html#naive-bayes-classifiers) sui naive Bayes classifiers. Il libro è una guida che usa il linguaggio Python ed ha una dimensione molto tecnica.
 * [Introduzione a Python per le DH](https://pythonhumanities.com/python-for-dh-course/) (non prevede la conoscenza di programmazione)ò.
