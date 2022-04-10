@@ -1,12 +1,18 @@
 # Sentiment Analysis in azione
 
-Per illustrare come funziona la sentiment analysis, esaminiamo un paio di progetti diversi. Ci sarà  una buona dose di riferimenti ai dettagli tecnici, ma lo scopo è che tu ti faccia   un'idea del tipo di lavoro che ci sta sotto.
+Per illustrare come funzioni la sentiment analysis, esaminiamo un paio di progetti diversi. Ci sarà  una buona dose di riferimenti ai dettagli tecnici, ma lo scopo è che tu ti faccia   un'idea del tipo di lavoro che ci sta sotto.
 
 ## Jockers and Syuzhet
 
-Matt Jockers has been working on using [sentiment analysis to discover plot trajectories in fiction](http://www.matthewjockers.net/2015/02/02/syuzhet/) in just the same terms as the [video](https://www.youtube.com/embed/oP3c1h8v2ZQ) in the previous lesson (indeed, Jockers's writing is what pointed us to the Vonnegut clip in the first place!). By taking thousands of texts and classifying their sentences for sentiment, he has developed a software procedure for tracing plot trajectories and [suggested](http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/) that there are only six or seven different plot shapes based on this type of analysis. Jockers's bold claim has since come under serious critique by Joanna Swafford, who argues that the shapes are the results of configurations in Jockers's software rather than of any inherent quality in the text (also a recurrent theme throughout this book!).
+{% hint style="info" %}
+[Jockers](https://www.matthewjockers.net) è un accademico che si è focalizzato sull'approccio computazionale e ai testi.&#x20;
 
-Let's take a closer look at how Jockers is able to make such a claim. He uses a sophisticated software package that he constructed in the [R programming language](../conclusion/where-to-go.md). We won't get into the details of the code itself, but we can cover the general approach. To find a more technical explanation you can look at Jockers's "[Introduction to the Syuzhet Package](https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html)."
+[Syuzhet](https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html) è un pacchetto di NLP (Natural language Processing) per il linguaggio [R](https://www.r-project.org/about.html).
+{% endhint %}
+
+[Matt Jockers](https://www.matthewjockers.net/2015/02/02/syuzhet/) ha lavorato sull'utilizzo della sentiment analysis per scoprire le traiettorie della trama nella fiction proprio negli stessi termini del video della lezione precedente. Prendendo migliaia di testi e classificando le loro frasi in base al sentiment, ha sviluppato una procedura software per tracciare le traiettorie della trama e ha suggerito che ci sono solo sei o sette forme di trama diverse basate su questo tipo di analisi. L'audace affermazione di Jockers è stata da allora oggetto di seria critica da parte di [Joanna Swafford](https://annieswafford.wordpress.com/2015/03/02/syuzhet/), che sostiene che le forme sono il risultato di configurazioni nel software di Jockers piuttosto che di qualsiasi qualità intrinseca nel testo. Questo è un tema ricorrente anche in questo libro ed viene riportato per ribadire che metodi e strumenti sono in progress e comportano dei limiti.
+
+Diamo un'occhiata più da vicino a come Jockers è in grado di fare una tale affermazione. Usa un sofisticato pacchetto software che ha costruito nel linguaggio di programmazione R. Non entreremo nei dettagli del codice stesso, ma possiamo coprire l'approccio generale. Per trovare una spiegazione più tecnica puoi guardare "Introduzione al pacchetto Syuzhet" di Jockers.
 
 Jockers's project combines supervised classifiers and unsupervised classifiers. Remember: supervised classifiers rely on training data that tells the software how to interpret and classify data. Unsupervised classifiers are not based on any prior training data. Instead, they rely on underlying assumptions and algorithms to categorize texts (in the case of topic modeling, this means that the unsupervised classifiers make assumptions about the relation between texts and statistics). We will focus on the supervised portion of his work below.
 
