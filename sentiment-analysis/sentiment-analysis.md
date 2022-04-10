@@ -1,43 +1,53 @@
 # Sentiment Analysis
 
-We began this book by talking about interpretation on a micro level: close reading asks you to pay attention to every small detail in a text to produce analysis. We have since zoomed out to think about what we could gain from macro reading and how computers enable us to understand texts in new ways. In our final moments, we will loop back around to the beginning.
+Abbiamo iniziato questo libro parlando di interpretazione a livello micro: una lettura attenta chiede di prestare attenzione a ogni piccolo dettaglio di un testo per produrre analisi. Poi abbiamo fatto uno zoom su cosa potremmo ottenere dalla lettura a livello  macro e come i computer ci consentono di comprendere i testi in modi nuovi. Ora, nella fase finale, ritorniamo all'inizio.
 
-We have repeatedly stressed the interplay of computation and interpretation: when the computer presents some results to you, your work has only begun. The computer can supply data, but you must interpret that data yourself. The computer does not really read. You do. What you've learned about is how to read _with_ computers.
+Più volte è stata sottolineata l'interazione tra calcolo e interpretazione: quando il computer ti presenta dei risultati, il tuo lavoro è appena iniziato. Il computer può fornire dati, ma sei tu che devi interpretarli. Il computer di fatto non legge. Tu lo fai. E, dunque,  ciò che hai imparato è come leggere con i computer.&#x20;
 
-But you have probably also noticed in the last few chapters that the kinds of readings we are using our computers for have become more sophisticated. When we use software to discover the topics a text is discussing or to identify anonymous authors, we are not quite having them read in the same way as a person would. But we are getting closer. These techniques aim to provide a richer sense of a text, and they do so in quite sophisticated ways. We will close with a somewhat simpler problem, but one that is profoundly difficult for computers: is a particular text happy or sad? For that matter, is a sentence? A word?
+Ma probabilmente hai anche notato negli ultimi capitoli che i tipi di letture per cui utilizziamo i nostri computer sono diventati più sofisticati. Quando utilizziamo un software per scoprire gli argomenti di cui un testo sta discutendo o per identificare autori anonimi, non li stiamo facendo leggere come farebbe una persona. Ma ci stiamo avvicinando a come un essere umano legge. Queste tecniche mirano, infatti, a fornire un senso più ricco di un testo e lo fanno in modi appunto piuttosto sofisticati. Chiudiamo iul nostro percorso con un problema un po' più semplice, ma di fatto profondamente difficile per i computer: un particolare testo è felice o triste? Per esserlo, ciò che conta è una frase? O è una parola?
 
-This type of analysis that tries to capture the emotional resonance of a text is called **sentiment analysis**. You've probably engaged with this kind of work without realizing it. If you've ever been to [Rotten Tomatoes](https://www.rottentomatoes.com) to see what score a movie has gotten, you are looking at an aggregated number of reviews that have been marked as positive or negative. Businesses have a stake in such things as well. If you tweet about your recent flight, the airline would probably want to know whether you hated it or loved it. The former might result in you being directed to customer service, while the latter could result in a benign response like "thanks for flying with us!"
+L' analisi che cerca di catturare la risonanza emotiva di un testo è chiamata **sentiment analysis**. **** Probabilmente, ne hai fatto esperienza senza rendertene conto. Se sei mai stato in un sito di recensioni come [Rotten Tomatoes](https://www.rottentomatoes.com) per vedere quale punteggio un film abbia ottentuto, stai guardando un numero aggregato di recensioni che sono state contrassegnate come positive o negative. Anche le aziende hanno un interesse in queste cose. Se fai un tweet su un tuo volo recente, la compagnia aerea probabilmente vorrebbe sapere se l'hai apprezzata o meno. Nel primo potresti essere ndirizzato al servizio clienti, mentre nel secondo potrebbe ricevere una risposta come "grazie per aver volato con noi!".
 
-Sentiment analysis can also offer interesting opportunities for textual analysis. Check out this clip of a lecture by Kurt Vonnegut:
+La sentiment analysis può anche offrire interessanti opportunità per l'analisi testuale. Dai un'occhiata a questa clip di una conferenza di [Kurt Vonnegut](https://it.wikipedia.org/wiki/Kurt\_Vonnegut). La comunicazione è comico/sarcastico/satirica (decidi tu); se non conosci l'inglese imposta la traduzione automatica.
 
-The idea makes enough sense as Vonnegut presents it: at certain times in a story, things are varying degrees of good or bad. As with any form of text analysis, this kind of information could be very useful for understanding a text.
+{% embed url="https://www.youtube.com/watch?t=26s&v=oP3c1h8v2ZQ" %}
 
-* What kind of emotions does the author employ in the text? When?
-* How do emotions map onto other aesthetic categories, like narrative structure?
+{% hint style="info" %}
+La questione della forma delle storie è piuttosto interessante. Qui trovi una eccellente trattazione dell'argomento [Ups and Downs. Or how to graph a book.](https://www.laphamsquarterly.org/roundtable/ups-and-downs)
 
-It would be fascinating to have a computer that could easily mark the sentiments in texts for you. If you have been following dutifuly along, however, you should know that computers can't do much of anything without being explicitly told how. They can do very little in the way of understanding data without a human to guide them. Trying to extract complicated information like the sentimental arc of a text, how we are meant to feel about a sentence, or how an author intended us to feel are all complicated tasks that computers have a difficult time with. In fact, they can be hard for two different people to agree on. Try to guess whether these two sentences would be classified as good or bad:
+[Qui ](https://www.personalreport.it/2012/01/la-forma-delle-storie-per-kurt-vonnegut/)una speigazione dei contentui del video.
+{% endhint %}
 
-* "I am very happy."
-* "She is so sad."
+L'idea ha abbastanza senso per come la presenta Vonnegut: in determinati momenti in una storia, le cose sono di vario grado, buone o cattive. Come con qualsiasi forma di analisi del testo, questo tipo di informazioni potrebbe essere molto utile per la comprensione di un testo.
 
-Those were easy ones: good and bad. Hot and cold. How about this one:
+* Che tipo di emozioni impiega l'autore nel testo? Quando?&#x20;
+* In che modo le emozioni si associano ad altre categorie estetiche, come la struttura narrativa?&#x20;
 
-* "It was the best of times, it was the worst of times…"
+Sarebbe affascinante avere un computer in grado di individuare facilmente i sentimenti nei testi per te. Tuttavia, se finora hai seguito con attenzione, dovresti sapere che i computer non possono fare molto senza che venga loro detto esplicitamente cosa e come fare. Possono fare molto poco in termini di comprensione dei dati senza un essere umano che li guidi. Cercare di estrarre informazioni complicate come la traiettoria sentimentale di un testo, come dovremmo sentirci riguardo a una frase o come un autore intendeva farci sentire, sono tutti compiti complicati con cui i computer hanno difficoltà. E, in effetti, pure due persone diverse potrebbere avere difficoltà a mettersi d'accordo. Prova a indovinare se queste due frasi sarebbero classificate come positive o negative:
 
-This sentence is from Charles Dickens's _Tale of Two Cities_ and is probably a bit hard to parse in such a binary way. If it is both good and bad, it probably comes out as neutral, right? But Dickens was talking about the era of the French Revolution here; his whole point was that this was an extraordinary time, hardly a "neutral" situation. In fact, he is interested in juxtaposing different things - best/worst, London/Paris, etc. - not in resolving them. We would probably need some system for determining what to do in such situations.
+* "I am very happy." (Io sono molto felice)
+* "She is so sad." (Lei è così triste)
 
-Try this sentence, by Jane Austen, which complicates matters even further:
+Erano esempi facili, come _caldo_ e _freddo_. Che ne dici di questo?
 
-* "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+* “It was the best of times, it was the worst of times…” (E' stato il migliore dei rempi, è stato il peggiore dei tempi...)
 
-An avid reader of Austen would know that her texts come loaded with satire. It is unlikely she actually means her words to be taken at face value. Virtually no truths actually are _universally_ acknowledged to be true, so the sentence winks at the reader and should not be taken in full seriousness. In fact, much of her work is meant as a scathing criticism of the culture and people around her. These opinions are largely indirect, couched in irony and satire that asks the reader to read against what the text says on the surface.
+Questa frase è tratta dal racconto _Tale of Two Cities_ di Charles Dickens ed è probabilmente un po' difficile da analizzare in modo binario. Se è sia buono che cattivo; probabilmente risulta neutro, giusto? Ma qui Dickens parlava dell'era della Rivoluzione francese; intendeva che si era trattato di un momento straordinario, una situazione difficilmente "neutrale". In effetti, è interessato a giustapporre cose diverse - best/worst, London/Paris, ecc. - non ha risolverle. Avremmo probabilmente bisogno di un sistema per determinare cosa fare in tali situazioni.&#x20;
 
-All of these things are difficult to convey to readers, let alone computers. Sentiment analysis through technology is tricky, but that doesn't mean that researchers don't try. The process is difficult and riddled with error, but also intellectually interesting in a number of ways.
+Osserva ora questa frase di Jane Austen, che complica ulteriormente le cose:
 
-* How do we map complicated abstract ideas like emotion in a way that computers could understand them?
-* What can sentiment analysis like this tell us about the objects that we study?
+"It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife." ("È una verità universalmente riconosciuta, che un uomo single in possesso di una buona fortuna, deve essere alla ricerca di una moglie.")
+
+Un'appassionata lettrice di Austen saprebbe che i suoi testi sono carichi di satira. È improbabile che la Austen si aspetti davvero che le sue parole siano prese alla lettera:  quindi la frase strizza l'occhio al lettore e non dovrebbe essere presa sul serio. In effetti, gran parte del suo lavoro è inteso come una critica feroce alla cultura e alle persone che la circondano, realizzata in gran parte in modo indiretto, espressa con ironia e satira che chiedono al lettore di leggere contro ciò che il testo apparentemenete afferma.&#x20;
+
+Tutte queste _nuances_ sono difficili da trasmettere ai lettori, per non parlare dei computer. Dunque, la sentiment analysis attraverso la tecnologia è complicata, ma ciò non significa che i ricercatori non ci provino. Il processo è difficile e pieno di errori, ma anche intellettualmente interessante in diversi modi.
+
+* Come possiamo mappare idee astratte e complicate come le emozioni in un modo che i computer possano capirle?
+* Cosa può dirci una sentiment anaòysis come questa sugli oggetti che studiamo?
 
 As with any form of text analysis, the potential uses range as widely as your imagination. One compelling recent [use of sentiment analysis](http://varianceexplained.org/r/trump-tweets/) by David Robinson sought to gauge the degree of control that Donald Trump's campaign had over his Twitter account. Knowing that Trump tended to use a Samsung Galaxy to tweet, Robinson wanted to determine if tweets from different techonologies might have different characteristics. If so, one could reasonably separate out his personal persona on Twitter from the one curated by his campaign stuff. Robinson found that we could reasonably determine that the angrier, more hyperbolic tweets came from a Samsung Galaxy (and were more likely to be by Trump himself). The tweets from iPhones were more likely to be "fairly benign declarations." With this knowledge we could reasonably trace the thumbprint of the Trump campaign handlers as distinct from Trump himself.
+
+Come con qualsiasi forma di analisi del testo, i potenziali usi spaziano tanto quanto la nostra immaginazione. Un convincente esempio d'uso della sentiment analysis è offerto da [David Robinson ](http://varianceexplained.org/r/trump-tweets/)che ha cercato di misurare il grado di controllo che la campagna di Donald Trump aveva sul suo account Twitter. Sapendo che Trump tendeva a utilizzare un Samsung Galaxy per twittare, Robinson voleva determinare se i tweet di diverse tecnologie potessero avere caratteristiche diverse. In questo caso, si sarebbe ragionevolmente potuto separare la sua _persona personale_ su Twitter da quella curata dalla sua campagna. Robinson ha scoperto che potevamo ragionevolmente determinare che i tweet più arrabbiati e iperbolici provenissero da un Samsung Galaxy (ed era più probabile che provenissero dallo stesso Trump). È più probabile che i tweet degli iPhone fossero "dichiarazioni abbastanza positive". Su questa base ha distinto i gestori della campagna di Trump da Trump stesso.
 
 Computers might not be able to feel, but perhaps we can train them to know what emotions look like. The very idea of measuring sentiment computationally is provocative. If we were working in big business, we would care a lot about the results of such projects. But, as humanists, we can also gain a lot just from trying to model such complicated topics. The process is as enlightening as the product.
 
