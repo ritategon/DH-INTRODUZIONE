@@ -1,34 +1,16 @@
 # Esercizio
 
-ancora da vedere confermnare ecc per ex 1
-
-{% embed url="https://radimrehurek.com/gensim" %}
-
-{% embed url="https://www.escriptorium.uk/send_email_signup.php" %}
-
-{% embed url="https://thedigitalskye.com/2020/11/07/topic-modelling-for-absolute-beginners" %}
-
 {% embed url="https://lib.manhattan.edu/c.php?g=728252&p=5752366" %}
 
-{% embed url="http://programminghistorian.org/en/lessons/topic-modeling-and-mallet" %}
+Di seguito trovi tre possibilità. Qualunque attività sceglierai, carica l'esito in un file nel [DigPad](https://digipad.app/p/147468/4bcfccb57e27b)
 
-{% embed url="https://github.com/lmrhody/topicmodelgame" %}
+{% embed url="https://digipad.app/p/147468/4bcfccb57e27b" %}
 
-{% embed url="http://miriamposner.com/blog/very-basic-strategies-for-interpreting-results-from-the-topic-modeling-tool" %}
+**La terza** ha un margine di difficoltà medio alto. Si tratta di copiare, cioè eseguire passo passo le indicazioni che provengono da questa [guida ](https://techblog.smc.it/it/2021-10-22/topic-modelling)e fare tu una prova. L'ambiente di sviluppo usato è Python.
 
-{% embed url="https://kate-editor.org/it" %}
+**La seconda** è sempre applicativa, ma meno complessa, anzi piuttosto semplice (con risultati meno ricchi di indormazioni); usa uno strumento che ormai conosci perchè lo abbiamo visto bella sezione [Cyborg Readers](../cyborg-readers.md) e [Reading at Scale](../reading-at-scale.md): [Voyant](https://voyant-tools.org). Si tratta di copiare, cioè eseguire passo passo le indicazioni che provengono da [questa fonte](https://lib.manhattan.edu/c.php?g=728252\&p=5752366).
 
-{% embed url="http://www.r2d3.us/visual-intro-to-machine-learning-part-1" %}
-
-{% embed url="https://techblog.smc.it/it/2021-10-22/topic-modelling" %}
-o due possibilità.
-{% endembed %}
-
-Di seguito trovi due possibilità.
-
-**La prima** è eseguire passo passo le indicazioni che provengono da questa [guida ](https://techblog.smc.it/it/2021-10-22/topic-modelling)e fare tu una prova. Si tratta di copiare. L'ambiente di sviluppo usato è Python
-
-**La seconda**: leggi "Of Monsters, Men -- and Topic Modelling" di Robert Nelson dal New York Times (Tasto destro e traduci). È disponibile [qui](https://opinionator.blogs.nytimes.com/2011/05/29/of-monsters-men-and-topic-modeling/) oppure, se non si apre, puoi cercarlo sul tuo motore di ricerca preferito; il link dovrebbe portarti all'articolo. Puoi trovare maggiori informazioni sul progetto più ampio e sui singoli argomenti [qui](https://dsl.richmond.edu/dispatch/Topics).
+**La prima**: leggi "Of Monsters, Men -- and Topic Modelling" di Robert Nelson dal New York Times (Tasto destro e traduci). È disponibile[ qui ](https://opinionator.blogs.nytimes.com/2011/05/29/of-monsters-men-and-topic-modeling/)oppure, se non si apre, puoi cercarlo sul tuo motore di ricerca preferito. Puoi trovare maggiori informazioni sul progetto più ampio e sui singoli argomenti [qui](https://dsl.richmond.edu/dispatch/Topics).
 
 Ora prova a rispondere alle domande che seguono.
 
