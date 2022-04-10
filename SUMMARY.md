@@ -44,7 +44,7 @@
   * [Text Encoding Initiative](archives/tei.md)
   * [Archivi Digitali](archives/nines.md)
     * [Database Relazionali](archives/nines/database-relazionali.md)
-  * [Esercizio\*](archives/exercises.md)
+  * [Esercizio](archives/exercises.md)
 * [Analisi Geospatiale](strumenti-per-geospatial-analysis/README.md)
   * [Page 1](strumenti-per-geospatial-analysis/page-1.md)
   * [Page 2](strumenti-per-geospatial-analysis/page-2.md)
