@@ -45,4 +45,4 @@ L'affermazione implicita in questi punti in elenco è che i computer influiscono
 
 Dovrai decidere tu stesso le risposte a queste domande nel corso del libro.&#x20;
 
-Confuso? Bene. Ciò significa che stai imparando.
+Confuso? Buona. Ciò significa che stai imparando.

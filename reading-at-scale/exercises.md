@@ -22,3 +22,7 @@ Seleziona uno dei progetti e familiarizza con esso. Rispondi poi alle seguenti d
 * Cosa ne pensi del progetto? Hai domane a riguardo? Cosa trovi interesante?
 
 Questi progetti possono incorporare metodologie, strumenti o linguaggi di programmazione che non abbiamo trattato in questo libro. Non preoccuparti! Non ci si aspetta che tutto sia già noto e chiaro.
+
+Carica le risposte nel Digipad
+
+{% embed url="https://digipad.app/p/147510/45880f6287801" %}

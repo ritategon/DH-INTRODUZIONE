@@ -21,7 +21,7 @@
 * [Digital Text Analysis](issues-in-digital-text-analysis.md)
   * [Perché Leggere con un Computer?](issues/why-read-with-a-computer.md)
   * [Google NGram Viewer](issues/google-ngram.md)
-  * [Esercizio\*](issues/exercises.md)
+  * [Esercizio](issues/exercises.md)
 * [Close e Distant Reading](close-reading-2/README.md)
   * [Close e Distant Reading](close-reading-2/close-reading.md)
   * [Prism 1](close-reading-2/prism-part-one.md)
