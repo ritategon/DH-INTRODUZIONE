@@ -48,4 +48,4 @@ Processi simili sono stati utilizzati per una varietà di casi di attribuzione d
 Abbiamo appena scalfito la superficie del campo della **stilometria**, o dello studio dello stile linguistico utilizzando una varietà di metriche statistiche. Puoi portare avanti questo processo di ricerca utilizzando diversi linguaggi di programmazione:
 
 * [R con Stylo](https://computationalstylistics.github.io); [qui](https://computationalstylistics.github.io/stylo\_nutshell/) puoi esplorare un tutorial passo passo, ma anche [qui.](http://dh2013.unl.edu/abstracts/ab-136.html)
-* [Python](https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python).
+* [Introduzione alla stylometria con Python](https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python): imparerai a condurre un'analisi stilometrica sui testi e a determinare la paternità dei testi contestati. La lezione copre tre metodi: le curve caratteristiche di composizione di Mendenhall, il metodo Chi-Squared di Kilgariff e il metodo Delta di John Burrows.
