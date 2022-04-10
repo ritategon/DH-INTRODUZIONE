@@ -62,4 +62,4 @@ Nota come anche #arrabbiato scenda a malapena sotto 50 per essere prevalentement
 
 * Scopri come acquisire i dati di Twitter ed elaborarli per renderli utilizzabili per ulteriori analisi: [Beginner's Guide to Twitter Data](https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data).
 * [Real-time social media search and analysis](http://socialmention.com): è una piattaforma di ricerca sui social media che aggrega i contenuti generati dagli utenti da tutto il Web in un unico flusso di informazioni.
-* [SentimentViz](https://www.csc2.ncsu.edu/faculty/healey/tweet\_viz/tweet\_app/):  Tweet Sentiment Visualization prodotto dal Department of Computer Science at North Carolina State University.
+* [SentimentViz](https://www.csc2.ncsu.edu/faculty/healey/tweet\_viz/tweet\_app/):  Tweet Sentiment Visualization prodotto dal Department of Computer Science at North Carolina State University. Approfondimento [qui](https://www.csc2.ncsu.edu/faculty/healey/tweet\_viz/).
