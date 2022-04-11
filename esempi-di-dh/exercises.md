@@ -16,8 +16,8 @@ description: >-
 
 [The Imperiia Project](http://dighist.fas.harvard.edu/projects/imperiia/)
 
-fare un form come quello sopra
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLSdzksZ0mVx8ovtX-zlHivIirNtnAU0fI5h0_ACXU6A5zVDGkQ/viewform?usp=sf_link" %}
 
 [Neural Neighbors](https://dhlab.yale.edu/neural-neighbors/)
 
-fare un form come quello sopra
+{% embed url="https://docs.google.com/forms/d/e/1FAIpQLScDOfFP0uBoEuwISRJHDxoQWT0prSjQysgt_Wa46Vq_dHJfgQ/viewform?usp=sf_link" %}

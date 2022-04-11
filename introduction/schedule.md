@@ -32,7 +32,6 @@ Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuo
 
 * [Crowdsorcing ](../crowdsourcing/crowdsourcing.md)
 * [Archivi Digitali](../archives.md)
-* [Analisi Geospaziale ](../strumenti-per-geospatial-analysis/)
 
 ### Incontro 4
 
@@ -42,11 +41,10 @@ Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuo
 
 * [Cyborg Readers](../cyborg-readers.md)
 * [Reading at Scale](../reading-at-scale.md)
-* [Stylometria](broken-reference)
+* [Topic Modeling](../topic-modeling.md)
 
 ### Incontro 6
 
-* [Topic Modeling](../topic-modeling.md)
 * [Classifiers](../classifiers.md)
 * [Sentiment Analysis](../sentiment-analysis/sentiment-analysis.md)
 * [Conclusioni](../conclusion.md)
