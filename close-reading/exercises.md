@@ -1,15 +1,7 @@
 # Esercizio
 
-<mark style="color:red;">Metti un'area/forum di osservazione della timeline.</mark>&#x20;
-
-Ritorniamo alla [timeline](close-reading.md). Sotto puoi inserire le tue impressioni riguardo agli eventi storici che hanno portato all'attuale pratica delle discipline umanistiche digitali. Quali elementi devono essere aggiunti o rimossi? Inserisci il tuo post nel forum di discussione qui sotto.
+Ritorniamo alla [timeline](close-reading.md). Sotto puoi inserire le tue impressioni riguardo agli eventi storici che hanno portato all'attuale pratica delle discipline umanistiche digitali. Quale elemento ti hanno colpito e/o quale può essere aggiunto? Inserisci i dati nel [foglio di calcolo ](https://docs.google.com/spreadsheets/d/1k--KG2AA-l9THieMrmygNMbKF-NPMRGxMXNX9qRgPqo/edit#gid=0)almeno un elemento seguendo attentamente il modello. Esso comparirà in tempo reale nella timeline che compare qui sotto.
 
 
 
-{% embed url="https://www.menti.com/ykbtfcmc2o" %}
-
-{% embed url="http://www.livemargin.com/socialbook/client/help.html" %}
-SocialBook is a new publishing platform based on the idea that "a book is a place" where readers can congregate. We've made it very easy to annotate a text and to follow a conversation in the margins.
-{% endembed %}
-
-***
+{% embed url="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?font=Default&height=650&initial_zoom=2&lang=en&source=1k--KG2AA-l9THieMrmygNMbKF-NPMRGxMXNX9qRgPqo" %}
