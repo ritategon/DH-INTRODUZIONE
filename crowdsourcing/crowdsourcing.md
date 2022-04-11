@@ -19,7 +19,7 @@ Mentre i progetti di microtasking chiedono agli utenti di lavorare su un problem
 Vale la pena soffermarsi su tutti questi esempi per considerare il lavoro in essi contenuto. Stiamo parlando di una quantità incredibile di energia e di lavoro che è essenzialmente volontariato. Se andiamo su Typewright e aiutiamo a trascrivere un testo del diciottesimo secolo, quello è tempo che avremmo potuto dedicare a fare qualcos'altro, compreso il lavoro per il quale avremmo potuto essere ricompensati in modi più espliciti.
 
 * È sufficiente che gli utenti contribuiscano al bene pubblico per questi progetti?
-* &#x20;A che punto il lavoro volontario diventa sfruttamento?&#x20;
+* A che punto il lavoro volontario diventa sfruttamento?&#x20;
 
 In molti casi, questi progetti digitali costano ingenti somme di denaro e, secondo la critica, questi fondi avrebbero potuto fornire dipendenti pagati effettivi anziché volontari. Alcuni di questi partecipanti al crowdsourcing potrebbero non essersi nemmeno resi conto che stavano lavorando. Nel caso di Recaptcha, probabilmente hai involontariamente offerto il tuo tempo per un progetto di crowdsourcing senza nemmeno rendertene conto. Quali sono le pratiche etiche per condurre progetti di volontariato su tale scala? Cosa ti occorrerebbe per sentirti adeguatamente ricompensato per il tuo tempo? Queste sono domande aperte senza risposte chiare, ma vale la pena tenerle a mente. Pensiamo che questa consapevolezza e autoriflessione debbano essere alla base di modi etici di impegnarsi in progetti come questi. Dopotutto, Typewright, Recaptcha e Transcribe Bentham producono grandi risultati, ma lo fanno impiegando l'energia umana per compiti abbastanza umili. Wikipedia solleva altre importanti domande sul crowdsourcing: la folla può fare di più? Cosa succede quando diamo il controllo del progetto alla folla?
 
@@ -32,11 +32,13 @@ Notizia del 2014 aggiornata nel 2018 nel contesto italiano:&#x20;
 
 [https://www.zooniverse.org/lab](https://www.zooniverse.org/lab)
 
+[From the Page](https://fromthepage.com)
+
 Image and Full Transcription: (successful transcription of handwritten text): [https://transcription.si.edu/transcribe/15654/NMAAHC-007675740\_00588](https://transcription.si.edu/transcribe/15654/NMAAHC-007675740\_00588)
 
 Organization: Smithsonian Transcription Center ([https://transcription.si.edu](https://transcription.si.edu))
 
-Title of Specific Project in Exampl**e**: District of Columbia Education, Records Relating to School Buildings, Grounds, and Supplies, Quartermaster’s Monthly Reports ([https://transcription.si.edu/project/15654](https://transcription.si.edu/project/15654))
+Title of Specific Project in Example: District of Columbia Education, Records Relating to School Buildings, Grounds, and Supplies, Quartermaster’s Monthly Reports ([https://transcription.si.edu/project/15654](https://transcription.si.edu/project/15654))
 
 Link to Catalog of All Projects Undergoing Crowdsourced Transcription by Smithsonian Transcription Center: [https://transcription.si.edu/browse?filter=\&sort=](https://transcription.si.edu/browse?filter=\&sort=)
 {% endhint %}
