@@ -122,18 +122,14 @@ Interrogare le fonti in questo modo è solo una delle modalità di comprensione 
 
 ### Strumenti
 
-Abbiamo già visto degli strumenti. Di seguito si fa un po' di ordine e se ne indicano altri:
+Abbiamo già visto degli strumenti. Di seguito se ne indicano altri:
 
-* [AntConc:](http://www.laurenceanthony.net/software/antconc/) A freeware corpus analysis toolkit for concordancing and text analysis.
-* [Word Cloud:](https://www.wordclouds.com) Create free word clouds that represent the frequency of words used.
-* [corpus.byu.edu:](https://corpus.byu.edu/corpora.asp) The most widely used online corpora.
-* [Voyant Tools:](http://voyant-tools.org) A web-based text reading and analysis environment.
-* [Google Books Ngram Viewer](https://books.google.com/ngrams): An online search engine that charts the frequencies of any set of comma-delimited search strings.
-* [Wordseer: ](http://wordseer.berkeley.edu/shakespeare)A text analysis environment that combines visualization, information retrieval, sense making and natural language processing.
-* [Tapor: ](http://tapor.ca)A set of text analysis tools.
-* [TextArc: ](http://www.textarc.org)A visual representation of a text.
-* [MALLET:](http://mallet.cs.umass.edu) Maps patterns across texts with various tools.
-* [Diorisis](https://www.crs.rm.it/diorisissearch/). Vd qui per una presentazione [Brill](https://brill.com/view/journals/rdj/3/1/article-p55\_55.xml?language=en).
+* [AntConc:](http://www.laurenceanthony.net/software/antconc/) un toolkit gratuito per l'analisi del corpus per l'alasisi delle concordanze  e per la text analysis.
+* [corpus.byu.edu: ](https://www.english-corpora.org)i corpora online più utilizzati.
+* [Wordseer: ](https://wordseer.berkeley.edu)un ambiente di text analysis che combina visualizzazione, recupero delle informazioni, creazione di senso ed elaborazione del linguaggio naturale.
+* [Tapor: ](https://tapor.ca/tools) aggregatore di ttrumenti di text analysis.
+* [MALLET:](http://mallet.cs.umass.edu) pacchetto Java-based package per NLP (Natural Languade Processing), document classification, clustering, topic modeling, information extraction, e altre applicazioni di machine learning ai testi.
+* [Diorisis](https://www.crs.rm.it/diorisissearch/): applicazione progettata per costruire ed eseguire query linguistiche complesse sul Diorisis Ancient Greek Corpus  attraverso un'interfaccia grafica intuitiva.Vedi per una presentazione [Brill](https://brill.com/view/journals/rdj/3/1/article-p55\_55.xml?language=en).
 
 {% hint style="info" %}
 Il [Roy Rosenzweig Center for History and New Media](https://rrchnm.org) detiene il copyright per gli estratti usati nella sezione [Close e Distant Reading](./). Il testo completo del passaggio può essere trovato nel sito CHNM [qui](https://revolution.chnm.org/d/261/).
@@ -141,7 +137,7 @@ Il [Roy Rosenzweig Center for History and New Media](https://rrchnm.org) detiene
 
 ### Risorse Aggiuntive
 
-Ancora su close e distant reading&#x20;
+Ancora su close e distant reading:
 
 * [https://www.futurelearn.com/courses/reading-digital](https://www.futurelearn.com/courses/reading-digital)
 * [https://www.informatik.uni-leipzig.de/\~stjaenicke/Survey.pdf](https://www.informatik.uni-leipzig.de/\~stjaenicke/Survey.pdf)
