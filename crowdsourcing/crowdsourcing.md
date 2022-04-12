@@ -26,19 +26,10 @@ In molti casi, questi progetti digitali costano ingenti somme di denaro e, secon
 {% hint style="info" %}
 **Esempi di ambienti di microtasking**&#x20;
 
-Notizia del 2014 aggiornata nel 2018 nel contesto italiano:&#x20;
-
-[https://poloarchivistico.regione.emilia-romagna.it/notizie/volontari-a-raccolta-per-digitalizzare-gli-smithsonians](https://poloarchivistico.regione.emilia-romagna.it/notizie/volontari-a-raccolta-per-digitalizzare-gli-smithsonians)
-
-[https://www.zooniverse.org/lab](https://www.zooniverse.org/lab)
-
-[From the Page](https://fromthepage.com)
-
-Image and Full Transcription: (successful transcription of handwritten text): [https://transcription.si.edu/transcribe/15654/NMAAHC-007675740\_00588](https://transcription.si.edu/transcribe/15654/NMAAHC-007675740\_00588)
-
-Organization: Smithsonian Transcription Center ([https://transcription.si.edu](https://transcription.si.edu))
-
-Title of Specific Project in Example: District of Columbia Education, Records Relating to School Buildings, Grounds, and Supplies, Quartermaster’s Monthly Reports ([https://transcription.si.edu/project/15654](https://transcription.si.edu/project/15654))
-
-Link to Catalog of All Projects Undergoing Crowdsourced Transcription by Smithsonian Transcription Center: [https://transcription.si.edu/browse?filter=\&sort=](https://transcription.si.edu/browse?filter=\&sort=)
+* Notizia del 2014 aggiornata nel 2018 nel contesto italiano:  [https://poloarchivistico.regione.emilia-romagna.it/notizie/volontari-a-raccolta-per-digitalizzare-gli-smithsonians](https://poloarchivistico.regione.emilia-romagna.it/notizie/volontari-a-raccolta-per-digitalizzare-gli-smithsonians)
+* Smithsonian Transcription Center ([https://transcription.si.edu](https://transcription.si.edu))
+* Costruisci tu un tuo progetto: [https://www.zooniverse.org/lab](https://www.zooniverse.org/lab)
+* Costruisci tu un tuo progetto: [From the Page](https://fromthepage.com)
+* Esempio di trascrizione di immagine: [https://transcription.si.edu/transcribe/15654/NMAAHC-007675740\_00588](https://transcription.si.edu/transcribe/15654/NMAAHC-007675740\_00588)
+* Esempio di attività in corso nel Smithsonian Transcription Center: [https://transcription.si.edu/browse?filter=\&sort=](https://transcription.si.edu/browse?filter=\&sort=)
 {% endhint %}
