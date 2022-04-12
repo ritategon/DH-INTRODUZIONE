@@ -4,9 +4,11 @@ description: Ricorda che l'approccio è multidisciplinare
 
 # Piano di Lavoro
 
+{% hint style="warning" %}
 #### Nota&#x20;
 
-Di seguito il piano. È molto probabile che durante il corso sincrono ci saranno delle variazioni, ovvero idee e materiali  saranno presentati compatibilmente con i tempi e le necessità dei corsisti.  Tutto questo non verrà riportato qui.  D'altra parte tu, corsista  (nella duplice veste di docente e studente), o lettore interessato, sei libero di procedere secondo i tuoi tempi e curiosità.
+Di seguito trovi il piano. Tieni presente che è molto probabile che durante il corso sincrono ci saranno delle variazioni, ovvero idee e materiali  saranno presentati compatibilmente con i tempi e le necessità dei corsisti.  Tutto questo non verrà riportato qui.  D'altra parte tu, corsista  (nella duplice veste di docente e studente), o lettore interessato, sei libero di procedere secondo i tuoi tempi e curiosità.
+{% endhint %}
 
 ## Descrizione
 
