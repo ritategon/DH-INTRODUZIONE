@@ -44,6 +44,7 @@ Come hai capito, una grande quantità di dati di DH, cioè così concepiti  è d
 ### Ulteriori risorse
 
 * Our World in Data [https://ourworldindata.org/](https://ourworldindata.org)
+* Italian Paleography [https://italian-paleography.library.utoronto.ca/content/transcriptions](https://italian-paleography.library.utoronto.ca/content/transcriptions)
 * UNIBO, Corpora and tools [https://corpora.dipintra.it/](https://corpora.dipintra.it)
 * Homer multitext project [https://github.com/homermultitext](https://github.com/homermultitext)
 * Perseus Digital Library [https://www.perseus.tufts.edu/hopper/grants/million.jsp](https://www.perseus.tufts.edu/hopper/grants/million.jsp)
