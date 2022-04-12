@@ -17,6 +17,6 @@ L'esperienza d'uso è ottimale usando Chrome o Firefox.
 
 Si segnala che potranno essere apportate modifiche che la versione online via via recepisce.
 
-[_DH: introduzione_](https://rita-tegon.gitbook.io/introduzione-alla-analisi-del-testo/) \_\_ di Rita Tegon è diffuso con licenza [<mark style="color:blue;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</mark>](http://creativecommons.org/licenses/by-nc-sa/4.0/)<mark style="color:blue;">.</mark>
+[_DH: introduzione_](https://rita-tegon.gitbook.io/introduzione-alla-analisi-del-testo/) di Rita Tegon è diffuso con licenza [<mark style="color:blue;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</mark>](http://creativecommons.org/licenses/by-nc-sa/4.0/)<mark style="color:blue;">.</mark>
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
