@@ -87,7 +87,7 @@ In questa sezione stiamo vedendo la **Topic Classification** che prevede forme d
 * **Automatic Summarization**: produzione di una versione sintetica di uno o più documenti testuali;
 * **Language Translation**: traduzione di testi scegliendo, volta per volta, il significato migliore a seconda del contesto.
 
-Dunque, nell'ambito della Topic Classification troviamo la **Text Classification** che viene presentata [di seguito](classifying-texts/) e che serve tra l'altro a rispondere a domande come queste:
+Dunque, nell'ambito della Topic Classification troviamo la **Text Classification** che viene presentata [di seguito](classifying-texts.md) e che serve tra l'altro a rispondere a domande come queste:
 
 * questa mail è spam?
 * chi ha scritto questo testo?

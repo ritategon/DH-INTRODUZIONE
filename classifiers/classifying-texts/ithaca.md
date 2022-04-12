@@ -4,7 +4,7 @@ description: Restoring and attributing ancient texts using deep neural networks
 
 # Ithaca
 
-Metodi di Deep Learning vengono usati per la [Text Classification](./). Senza entrare negli aspetti tecnici che richiedono una professionalità specifica, limitiamoci ad apprezzare una recente applicazione per il restauto, la collocazione e la datazione di testi antichi.
+Metodi di Deep Learning vengono usati per la [Text Classification](../classifying-texts.md). Senza entrare negli aspetti tecnici che richiedono una professionalità specifica, limitiamoci ad apprezzare una recente applicazione per il restauto, la collocazione e la datazione di testi antichi.
 
 La Storia Antica si basa su discipline come l'Epigrafia, lo studio di iscrizioni, a testimonianza del pensiero, della lingua, della società e della storia delle civiltà passate. Tuttavia, nel corso dei secoli molte sono state danneggiate al punto da renderle illeggibili, trasportate lontano dalla loro collocazione originaria, e la loro data di scrittura è intrisa di incertezza. [Ithaca](https://www.deepmind.com/blog/predicting-the-past-with-ithaca), assiste ed espandere il flusso di lavoro dello storico  nella attribuzione geografica e cronologica di iscrizioni greche antiche.Per la sua architettura si concentra su collaborazione, supporto decisionale e interpretabilità.
 

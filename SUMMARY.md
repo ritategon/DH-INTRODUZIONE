@@ -63,7 +63,7 @@
   * [Esercizio](topic-modeling/exercises.md)
 * [Topic Classification](classifiers.md)
   * [Supervised Classifiers](classifiers/supervised-classifiers.md)
-  * [Classifying Texts](classifiers/classifying-texts/README.md)
+  * [Classifying Texts](classifiers/classifying-texts.md)
     * [Ithaca](classifiers/classifying-texts/ithaca.md)
   * [Esercizio](classifiers/exercises.md)
 * [Sentiment Analysis](sentiment-analysis.md)
