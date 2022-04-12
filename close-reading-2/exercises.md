@@ -9,3 +9,7 @@ Adesso clicca sulla sezione che compare sotto e annota secondo i seguenti indica
 Osserva come le tue annotazioni siano rispetto a quelle del gruppo. [https://recogito.pelagios.org/Atir](https://recogito.pelagios.org/Atir) tutorial [https://recogito.pelagios.org/help/tutorial](https://recogito.pelagios.org/help/tutorial)
 
 {% embed url="https://nowcomment.com/documents/esercizio" %}
+
+Ripeti la stessa operazione nello strumento sotto indicato (usando gli stessi highlighting) e osserva le differenze. Per annotare serve un account.[ Qui ](https://recogito.pelagios.org/help/tutorial)un tutorial.
+
+{% embed url="https://recogito.pelagios.org/document/bjttct79ykozc1" %}
