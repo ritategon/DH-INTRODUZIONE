@@ -4,8 +4,8 @@ description: >-
   usando i Naive Bayes Classifiers
 ---
 
-# Classifiers
+# Topic Classification
 
 * [Supervised Classifiers](classifiers/supervised-classifiers.md)
-* [Classifying Texts](classifiers/classifying-texts.md)
+* [Classifying Texts](classifiers/classifying-texts/)
 * [Esercizio](classifiers/exercises.md)
