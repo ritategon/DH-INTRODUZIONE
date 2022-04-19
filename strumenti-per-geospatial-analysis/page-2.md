@@ -8,8 +8,6 @@
 
 ![](<../.gitbook/assets/screenshot-www.esri.com-2022.04.19-14\_39\_57 (1).png>)
 
-Lo strumento  [Story Maps](https://storymaps.arcgis.com/stories/de1edc28ecae42c2a1849d108350c997) consente di combinare mappe autorevoli con testo, immagini e contenuti multimediali e di sfruttare facilmente la potenza delle mappe geografiche per raccontare.
-
 ### Altre risorse
 
 * Tieni presente che gli strumenti per l'analisi geostorica sono davvero numerosi, tra cui anche linguaggi di programmazione come Python ed R ed altri.
