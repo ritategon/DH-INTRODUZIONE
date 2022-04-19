@@ -33,7 +33,7 @@ L'esperienza d'uso è ottimale usando Chrome o Firefox.
 
 Si segnala che potranno essere apportate modifiche che la versione online via via recepisce.
 
-_(Nota: se trovi un errore o desideri dare un suggerimento, scrivi_ [_qui_](https://github.com/ritategon/DH-INTRODUZIONE/issues))
+Se trovi un errore o desideri dare un suggerimento, scrivi [qui](https://github.com/ritategon/DH-INTRODUZIONE/issues).
 
 [_DH: introduzione_](https://rita-tegon.gitbook.io/introduzione-alla-analisi-del-testo/) di Rita Tegon è diffuso con licenza [<mark style="color:blue;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</mark>](http://creativecommons.org/licenses/by-nc-sa/4.0/)<mark style="color:blue;">.</mark>
 
