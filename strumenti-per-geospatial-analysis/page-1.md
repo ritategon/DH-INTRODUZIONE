@@ -1,5 +1,7 @@
 ---
-description: Historical Geographic Information Systems
+description: >-
+  Gli esempi che vedrai sotto hanno a che fare con  gli Historical Geographic
+  Information Systems
 ---
 
 # HGIS
@@ -49,6 +51,12 @@ Da [qui ](https://ships.lib.virginia.edu/neatline/show/iliad-book-2)puoi acceder
 Tutto questo si colloca nell'ambito dell'HGIS (Historical Geographic Information Systems). E' stato realizzato utilizzando la tecnologia geospaziale applicata ai testi per assistere la professoressa di studi classici [Jenny Strauss Clay](https://classics.as.virginia.edu/people/profile/jsc2t) nel testare le sue teorie sulla relazione della geografia antica con i dispositivi mnemonici e la forma poetica. Anche l'analisi del percorso a basso costo in GIS, unita all'analisi letteraria dei quasi 190 toponimi menzionati nel Catalogo delle navi di Omero, è stata usata per identificare i siti archeologici perduti.
 
 Il HGIS (Historical Geographic Information Systems) è una metodologia storica che, utilizzando database [GIS](https://docs.qgis.org/2.18/it/docs/gentle\_gis\_introduction/introducing\_gis.html) (Geographic Information Systems) e software di mappatura, mette insieme storia e geografia per esplorare il cambiamento nel tempo e la variazione nello spazio. La fusione dei metodi storici con la tecnologia dei sistemi informativi geografici apre possibilità analitiche innovative per la ricerca storica.﻿ &#x20;
+
+## Orbis
+
+Un altro esempio interessante è costituito da [Orbis](https://orbis.stanford.edu), lo Stanford Geospatial Network Model of the Roman World, un progetto di Walter Scheidel ed Elijah Meeks: Si tratta di una mappa interattiva che consente agli utenti, ad esempio, di inserire due località dell'antica Roma, selezionare la stagione, una priorità di viaggio (il più veloce, il più economico, più breve), le modalità di viaggio, ecc. e restituisce il percorso più efficiente.
+
+![](../.gitbook/assets/screenshot-orbis.stanford.edu-2022.04.19-21\_22\_57.png)
 
 ## HGIS
 
