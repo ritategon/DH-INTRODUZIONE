@@ -40,7 +40,7 @@ Mentre la recitazione del poeta delle tre rotte contigue intorno al mondo greco 
 
 Il progetto __ [_Mapping the Catalog of Ships_](https://ships.lib.virginia.edu/neatline/show/iliad-book-2) __ dell'Università della Virginia, analizza l'ordine narrativo dei toponimi all'interno di ciascun contingente in termini di distribuzione geografica. Per la maggior parte dei contingenti, i cluster narrativi di siti riflettono le realtà geografiche locali. I principi organizzativi geospaziali emergono attraverso l'analisi di ciò che chiamiamo _gruppi sintattici_ e _gruppi legati al verso_. I _gruppi sintattici_ sono casi in cui un singolo verbo governa un gruppo di città; i _gruppi legati al verso_ sono casi in cui più città cadono in un unico verso. Si scopre che questi _gruppi sintattici_ e _gruppi legati al verso_ spesso si accordano con le caratteristiche geografiche locali o con i percorsi di viaggio.
 
-![](../.gitbook/assets/screenshot-ships.lib.virginia.edu-2022.04.19-10\_45\_22.png)
+![](../../.gitbook/assets/screenshot-ships.lib.virginia.edu-2022.04.19-10\_45\_22.png)
 
 Gli studiosi avevano già riconosciuto il principio geospaziale che sta alla base della narrativa di Omero e il progetto __ dimostra che il poeta utilizzava la topografia come principio organizzativo e dispositivo mnemonico spaziale.
 
@@ -54,7 +54,7 @@ Il HGIS (Historical Geographic Information Systems) è una metodologia storica c
 
 Un altro esempio interessante è costituito da [Orbis](https://orbis.stanford.edu), lo Stanford Geospatial Network Model of the Roman World, un progetto di Walter Scheidel ed Elijah Meeks: Si tratta di una mappa interattiva che consente agli utenti, ad esempio, di inserire due località dell'antica Roma, selezionare la stagione, una priorità di viaggio (il più veloce, il più economico, più breve), le modalità di viaggio, ecc. e restituisce il percorso più efficiente.
 
-![](../.gitbook/assets/screenshot-orbis.stanford.edu-2022.04.19-21\_22\_57.png)
+![](../../.gitbook/assets/screenshot-orbis.stanford.edu-2022.04.19-21\_22\_57.png)
 
 ## HGIS
 
@@ -90,11 +90,11 @@ Con un’applicazione GIS puoi aprire delle mappe digitali, creare nuove informa
 
 Diamo un’occhiata ad un piccolo esempio di come GIS può essere utile. Immagina di essere un operatore sanitario e di prendere nota della data e del luogo di residenza di ogni paziente trattato.
 
-![](../.gitbook/assets/screenshot-docs.qgis.org-2022.04.19-12\_34\_41.png)
+![](../../.gitbook/assets/screenshot-docs.qgis.org-2022.04.19-12\_34\_41.png)
 
 Se osservi la tabella potrai velocemente vedere che ci sono stati molti casi di morbillo nei mesi di Gennaio e Febbraio. Inoltre è stata salvata la posizione delle abitazioni dei pazienti, riportando in tabella la loro latitdine e longitudine. A questo punto, visualizzando i dati in un’Applicazione GIS, possiamo capire molte più cose sul modello di diffusione delle malattie.
 
-![L’esempio mostra i dati sulle malattie visualizzati su un’appplicazione GIS. E’ facile vedere come i pazienti affetti da orecchioni vivano tutti vicini gli uni con gli altri.](../.gitbook/assets/patterns\_of\_illness.png)
+![L’esempio mostra i dati sulle malattie visualizzati su un’appplicazione GIS. E’ facile vedere come i pazienti affetti da orecchioni vivano tutti vicini gli uni con gli altri.](../../.gitbook/assets/patterns\_of\_illness.png)
 
 Se hai interesse, puoi continuare ad esplorare in italiano nella [pagina che ha costituito da fonte](https://docs.qgis.org/2.18/it/docs/gentle\_gis\_introduction/index.html), opure nella [pagina aggiornata ](https://docs.qgis.org/3.22/en/docs/)in inglese. Vedrai inoltre che si tratta di un ambiente open source. Nella sezione successiva, noi vedremo un sistema proprietario che potrai utilizzare gratuitamente: [ArcGIS online](page-2.md).
 

@@ -1,12 +1,4 @@
----
-description: https://www.timemaps.com/timemaps-for-education/
----
-
-# Usi
-
-
-
-
+# ArcGIS Online
 
 [ArcGIS Online](https://www.esriitalia.it/prodotti/la-nostra-offerta/piattaforma-esri/arcgis-online) è un sistema proprietario che permette di integrare i propri dati geografici con quelli di Esri e degli utenti di ArcGIS per creare mappe. Le basemap pronte all’uso, gli strumenti, i template e i dataset permettono di creare e pubblicare facilmente le mappe. (esiste anche nella versione desktop).
 
@@ -14,19 +6,17 @@ description: https://www.timemaps.com/timemaps-for-education/
 
 
 
-![](<../.gitbook/assets/screenshot-www.esri.com-2022.04.19-14\_39\_57 (1).png>)
+![](<../../.gitbook/assets/screenshot-www.esri.com-2022.04.19-14\_39\_57 (1).png>)
 
 Lo strumento  [Story Maps](https://storymaps.arcgis.com/stories/de1edc28ecae42c2a1849d108350c997) consente di combinare mappe autorevoli con testo, immagini e contenuti multimediali e di sfruttare facilmente la potenza delle mappe geografiche per raccontare.
-
-
-
-
 
 ### Altre risorse
 
 Tieni presente che gli strumenti per l'analisi geostorica sono davvero numerosi, tra cui anche Python ed R.&#x20;
 
 [QGIS](https://www.qgis.org/it/site/): un Sistema di Informazione Geografica Libero e Open Source
+
+Lo strumento  [Story Maps](https://storymaps.arcgis.com/stories/de1edc28ecae42c2a1849d108350c997) consente di combinare mappe autorevoli con testo, immagini e contenuti multimediali e di sfruttare facilmente la potenza delle mappe geografiche per raccontare.
 
 [Geocoding Historical Data using QGIS](https://programminghistorian.org/en/lessons/geocoding-qgis)
 
