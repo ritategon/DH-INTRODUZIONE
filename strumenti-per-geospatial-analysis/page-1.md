@@ -58,15 +58,15 @@ Un altro esempio interessante è costituito da [Orbis](https://orbis.stanford.ed
 
 ## HGIS
 
-L'acronimo si deve  a Anne Kelly Knowles in _Past time, past place: GIS for history del_ 2002 edito da ESRI Press. A pag. XII scriveva;
+L'acronimo si deve  a [Anne Kelly Knowles ](https://umaine.edu/history/people/dr-anne-kelly-knowles/)in _Past time, past place: GIS for history del_ 2002 edito da ESRI Press. A pag. XII scriveva:
 
-> “Geography is the study of spatial differentiation, history the study of temporal differentiation. Historical GIS provides the tool to combine them to study patterns of change over space and time” (Knowles, 2002a, p. XII). La stessa autrice proseguiva con una precisazione – valida non solo per studi basati sugli HGIS – ricordando che “using GIS intelligently requires a grounding in geographical knowledge. Applying the technology to history requires knowing how to contextualize and interpret historical sources”
+> “Geography is the study of spatial differentiation, history the study of temporal differentiation. Historical GIS provides the tool to combine them to study patterns of change over space and time” (Knowles, 2002a, p. XII).&#x20;
 >
 > (trad. : la geografia è lo studio della differenziazione spaziale, la storia lo studio della differenziazione temporale. I GIS storici forniscono lo strumento per combinarli per studiare i modelli di cambiamento nello spazio e nel tempo).
 >
 >
 
-Geography is the study of spatial differentiation, history the study of temporal differentiation. Historical GIS provides the tool to combine them to study patterns of change over space and time” (Knowles, 2002a, p. XII). La stessa autrice proseguiva con una precisazione – valida non solo per studi basati sugli HGIS – ricordando che “using GIS intelligently requires a grounding in geographical knowledge. Applying the technology to history requires knowing how to contextualize and interpret historical sources” (Knowles, 2002a, p. XII).
+La stessa autrice proseguiva con una precisazione – valida non solo per studi basati sugli HGIS – ricordando che “using GIS intelligently requires a grounding in geographical knowledge. Applying the technology to history requires knowing how to contextualize and interpret historical sources” (Knowles, 2002a, p. XII).
 
 Allo stato attuale, come osserva Grava (vd. sotto in Ulteriori risorse) In realtà, non c'è una definizione condivisa la reale natura di HGIS.  Questo perchè esso  può essere inteso come un sistema informativo geografico che consente di formulare interpretazioni analitiche e risolvere problemi storiografici; ma ci si può riferire anche ad ogni geodatabase costruito a partire da fonti storiche. La prima descrizione enfatizza fini e teleologia; la seconda invece privilegia fonti e metodologia.&#x20;
 
