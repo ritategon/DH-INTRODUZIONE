@@ -1,10 +1,8 @@
----
-description: >-
-  Gli esempi che vedrai sotto hanno a che fare con  gli Historical Geographic
-  Information Systems
----
-
 # HGIS
+
+{% hint style="info" %}
+Gli esempi che vedrai sotto hanno a che fare con gli Historical Geographic Information Systems. Usano strumenti diversi e hanno obiettivi diversi.&#x20;
+{% endhint %}
 
 ## Il catalogo delle navi
 
