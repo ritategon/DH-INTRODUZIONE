@@ -1,0 +1,13 @@
+# Cosa fare
+
+Nelle sezioni precedenti abbiamo visto degli esempi e moltissimi strumenti.
+
+Ma c'è un problema comune nel lavorare con i dati spaziali (o, come abbiamo visto, con qualsiasi tipo di dato). Una volta acquisita una ragionevole competenza nella creazione di mappe, il processo effettivo di creazione delle mappe può procedere molto rapidamente. Viene dedicato molto più tempo alla **ricerca o alla creazione, pulizia e preparazione dei dati**. Inoltre, il processo di creazione delle mappe è ripetibile da una mappa all'altra. Una volta che si è imparato a creare un certo tipo di mappa, creare la seconda, la terza o la decima mappa è molto più semplice. Ma ogni nuovo progetto comporta le stesse sfide di trovare e preparare i dati. Questo lavoro è altamente specifico per i set di dati o le fonti primarie in questione. L'abilità di creare, pulire e manipolare i dati può essere appresa, ma le tecniche sono difficili da distillare in un tutorial o in una serie di passaggi. Ad ogni buon conto il flow può essere come quello che vedi sotto:
+
+![da Introduction to spatial humanities, Lincoln Mullen](../.gitbook/assets/screenshot-lincolnmullen.com-2022.04.19-22\_34\_02.png)
+
+Poi si tratta di capire **cosa fare.**
+
+* L'abilità più importante che gli studenti possono apprendere sulle mappe nelle discipline umanistiche è l'alfabetizzazione spaziale. Come si legge una mappa? Questo può significare introdurre letteralmente gli studenti alle convenzioni di base delle mappe. Ma soprattutto significa imparare a leggere le mappe del passato come fonti primarie, e come leggere le mappe degli studiosi come fonti secondarie, e come leggere i testi tenendo conto dei loro contesti spaziali.
+* Una mappa narrativa racconta una storia tracciata attraverso lo spazio. Il punto di una mappa narrativa non è visualizzare i dati. Piuttosto è fornire una controparte visiva esplicita alle implicite basi spaziali di una narrazione o di un argomento. Le mappe narrative sono ampiamente utili in tutte le discipline, poiché molti testi hanno una componente spaziale. Ad esempio, una lezione di letteratura potrebbe chiedere agli studenti di tracciare i movimenti dei personaggi all'interno dei Dubliners di James Joyce o di qualche altra opera letteraria. Un'altra classe potrebbe cercare i movimenti di Agostino d'Ippona nel Mediterraneo. Gli studenti di una classe sulla religione americana potrebbero prendere ciascuno l'autobiografia di un ministro itinerante diverso e tracciarne i movimenti.1 Una lezione di arte o musica potrebbe seguire lo sviluppo di determinati tipi di pittura o stili musicali nello spazio.
+
