@@ -8,6 +8,10 @@
 
 ![](<../.gitbook/assets/screenshot-www.esri.com-2022.04.19-14\_39\_57 (1).png>)
 
+Uno strumento senz'altro interessante da esplorare nell'ambito di ArcGIS è [**ArcGIS StoryMaps**](https://storymaps.arcgis.com/collections/d34681ac0d1a417894a3a3d955c6913f?item=1)**.**
+
+![](../.gitbook/assets/screenshot-storymaps.arcgis.com-2022.04.19-23\_56\_05.png)
+
 ### Altre risorse
 
 * Tieni presente che gli strumenti per l'analisi geostorica sono davvero numerosi, tra cui anche linguaggi di programmazione come Python ed R ed altri.
