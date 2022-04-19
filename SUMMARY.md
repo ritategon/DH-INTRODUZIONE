@@ -47,7 +47,7 @@
   * [Esercizio](archives/exercises.md)
 * [Spatia Humanities](strumenti-per-geospatial-analysis/README.md)
   * [HGIS](strumenti-per-geospatial-analysis/page-1.md)
-  * [ArcGIS Online](strumenti-per-geospatial-analysis/page-2.md)
+  * [Usi](strumenti-per-geospatial-analysis/page-2.md)
   * [Esercizio](strumenti-per-geospatial-analysis/eserciziox.md)
 * [Cyborg Readers](cyborg-readers.md)
   * [Come un Computer Legge un Testo](cyborg-readers/computer-reading.md)

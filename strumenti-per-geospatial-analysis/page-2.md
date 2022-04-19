@@ -2,9 +2,9 @@
 description: https://www.timemaps.com/timemaps-for-education/
 ---
 
-# ArcGIS Online
+# Usi
 
-[http://www.histoatlas.org/](http://www.histoatlas.org)
+
 
 
 

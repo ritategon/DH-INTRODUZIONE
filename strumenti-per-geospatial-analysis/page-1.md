@@ -1,7 +1,7 @@
 # HGIS
 
 {% hint style="info" %}
-Gli esempi che vedrai sotto hanno a che fare con gli Historical Geographic Information Systems. Usano strumenti diversi e hanno obiettivi diversi.&#x20;
+Gli esempi che vedrai sotto hanno a che fare con l'Historical Geographic Information System. Usano strumenti diversi e hanno obiettivi diversi.&#x20;
 {% endhint %}
 
 ## Il catalogo delle navi
@@ -66,9 +66,9 @@ L'acronimo si deve  a [Anne Kelly Knowles ](https://umaine.edu/history/people/dr
 >
 >
 
-La stessa autrice proseguiva con una precisazione – valida non solo per studi basati sugli HGIS – ricordando che “using GIS intelligently requires a grounding in geographical knowledge. Applying the technology to history requires knowing how to contextualize and interpret historical sources” (Knowles, 2002a, p. XII).
+La stessa autrice proseguiva con una precisazione – valida non solo per studi basati sugli HGIS – ricordando che “using GIS intelligently requires a grounding in geographical knowledge. Applying the technology to history requires knowing how to contextualize and interpret historical sources” (trad. l'uso intelligente dei GIS richiede una base di conoscenze geografiche. Applicare la tecnologia alla storia richiede saper contestualizzare e interpretare le fonti storiche).
 
-Allo stato attuale, come osserva Grava (vd. sotto in Ulteriori risorse) In realtà, non c'è una definizione condivisa la reale natura di HGIS.  Questo perchè esso  può essere inteso come un sistema informativo geografico che consente di formulare interpretazioni analitiche e risolvere problemi storiografici; ma ci si può riferire anche ad ogni geodatabase costruito a partire da fonti storiche. La prima descrizione enfatizza fini e teleologia; la seconda invece privilegia fonti e metodologia.&#x20;
+Allo stato attuale, come osserva Grava (vd. sotto in Ulteriori risorse), non c'è una definizione condivisa sulla reale natura di un HGIS.  Questo perchè esso  può essere inteso come un sistema informativo geografico che consente di formulare interpretazioni analitiche e risolvere problemi storiografici; ma ci si può riferire anche ad ogni geodatabase costruito a partire da fonti storiche. La prima descrizione enfatizza fini e teleologia; la seconda invece privilegia fonti e metodologia.&#x20;
 
 Nel dibattito, che resta aperto, vale la pena evidenziare che la costruzione di un HGIS non può prescindere dai metodi propri dell’esegesi, della ricostruzione filologica e della critica del documento, affinati dalle scienze storiche e geografico-storiche.
 
@@ -100,8 +100,8 @@ Se hai interesse, puoi continuare ad esplorare in italiano nella [pagina che ha 
 
 ### Ulteriori risorse
 
-Puoi approfondire con una pubblicazione italiana (Massimiliano Grava et alli, Università degli Studi di Trieste) in open access scaricabile da [qui](https://www.openstarts.units.it/handle/10077/30847).
-
-The [DECIMA](https://decima-map.net) project
-
-[GIS data by country](https://libguides.mit.edu/c.php?g=176295\&p=1161384#s-lg-box-wrapper-4119218)
+* Puoi approfondire con una pubblicazione italiana (Massimiliano Grava et alli, Università degli Studi di Trieste) in open access scaricabile da [qui](https://www.openstarts.units.it/handle/10077/30847).
+* The [DECIMA](https://decima-map.net) project: Firenze mnel XVI secolo.
+* [GIS data by country](https://libguides.mit.edu/c.php?g=176295\&p=1161384#s-lg-box-wrapper-4119218)
+* [Histo Atlas](http://www.histoatlas.org) è un software gratuito che permette di disegnare e visualizzare mappe storiche con la visualizzazione dell'evoluzione nel tempo di confini, aree culturali o altro. Il software consente di disegnare aree, aggiungere etichette, scegliere una mappa di sfondo, definire fusi orari. Puoi registrarti per poter salvare le tue mappe e condividerle online.
+* [Time Maps](https://www.timemaps.com/history/).
