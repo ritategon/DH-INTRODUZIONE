@@ -4,7 +4,7 @@ Questa libro fornisce una  introduzione  alle Digital Humanities con un focus pr
 
 Esso supporta anche corsi sincroni: in questo caso, si indicherà quali esercizi siano obbligatori.
 
-Molti di voi sono probabilmente abituati ad analizzare i testi in una forma o nell'altra, sia considerando attentamente le parti di un testo letterario, sia pensando alle parole di un documento storico o di qualsiasi altra natura. Ma anche se faremo entrambe le cose, stiamo usando la frase "analisi del testo" in un modo diverso: qui parliamo di come possiamo usare i computer per aiutare ad analizzare i testi/documenti in modi nuovi.
+I più sono probabilmente abituati ad analizzare i testi in una forma o nell'altra, sia considerando attentamente le parti di un testo letterario, sia pensando alle parole di un documento storico o di qualsiasi altra natura. Ma anche se faremo entrambe le cose, qui stiamo usando la frase "analisi del testo" in un modo molto diverso: parliamo infatti di come possiamo usare i computer per aiutarci ad analizzare i testi/documenti in modi nuovi.
 
 Essenzialmente, vedremo come si usano il computer e le nuove tecnologie nelle discipline umanistiche. Laura Mandell offre un'utile definizione di cosa sono le DH (discipline umanistiche digitali) in un'intervista con la [Review of Books](https://lareviewofbooks.org/article/digital-humanities-interview-laura-mandell/):
 

@@ -4,7 +4,7 @@
 
 L'**hyper reading** viene in genere utilizzata durante la lettura di testi online su computer e quindi svolge un ruolo sempre più importante nelle nostre vite e può trasformare la nostra capacità di lettura in generale. [James Sosnoski](https://www.academia.edu/12231219/Hyper\_Readers\_and\_their\_Reading\_Engines) delinea otto diverse strategie di iperlettura;
 
-1. &#x20;filtering
+1. filtering
 2. skimming
 3. pecking
 4. imposing
@@ -23,7 +23,7 @@ Per una definizione delle prime 5 forme [qui](https://www.futurelearn.com/info/c
 
 Il **social reading** è una forma collaborativa di lettura online che incorpora la discussione nel processo di lettura e lo trasforma in un'esperienza comune.
 
-#### References <a href="#references" id="references"></a>
+#### Riferimenti <a href="#references" id="references"></a>
 
 Hayles, N. Katherine. How We Think: Digital Media and Contemporary Technogenesis. Chicago: University of Chicago Press, 2012.
 
