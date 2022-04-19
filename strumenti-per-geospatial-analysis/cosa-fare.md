@@ -118,12 +118,3 @@ I file di valori separati da virgola contengono dati punto in formato tabulare. 
 
 [I file KML](https://developers.google.com/kml/) ( `.kml`o `.kmz`) sono comunemente usati in Google Earth o Google Maps.
 
-
-
-
-
-### Ulteriori risorse
-
-* Mappe narrative [https://storymap.knightlab.com/](https://storymap.knightlab.com)
-*
-
