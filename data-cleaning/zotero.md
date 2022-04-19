@@ -57,4 +57,5 @@ Per attività di respiro più limitato vale la pena citare lo strumento di citaz
 
 * Guida all'uso basico di Zotero [https://www.zotero.org/support/it/quick\_start\_guide](https://www.zotero.org/support/it/quick\_start\_guide)
 * Altri materiali dell'Università di Padova sull'uso di Zotero [https://bibliotecadigitale.cab.unipd.it/strumenti-di-ricerca/gestione-bibliografie/zotero](https://bibliotecadigitale.cab.unipd.it/strumenti-di-ricerca/gestione-bibliografie/zotero)
+* [Come si citano i materiali cartografici](https://lib.uwaterloo.ca/locations/umd/digital/citation.html)
 
