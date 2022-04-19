@@ -73,7 +73,7 @@ quasi %>%
 ##   engagement_type (fctr), status (fctr)
 ```
 
-Queste poche righe di codice potrebbero sembrare un po' criptiche, ma guardandole possiamo capire che stiamo prendendo i dati Quasi War (nella variabile chiamata `quasi`) e prendiamo solo gli eventi accaduti prima della fine dell'anno 1798.
+Queste poche righe di codice potrebbero sembrare un po' criptiche, ma guardandole possiamo capire che stiamo prendendo i dati [Quasi War](http://abbymullen.org/projects/Quasi-War/) (nella variabile chiamata `quasi`) e prendiamo solo gli eventi accaduti prima della fine dell'anno 1798.
 
 Noi possiamo sicuramente creare tutte le mappe di cui abbiamo bisogno usando gli strumenti della GUI che abbiamo esplorato in questa unità, ma scrivere il codice ci offrirebbe un mezzo più potente, flessibile e preciso per creare mappe. Lo scopo quindi è renderti consapevole delle possibilità di ciò che si può fare imparando i rudimenti di un [linguaggio di programmazione](https://www.w3schools.com/r/default.asp).
 
