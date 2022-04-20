@@ -6,9 +6,7 @@ description: >-
 
 # Esercizio 2
 
-1: esamina ciascuno dei progetti seguenti
-
-2: rispondi alle domande del sondaggio che seguono, scegliendo lo scopo che ritieni più in linea con ogni progetto&#x20;
+Continua seguendo le indicazione date nella [pagina precedente](exercises.md).
 
 [**The Oxford Friars Project**](https://oxfordfriars.wordpress.ncsu.edu)****
 
