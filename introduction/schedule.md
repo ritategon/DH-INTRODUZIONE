@@ -7,12 +7,14 @@ description: Ricorda che l'approccio è multidisciplinare
 {% hint style="warning" %}
 #### Nota&#x20;
 
-Di seguito trovi il piano. Tieni presente che è molto probabile che durante il corso sincrono ci saranno delle variazioni, ovvero idee e materiali  saranno presentati compatibilmente con i tempi e le necessità dei corsisti.  Tutto questo non verrà riportato qui.  D'altra parte tu, corsista  (nella duplice veste di docente e studente), o lettore interessato, sei libero di procedere secondo i tuoi tempi e curiosità.
+Di seguito trovi il piano.&#x20;
+
+Tieni presente che è molto probabile che durante il corso sincrono ci saranno delle variazioni, ovvero idee e materiali  saranno presentati compatibilmente con i tempi e le necessità dei corsisti.  Tutto questo non verrà riportato qui.  D'altra parte tu, corsista  (nella duplice veste di docente e studente), o lettore interessato, sei libero di procedere secondo i tuoi tempi e curiosità.
 {% endhint %}
 
 ## Descrizione
 
-Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuove tecnologie consentano ai computer di "leggere" grandi quantità di informazioni per fare luce sul passato e sul presente (analisi diacronica o sincronica) con tutte le cautele che sono necessarie. Sarai introdotto ad una prima esplorazione della natura e di alcuni strumenti di analisi del testo/data mining per le discipline umanistiche. Esso non presuppone una conoscenza specifica preliminare, ma abilità intermedie di uso delle tecnologie digitali.
+Attraverso questo corso ci si interroga su cosa siano le DH e su come le nuove tecnologie consentano ai computer di "leggere" grandi quantità di informazioni per fare luce sul passato e sul presente (analisi diacronica o sincronica) con tutte le cautele che sono necessarie. Sarai introdotto ad una prima esplorazione della natura della lettura e di alcuni strumenti di analisi del testo/data mining per le discipline umanistiche. Esso non presuppone una conoscenza specifica preliminare, ma abilità intermedie di uso delle tecnologie digitali.
 
 ## Schedulazione
 
@@ -39,7 +41,7 @@ Attraverso questo corso si interroga su cosa sino le DH e su come possono le nuo
 
 * [Analisi Geospaziale](../strumenti-per-geospatial-analysis/)
 
-### Incontro  5
+### Incontro 5
 
 * [Cyborg Readers](../cyborg-readers.md)
 * [Reading at Scale](../reading-at-scale.md)
