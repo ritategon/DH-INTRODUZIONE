@@ -2,7 +2,7 @@
 
 Ora prova tu.
 
-Scegli liberamente l'attività con la quale ti senti più a tuo agio tra quelle indicate, o proponila tu stesso
+Scegli liberamente l'attività con la quale ti senti più a tuo agio tra quelle indicate, o proponila tu stesso.
 
 1. Applica autonomamente quanto abbiamo visto nella sezione[ Cosa fare](cosa-fare.md). Parti da qua [https://storymaps.arcgis.com/stories](https://storymaps.arcgis.com/stories)&#x20;
 2. Se vuoi prova una piattaforma diversa: [http://hdlab.stanford.edu/palladio/](http://hdlab.stanford.edu/palladio/)
