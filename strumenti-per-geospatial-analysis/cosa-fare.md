@@ -28,7 +28,7 @@ Insieme proveremo a fare una mappa narrativa riferita ad Agoastino di Ippona usa
 
 Il geografo Tim Cresswell definisce i luoghi come segue:
 
-> Il luogo è il modo in cui rendiamo significativo il mondo e il modo in cui viviamo il mondo. Il luogo, a livello di base, è spazio investito di significato nel contesto del potere. Questo processo di investimento dello spazio con significato avviene in tutto il mondo a tutte le scale e si è verificato nel corso della storia umana. Dare un senso a questo è stato uno dei compiti centrali della geografia umana (Tim Cresswell, _Place: An Introduction_, 2nd ed. (J. Wiley & Sons, 2015), 19).
+> Il luogo è il modo in cui rendiamo significativo il mondo e il modo in cui viviamo il mondo. Il luogo, a livello di base, è spazio investito di significato nel contesto del potere. Questo processo di investimento dello spazio con significato avviene in tutto il mondo a tutte le scale e si è verificato nel corso della storia umana. Dare un senso a questo è stato uno dei compiti centrali della geografia umana. (Tim Cresswell, _Place: An Introduction_, J. Wiley & Sons, 2014).
 
 * Mappe fatte con linguaggi di programmazione. Gli strumenti di cui abbiamo parlato finora, si servono interfacce utente grafiche (GUI). Tuttavia, esiste un modo completamente diverso per creare mappe, ovvero utilizzando linguaggi di programmazione per computer. Considera il codice di esempio di seguito. Queste cinque righe di codice creano la mappa sottostante di un incontro tra navi americane e francesi durante la Quasi Guerra. [1](https://lincolnmullen.com/projects/spatial-workshop/programmatic-maps.html#fn1) Per ora, non rimanere bloccato sui dettagli del codice.
 
