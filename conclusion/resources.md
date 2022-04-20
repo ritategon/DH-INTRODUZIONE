@@ -1,6 +1,6 @@
 # Ulteriori Risorse
 
-Come hai visto, ogni singola lezione contiene letture linkate e/o suggerite sul particolare argomento discusso in quella sezione. Qui trovi importanti archivi, una sintesi degli strumenti usati (con un paio di aggiunte) e qualche utile tutorial se ti sei appassionato e vuoi continuare per conto tuo.
+Come hai visto, ogni singola lezione contiene letture linkate e/o suggerite sul particolare argomento discusso in quella sezione. Qui trovi importanti archivi, una sintesi degli strumenti usati e qualche utile tutorial se ti sei appassionato e vuoi continuare per conto tuo.
 
 ### Archivi
 
