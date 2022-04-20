@@ -21,7 +21,9 @@ A queste [Katherine Hayles](https://dms484.files.wordpress.com/2017/01/hayles-ho
 
 Per una definizione delle prime 5 forme [qui](https://www.futurelearn.com/info/courses/reading-digital/0/steps/16829#:\~:text=Sosnoski%20defines%20hyper%20reading%20as,de%2Dauthorizing%2C%20and%20fragmenting.); [ qui](https://tales.nmc.unibas.ch/de/literature-in-the-digital-age-11/hyper-reading-social-reading-33/what-are-the-strategies-of-hyper-reading-part-ii-170) trovi le successive.
 
-Il **social reading** è una forma collaborativa di lettura online che incorpora la discussione nel processo di lettura e lo trasforma in un'esperienza comune.
+Il **social reading** è una forma collaborativa di lettura online che incorpora la discussione nel processo di lettura e lo trasforma in un'esperienza comune. E' una esperienza che ha un forte impatto sociale, culturale  e come, vedremo più avanti, anche scientifico.&#x20;
+
+Nella [prossima sezione](esercizio.md) sei chiamato a fare proprio una esperienza di social reading.
 
 #### Riferimenti <a href="#references" id="references"></a>
 

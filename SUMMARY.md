@@ -17,7 +17,7 @@
 * [Forme di Lettura](close-reading-1/README.md)
   * [Il Cervello che Legge](close-reading-1/close-reading.md)
   * [Hyper e Social Reading](close-reading-1/prism-part-one.md)
-  * [Esercizio](close-reading-1/esercizio.md)
+  * [Esercizioc](close-reading-1/esercizio.md)
 * [Digital Text Analysis](issues-in-digital-text-analysis.md)
   * [Perché Leggere con un Computer?](issues/why-read-with-a-computer.md)
   * [Google NGram Viewer](issues/google-ngram.md)
