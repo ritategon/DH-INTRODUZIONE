@@ -6,7 +6,7 @@ Gli esempi che vedrai sotto hanno a che fare con l'Historical Geographic Informa
 
 ## Il catalogo delle navi
 
-Cominciamo con un  esempio, anche all'inzio di questo corso un esempio lo hai già visto: si trattava dell' [Imperia Project](https://imperiia.omeka.fas.harvard.edu): una storia _spaziale_ dell'Impero russo, di fatto, un esempio di GIS storico, un esperimento di nuove forme di analisi  per lo sviluppo di nuove forme di studio e narrazione del passato.
+Cominciamo con un  esempio, anche se all'inizio di questo corso un esempio lo hai già visto: si trattava dell' [Imperia Project](https://imperiia.omeka.fas.harvard.edu): una storia _spaziale_ dell'Impero russo, di fatto, un esempio di GIS storico, un esperimento di nuove forme di analisi  per lo sviluppo di nuove forme di studio e narrazione del passato.
 
 Ora, invece, prendiamo in considerazione il secondo libro dell'_Iliade:_ esso __ contiene  un elenco di quasi 190 toponimi e include i 29 contingenti che compongono la spedizione greca a Troia. Prima di lanciarsi in questo catalogo di oltre 250 versi dei capi delle forze greche e del numero delle loro navi, Omero fa appello alle Muse perché lo aiutino in questo tour de force della memoria (vv. 484 - 493):&#x20;
 
