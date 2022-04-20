@@ -1,8 +1,8 @@
-# Esercizio
+# Esercizioc
 
-L'uso nella veste di studente è diretto e intuitivo, ma se vuoi usare lo strumento come docente o hai difficoltà,  approfondisci [qui](https://social.techforteaching.ca/blog/uncategorized/getting-started-with-hypothes) e [qui](https://web.hypothes.is/help/annotating-with-groups/).
+L'uso nella veste di studente è diretto e intuitivo, ma se vuoi usare lo strumento come docente o hai difficoltà, approfondisci [qui](https://social.techforteaching.ca/blog/uncategorized/getting-started-with-hypothes) e [qui](https://web.hypothes.is/help/annotating-with-groups/).
 
-### Esercizio social reading con hypothes.is
+### Social reading con hypothes.is
 
 Unisciti al gruppo [ ](https://hypothes.is/groups/db71z9rV/digital-humanities)[https://hypothes.is/groups/db71z9rV/digital-humanities](https://hypothes.is/groups/db71z9rV/digital-humanities)
 
