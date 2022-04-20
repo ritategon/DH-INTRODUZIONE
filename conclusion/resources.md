@@ -12,9 +12,8 @@ Come hai visto, ogni singola lezione contiene letture linkate e/o suggerite sul 
 
 * [Using R to analyze your data](https://libguides.wustl.edu/c.php?g=385216\&p=2611930)
 * Bird, Steven, Ewan Klein, and Edward Loper. [Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](http://www.nltk.org/book/).
-* [https://pythonhumanities.com](https://pythonhumanities.com)
-* [https://pythonhumanities.com/lesson-01-introduction-to-python-for-dh/](https://pythonhumanities.com/lesson-01-introduction-to-python-for-dh/)
-* Crymble, Adam, Fred Gibbs, Allison Hegel, Caleb McDaniel, Ian Milligan, Evan Taparata, Amanda Visconti, and Jeri Wieringa, eds. [The Programming Historian](http://programminghistorian.org).
+* [Python per le DH](https://pythonhumanities.com)
+* [The Programming Historian](http://programminghistorian.org).
 * [Using Geospatial Data to Inform Historical Research in R](https://programminghistorian.org/en/lessons/geospatial-data-analysis)
 * [Beginner's Guide to Twitter Data](https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data)
 * [Sens Project](https://skene.dlls.univr.it/sens-corpora-tools-basic-guide/)&#x20;
