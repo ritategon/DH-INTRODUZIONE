@@ -39,7 +39,7 @@ Attraverso questo corso ci si interroga su cosa siano le DH e su come le nuove t
 
 ### Incontro 4
 
-* [Analisi Geospaziale](../strumenti-per-geospatial-analysis/)
+* [Spatial Humanities](../strumenti-per-geospatial-analysis/)
 
 ### Incontro 5
 
@@ -49,6 +49,6 @@ Attraverso questo corso ci si interroga su cosa siano le DH e su come le nuove t
 
 ### Incontro 6
 
-* [Classifiers](../classifiers.md)
+* [Topic Classification](../classifiers.md)
 * [Sentiment Analysis](../sentiment-analysis/sentiment-analysis.md)
 * [Conclusioni](../conclusion.md)
