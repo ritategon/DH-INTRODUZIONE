@@ -27,7 +27,7 @@ Questo libro viene realizzato mediante l'uso combinato di GitHub e GitBook Edito
 
 Esso fornisce una introduzione alle Digital Humanities con un focus privilegiato, ma non esclusivo, sull'analisi del testo digitale attraverso una serie di unità divise in tre parti. Ciacuna introduce un concetto, uno o più strumenti o metodi di analisi e uno o più esercizi per mettere in pratica quanto appreso. Concepito per essere sufficientemente modulare e per poter essere utilizzato in combinazione con altri corsi, in tutto o in parte, esso si discosta molto, ma rispetta l'impostazione del libro (in lingua inglese) a cui si ispira e che può essere raggiunto [qui](http://walshbr.com/textanalysiscoursebook/).
 
-I contenuti hanno margini di complessità, ma non richiedono una formazione specifica nella programmazione.  ed è scritto considerando il punto di vista dei lettori/studenti.&#x20;
+I contenuti hanno margini di complessità, ma non richiedono una formazione specifica nella programmazione.  &#x20;
 
 L'esperienza d'uso è ottimale usando Chrome o Firefox.
 
