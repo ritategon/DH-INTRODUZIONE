@@ -13,7 +13,7 @@ Lo strumento consente di cercare rapidamente centinaia di migliaia di testi e, t
 Guardando il grafico, si potrebbero vedere le prove di un'argomentazione sulla crescente secolarizzazione della società negli ultimi due secoli. Il costante aumento dell'uso della parola scienza negli ultimi 200 anni, accompagnato dal precipitoso declino della parola religione a partire dalla metà del diciannovesimo secolo, potrebbe fornire prove concrete di ciò che altrimenti potrebbe essere aneddotico. Ma meglio andare con calma: cosa viene effettivamente misurato qui? Abbiamo bisogno di porre domande su un certo numero di elementi di questo argomento, compresi quelli riguardanti:
 
 * Corpus
-* Methodologia
+* Metodologia
 * Interpretazione
 
 ## Corpus
