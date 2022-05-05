@@ -2,7 +2,7 @@
 
 Questa libro fornisce una introduzione alle Digital Humanities con un focus privilegiato, ma non esclusivo, sull'analisi del testo digitale, una delle metodologie delle discipline umanistiche digitali,  attraverso una serie di unità divise in tre parti.&#x20;
 
-Esso supporta anche corsi sincroni: in questo caso, si indicherà quali esercizi siano obbligatori.
+Esso supporta anche corsi sincroni: in questo caso, si potrà indicare quali esercizi siano obbligatori.
 
 I più sono probabilmente abituati ad analizzare i testi in una forma o nell'altra, sia considerando attentamente le parti di un testo letterario, sia pensando alle parole di un documento storico o di qualsiasi altra natura. Ma anche se faremo entrambe le cose, qui stiamo usando la frase "analisi del testo" in un modo molto diverso: parliamo infatti di come possiamo usare i computer per aiutarci ad analizzare i testi/documenti in modi nuovi.
 
