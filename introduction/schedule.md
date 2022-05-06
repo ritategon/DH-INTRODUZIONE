@@ -21,7 +21,7 @@ Attraverso questo corso ci si interroga su cosa siano le DH e su come le nuove t
 ### Incontro 1
 
 * [Presentazione del corso](../)
-* [Introduzione alla DH](../close-reading/)
+* [Digital Humanites](../close-reading/)
 * [Esempi di DH](../esempi-di-dh/)
 * [Forme di lettura](../close-reading-1/)
 * [Digital Text Analysis](../issues-in-digital-text-analysis.md)
