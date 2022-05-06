@@ -2,7 +2,7 @@
 
 Questo corso fornisce una  **introduzione  alle Digital Humanities** con un focus privilegiato, ma non esclusivo, sull'analisi del testo digitale attraverso una serie di unità divise in tre parti. Vuole accompagnare i docenti alla introduzione dell'approccio nella prassi didattica.  Gli stessi docenti in una prima fase possono accedere come studenti: ed è proprio il punto di vista degli studenti che viene privilegiato.
 
-Vi è inotlre l'espressa intenzione di evidenziare l'**approccio multidisciplinare** sotteso.
+Vi è inoltre l'espressa intenzione di evidenziare l'**approccio multidisciplinare** sotteso.
 
 Ogni unità introduce un concetto, uno o più strumenti  per l'analisi digitale del testo (o casi di studio basati sul concetto associato) e poi fornisce una parte esercitativa per mettere in pratica quanto appreso. Il target di destinazione sono **persone che non hanno esperienza di programmazione**, analisi del testo o in discipline umanistiche digitali, ma vogliono muovere i primi passi ed avere strumenti per eventualmente accompagnare degli studenti.&#x20;
 
