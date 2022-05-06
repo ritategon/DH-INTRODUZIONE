@@ -1,11 +1,11 @@
-# Esercizioc
+# Esercizio
 
-L'uso nella veste di studente è diretto e intuitivo, ma se vuoi usare lo strumento come docente o hai difficoltà, approfondisci [qui](https://social.techforteaching.ca/blog/uncategorized/getting-started-with-hypothes) e [qui](https://web.hypothes.is/help/annotating-with-groups/).
+L'uso nella veste di studente è diretto e intuitivo, ma se vuoi usare lo strumento come docente o hai difficoltà, approfondisci [qui](https://www.youtube.com/channel/UCP5kY8mlP4wTpeeSoaa4Vcg).
 
-### Social reading con hypothes.is
+### Social reading con Perusall
 
-Unisciti al gruppo [ ](https://hypothes.is/groups/db71z9rV/digital-humanities)[https://hypothes.is/groups/db71z9rV/digital-humanities](https://hypothes.is/groups/db71z9rV/digital-humanities)
+Unisciti al gruppo TEGON-D7LTQ in [https://www.perusall.com/](https://www.perusall.com)
 
 Leggi il testo in tutto o in parte nella tua modalità preferità. Metti almeno tre annotazioni libere.
 
-![](../.gitbook/assets/screenshot-pierodominici.nova100.ilsole24ore.com-2022.03.16-14\_16\_35.png)
+![](../.gitbook/assets/screenshot-app.perusall.com-2022.05.06-15\_35\_25.png)
