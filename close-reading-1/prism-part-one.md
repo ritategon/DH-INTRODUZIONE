@@ -2,9 +2,9 @@
 
 ### Hyper Reading e Social Reading
 
-L'**hyper reading** viene in genere utilizzata durante la lettura di testi online su computer e quindi svolge un ruolo sempre più importante nelle nostre vite e può trasformare la nostra capacità di lettura in generale. [James Sosnoski](https://www.academia.edu/12231219/Hyper\_Readers\_and\_their\_Reading\_Engines) delinea otto diverse strategie di iperlettura;
+L'**hyper reading** viene in genere utilizzato durante la lettura di testi online su computer;  svolge un ruolo sempre più importante nelle nostre vite e può trasformare la nostra capacità di lettura in generale. [James Sosnoski](https://www.academia.edu/12231219/Hyper\_Readers\_and\_their\_Reading\_Engines) delinea otto diverse strategie di iperlettura;
 
-1. filtering
+1. &#x20;filtering
 2. skimming
 3. pecking
 4. imposing
