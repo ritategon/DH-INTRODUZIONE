@@ -16,4 +16,4 @@ In terzo luogo **fornire strumenti operativi di base per una analisi statistica 
 
 Il libro non intende esaurire il tema dell'analisi del documento digitale: anzi. Se hai più tempo a tua disposizione, avrai molto più spazio per navigare ed esplorare. Se le persone con cui lavori e ti aiutano hanno conoscenze di programmazione, probabilmente salterai parti del libro.&#x20;
 
-Tieni presente che ci sono molti altri approcci all'argomento, come puoi ricavare anche dalle sezioni  Ulteriori Risorse presenti in molti capitoli e nel [capitolo conclusivo](../conclusion/resources.md).
+Tieni presente che ci sono molti altri approcci all'argomento, come puoi ricavare anche dalle sezioni. Ulteriori Risorse presenti in molti capitoli e nel [capitolo conclusivo](../conclusion/resources.md).
