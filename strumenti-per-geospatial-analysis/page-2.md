@@ -20,9 +20,10 @@ Uno strumento senz'altro interessante da esplorare nell'ambito di ArcGIS è [**A
 * [Geocoding Historical Data using QGIS](https://programminghistorian.org/en/lessons/geocoding-qgis)
 * [Using Geospatial Data to Inform Historical Research in R](https://programminghistorian.org/en/lessons/geospatial-data-analysis)
 * [Python Libraries for GIS and Mapping](https://gisgeography.com/python-libraries-gis-mapping/)
-* [Projection Wizard](https://projectionwizard.org) è un'applicazione web che aiuta i cartografi a selezionare una proiezione appropriata per la loro mappa.
+* [Projection Wizard](https://projectionwizard.org/) è un'applicazione web che aiuta i cartografi a selezionare una proiezione appropriata per la loro mappa.
 * [Esri moocs](https://www.esri.com/training/mooc/)
+* Coursera mooc [GIS, Mapping, and Spatial Analysis Specialization](https://www.coursera.org/specializations/gis-mapping-spatial-analysis?utm\_source=recommendations\&utm\_medium=email\&utm\_campaign=13651\&sfmc\_id=1766535\&sfmc\_key=0031U00001Oes54QAB)
 * [Come si citano i materiali cartografici](https://lib.uwaterloo.ca/locations/umd/digital/citation.html)
-* Per trasformare indirizzi in longitudine e latitudine serve un [geocoder](https://www.gpsvisualizer.com/geocoder/). [GPSVisualizer](https://www.gpsvisualizer.com) fornisce un set di strumenti per creare mappe e profili da dati geografici.
+* Per trasformare indirizzi in longitudine e latitudine serve un [geocoder](https://www.gpsvisualizer.com/geocoder/). [GPSVisualizer](https://www.gpsvisualizer.com/) fornisce un set di strumenti per creare mappe e profili da dati geografici.
 * Strumenti [ Google](https://www.google.com/earth/education/)
-* (Per un uso didattico semplice  -gratuito nonostante la dicitura Pro- : [**Expeditions Pro**](https://expeditionspro.com) parte da dove sono terminate le spedizioni di Google. Contenuto in aula, lavoro offline, annotazione istantanea e interfaccia semplice. E' fra parentesi perchè non è esattamente ciò di cui stiamo parlando in questo corso).
+* (Per un uso didattico semplice  -gratuito nonostante la dicitura Pro- : [**Expeditions Pro**](https://expeditionspro.com/) parte da dove sono terminate le spedizioni di Google. Contenuto in aula, lavoro offline, annotazione istantanea e interfaccia semplice. E' fra parentesi perchè non è esattamente ciò di cui stiamo parlando in questo corso).
