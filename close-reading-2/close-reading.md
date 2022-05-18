@@ -15,7 +15,7 @@ description: >-
 
 ![](../.gitbook/assets/screenshot-carletonu.pressbooks.pub-2022.02.22-20\_18\_32.png)
 
-### Proviamo ad entrae nella questione&#x20;
+### Proviamo ad entrare nella questione&#x20;
 
 Il _**close reading**_ è un'attività che ti tiene concentrati su e all'interno di un testo, valutando singole parole, forme di pensiero, dispositivi retorici, modelli di descrizione e caratterizzazione e così via, al fine di comprendere il risultato artistico del testo. Si distingue dal e si intreccia con il _**distant reading**_, che ha un significato specifico (coniato da [Franco Moretti](https://it.wikipedia.org/wiki/Franco\_Moretti)), ma può anche riferirsi generalmente all'uso di metodi computazionali per l'analisi dei testi letterari.
 
@@ -125,14 +125,14 @@ Interrogare le fonti in questo modo è solo una delle modalità di comprensione 
 Abbiamo già visto degli strumenti. Di seguito se ne indicano altri:
 
 * [AntConc:](http://www.laurenceanthony.net/software/antconc/) un toolkit gratuito per l'analisi del corpus per l'alasisi delle concordanze  e per la text analysis.
-* [corpus.byu.edu: ](https://www.english-corpora.org)i corpora online più utilizzati.
-* [Wordseer: ](https://wordseer.berkeley.edu)un ambiente di text analysis che combina visualizzazione, recupero delle informazioni, creazione di senso ed elaborazione del linguaggio naturale.
+* [corpus.byu.edu: ](https://www.english-corpora.org/)i corpora online più utilizzati.
+* [Wordseer: ](https://wordseer.berkeley.edu/)un ambiente di text analysis che combina visualizzazione, recupero delle informazioni, creazione di senso ed elaborazione del linguaggio naturale.
 * [Tapor: ](https://tapor.ca/tools) aggregatore di ttrumenti di text analysis.
-* [MALLET:](http://mallet.cs.umass.edu) pacchetto Java-based package per NLP (Natural Languade Processing), document classification, clustering, topic modeling, information extraction, e altre applicazioni di machine learning ai testi.
+* [MALLET:](http://mallet.cs.umass.edu/) pacchetto Java-based package per NLP (Natural Languade Processing), document classification, clustering, topic modeling, information extraction, e altre applicazioni di machine learning ai testi.
 * [Diorisis](https://www.crs.rm.it/diorisissearch/): applicazione progettata per costruire ed eseguire query linguistiche complesse sul Diorisis Ancient Greek Corpus  attraverso un'interfaccia grafica intuitiva.Vedi per una presentazione [Brill](https://brill.com/view/journals/rdj/3/1/article-p55\_55.xml?language=en).
 
 {% hint style="info" %}
-Il [Roy Rosenzweig Center for History and New Media](https://rrchnm.org) detiene il copyright per gli estratti usati nella sezione [Close e Distant Reading](./). Il testo completo del passaggio può essere trovato nel sito CHNM [qui](https://revolution.chnm.org/d/261/).
+Il [Roy Rosenzweig Center for History and New Media](https://rrchnm.org/) detiene il copyright per gli estratti usati nella sezione [Close e Distant Reading](./). Il testo completo del passaggio può essere trovato nel sito CHNM [qui](https://revolution.chnm.org/d/261/).
 {% endhint %}
 
 ### Risorse Aggiuntive
