@@ -26,7 +26,7 @@ _The medium is the message._
 
 Le tecnologie che trasmettono un messaggio – il suo testo in questo caso – alterano  fondamentalmente il significato e l'esperienza dell'opera. E possiamo pensare al messaggio in modi più ricchi studiando i materiali che lo trasmettono.
 
-Questo è un libro sulla lettura e la tecnologia, ma non esattamente nello stesso modo descritto sopra. Piuttosto che leggere sulla tecnologia, discuteremo di come potremmo leggere attraverso la tecnologia. Non solo ora abbiamo accesso a libri, giornali e riviste online, ma abbiamo anche accesso a molto di più: tutti i libri sul [Progetto Gutenberg](https://www.gutenberg.org), o [Perseus](http://www.perseus.tufts.edu/hopper/), articoli di giornale di duecento anni fa o altro.
+Questo è un libro sulla lettura e la tecnologia, ma non esattamente nello stesso modo descritto sopra. Piuttosto che leggere sulla tecnologia, discuteremo di come potremmo leggere attraverso la tecnologia. Non solo ora abbiamo accesso a libri, giornali e riviste online, ma abbiamo anche accesso a molto di più: tutti i libri sul [Progetto Gutenberg](https://www.gutenberg.org/), o [Perseus](http://www.perseus.tufts.edu/hopper/), articoli di giornale di duecento anni fa o altro.
 
 L'accesso a tutto questo materiale può essere travolgente e una delle domande di questo corso è come i computer possono aiutarci a gestire il sovraccarico di informazioni. E inoltre, come possiamo sfruttare la tecnologia per porre nuove domande sui testi? Ad esempio, supponiamo che tu voglia conoscere il numero di volte in cui Arthur Conan Doyle ha usato il termine "Watson" in _Le avventure di Sherlock Holmes_ o che tu voglia sapere quale fosse la parola più comune in questa raccolta di racconti. Questo sarebbe un compito molto noioso se avessi solo la copia cartacea del libro, ma è lo puoi fare in pochi secondi con programmi di analisi del testo computer based. Allo stesso modo, questi stessi strumenti possono aiutarci a trovare schemi nei testi di cui potremmo non renderci conto, o permetterci di collaborare con altri nella lettura dei testi.
 
@@ -41,7 +41,7 @@ L'affermazione implicita in questi punti in elenco è che i computer influiscono
 
 * In che modo l'interpretazione assistita dal computer mina il punto stesso della lettura?&#x20;
 * Queste tecniche ci mostrano davvero qualcosa di nuovo o sono tutti modi capricciosi per descrivere ciò che già sappiamo?
-* In che modo la lettura con la tecnologia esacerba [le disuguaglianze razziali, sociali ed economiche?](https://medium.com/@davieco/were-roman-emperors-blonde-2255ec77d123)
+* In che modo la lettura con la tecnologia esacerba [le disuguaglianze razziali, sociali ed economiche?](https://medium.com/@davieco/were-roman-emperors-blonde-2255ec77d123) (vedi anche [qui](https://voshart.medium.com/photoreal-roman-emperor-project-236be7f06c8f))
 
 Dovrai decidere tu stesso le risposte a queste domande nel corso del libro.&#x20;
 
