@@ -23,7 +23,7 @@ Con qualsiasi analisi del testo su larga scala, i dati sottostanti sono tutto. I
 * Qual è il corpus, o insieme di testi, utilizzato per generare questi dati?&#x20;
 * Da dove provengono questi dati?
 
-Google NGram Viewer offre un menu a discesa in cui è possibile selezionare un corpus da studiare. I nostri risultati sono molto diversi a seconda del corpus che abbiamo selezionato. I corpora per queste opzioni vengono estratti dal progetto di scansione di Google Libri (per vedere visualizzazioni simili del tuo corpus, puoi provare a lavorare con [Bookworm](http://bookworm.library.yale.edu/#), uno strumento correlato; [qui ](http://dh.library.yale.edu/projects/vogue/student\_work/)puoi vederne un uso avanzato; [qui ](https://bookworm.htrc.illinois.edu/develop/)collegato ad [HathiTrust](https://www.hathitrust.org)). Ciò solleva una serie di difficoltà. Come hanno notato [Eitan Adam Pechenick, Christopher M. Danforth e Peter Sheridan Dodds](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137041), il corpus ha solo una copia di ogni libro nel suo set di dati. Quindi le cose non vengono ridimensionate per la circolazione o la popolarità. **Un libro che vende una sola copia ha lo stesso peso di un libro che vende mille copie**: sono entrambi una sola copia **secondo i metodi di Google**.
+Google NGram Viewer offre un menu a discesa in cui è possibile selezionare un corpus da studiare. I nostri risultati sono molto diversi a seconda del corpus che abbiamo selezionato. I corpora per queste opzioni vengono estratti dal progetto di scansione di Google Libri (per vedere visualizzazioni simili del tuo corpus, puoi provare a lavorare con [Bookworm](http://bookworm.library.yale.edu), uno strumento correlato; [qui ](http://dh.library.yale.edu/projects/vogue/student\_work/)puoi vederne un uso avanzato; [qui ](https://bookworm.htrc.illinois.edu/develop/)collegato ad [HathiTrust](https://www.hathitrust.org/)). Ciò solleva una serie di difficoltà. Come hanno notato [Eitan Adam Pechenick, Christopher M. Danforth e Peter Sheridan Dodds](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137041), il corpus ha solo una copia di ogni libro nel suo set di dati. Quindi le cose non vengono ridimensionate per la circolazione o la popolarità. **Un libro che vende una sola copia ha lo stesso peso di un libro che vende mille copie**: sono entrambi una sola copia **secondo i metodi di Google**.
 
 Il corpus di [Google Books](https://it.wikipedia.org/wiki/Google\_Libri) è stato anche, a volte, criticato per la sua forte **dipendenza da scansioni di testi di scarsa qualità** per generare i propri dati (ne parleremo nelle [unità successive](../acquisire-e-creare-dati/creazione-di-dati.md)). Il computer non può dedurre, ad esempio, che l'errore di ortografia "scyience" debba essere unito ai risultati di "science". Eventuali problemi di fondo nella scansione o nel caricamento di testi distorceranno i risultati. Inoltre, i risultati sono migliori dopo il 1820. Prima di allora c'erano molti meno libri pubblicati e ancora meno sono su Google Books.
 
@@ -32,11 +32,12 @@ Come suggerisce [Ted Underwood](https://tedunderwood.com/2010/12/30/several-vari
 Di seguito trovi una lista di banche dati/archivi:
 
 * [OPAC SBN ](https://opac.sbn.it/opacsbn/opac/iccu/free.jsp)Istituto Centrale per il Catalogo Unico delle Biblioteche Italiane e per le Informazioni Bibliografiche
-* [Worldcat](https://www.worldcat.org)
+* [Worldcat](https://www.worldcat.org/)
 * [Europeana](https://www.europeana.eu/it)
 * [Gallica](https://gallica.bnf.fr/accueil/it/content/accueil-it?mode=desktop)
 * [Wiki GLAM](https://it.wikipedia.org/wiki/Progetto:GLAM)
-* [Internet Archive](https://archive.org)
+* [Internet Archive](https://archive.org/)
+* [Memorie del Mondo](https://en.unesco.org/programme/mow/register) (UNESCO)
 
 ## Metodologia
 
@@ -116,4 +117,4 @@ Pensa sempre. Non lasciare mai che un grafico pensi per te.
 
 [Bookworm: HathiTrust](https://bookworm.htrc.illinois.edu/develop/)
 
-[Media Cloud](https://mediacloud.org)
+[Media Cloud](https://mediacloud.org/)
