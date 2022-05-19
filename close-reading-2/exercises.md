@@ -6,7 +6,7 @@ Adesso clicca sulla sezione che compare sotto e annota secondo i seguenti indica
 
 ![](../.gitbook/assets/screenshot-nowcomment.com-2022.04.12-10\_38\_24.png)
 
-Ripeti la stessa operazione nello strumento sotto indicato (usando gli stessi highlighting) e osserva le differenze. Per annotare serve un account.[ Qui ](https://recogito.pelagios.org/help/tutorial)un tutorial.
+Ripeti la stessa operazione nello strumento sotto indicato (usando gli stessi highlighting) e osserva le differenze. Per annotare serve un account.[ Qui ](https://recogito.pelagios.org/help/tutorial)un tutorial. **Osserva che qui l'attività e la richiesta non sono le stesse di Perusal** che abbiamo usato per il social reading.&#x20;
 
 Qui puoi esplorare ed anche esportare l'output in formato csv:
 
