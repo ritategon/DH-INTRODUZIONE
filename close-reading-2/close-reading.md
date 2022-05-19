@@ -124,7 +124,7 @@ Interrogare le fonti in questo modo è solo una delle modalità di comprensione 
 
 Abbiamo già visto degli strumenti. Di seguito se ne indicano altri:
 
-* [AntConc:](http://www.laurenceanthony.net/software/antconc/) un toolkit gratuito per l'analisi del corpus (anasisi delle concordanze  e text analysis).
+* [AntConc:](http://www.laurenceanthony.net/software/antconc/) un toolkit gratuito per l'analisi del corpus (analisi delle concordanze  e text analysis).
 * [corpus.byu.edu: ](https://www.english-corpora.org/)i corpora online più utilizzati.
 * [Wordseer: ](https://wordseer.berkeley.edu/)un ambiente di text analysis che combina visualizzazione, recupero delle informazioni, creazione di senso ed elaborazione del linguaggio naturale.
 * [Tapor: ](https://tapor.ca/tools) aggregatore di ttrumenti di text analysis.
@@ -141,6 +141,6 @@ Ancora su close e distant reading:
 
 * [https://www.futurelearn.com/courses/reading-digital](https://www.futurelearn.com/courses/reading-digital)
 * [https://www.informatik.uni-leipzig.de/\~stjaenicke/Survey.pdf](https://www.informatik.uni-leipzig.de/\~stjaenicke/Survey.pdf)
-* [https://art.torvergata.it/retrieve/handle/2108/200701/496830/Ciotti.pdf](https://art.torvergata.it/retrieve/handle/2108/200701/496830/Ciotti.pdf)
+* di Fabio Ciotti: [https://art.torvergata.it/retrieve/handle/2108/200701/496830/Ciotti.pdf](https://art.torvergata.it/retrieve/handle/2108/200701/496830/Ciotti.pdf)
 * [https://carletonu.pressbooks.pub/digh5000/chapter/chapter-4-text-analysis/](https://carletonu.pressbooks.pub/digh5000/chapter/chapter-4-text-analysis/)
 
