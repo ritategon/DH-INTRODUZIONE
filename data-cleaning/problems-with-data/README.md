@@ -124,15 +124,11 @@ Doyle, Arthur
 Doyle, Arthur Conan
 ```
 
-We have two metadata categories here: last\_name, and first\_name. Each are separated by a comma. We might even think of author\_name as being its own metadata category for someone else's list of books! Databases are really these sorts of things at their heart: data and metadata, organized in systematic ways to make them easily usable.
-
-Imagine you have started to put together your own table of author names and you notice that your neighbor is putting together one of her own. You want to be able to compare notes and, even more, you want to combine lists. It should be obvious that you will have real problems if you organize things as "first\_name last\_name" and she organizes things as "last\_name, first\_name". You would need to do a lot of extra work to merge your two lists. It would have been easier if you were working with an accepted standard for how author names should be listed.
-
 Qui abbiamo due categorie di metadati: cognome e nome. Ciascuno è separato da una virgola. Ma potremmo anche pensare che nome\_autore sia la categoria di metadati per l'elenco di libri di qualcun altro. I database sono essenzialemente questo: dati e metadati, organizzati in modo sistematico per renderli facilmente utilizzabili.&#x20;
 
 Immagina di aver iniziato a mettere insieme la tua tabella di nomi di autori e di notare che la tua vicina ne sta mettendo insieme una sua. Vuoi essere in grado di confrontare le note e, ancora di più, vuoi combinare elenchi. Dovrebbe essere ovvio che avrai problemi reali se organizzi le cose come "first\_name last\_name" e lei organizza le cose come "last\_name, first\_name". Dovresti fare molto lavoro extra per unire i tuoi due elenchi. Sarebbe stato più facile lavorando con uno standard condivido.
 
-Tali standard di metadati esistono e molto lavoro è necessario per mantenerli (controlla [Dublin Core](https://www.dublincore.org) se sei interessato a [saperne di più](https://it.wikipedia.org/wiki/Dublin\_Core)).&#x20;
+Tali standard di metadati esistono e molto lavoro è necessario per mantenerli (controlla [Dublin Core](https://www.dublincore.org/) se sei interessato a [saperne di più](https://it.wikipedia.org/wiki/Dublin\_Core)).&#x20;
 
 ![](../../.gitbook/assets/screenshot-www.dublincore.org-2022.03.21-10\_31\_10.png)
 
