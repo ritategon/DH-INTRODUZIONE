@@ -18,7 +18,7 @@ Poiché questi dati sono strutturati, qualsiasi elaborazione software può, e de
 
 ### Dati semi - strutturati
 
-I dati semistrutturati sono dati che non sono conformi a un modello di dati formale, ma utilizzano costrutti formali per indicare elementi semantici separati all'interno dei dati. Un metodo per indicare gli elementi semantici consiste nell'aggiungere codici speciali, o "markup", a ciò che altrimenti sarebbe un testo non strutturato. Ad esempio, potremmo aggiungere coppie di codici come "\<name>" e " \</name>" attorno a ogni occorrenza di un nome proprio per rendere alcuni aspetti di un documento altrimenti non strutturato più facilmente elaborabili computazionalmente. Questo approccio può essere utilizzato per evitare ambiguità durante l'elaborazione di contenuti scritti in lingue naturali. Vedi di seguto un esempio:
+I dati semistrutturati sono dati che non sono conformi a un modello di dati formale, ma utilizzano costrutti formali per indicare elementi semantici separati all'interno dei dati. Un metodo per indicare gli elementi semantici consiste nell'aggiungere codici speciali, o "markup", a ciò che altrimenti sarebbe un testo non strutturato. Ad esempio, potremmo aggiungere coppie di codici come "\<name>" e " \</name>" attorno a ogni occorrenza di un nome proprio per rendere alcuni aspetti di un documento altrimenti non strutturato più facilmente elaborabili computazionalmente. Questo approccio può essere utilizzato per evitare ambiguità durante l'elaborazione di contenuti scritti in lingue naturali. Vedi di seguito un esempio:
 
 ![](../../.gitbook/assets/screenshot-learning.edx.org-2022.03.20-21\_04\_20.png)
 
