@@ -1,6 +1,6 @@
 # Problemi con i dati
 
-Ora supponiamo tu abbia un testo e voglia farci qualcosa. Potrebbe essere allettante immergersi e iniziare a utilizzare uno degli strumenti in questo libro, ma dovresti prenderti un momento per esaminare i materiali con cui stai lavorando. Non ogni testo è uguale e i tuoi risultati possono avere seri problemi se non ti preoccupi di esaminare la qualità dei materiali prima di lavorarci. Il principio di base da ricordare è **Garbage in, garbage out** (letteralmente "spazzatura dentro, spazzatura fuori", **GIGO** in forma abbreviata; anche _rubbish in, rubbish out_):  è una frase utilizzata nel campo dell'informatica e della tecnologia dell'informazione e della comunicazione. È utilizzata soprattutto per richiamare l'attenzione sul fatto che i computer elaborano in modo acritico anche un insieme di dati in entrata palesemente insensati (_garbage in_) producendo, a loro volta, un risultato insensato (_garbage out_).
+Ora supponiamo tu abbia un testo e voglia farci qualcosa. Potrebbe essere allettante immergersi e iniziare a utilizzare uno degli strumenti in questo libro, ma dovresti prenderti un momento per esaminare i materiali con cui stai lavorando. Non ogni testo è uguale e i tuoi risultati possono avere seri problemi se non ti preoccupi di esaminare la qualità dei materiali prima di lavorarci. Il principio di base da ricordare è **Garbage in, garbage out** (letteralmente "spazzatura dentro, spazzatura fuori", **GIGO** in forma abbreviata; anche _rubbish in, rubbish out_):  è una frase utilizzata nel campo dell'informatica e della tecnologia dell'informazione e della comunicazione. È utilizzata soprattutto per richiamare l'attenzione sul fatto che i computer elaborano in modo acritico un insieme di dati in entrata palesemente insensati (_garbage in_) producendo, a loro volta, un risultato insensato (_garbage out_).
 
 ## OCR
 
@@ -85,8 +85,6 @@ Arthur Doyle
 Arthur Conan Doyle
 ```
 
-If we used spaces to denote breaks between first name and last name, Arthur Conan Doyle would cause our program to error. It would likely interpret 'Arthur' as the first name and 'Conan' as the last name. 'Doyle' would be an unkown. Reformatting this as a csv allows us to handle Conan Doyle's full name:
-
 Se usiamo gli spazi per indicare le interruzioni tra nome e cognome, Arthur Conan Doyle causerebbe errori nel nostro programma. Probabilmente interpreterebbe "Arthur" come nome e "Conan" come cognome. 'Doyle' sarebbe uno sconosciuto. La riformattazione di questo come CSV ci consente di gestire il nome completo di Conan Doyle:
 
 ```
@@ -107,13 +105,11 @@ Doyle, Arthur
 Doyle, Arthur Conan
 ```
 
-We might go further to associate Arthur Doyle and Arthur Conan Doyle as being representations of the same person, a process known as **authority control**. A common way of referring to data that contains inconsistencies and/or errors is as **dirty data**. To keep the metaphor, then, the process of revising data to remove such problems and prepare it for use is called **data cleaning**.
-
 Potremmo andare oltre associando Arthur Doyle e Arthur Conan Doyle come rappresentazioni della stessa persona, un processo noto come **controllo dell'autorità (authority control).** Un modo comune di riferirsi a dati che contengono incoerenze e/o errori è come **dati sporchi (dirty data)**. Per mantenere la metafora, quindi, il processo di revisione dei dati per rimuovere tali problemi e prepararli all'uso è chiamato **pulizia dei dati (data cleaning)**.
 
 ## Metadati
 
-Se hai mai cercato un libro utilizzando un'interfaccia di ricerca in biblioteca, hai interagito con le categorie di metadati. M**etadati**, nella sua accezione più elementare, significa dati sui dati. Un testo, dopo tutto, è qualcosa di più delle semplici parole sulla pagina. Abbiamo tutta una serie di altre informazioni che utilizziamo per descrivere il documento. L'autore, la sua data di pubblicazione, il suo editore, il suo stato di copyright, ecc.: potremmo avere molto interesse per queste informazioni e potremmo volerle utilizzare per analisi particolari. Queste categorie ci consentono di fare cose come cercare libri con titoli particolari di periodi di tempo particolari. Nel nostro esempio precedente, stavamo effettivamente lavorando con i metadati senza rendercene conto.
+Se hai mai cercato un libro utilizzando un'interfaccia di ricerca in biblioteca, hai interagito con le categorie di metadati. **Metadati**, nella sua accezione più elementare, significa dati sui dati. Un testo, dopo tutto, è qualcosa di più delle semplici parole sulla pagina. Abbiamo tutta una serie di altre informazioni che utilizziamo per descrivere il documento. L'autore, la sua data di pubblicazione, il suo editore, il suo stato di copyright, ecc.: potremmo avere molto interesse per queste informazioni e potremmo volerle utilizzare per analisi particolari. Queste categorie ci consentono di fare cose come cercare libri con titoli particolari di periodi di tempo particolari. Nel nostro esempio precedente, stavamo effettivamente lavorando con i metadati senza rendercene conto.
 
 ```
 Author Names
@@ -124,17 +120,17 @@ Doyle, Arthur
 Doyle, Arthur Conan
 ```
 
-Qui abbiamo due categorie di metadati: cognome e nome. Ciascuno è separato da una virgola. Ma potremmo anche pensare che nome\_autore sia la categoria di metadati per l'elenco di libri di qualcun altro. I database sono essenzialemente questo: dati e metadati, organizzati in modo sistematico per renderli facilmente utilizzabili.&#x20;
+Qui abbiamo due categorie di metadati: cognome e nome. Ciascuno è separato da una virgola. I database sono essenzialemente questo: dati e metadati, organizzati in modo sistematico per renderli facilmente utilizzabili.&#x20;
 
-Immagina di aver iniziato a mettere insieme la tua tabella di nomi di autori e di notare che la tua vicina ne sta mettendo insieme una sua. Vuoi essere in grado di confrontare le note e, ancora di più, vuoi combinare elenchi. Dovrebbe essere ovvio che avrai problemi reali se organizzi le cose come "first\_name last\_name" e lei organizza le cose come "last\_name, first\_name". Dovresti fare molto lavoro extra per unire i tuoi due elenchi. Sarebbe stato più facile lavorando con uno standard condivido.
+Immagina di aver iniziato a mettere insieme la tua tabella di nomi di autori e di notare che un collega ne sta mettendo insieme una sua. Vuoi essere in grado di confrontare le note e, ancora di più, vuoi combinare elenchi. Dovrebbe essere ovvio che avrai problemi reali se organizzi le cose come "first\_name last\_name" e lei organizza le cose come "last\_name, first\_name". Dovresti fare molto lavoro extra per unire i tuoi due elenchi. Sarebbe stato più facile lavorando con uno standard condiviso.
 
-Tali standard di metadati esistono e molto lavoro è necessario per mantenerli (controlla [Dublin Core](https://www.dublincore.org/) se sei interessato a [saperne di più](https://it.wikipedia.org/wiki/Dublin\_Core)).&#x20;
+Tali **standard di metadati** esistono e molto lavoro è necessario per mantenerli (controlla [Dublin Core](https://www.dublincore.org/) se sei interessato a [saperne di più](https://it.wikipedia.org/wiki/Dublin\_Core). Inoltre [qui](https://www.iccu.sbn.it/it/normative-standard/linee-guida-per-la-digitalizzazione-e-metadati/dublin-core-metadata-element-set-versione-1.1-traduzione-italiana/index.html) puoi trovare la pagina italiana).&#x20;
 
 ![](../../.gitbook/assets/screenshot-www.dublincore.org-2022.03.21-10\_31\_10.png)
 
 
 
-Questi standard garantiscono che chiunque produca un nuovo set di dati crei un lavoro che possa facilmente tradursi e comunicare con altri sistemi. Garantiscono che i dati della tua biblioteca locale possano essere eventualmente inseriti nelle biblioteche digitali pubbliche e resi disponibili su larga scala. Il processo potrebbe sembrare facile con questo esempio di nome dell'autore di base, ma immagina di provare a coordinare tali standard di metadati per tutte le persone che lavorano su tutti i tipi di oggetti culturali, in tutto il mondo. Il lavoro non finisce mai.&#x20;
+Questi standard garantiscono che chiunque produca un nuovo set di dati crei un lavoro che possa facilmente tradursi in e comunicare con altri sistemi. Garantiscono che i dati della tua biblioteca locale possano essere eventualmente inseriti nelle biblioteche digitali pubbliche e resi disponibili su larga scala. Il processo potrebbe sembrare facile con l'esempio che abbiamo visto sopra (nome dell'autore, ecc.), ma immagina di provare a coordinare tali standard di metadati per tutte le persone che lavorano su tutti i tipi di oggetti culturali, in tutto il mondo. Il lavoro non finisce mai.&#x20;
 
 Prendere in considerazione tutti i diversi standard di metadati e i loro usi sarebbe un'impresa folle. Qui l'intento era solo farti prendere familiarità con i concetti.
 
