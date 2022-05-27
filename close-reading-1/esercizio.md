@@ -4,7 +4,7 @@ L'uso nella veste di studente è diretto e intuitivo, ma se vuoi usare lo strume
 
 ### Social reading con Perusall
 
-Unisciti al gruppo TEGON-D7LTQ in [https://www.perusall.com/](https://www.perusall.com)
+Unisciti al gruppo TEGON-D7LTQ in [https://www.perusall.com/](https://www.perusall.com/)
 
 Leggi il testo in tutto o in parte nella tua modalità preferità. Metti almeno tre annotazioni libere.
 

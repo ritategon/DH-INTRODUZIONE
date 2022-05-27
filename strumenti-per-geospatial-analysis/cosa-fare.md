@@ -18,7 +18,7 @@ Insieme proveremo a fare una mappa narrativa riferita ad Agoastino di Ippona usa
 * Uno dei tipi più comuni di mappe che gli studiosi vogliono creare sono le **mappe tematiche**. Queste mappe mostrano una o più variabili (o temi) disposte spazialmente su una mappa. A volte i dati sono disposti sopra uno strato di base cartografico; altre volte, come in un cartogramma, la disposizione spaziale è solo approssimativa. Sebbene tali mappe siano oggi sempre più comuni, il loro lignaggio risale almeno al diciannovesimo secolo.&#x20;
 *   La **georettifica** è il processo di acquisizione di un'immagine di una mappa e di creazione di un riferimento ad una griglia spaziale, in modo che l'immagine della mappa possa essere utilizzata come un layer in altre mappe, o in modo che l'immagine della mappa possa a sua volta essere utilizzata per associare i punti di interesse alla griglia spaziale. Ad esempio, si potrebbe georettificare una mappa di una città, quindi utilizzare quella mappa georettifica per trovare le latitudini e le longitudini degli edifici sulla mappa.
 
-    In altre parole, si confrontano punti tra una mappa storica e un modo contemporaneo di tenere traccia dei dati spaziali. Un algoritmo lavora su quei punti per deformare la mappa in modo che tutte le parti di essa siano allineate alla griglia. Puoi vedere degli esempi e crearne tu stesso in [MapWarper](https://mapwarper.net).
+    In altre parole, si confrontano punti tra una mappa storica e un modo contemporaneo di tenere traccia dei dati spaziali. Un algoritmo lavora su quei punti per deformare la mappa in modo che tutte le parti di essa siano allineate alla griglia. Puoi vedere degli esempi e crearne tu stesso in [MapWarper](https://mapwarper.net/).
 
 ![](../.gitbook/assets/mapwarper-sidebyside.png)
 
@@ -89,7 +89,7 @@ I file di valori separati da virgola contengono dati punto in formato tabulare. 
 
 **GeoJSON**
 
-[GeoJSON](http://geojson.org) è un formato aperto per i dati spaziali. È comunemente usato per le mappe web, sebbene possa essere utilizzato anche nelle applicazioni GIS. I file GeoJSON possono essere ispezionati in un editor di testo. [Vedi " Più di quanto tu abbia mai voluto sapere su GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html) " di Tom MacWright per un'introduzione dettagliata. Un singolo punto GeoJSON potrebbe essere simile al seguente.
+[GeoJSON](http://geojson.org/) è un formato aperto per i dati spaziali. È comunemente usato per le mappe web, sebbene possa essere utilizzato anche nelle applicazioni GIS. I file GeoJSON possono essere ispezionati in un editor di testo. [Vedi " Più di quanto tu abbia mai voluto sapere su GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html) " di Tom MacWright per un'introduzione dettagliata. Un singolo punto GeoJSON potrebbe essere simile al seguente.
 
 ```
 {
@@ -114,7 +114,7 @@ I file di valori separati da virgola contengono dati punto in formato tabulare. 
 
 **Formati meno comuni**
 
-[Topojson](https://github.com/mbostock/topojson) è un'estensione di GeoJSON che tiene conto della topologia, il che significa che tiene traccia dei confini condivisi tra i poligoni. È comunemente usato con le mappe realizzate in [D3.js](http://d3js.org) .
+[Topojson](https://github.com/mbostock/topojson) è un'estensione di GeoJSON che tiene conto della topologia, il che significa che tiene traccia dei confini condivisi tra i poligoni. È comunemente usato con le mappe realizzate in [D3.js](http://d3js.org/) .
 
 [I file KML](https://developers.google.com/kml/) ( `.kml`o `.kmz`) sono comunemente usati in Google Earth o Google Maps.
 

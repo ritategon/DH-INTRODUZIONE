@@ -8,8 +8,8 @@ description: >-
 
 Porta pazienza se non sai l'inglese (ricorda il tasto destro), ma qui puoi vedere tre progetti che adottano approcci di lettura a distanza di vario genere:
 
-1. [Quantifying Kissinger](https://blog.quantifyingkissinger.com)
-2. [Viral Texts](http://viraltexts.org)
+1. [Quantifying Kissinger](https://blog.quantifyingkissinger.com/)
+2. [Viral Texts](http://viraltexts.org/)
 3. [Syuzhet Part One](http://www.matthewjockers.net/2015/02/02/syuzhet/), [Syuzhet Part Two](http://www.matthewjockers.net/2015/02/25/the-rest-of-the-story/)
 
 Seleziona uno dei progetti e familiarizza con esso. Rispondi poi alle seguenti domande:&#x20;

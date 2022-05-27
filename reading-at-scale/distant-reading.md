@@ -1,6 +1,6 @@
 # Distant Reading
 
-[Brandon Walsh](https://walshbr.com) racconta che entrando alla scuola di specializzazione, uno studente più grande una volta ha riassunto uno dei problemi della vita come una sorta di equazione:
+[Brandon Walsh](https://walshbr.com/) racconta che entrando alla scuola di specializzazione, uno studente più grande una volta ha riassunto uno dei problemi della vita come una sorta di equazione:
 
 > There is an infinite of material that one could read.
 >

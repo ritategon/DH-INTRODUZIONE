@@ -1,6 +1,6 @@
 ---
 description: >-
-  Poichè sei esposto a documenti in inglese, se hai difficoltà aiutati  con la
+  Poichè sei esposto a documenti in inglese, se hai difficoltà, aiutati  con la
   funzione "traduci" (tasto destro) o usa l'estensione "traduttore" dal browser.
 ---
 

@@ -54,7 +54,7 @@ Allo stesso modo, forse vuoi trovare un sistema di classificazione per ordinare 
 
 ![Bagel](../.gitbook/assets/Country-Bagel-Triple-Stack.png)
 
-Ma aspetta: questo cane soddisfa tutti i criteri per un semplice bagel e sicuramente non è un bagel. Il nostro classificatore può dire, nella migliore delle ipotesi, "probabilmente bagel" o "probabilmente non bagel". E a volte è sbagliato. A volte la vita ti dà un cane e tutto ciò che puoi vedere è un bagel. (Vai [qui](https://www.boredpanda.com/dog-food-comparison-bagel-muffin-lookalike-teenybiscuit-karen-zack/) per ulteriori informazioni su questo problema di classificazione trattato in modo piuttosto curioso).
+Ma aspetta: questo cane soddisfa tutti i criteri per un semplice bagel e sicuramente non è un bagel. Il nostro classificatore può dire, nella migliore delle ipotesi, "probabilmente bagel" o "probabilmente non bagel". E a volte è sbagliato. A volte la vita ti dà un cane e tutto ciò che puoi vedere è un bagel. (Vai [qui](https://www.boredpanda.com/dog-food-comparison-bagel-muffin-lookalike-teenybiscuit-karen-zack/?utm\_source=walshbr\&utm\_medium=referral\&utm\_campaign=organic) per ulteriori informazioni su questo problema di classificazione trattato in modo piuttosto curioso).
 
 ![Bagel Dog](../.gitbook/assets/bagel2.jpg)
 
@@ -101,6 +101,6 @@ Dunque, nell'ambito della Topic Classification troviamo la **Text Classification
 
 ### Ulteriori Risorse  <a href="#furtherresourcsupervisedclassifiers" id="furtherresourcsupervisedclassifiers"></a>
 
-* Il libro sul  [NLTK](https://www.nltk.org) (Natural Language Toolkit) presenta [una valida sezione](http://www.nltk.org/book/ch06.html#naive-bayes-classifiers) sui naive Bayes classifiers. Il libro è una guida che usa il linguaggio Python ed ha una dimensione molto tecnica.
+* Il libro sul  [NLTK](https://www.nltk.org/) (Natural Language Toolkit) presenta [una valida sezione](http://www.nltk.org/book/ch06.html#naive-bayes-classifiers) sui naive Bayes classifiers. Il libro è una guida che usa il linguaggio Python ed ha una dimensione molto tecnica.
 * [Introduzione a Python per le DH](https://pythonhumanities.com/python-for-dh-course/) (non prevede la conoscenza di programmazione)ò.
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) fornisce un'introduzione ad altri tipi di classificatori.

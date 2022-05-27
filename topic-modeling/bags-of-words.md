@@ -8,7 +8,7 @@
 La parola **topic** che significa argomento, ad un certo punto non verrà più tradotta, ma lasciata per il suo riferimento specifico ad una serie di tecniche di analisi testuale.
 {% endhint %}
 
-Quando leggiamo, i nostri occhi si muovono in sequenza sulla pagina e prendono le frasi  una dopo l'altra nell'ordine in cui sono state concepite. Ciò ci consente di fare cose interessanti rappresentando graficamente le parole nel tempo usando [Voyant](https://voyant-tools.org). Questo senso della cronologia è parte integrante del modo in cui noi, come lettori umani, comprendiamo i testi. Ma è possibile immaginare altri modi di leggere. Hai mai sfogliato una pagina guardando le parole all'indietro? Probabilmente hai ugualmente colto l'essenza del testo anche se non l'hai letto in ordine e anche se hai perso molte parole.
+Quando leggiamo, i nostri occhi si muovono in sequenza sulla pagina e prendono le frasi  una dopo l'altra nell'ordine in cui sono state concepite. Ciò ci consente di fare cose interessanti rappresentando graficamente le parole nel tempo usando [Voyant](https://voyant-tools.org/). Questo senso della cronologia è parte integrante del modo in cui noi, come lettori umani, comprendiamo i testi. Ma è possibile immaginare altri modi di leggere. Hai mai sfogliato una pagina guardando le parole all'indietro? Probabilmente hai ugualmente colto l'essenza del testo anche se non l'hai letto in ordine e anche se hai perso molte parole.
 
 Prendi questo passaggio:
 

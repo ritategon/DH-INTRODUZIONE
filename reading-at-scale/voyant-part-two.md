@@ -1,6 +1,6 @@
 # Voyant Parte 2
 
-Adesso ritorniamo a [Voyant](https://voyant-tools.org) ma un po' più in dettaglio. Sentiti libero di [scaricare il set di dati di Sweeney Todd](https://github.com/ritategon/DH-INTRODUZIONE/blob/bd19078bc6c076386321cc7cb3623c2b1bcbe7d6/assets/the-string-of-pearls-full.txt) che abbiamo già visto e di usarlo per produrre gli stessi risultati e seguire il discorso in modo più operativo, oppure carica un set tuo, sempre utilizzando la finestra di Voyant. Ritorna alla nuvola di parole che Voyant ci ha dato per _The String of Pearls_:
+Adesso ritorniamo a [Voyant](https://voyant-tools.org/) ma un po' più in dettaglio. Sentiti libero di [scaricare il set di dati di Sweeney Todd](https://github.com/ritategon/DH-INTRODUZIONE/blob/bd19078bc6c076386321cc7cb3623c2b1bcbe7d6/assets/the-string-of-pearls-full.txt) che abbiamo già visto e di usarlo per produrre gli stessi risultati e seguire il discorso in modo più operativo, oppure carica un set tuo, sempre utilizzando la finestra di Voyant. Ritorna alla nuvola di parole che Voyant ci ha dato per _The String of Pearls_:
 
 ![Voyant: nuvola di parole predefinita  String of pearls](../assets/reading-at-scale/voyant-word-cloud-default.jpg)
 

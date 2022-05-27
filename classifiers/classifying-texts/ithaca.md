@@ -12,7 +12,7 @@ Sebbene Ithaca da solo raggiunga una precisione del 62% durante il ripristino di
 
 Ciò dimostra il potenziale di cooperazione tra l'IA e gli storici, influenzando in modo trasformativo il modo in cui studiamo e scriviamo su uno dei periodi più significativi della storia umana.
 
-Ithaca è addestrato sul [più grande set di dati digitali di iscrizioni greche](https://inscriptions.packhum.org) del [Packard Humanities Institute](https://packhum.org) .&#x20;
+Ithaca è addestrato sul [più grande set di dati digitali di iscrizioni greche](https://inscriptions.packhum.org/) del [Packard Humanities Institute](https://packhum.org/) .&#x20;
 
 Di seguito puoi vedere il processo:
 
@@ -28,7 +28,7 @@ Così si presenta l'area in cui inserire il testo da restaurare, datare e geoloc
 
 ![](../../.gitbook/assets/screenshot-ithaca.deepmind.com-2022.04.12-11\_47\_38.png)
 
-Se vuoi tu stesso usare lo strumento raggiungilo nella parte finale della pagina da [qui.](https://ithaca.deepmind.com)
+Se vuoi tu stesso usare lo strumento raggiungilo nella parte finale della pagina da [qui.](https://ithaca.deepmind.com/)
 
 {% hint style="info" %}
 * Se vuoi leggere il paper di ricerca riferito ad Ithaca leggi [qui](https://www.nature.com/articles/s41586-022-04448-z).

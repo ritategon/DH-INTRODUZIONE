@@ -6,7 +6,7 @@ Aspetta! Ce n'è qui uno per te. Se pensi di essere stanco, come pensi che si se
 
 ![](../assets/sleepingstarbuck.jpg)
 
-Bene: sei rimasto. Ti va riconosciuto un punto a favore :thumbsup:. L' ultima lezione voleva essere semplice in modo che tu potessi avere un'idea delle basi della classificazione supervisionata. Ora bisogna pensare a come applicare questo metodo ai testi. Il [capitolo 6](https://www.nltk.org/book/ch06.html)  del libro [NLTK ](https://www.nltk.org)(Natural Language Toolkit) che potresti consultare nel caso tu voglia approfondire la text analysis usando il linguaggio Python (vedi anche Further Resources alla fine della [sezione precedente](supervised-classifiers.md)) elenca alcune attività comuni di classificazione del testo:
+Bene: sei rimasto. Ti va riconosciuto un punto a favore :thumbsup:. L' ultima lezione voleva essere semplice in modo che tu potessi avere un'idea delle basi della classificazione supervisionata. Ora bisogna pensare a come applicare questo metodo ai testi. Il [capitolo 6](https://www.nltk.org/book/ch06.html)  del libro [NLTK ](https://www.nltk.org/)(Natural Language Toolkit) che potresti consultare nel caso tu voglia approfondire la text analysis usando il linguaggio Python (vedi anche Further Resources alla fine della [sezione precedente](supervised-classifiers.md)) elenca alcune attività comuni di classificazione del testo:
 
 > * Decidere se un' email sia spam o meno.
 > * Decidere quale sia l'argomento di un articolo di notizie da un elenco fisso di aree tematiche come "sport", "tecnologia" e "politica".&#x20;
@@ -47,5 +47,5 @@ Processi simili sono stati utilizzati per una varietà di casi di attribuzione d
 
 Abbiamo appena scalfito la superficie del campo della **stilometria**, o dello studio dello stile linguistico utilizzando una varietà di metriche statistiche. Puoi portare avanti questo processo di ricerca utilizzando diversi linguaggi di programmazione:
 
-* [R con Stylo](https://computationalstylistics.github.io); [qui](https://computationalstylistics.github.io/stylo\_nutshell/) puoi esplorare un tutorial passo passo, ma anche [qui.](http://dh2013.unl.edu/abstracts/ab-136.html)
+* [R con Stylo](https://computationalstylistics.github.io/); [qui](https://computationalstylistics.github.io/stylo\_nutshell/) puoi esplorare un tutorial passo passo, ma anche [qui.](http://dh2013.unl.edu/abstracts/ab-136.html)
 * [Introduzione alla stylometria con Python](https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python): imparerai a condurre un'analisi stilometrica sui testi e a determinare la paternità dei testi contestati. La lezione copre tre metodi: le curve caratteristiche di composizione di Mendenhall, il metodo Chi-Squared di Kilgariff e il metodo Delta di John Burrows.

@@ -13,7 +13,7 @@ Come hai visto, ogni singola lezione contiene letture linkate e/o suggerite sul 
 * [Using R to analyze your data](https://libguides.wustl.edu/c.php?g=385216\&p=2611930)
 * Bird, Steven, Ewan Klein, and Edward Loper. [Natural Language Processing with Python: Analyzing Text with the Natural Language Toolkit](http://www.nltk.org/book/).
 * [Python per le DH](https://pythonhumanities.com)
-* [The Programming Historian](http://programminghistorian.org).
+* [The Programming Historian](http://programminghistorian.org/).
 * [Using Geospatial Data to Inform Historical Research in R](https://programminghistorian.org/en/lessons/geospatial-data-analysis)
 * [Beginner's Guide to Twitter Data](https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data)
 * [Sens Project](https://skene.dlls.univr.it/sens-corpora-tools-basic-guide/)&#x20;
@@ -23,12 +23,12 @@ Come hai visto, ogni singola lezione contiene letture linkate e/o suggerite sul 
 
 * [Google NGram Viewer](https://books.google.com/ngrams)
 * [LancsBox](http://corpora.lancs.ac.uk/lancsbox/materials.php)
-* [Prism](http://prism.scholarslab.org)
+* [Prism](http://prism.scholarslab.org/)
 * [Voyant](https://voyant-tools.org)
-* [RStudio Cloud](https://rstudio.cloud)&#x20;
-* [Mirador](https://projectmirador.org)
+* [RStudio Cloud](https://rstudio.cloud/)&#x20;
+* [Mirador](https://projectmirador.org/)
 * [TEI](https://tei-c.org/activities/)
 * [TEI by Example](https://teibyexample.org/TBE.htm)
-* [Gephi](https://gephi.org)
+* [Gephi](https://gephi.org/)
 * [Zotero](https://zotero.org)&#x20;
 * [Sketch Engine](https://www.sketchengine.eu/guide/)

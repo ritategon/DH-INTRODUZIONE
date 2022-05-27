@@ -5,7 +5,7 @@ Per illustrare come funzioni la sentiment analysis, esaminiamo un paio di proget
 ## Jockers and Syuzhet
 
 {% hint style="info" %}
-[Jockers](https://www.matthewjockers.net) è un accademico che si è focalizzato sull'approccio computazionale e ai testi.&#x20;
+[Jockers](https://www.matthewjockers.net/) è un accademico che si è focalizzato sull'approccio computazionale e ai testi.&#x20;
 
 [Syuzhet](https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html) è un pacchetto di NLP (Natural language Processing) per il linguaggio [R](https://www.r-project.org/about.html).
 {% endhint %}
@@ -33,7 +33,7 @@ Ora il testo viene convertito in una serie di valori che rappresentano il sentim
 
 ![Traiettoria della trama inel Portrait](../assets/sentiment-analysis/jockers-portrait.jpg)
 
-Proprio come abbiamo fatto con [Voyant](https://voyant-tools.org), Jockers suddivide il romanzo in una serie di segmenti e aggrega il sentiment per ciascuna sezione per avere un'idea di come l'emozione cambia nel tempo. Fondamentalmente, misurare il sentiment in modo computazionale si basa su solidi dati di allenamento. Il computer deve imparare a mappare parole e frasi cariche di emozioni su una sorta di sistema numerico. La robustezza del tuo set di allenamento può rafforzare o complicare i tuoi risultati. Tuttavia, ottenere un buon set di allenamento può essere difficile, poiché assemblarne uno richiede molto tempo e lavoro. In particolare, è molto impegnativo etichettare manualmente singole parole con valenza positiva o negativa. Comunque, con una serie di valori come questi per ogni testo, Jockers ha costruito quindi una base di confronto di tutto il suo corpus. Ha cercato schemi nelle traiettorie della trama, il che alla fine  lo ha portato ad affermare che  i romanzi presentano un numero di archi narrativi determinato.
+Proprio come abbiamo fatto con [Voyant](https://voyant-tools.org/), Jockers suddivide il romanzo in una serie di segmenti e aggrega il sentiment per ciascuna sezione per avere un'idea di come l'emozione cambia nel tempo. Fondamentalmente, misurare il sentiment in modo computazionale si basa su solidi dati di allenamento. Il computer deve imparare a mappare parole e frasi cariche di emozioni su una sorta di sistema numerico. La robustezza del tuo set di allenamento può rafforzare o complicare i tuoi risultati. Tuttavia, ottenere un buon set di allenamento può essere difficile, poiché assemblarne uno richiede molto tempo e lavoro. In particolare, è molto impegnativo etichettare manualmente singole parole con valenza positiva o negativa. Comunque, con una serie di valori come questi per ogni testo, Jockers ha costruito quindi una base di confronto di tutto il suo corpus. Ha cercato schemi nelle traiettorie della trama, il che alla fine  lo ha portato ad affermare che  i romanzi presentano un numero di archi narrativi determinato.
 
 ## EmojiSentiment
 
@@ -46,7 +46,7 @@ Un altro uso interessante dell'analisi del sentimento è [EmojiSentiment](http:/
 
 [Qui](http://kt.ijs.si/data/Emoji\_sentiment\_ranking/index.html) il ranking ed altro.
 
-[Qui](http://emojitracker.com) un tracker in tempo reale.
+[Qui](http://emojitracker.com/) un tracker in tempo reale.
 {% endhint %}
 
 A prima vista, questo ha senso. Tutti si emozionano per il fine settimana. Ma guarda più da vicino. Le tre emoji dominanti sono fuoco, sirene della polizia e fiori, che potrebbero sembrare un po' insoliti. Nota che stiamo ricevendo solo 32 emoji negli ultimi 1000 tweet: questi potrebbero essere solo artefatti di qualsiasi cosa stia succedendo in questo momento e il progetto non può gestire un volume maggiore di quello. Quindi la nostra dimensione del campione è piuttosto piccola e potrebbe essere facilmente distorta da una manciata di utenti attivi. Vorremmo molte più emoji per ottenere davvero una buona misurazione del sentimento. Se il #venerdì ha un sentimento medio relativamente felice, #arrabbiato è molto più negativo:
@@ -61,5 +61,5 @@ Nota come anche #arrabbiato scenda a malapena sotto 50 per essere prevalentement
 ## Ulteriori Risorse
 
 * Scopri come acquisire i dati di Twitter ed elaborarli per renderli utilizzabili per ulteriori analisi: [Beginner's Guide to Twitter Data](https://programminghistorian.org/en/lessons/beginners-guide-to-twitter-data).
-* [Real-time social media search and analysis](http://socialmention.com): è una piattaforma di ricerca sui social media che aggrega i contenuti generati dagli utenti da tutto il Web in un unico flusso di informazioni.
+* [Real-time social media search and analysis](http://socialmention.com/): è una piattaforma di ricerca sui social media che aggrega i contenuti generati dagli utenti da tutto il Web in un unico flusso di informazioni.
 * [SentimentViz](https://www.csc2.ncsu.edu/faculty/healey/tweet\_viz/tweet\_app/):  Tweet Sentiment Visualization prodotto dal Department of Computer Science at North Carolina State University. Approfondimento [qui](https://www.csc2.ncsu.edu/faculty/healey/tweet\_viz/).

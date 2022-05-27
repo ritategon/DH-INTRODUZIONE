@@ -43,9 +43,9 @@ Come hai capito, una grande quantità di dati di DH, cioè così concepiti  è d
 
 ### Ulteriori risorse
 
-* Our World in Data [https://ourworldindata.org/](https://ourworldindata.org)
+* Our World in Data [https://ourworldindata.org/](https://ourworldindata.org/)
 * Italian Paleography [https://italian-paleography.library.utoronto.ca/content/transcriptions](https://italian-paleography.library.utoronto.ca/content/transcriptions)
 * DraCor è l'abbreviazione di "drama corpora", una raccolta crescente di opere teatrali in (principalmente) lingue europee, tutte codificate in TEI: [https://dracor.org/ita](https://dracor.org/ita)&#x20;
-* UNIBO, Corpora and tools [https://corpora.dipintra.it/](https://corpora.dipintra.it)
+* UNIBO, Corpora and tools [https://corpora.dipintra.it/](https://corpora.dipintra.it/)
 * Homer multitext project [https://github.com/homermultitext](https://github.com/homermultitext)
 * Perseus Digital Library [https://www.perseus.tufts.edu/hopper/grants/million.jsp](https://www.perseus.tufts.edu/hopper/grants/million.jsp)

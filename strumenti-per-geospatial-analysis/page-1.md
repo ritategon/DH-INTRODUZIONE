@@ -6,7 +6,7 @@ Gli esempi che vedrai sotto hanno a che fare con l'Historical Geographic Informa
 
 ## Il catalogo delle navi
 
-Cominciamo con un  esempio, anche se all'inizio di questo corso un esempio lo hai già visto: si trattava dell' [Imperia Project](https://imperiia.omeka.fas.harvard.edu): una storia _spaziale_ dell'Impero russo, di fatto, un esempio di GIS storico, un esperimento di nuove forme di analisi  per lo sviluppo di nuove forme di studio e narrazione del passato.
+Cominciamo con un  esempio, anche se all'inizio di questo corso un esempio lo hai già visto: si trattava dell' [Imperia Project](https://imperiia.omeka.fas.harvard.edu/): una storia _spaziale_ dell'Impero russo, di fatto, un esempio di GIS storico, un esperimento di nuove forme di analisi  per lo sviluppo di nuove forme di studio e narrazione del passato.
 
 Ora, invece, prendiamo in considerazione il secondo libro dell'_Iliade:_ esso __ contiene  un elenco di quasi 190 toponimi e include i 29 contingenti che compongono la spedizione greca a Troia. Prima di lanciarsi in questo catalogo di oltre 250 versi dei capi delle forze greche e del numero delle loro navi, Omero fa appello alle Muse perché lo aiutino in questo tour de force della memoria (vv. 484 - 493):&#x20;
 
@@ -52,7 +52,7 @@ Il HGIS (Historical Geographic Information Systems) è una metodologia storica c
 
 ## Orbis
 
-Un altro esempio interessante è costituito da [Orbis](https://orbis.stanford.edu), lo Stanford Geospatial Network Model of the Roman World, un progetto di Walter Scheidel ed Elijah Meeks: Si tratta di una mappa interattiva che consente agli utenti, ad esempio, di inserire due località dell'antica Roma, selezionare la stagione, una priorità di viaggio (il più veloce, il più economico, più breve), le modalità di viaggio, ecc. e restituisce il percorso più efficiente.
+Un altro esempio interessante è costituito da [Orbis](https://orbis.stanford.edu/), lo Stanford Geospatial Network Model of the Roman World, un progetto di Walter Scheidel ed Elijah Meeks: Si tratta di una mappa interattiva che consente agli utenti, ad esempio, di inserire due località dell'antica Roma, selezionare la stagione, una priorità di viaggio (il più veloce, il più economico, più breve), le modalità di viaggio, ecc. e restituisce il percorso più efficiente.
 
 ![](../.gitbook/assets/screenshot-orbis.stanford.edu-2022.04.19-21\_22\_57.png)
 
@@ -101,7 +101,7 @@ Se hai interesse, puoi continuare ad esplorare in italiano nella [pagina che ha 
 ### Ulteriori risorse
 
 * Puoi approfondire con una pubblicazione italiana (Massimiliano Grava et alli, Università degli Studi di Trieste) in open access scaricabile da [qui](https://www.openstarts.units.it/handle/10077/30847).
-* The [DECIMA](https://decima-map.net) project: Firenze mnel XVI secolo.
+* The [DECIMA](https://decima-map.net/) project: Firenze mnel XVI secolo.
 * [GIS data by country](https://libguides.mit.edu/c.php?g=176295\&p=1161384#s-lg-box-wrapper-4119218)
-* [Histo Atlas](http://www.histoatlas.org) è un software gratuito che permette di disegnare e visualizzare mappe storiche con la visualizzazione dell'evoluzione nel tempo di confini, aree culturali o altro. Il software consente di disegnare aree, aggiungere etichette, scegliere una mappa di sfondo, definire fusi orari. Puoi registrarti per poter salvare le tue mappe e condividerle online.
+* [Histo Atlas](http://www.histoatlas.org/) è un software gratuito che permette di disegnare e visualizzare mappe storiche con la visualizzazione dell'evoluzione nel tempo di confini, aree culturali o altro. Il software consente di disegnare aree, aggiungere etichette, scegliere una mappa di sfondo, definire fusi orari. Puoi registrarti per poter salvare le tue mappe e condividerle online.
 * [Time Maps](https://www.timemaps.com/history/).

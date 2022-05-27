@@ -1,6 +1,6 @@
 # Voyant Parte 1
 
-Useremo uno strumento chiamato [Voyant](http://voyant-tools.org) per introdurre alcuni argomenti di base nell'analisi del testo legati alla lettura cyborg.&#x20;
+Useremo uno strumento chiamato [Voyant](http://voyant-tools.org/) per introdurre alcuni argomenti di base nell'analisi del testo legati alla lettura cyborg.&#x20;
 
 Entrando in Voyant incontrerai uno spazio in cui puoi caricare testi. Per i grafici seguenti, è stato caricato il testo completo di [_The String of Pearls_](https://github.com/ritategon/DH-INTRODUZIONE/blob/0624204a28317bc3c07d9189140ac5f4bec40c7f/assets/the-string-of-pearls-full.txt) __ (puoi prenderlo e fare tu stesso le prove), testo del 1846-1847, il cui protagonista è l'inquietante Todd.
 

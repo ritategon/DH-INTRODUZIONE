@@ -352,7 +352,7 @@ La codifica, dunque, ha lo scopo di trasmettere concetti umanistici astratti all
 ### Ulteriori risorse
 
 * TEI web editor [https://digital-editing.fas.harvard.edu/editor/](https://digital-editing.fas.harvard.edu/editor/)
-* Ambiente di sviluppo integrato e collaborativo [https://atom.io/](https://atom.io)&#x20;
+* Ambiente di sviluppo integrato e collaborativo [https://atom.io/](https://atom.io/)&#x20;
 * Ambiente di annotazione e analisi collabaorativa [https://portal.catma.de/catma/](https://portal.catma.de/catma/)
 * Di Jacob Heil una ottima argomentazione a favore delle pratiche di markup  "[Why We TEI](http://digitalscholarship.ohio5.org/2016/02/why-we-tei-2/)."
 * Ryan Cordell in "[On Ignoring Encoding](http://ryancordell.org/research/dh/on-ignoring-encoding/)" fornisce una grande difesa della codifica testuale come parte fondamentale delle discipline umanistiche digitali.
