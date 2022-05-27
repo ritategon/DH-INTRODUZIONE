@@ -7,7 +7,7 @@ description: >-
 
 # Mirador
 
-Di seguito puoi vederne un esempio concreto di utilizzo integrato in TEI:
+Di seguito puoi vedere un esempio concreto di utilizzo integrato in TEI:
 
 {% file src="../../.gitbook/assets/Mirador" %}
 

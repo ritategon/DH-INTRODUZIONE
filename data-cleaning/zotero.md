@@ -29,11 +29,11 @@ La citazione è solo metadati, organizzati secondo un formato prestabilito: il M
 
 Sappiamo che la formula per una citazione MLA è come segue:&#x20;
 
-Autore. Titolo. Libro. Editore. Lugo di edizione, Data. Formato. Serie.
+Autore. Titolo. Libro. Editore. Luogo di edizione, Data. Formato. Serie.
 
 La formula varierà leggermente a seconda del tipo di elemento che stai citando, ma, se abbiamo un elenco completo di metadati per ogni testo, potremmo immaginare uno strumento/software che riempia i metadati e lo formatti come vogliamo.&#x20;
 
-Se hai usato qualcosa come  [easybib.com](https://www.easybib.com) per realizzare una bibliografia, hai eseguito il proceso che stiamo osservando. Inserisci i metadati che vuoi e easybib ti genera la citazione.
+Se hai usato qualcosa come  [easybib.com](https://www.easybib.com) per realizzare una bibliografia, hai eseguito il processo che stiamo osservando. Inserisci i metadati che vuoi e easybib ti genera la citazione.
 
 Una bibliografia per un saggio di 5 pagine è fastidiosa ma fattibile, ma immagina di farne una per un manoscritto di un libro di 300 pagine. E che alla fine del processo, l'editore decida che devi usare lo stile di Chicago (note a piè di pagina) piuttosto che APA o  MLA (citazioni nel testo). Non puoi fare la conversione  a mano.
 
