@@ -1,5 +1,5 @@
 ---
-description: Ricorda che l'approccio è multidisciplinare
+description: Ricorda che l'approccio è multidisciplinare.
 ---
 
 # Piano di Lavoro

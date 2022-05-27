@@ -11,7 +11,7 @@ coverY: 0
 
 «La Filologia è quella onorevole arte che esige dal suo cultore soprattutto una cosa, trarsi da parte, lasciarsi tempo, divenire silenzioso, divenire lento, essendo un'arte e una perizia da orafi della parola, che deve compiere un finissimo attento lavoro e non raggiunge nulla se non lo raggiunge lento.&#x20;
 
-Ma proprio per questo  è oggi più necessaria che mai; ed è proprio per questo che essa ci attira e ci incanta quanto mai fortemente nel cuore di un'epoca del "lavoro": intendo dire della fretta, della precipitazione indecorosa e sudaticcia, che vuol "sbrigare" immediatamente ogni cosa, anche con i libri nuovi e di un tempo.&#x20;
+Ma proprio per questo  è oggi più necessaria che mai; ed è proprio per questo che essa ci attira e ci incanta quanto mai fortemente, nel cuore di un'epoca del "lavoro": intendo dire della fretta, della precipitazione indecorosa e sudaticcia, che vuol "sbrigare" immediatamente ogni cosa, anche con i libri nuovi e di un tempo.&#x20;
 
 Per una tale arte non è tanto facile sbrigare qualsiasi cosa,  perché essa ci insegna a leggere bene, cioè a leggere lentamente, in profondità, guardandosi avanti e indietro, non senza secondi fini, lasciando porte aperte, con dita e con occhi delicati.»
 
@@ -25,11 +25,11 @@ Per una tale arte non è tanto facile sbrigare qualsiasi cosa,  perché essa ci 
 
 Questo libro viene realizzato mediante l'uso combinato di GitHub e GitBook Editor.&#x20;
 
-Esso fornisce un'introduzione alle Digital Humanities con un focus privilegiato, ma non esclusivo, sull'analisi del testo digitale attraverso una serie di unità divise in tre parti. Ciascuna introduce un concetto, uno o più strumenti o metodi di analisi e uno o più esercizi per mettere in pratica quanto appreso. Concepito per essere sufficientemente modulare e per poter essere utilizzato in combinazione con altri corsi, in tutto o in parte, esso si discosta molto, ma rispetta l'impostazione del libro (in lingua inglese) a cui si ispira e che può essere raggiunto [qui](http://walshbr.com/textanalysiscoursebook/).
+Esso fornisce una introduzione alle Digital Humanities con un focus privilegiato, ma non esclusivo, sull'analisi del testo digitale attraverso una serie di unità divise in tre parti. Ciacuna introduce un concetto, uno o più strumenti o metodi di analisi e uno o più esercizi per mettere in pratica quanto appreso. Concepito per essere sufficientemente modulare e per poter essere utilizzato in combinazione con altri corsi, in tutto o in parte, esso si discosta molto, ma rispetta l'impostazione del libro (in lingua inglese) a cui si ispira e che può essere raggiunto [qui](http://walshbr.com/textanalysiscoursebook/).
 
 I contenuti hanno margini di complessità, ma non richiedono una formazione specifica nella programmazione.  &#x20;
 
-L'esperienza d'uso è ottimale con Chrome o Firefox.
+L'esperienza d'uso è ottimale usando Chrome o Firefox.
 
 Si segnala che potranno essere apportate modifiche che la versione online via via recepisce.
 
