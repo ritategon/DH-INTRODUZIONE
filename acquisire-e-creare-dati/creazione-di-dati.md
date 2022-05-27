@@ -32,9 +32,9 @@ Pertanto, se l'OCR non riesce, potrebbero essere necessari passaggi aggiuntivi, 
 
 ### Digitalizzare gli oggetti
 
-Molti professionisti delle discipline umanistiche, come archeologi e storici dell'arte, accanto ai testi, studiano in modo più ampio gli oggetti creati dagli esseri umani. Tali oggetti possono includere le immagini che le persone scattano, le opere d'arte fisiche che producono o gli oggetti di uso quotidiano.
+Molti professionisti delle discipline umanistiche, come archeologi e storici dell'arte, accanto ai testi, studiano in modo più ampio gli oggetti creati dagli esseri umani. Tali oggetti possono includere le immagini che le persone scattano, le opere d'arte fisiche o gli oggetti di uso quotidiano.
 
-I professionisti delle DH potrebbero voler digitalizzare oggetti per una serie di motivi. Ad esempio, alcuni cercano di comprendere le proprietà degli oggetti su scala aggregata o statistica tramite strategie computazionali. In questo caso, la digitalizzazione di oggetti potrebbe comportare la raccolta di dati tabulari che contengono misurazioni su un artefatto e la sua rappresentazione digitale in [database relazionali](https://www.oracle.com/it/database/what-is-a-relational-database/).&#x20;
+I professionisti delle DH potrebbero voler digitalizzare oggetti per una serie di motivi. Ad esempio, alcuni cercano di comprendere le proprietà degli oggetti su scala aggregata o statistica tramite strategie computazionali. In questo caso, la digitalizzazione di oggetti potrebbe comportare la raccolta di dati tabulari che contengono misurazioni su un artefatto e la loro rappresentazione digitale in [database relazionali](https://www.oracle.com/it/database/what-is-a-relational-database/).&#x20;
 
 ![Esempio di database relazionale](../.gitbook/assets/download.png)
 
