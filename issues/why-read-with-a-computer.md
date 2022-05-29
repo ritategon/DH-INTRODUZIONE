@@ -15,7 +15,11 @@ D'altra parte, la lettura digitale è spesso molto più conveniente. I giornali 
 
 ![](../.gitbook/assets/screenshot-trackography.org-2022.05.29-11\_34\_33.png)
 
-Questa criticità è ampiamente comfermata da Lightbeam, un componente aggiuntivo per Fbrowser che visualizza cookie di tracciamento di terze parti:
+Questa criticità è ampiamente comfermata da Lightbeam, un componente aggiuntivo per&#x20;
+
+
+
+browser che visualizza cookie di tracciamento di terze parti:
 
 ![](<../.gitbook/assets/Presentazione senza titolo (2) (1).png>)
 
@@ -27,25 +31,24 @@ Non dimenticare di considerare, però, che la dimensione digitale porta con sè 
 
 
 
-
-
 ![Immagine di pubblico dominio di autore anonimo; se sei il proprietario conttata l'autore di questo libro.](../.gitbook/assets/screenshot-docs.google.com-2022.02.18-19\_31\_31.png)
 
-Lo studioso [Marshall Mcluhan](https://designopendata.files.wordpress.com/2014/05/themediumisthemassage\_marshallmcluhan\_quentinfiore.pdf) lo ha detto succintamente:
+Lo studioso [Marshall Mcluhan](https://designopendata.files.wordpress.com/2014/05/themediumisthemassage\_marshallmcluhan\_quentinfiore.pdf) lo ha detto con una ficcante sintesi:
 
 _The medium is the message._
 
 ![](../.gitbook/assets/screenshot-docs.google.com-2022.02.18-19\_33\_42.png)
 
-Le tecnologie che trasmettono un messaggio – il suo testo in questo caso – alterano  fondamentalmente il significato e l'esperienza dell'opera. E possiamo pensare al messaggio in modi più ricchi studiando i materiali che lo trasmettono.
+Le tecnologie che trasmettono un messaggio – il suo testo in questo caso – alterano  fondamentalmente il significato e l'esperienza dell'opera. E possiamo pensare al messaggio in modo più ricco studiando anche i materiali che lo trasmettono.
 
-Questo è un libro sulla lettura e la tecnologia, ma non esattamente nello stesso modo descritto sopra. Piuttosto che leggere sulla tecnologia, discuteremo di come potremmo leggere attraverso la tecnologia. Non solo ora abbiamo accesso a libri, giornali e riviste online, ma abbiamo anche accesso a molto di più: tutti i libri sul [Progetto Gutenberg](https://www.gutenberg.org/), o [Perseus](http://www.perseus.tufts.edu/hopper/), articoli di giornale di duecento anni fa o altro.
+Questo libro affronta il rapporto tra documento e tecnologia non  nel modo descritto sopra. Piuttosto che leggere sulla tecnologia, discuteremo di come potremmo leggere attraverso la tecnologia. Non solo ora abbiamo accesso a libri, giornali e riviste online, ma abbiamo anche accesso a molto di più: ad esempio, a tutti i libri del [Progetto Gutenberg](https://www.gutenberg.org/), o [Perseus](http://www.perseus.tufts.edu/hopper/) e ad articoli di giornale di duecento anni fa od altro.
 
-L'accesso a tutto questo materiale può essere travolgente e una delle domande di questo corso è come i computer possono aiutarci a gestire il sovraccarico di informazioni. E inoltre, come possiamo sfruttare la tecnologia per porre nuove domande sui testi? Ad esempio, supponiamo che tu voglia conoscere il numero di volte in cui Arthur Conan Doyle ha usato il termine "Watson" in _Le avventure di Sherlock Holmes_ o che tu voglia sapere quale fosse la parola più comune in questa raccolta di racconti. Questo sarebbe un compito molto noioso se avessi solo la copia cartacea del libro, ma è lo puoi fare in pochi secondi con programmi di analisi del testo computer based. Allo stesso modo, questi stessi strumenti possono aiutarci a trovare schemi nei testi di cui potremmo non renderci conto, o permetterci di collaborare con altri nella lettura dei testi.
+L'accesso a tutto questo materiale può essere travolgente e una delle domande di questo corso è come i computer possono aiutarci a gestire il sovraccarico di informazioni. E inoltre, come possiamo sfruttare la tecnologia per porre nuove domande sui testi. Ad esempio, supponiamo che tu voglia conoscere il numero di volte in cui Arthur Conan Doyle ha usato il termine "Watson" in _Le avventure di Sherlock Holmes_ o che tu voglia sapere quale fosse la parola più comune in questa raccolta di racconti. Questo sarebbe un compito molto noioso se avessi solo la copia cartacea del libro, ma lo puoi fare in pochi secondi con programmi di analisi del testo computer based. Allo stesso modo, questi stessi strumenti possono aiutarci a trovare nei testi schemi di cui potremmo non renderci conto, o permetterci di collaborare con altri nella loro lettura e analisi.
 
-Più specificamente, parleremo molto del processo attraverso il quale interpretiamo i testi, attraverso il quale traduciamo l'inchiostro su una pagina in un significato nella nostra mente e di come i computer possono alterare e enfatizzare questo processo. Toccheremo una serie di argomenti e questioni:
+Più specificamente, parleremo molto del processo attraverso il quale interpretiamo i testi, attraverso il quale traduciamo l'inchiostro presente iu una pagina in un significato presente nella nostra mente e di come i computer possono alterare ed enfatizzare questo processo. Toccheremo una serie di argomenti e questioni:
 
-* In che modo i computer possono aiutarci a comprendere i processi di lettura tradizionali in modi nuovi?&#x20;
+* In che modo i computer possono aiutarci a comprendere i processi di lettura tradizionali?&#x20;
+* In che modo le macchine permettono la lettura e l'analisi di documenti testuali e non testuali?&#x20;
 * Come possiamo trovare nuovi modi di leggere attraverso la tecnologia?&#x20;
 * In che modo le macchine possono facilitare nuovi tipi di lettura collaborativa?&#x20;
 * Come possiamo usare i computer per comprendere categorie complicate come emozioni e temi/argomenti?
@@ -56,6 +59,6 @@ L'affermazione implicita in questi punti in elenco è che i computer influiscono
 * Queste tecniche ci mostrano davvero qualcosa di nuovo o sono tutti modi capricciosi per descrivere ciò che già sappiamo?
 * In che modo la lettura con la tecnologia esacerba [le disuguaglianze razziali, sociali ed economiche?](https://medium.com/@davieco/were-roman-emperors-blonde-2255ec77d123) (vedi anche [qui](https://voshart.medium.com/photoreal-roman-emperor-project-236be7f06c8f))
 
-Dovrai decidere tu stesso le risposte a queste domande nel corso del libro.&#x20;
+Via via, dovrai decidere tu stesso le risposte a queste domande.&#x20;
 
 Confuso? Bene. Ciò significa che stai imparando.
