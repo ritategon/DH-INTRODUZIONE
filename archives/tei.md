@@ -8,7 +8,7 @@ Guarda l'immagine e pensa alle implicazioni sottese. Quali sono i limiti e poten
 
 {% embed url="http://digitalscholarship.ohio5.org/wp-content/uploads/2016/01/website_blog_scholar_screen2-768x663.jpg" %}
 
-Cominciamo da questa poesia di Oscar Wild.&#x20;
+Cominciamo da questa poesia di Oscar Wilde.&#x20;
 
 {% hint style="info" %}
 (Anzi prima di cominciare, se vuoi, prenditi una pausa, ma proprio con lo scopo di una pausa, con una interpretazione di questo testo di [Jeanne Moreau ](https://drive.google.com/file/d/1s\_ACW71qnJb2YjZ7Ui-QHDESJnYtOCl\_/view?usp=sharing)ripresa anche da Fassbinder "Querelle" del 1982).
@@ -25,7 +25,7 @@ Cominciamo da questa poesia di Oscar Wild.&#x20;
   Oscar Wilde, The Ballad of Reading Gaol 
 ```
 
-Questo corso studia i testi e le cose che i computer possono fare con essi. Ma, mentre leggi, potresti notare che non possono fare molto. Molti dei metodi che vedrai sono semplicemente metodi sofisticati per contare le parole, mentre, come già sapevi e come [abbiamo visto](../close-reading-1/),  la lettura comporta processi di interpretazione e analisi molto più complicati. Quando leggiamo, tendiamo a saltare a comprensioni molto più complicate di un testo:
+Questo corso studia i testi/documenti e le cose che i computer possono fare con essi. Ma, mentre leggi, potresti notare che non possono fare molto. Molti dei metodi che vedrai sono semplicemente metodi sofisticati per contare le parole, mentre, come già sapevi e come [abbiamo visto](../close-reading-1/),  la lettura comporta processi di interpretazione e analisi molto più complicati. Quando leggiamo, tendiamo a saltare a comprensioni molto più complicate di un testo:
 
 * Cosa significa questo ?&#x20;
 * Quali elementi del testo trasmettono questo significato? Come lo fanno?
@@ -43,7 +43,7 @@ Pensa a tutte le annotazioni che metti sulle tue pagine mentre le leggi (ripensa
 
 E possiamo rappresentarlo graficamente, in questo modo, dove una linea nera denota i limiti della stanza, una blu orizzontale rappresenta le linee e i colori rotanti sotto le parole finali descrivono uno schema di rime:
 
-![annotaree/marcare una poesia a mano](../assets/archives/tei-graphic.jpg)
+![annotare e/marcare una poesia a mano](../assets/archives/tei-graphic.jpg)
 
 Possiamo fare di meglio. Le seguenti annotazioni di testo sono un po' più chiare e si avvicinano a qualcosa che potremmo capire senza alcun contesto.&#x20;
 

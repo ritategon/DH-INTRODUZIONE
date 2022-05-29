@@ -1,6 +1,6 @@
 # Micro e Macro Tasking
 
-Pensa a uno scenario comune: stai acquistando qualcosa online e, prima che il sistema ti permetta di effettuare il check-out, devi inserire del testo, trascrivere dell'audio o comunque dimostrare di non essere un robot. Farlo richiede solo pochi secondi del tuo tempo, ma tali transazioni avvengono milioni di volte ogni giorno su Internet. L'energia combinata sprecata in interazioni così semplici è sbalorditiva.
+Pensa a uno scenario comune: stai acquistando qualcosa online e, prima che il sistema ti permetta di effettuare il check-out, devi inserire del testo, trascrivere dell'audio o comunque dimostrare di non essere un robot. Farlo richiede solo pochi secondi del tuo tempo, ma tali transazioni avvengono milioni di volte ogni giorno in Internet. L'energia combinata sprecata in interazioni così semplici è sbalorditiva.
 
 Ora immagina di poter prendere tutte quelle ore di lavoro umano e dedicarle a qualcosa di utile. [reCAPTCHA](https://www.google.com/recaptcha/about/) mira a fare proprio questo e probabilmente l'hai usato inconsapevolmente. Pensa ai compiti di convalida umana descritti sopra: le probabilità sono piuttosto alte che, quando ne hai eseguito uno, potresti aver inconsapevolmente corretto la trascrizione di un'immagine, contribuito a fornire un set di test per l'intelligenza artificiale o contribuito a rendere Google Maps più preciso. La prossima volta che riempi una casella di testo per dimostrare che sei un essere umano, potresti chiederti a chi e a cosa serva il tuo lavoro.
 
@@ -32,4 +32,5 @@ In molti casi, questi progetti digitali costano ingenti somme di denaro e, secon
 * Costruisci tu un tuo progetto: [From the Page](https://fromthepage.com/)
 * Esempio di trascrizione di immagine: [https://transcription.si.edu/transcribe/15654/NMAAHC-007675740\_00588](https://transcription.si.edu/transcribe/15654/NMAAHC-007675740\_00588)
 * Esempio di attività in corso nel Smithsonian Transcription Center: [https://transcription.si.edu/browse?filter=\&sort=](https://transcription.si.edu/browse?filter=\&sort=)
+* [Europeana Transcribathon](https://europeana.transcribathon.eu/)
 {% endhint %}
