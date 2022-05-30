@@ -30,7 +30,7 @@ Ora, invece, prendiamo in considerazione il secondo libro dell'_Iliade:_ esso __
 >
 > ἀρχοὺς αὖ νηῶν ἐρέω νῆάς τε προπάσας.
 >
-> (trad. : E ora ditemi, o Muse, che avete dimora in Olimpo (voi siete dee, presenti ovunque, e conoscete ogni cosa: noi invece ascoltiamo la fama e nulla sappiamo): ditemi chi erano i condottieri e i capi dei Danai. Della moltitudine non posso parlare né fare i nomi, neanche se avessi dieci lingue e dieci bocche, una voce instancabile e dentro un cuore di bronzo; a meno che le Muse di Olimpo, le figlie di Zeuss egioco, non mi rammentino tutti quelli che andarono sotto le mura di Ilio. E così elencherò i comandanti delle navi e la flotta al completo).
+> (trad. : E ora ditemi, o Muse, che avete dimora in Olimpo (voi siete dee, presenti ovunque, e conoscete ogni cosa: noi invece ascoltiamo la fama e nulla sappiamo): ditemi chi erano i condottieri e i capi dei Danai. Della moltitudine non posso parlare né fare i nomi, neanche se avessi dieci lingue e dieci bocche, una voce instancabile e dentro un cuore di bronzo; a meno che le Muse di Olimpo, le figlie di Zeus egioco, non mi rammentino tutti quelli che andarono sotto le mura di Ilio. E così elencherò i comandanti delle navi e la flotta al completo).
 
 Il _Catalogo delle navi_ che segue questa invocazione può essere mappato come tre 'itinerari' che attraversano gran parte della Grecia, spostandosi contiguamente da contingente a contingente. Questo piano ben organizzato o roadmap mentale serve al poeta orale come un dispositivo "mnemonico spaziale" ([Clay, 2011](https://bmcr.brynmawr.edu/2011/2011.08.23/)), consentendo a Omero di attraversare i quasi 190 luoghi che menziona senza perdersi nei dettagli. Dopo aver introdotto ogni contingente, Omero si ferma lì e nomina le sue città costituenti.&#x20;
 
@@ -52,7 +52,7 @@ Il HGIS (Historical Geographic Information Systems) è una metodologia storica c
 
 ## Orbis
 
-Un altro esempio interessante è costituito da [Orbis](https://orbis.stanford.edu/), lo Stanford Geospatial Network Model of the Roman World, un progetto di Walter Scheidel ed Elijah Meeks: Si tratta di una mappa interattiva che consente agli utenti, ad esempio, di inserire due località dell'antica Roma, selezionare la stagione, una priorità di viaggio (il più veloce, il più economico, più breve), le modalità di viaggio, ecc. e restituisce il percorso più efficiente.
+Un altro esempio interessante è costituito da [Orbis](https://orbis.stanford.edu/), lo Stanford Geospatial Network Model of the Roman World, un progetto di Walter Scheidel ed Elijah Meeks: si tratta di una mappa interattiva che consente agli utenti, ad esempio, di inserire due località dell'antica Roma, selezionare la stagione, una priorità di viaggio (il più veloce, il più economico, più breve), le modalità di viaggio, ecc. e restituisce il percorso più efficiente.
 
 ![](../.gitbook/assets/screenshot-orbis.stanford.edu-2022.04.19-21\_22\_57.png)
 
@@ -92,7 +92,7 @@ Diamo un’occhiata ad un piccolo esempio di come GIS può essere utile. Immagin
 
 ![](../.gitbook/assets/screenshot-docs.qgis.org-2022.04.19-12\_34\_41.png)
 
-Se osservi la tabella potrai velocemente vedere che ci sono stati molti casi di morbillo nei mesi di Gennaio e Febbraio. Inoltre è stata salvata la posizione delle abitazioni dei pazienti, riportando in tabella la loro latitdine e longitudine. A questo punto, visualizzando i dati in un’Applicazione GIS, possiamo capire molte più cose sul modello di diffusione delle malattie.
+Se osservi la tabella potrai velocemente vedere che ci sono stati molti casi di morbillo nei mesi di Gennaio e Febbraio. Inoltre è stata salvata la posizione delle abitazioni dei pazienti, riportando in tabella la loro latitdine e longitudine. A questo punto, visualizzando i dati in un’ applicazione GIS, possiamo capire molte più cose sul modello di diffusione delle malattie.
 
 ![L’esempio mostra i dati sulle malattie visualizzati su un’appplicazione GIS. E’ facile vedere come i pazienti affetti da orecchioni vivano tutti vicini gli uni con gli altri.](../.gitbook/assets/patterns\_of\_illness.png)
 
