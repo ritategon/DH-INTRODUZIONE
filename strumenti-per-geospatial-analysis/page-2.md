@@ -21,6 +21,10 @@ Uno strumento senz'altro interessante da esplorare nell'ambito di ArcGIS è [**A
 * [Using Geospatial Data to Inform Historical Research in R](https://programminghistorian.org/en/lessons/geospatial-data-analysis)
 * [Python Libraries for GIS and Mapping](https://gisgeography.com/python-libraries-gis-mapping/)
 * [Projection Wizard](https://projectionwizard.org/) è un'applicazione web che aiuta i cartografi a selezionare una proiezione appropriata per la loro mappa.
+* [Dariah-De](https://geobrowser.de.dariah.eu/) geobrowser
+* [Cartografia e mappe d'Italia](https://www.geoplan.it/)
+* [Geobrowser Bolzano](https://maps.civis.bz.it/?context=PROV-BZ-GEOBROWSER\&lang=it\&bbox=1050000,5820000,1389000,5960000)
+* [Geoportale Veneto](https://idt2.regione.veneto.it/)
 * [Esri moocs](https://www.esri.com/training/mooc/)
 * Coursera mooc [GIS, Mapping, and Spatial Analysis Specialization](https://www.coursera.org/specializations/gis-mapping-spatial-analysis?utm\_source=recommendations\&utm\_medium=email\&utm\_campaign=13651\&sfmc\_id=1766535\&sfmc\_key=0031U00001Oes54QAB)
 * [Come si citano i materiali cartografici](https://lib.uwaterloo.ca/locations/umd/digital/citation.html)
