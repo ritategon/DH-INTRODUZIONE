@@ -101,7 +101,7 @@ Se hai interesse, puoi continuare ad esplorare in italiano nella [pagina che ha 
 ### Ulteriori risorse
 
 * Puoi approfondire con una pubblicazione italiana (Massimiliano Grava et alli, Università degli Studi di Trieste) in open access scaricabile da [qui](https://www.openstarts.units.it/handle/10077/30847).
-* The [DECIMA](https://decima-map.net/) project: Firenze mnel XVI secolo.
+* The [DECIMA](https://decima-map.net/) project: Firenze nel XVI secolo.
 * [GIS data by country](https://libguides.mit.edu/c.php?g=176295\&p=1161384#s-lg-box-wrapper-4119218)
 * [Histo Atlas](http://www.histoatlas.org/) è un software gratuito che permette di disegnare e visualizzare mappe storiche con la visualizzazione dell'evoluzione nel tempo di confini, aree culturali o altro. Il software consente di disegnare aree, aggiungere etichette, scegliere una mappa di sfondo, definire fusi orari. Puoi registrarti per poter salvare le tue mappe e condividerle online.
 * [Time Maps](https://www.timemaps.com/history/).
