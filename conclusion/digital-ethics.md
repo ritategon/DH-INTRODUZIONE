@@ -1,6 +1,6 @@
 # Digital Ethics
 
-Anche questo è un tema importante che richiederebbe una sua propria sezione. Invece ci accontentiamo di un passaggio di sorvolo in conclusione
+Anche questo è un tema importante che richiederebbe una sua propria sezione. Invece ci accontentiamo di un passaggio di sorvolo in conclusione.
 
 La questione ruota intorno a due interessi rilevanti: la tutela dell'autorialità e la necessità della apertura dei prodotti della ricerca e della conoscenza, certo per rendere ragione dei contributi economici eventualmente ricevuto per la ricerca, ma soprattutto perchè è dimostrato che la condivisione e la contaminazione sono essenziali per il progresso degli individui e della società.
 

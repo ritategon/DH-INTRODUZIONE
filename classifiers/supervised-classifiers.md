@@ -76,14 +76,14 @@ Nella [sezione precente](../topic-modeling.md) abbiamo visto il **Topic Modeling
 
 <mark style="color:red;">**B**</mark>
 
-In questa sezione stiamo vedendo la **Topic Classification** che prevede forme di **Supervided Analysis**: anch'essa è legata al **NLP**, così come lo sono ad esempio:&#x20;
+In questa sezione stiamo vedendo la **Topic Classification** che prevede forme di **Supervised Analysis**: anch'essa è legata al **NLP**, così come lo sono ad esempio:&#x20;
 
 * **Text Analysis**: analisi di un testo e, laddove richiesto, individuazione di elementi chiave (es. argomenti, persone, date);
 * **Text Classification**: interpretazione di un testo per classificarlo in una categoria predefinita (es. spam);
 * **Sentiment Analysis**: rilevamento dell’umore all’interno di un testo (es. recensione positiva/negativa);
 * **Intent Monitoring**: comprensione del testo per prevedere comportamenti futuri (es. la volontà di acquisto da parte di un cliente);
 * **Smart Search**: ricerca, all’interno di archivi, dei documenti che meglio corrispondono ad un’interrogazione posta in linguaggio naturale;
-* **Text Generation**: generazione automatic di un testo;
+* **Text Generation**: generazione automatica di un testo;
 * **Automatic Summarization**: produzione di una versione sintetica di uno o più documenti testuali;
 * **Language Translation**: traduzione di testi scegliendo, volta per volta, il significato migliore a seconda del contesto.
 

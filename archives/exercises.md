@@ -1,4 +1,4 @@
-# Esercizio\*
+# Esercizio
 
 {% hint style="info" %}
 **Instruzioni**
@@ -37,7 +37,7 @@ In TEI si presenta come segue
 </lg>
 ```
 
-Per indicare l’inzio di ogni riga  si usa il tag  "\<l>" e per indicare la fine di ogni riga , si usa il tag        "\</l>" .
+Per indicare l’inizio di ogni riga  si usa il tag  "\<l>" e per indicare la fine di ogni riga , si usa il tag "\</l>" .
 
 Similmente, per  indicare l’inizio di un gruppo di righe si usa  il tag  "\<lg>" e per indicare la fine dello stesso gruppo di linee si usa il tag  "\</lg>".
 
@@ -55,4 +55,3 @@ Ora, che hai compreso le basi dei tag TEI, annota la  quantina che segue, indica
 4\) ove vestigio human l’arena stampi.
 
 {% embed url="https://digipad.app/p/132051/15f7d6b13689e" %}
-

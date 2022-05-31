@@ -1,5 +1,5 @@
 ---
-description: Text classification con forme e strumenti di Supervided Analysis
+description: Text classification con forme e strumenti di Supervised Analysis
 ---
 
 # Sentiment Analysis
