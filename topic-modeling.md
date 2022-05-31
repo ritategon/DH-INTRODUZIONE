@@ -1,5 +1,8 @@
 ---
-description: Inroduzione al Topic Modeling mediante Unsupervised Classification
+description: >-
+  Inroduzione al Topic Modeling mediante Unsupervised Classification (i
+  risultati si basano sull'analisi del software senza che l'utente fornisca
+  campioni)
 ---
 
 # Topic Modeling

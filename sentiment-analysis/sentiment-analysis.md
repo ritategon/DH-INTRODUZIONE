@@ -6,16 +6,28 @@ Più volte è stata sottolineata l'interazione tra calcolo e interpretazione: qu
 
 Ma probabilmente hai anche notato negli ultimi capitoli che i tipi di letture per cui utilizziamo i nostri computer sono diventati più sofisticati. Quando utilizziamo un software per scoprire gli argomenti di cui un testo sta discutendo o per identificare autori anonimi, non li stiamo facendo leggere come farebbe una persona. Ma ci stiamo avvicinando a come un essere umano legge. Queste tecniche mirano, infatti, a fornire un senso più ricco di un testo e lo fanno in modi appunto piuttosto sofisticati. Chiudiamo iul nostro percorso con un problema un po' più semplice, ma di fatto profondamente difficile per i computer: un particolare testo è felice o triste? Per esserlo, ciò che conta è una frase? O è una parola?
 
-L' analisi che cerca di catturare la risonanza emotiva di un testo è chiamata **sentiment analysis**. **** Probabilmente, ne hai fatto esperienza senza rendertene conto. Se sei mai stato in un sito di recensioni come [Rotten Tomatoes](https://www.rottentomatoes.com/) per vedere quale punteggio un film abbia ottentuto, stai guardando un numero aggregato di recensioni che sono state contrassegnate come positive o negative. Anche le aziende hanno un interesse in queste cose. Se fai un tweet su un tuo volo recente, la compagnia aerea probabilmente vorrebbe sapere se l'hai apprezzata o meno. Nel primo potresti essere ndirizzato al servizio clienti, mentre nel secondo potrebbe ricevere una risposta come "grazie per aver volato con noi!".
+L' analisi che cerca di catturare la risonanza emotiva di un testo è chiamata **sentiment analysis**. **** Probabilmente, ne hai fatto esperienza senza rendertene conto. Se sei mai stato in un sito di recensioni come [Rotten Tomatoes](https://www.rottentomatoes.com/) per vedere quale punteggio un film abbia ottentuto, stai guardando un numero aggregato di recensioni che sono state contrassegnate come positive o negative.
+
+![](../.gitbook/assets/screenshot-www.rottentomatoes.com-2022.05.31-12\_07\_57.png)
+
+Anche le aziende hanno un interesse in queste cose. Se fai un tweet su un tuo volo recente, la compagnia aerea probabilmente vorrebbe sapere se l'hai apprezzata o meno. Nel primo potresti essere indirizzato al servizio clienti, mentre nel secondo potrebbe ricevere una risposta come "grazie per aver volato con noi!".
+
+
 
 La sentiment analysis può anche offrire interessanti opportunità per l'analisi testuale. Dai un'occhiata a questa clip di una conferenza di [Kurt Vonnegut](https://it.wikipedia.org/wiki/Kurt\_Vonnegut). La comunicazione è comico/sarcastico/satirica (decidi tu); se non conosci l'inglese imposta la traduzione automatica.
 
 {% embed url="https://www.youtube.com/watch?t=26s&v=oP3c1h8v2ZQ" %}
 
 {% hint style="info" %}
-La questione della forma delle storie è piuttosto interessante. Qui trovi una eccellente trattazione dell'argomento [Ups and Downs. Or how to graph a book.](https://www.laphamsquarterly.org/roundtable/ups-and-downs)
+[Qui ](https://www.personalreport.it/2012/01/la-forma-delle-storie-per-kurt-vonnegut/)una spiegazione dei contenuti del video.
 
-[Qui ](https://www.personalreport.it/2012/01/la-forma-delle-storie-per-kurt-vonnegut/)una speigazione dei contentui del video.
+La questione della forma delle storie è piuttosto interessante. Qui trovi una eccellente trattazione dell'argomento [Ups and Downs. Or how to graph a book.](https://www.laphamsquarterly.org/roundtable/ups-and-downs) &#x20;
+
+Nel 2016 i membri del [Computational Story Lab dell'Università del Vermont](https://compstorylab.org/) hanno quantificato le "complesse traiettorie emotive" di 1.327 opere classiche tracciando la frequenza delle parole classificate come felici (incluse _gioia_ , _amore_ e _pace_) o infelici (inclusi _odio_, _vergogna_ e _morte_). I risultati del cosiddetto [edonometro ](https://hedonometer.org/books/v1/?lens=\[3,5.25])dei ricercatori mostrano l'aumento e la diminuzione relativi delle emozioni positive e negative nei libri disponibili sul [Progetto Gutenberg](https://www.gutenberg.org/).&#x20;
+
+Il team del Computational Story Lab, che ha anche quantificato la felicità su Twitter, nelle notizie e altrove, ha trovato ispirazione nella teoria della forma delle storie di [Kurt Vonnegut](https://www.laphamsquarterly.org/contributors/vonnegut). Vonnegut ha affermato che le storie hanno forme semplici che tracciano l'arco della relativa buona o cattiva fortuna dei loro protagonisti, una teoria che ha condiviso nel video visto sopra e  per [iscritto](https://www.laphamsquarterly.org/arts-letters/blackboard).
+
+
 {% endhint %}
 
 L'idea ha abbastanza senso per come la presenta Vonnegut: in determinati momenti in una storia, le cose sono di vario grado, buone o cattive. Come con qualsiasi forma di analisi del testo, questo tipo di informazioni potrebbe essere molto utile per la comprensione di un testo.
