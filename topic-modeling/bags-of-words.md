@@ -44,12 +44,8 @@ Se prendiamo le parole in un testo come indicative dei suoi topic sottostanti, i
 
 Prendi le seguenti due frasi:
 
-* "Fine. How are you doing?"
-* "How are you doing? Fine?"
-* "Bene. Come stai?"
-* "Come stai? Bene?"
-
-If we _normalize_ a text by removing the stopwords, lowercasing the words, and getting rid of the punctuation, we get a bag of words. In this case, the bag of words for these two sentences is the same:
+* "Fine. How are you doing?" (trad. "Bene. Come stai?")
+* "How are you doing? Fine?" (rad. "Come stai? Bene?")
 
 Se _normalizziamo_ un testo rimuovendo le stopword, riducendo le parole in minuscolo ed eliminando la punteggiatura, otteniamo un bag of words. In questo caso, bag of words per queste due frasi è lo stesso:
 
@@ -127,9 +123,7 @@ Per ora, non preoccuparti della matematica dietro a tutto questo. L'obiettivo è
 
 Potresti pensare che questo vada contro tutto ciò che hai finora saputo sulla lettura. Potrebbe sembrarti come se stessimo distruggendo un testo.  In questo caso non avresti  torto, perchè in effetti questo concetto è abbastanza lontano dalla forma tradizionale della lettura, cioè in sequenza attraverso la pagina. Questo approccio, invece, vuole che si pensi alla lettura in modo diverso, per sviluppare una nuova epistemologia dell'atto della lettura.  Perdiamo qualcosa nel processo,cioè il senso di un testo nel suo dispiegarsi nel tempo.
 
-But we also gain the ability to think about a text in new ways. Sentences are just the beginning. You can use a bag of words approach to determine how different or similar whole books or authors are from each other. If we have lists of words for each text as well as for the corpus (or set of documents) as a whole, we can actually work backwards to get a sense of the underlying topics that we were talking about a moment ago. Instead of skimming a paragraph to determine its basic topic, we could scan full texts -- and scan lots of them (Brandon's record is about 1.8 million texts in a corpus). And rather than trying to get a sense of 1-3 topics, we could break our text apart into 15-20 different topics. Now we are cooking with gas, and we're talking about topic modeling.
-
-Ma acquisiamo anche la capacità di pensare a un testo in modi nuovi. Le frasi sono solo l'inizio. Puoi utilizzare un approccio basato sul bag of wors per determinare quanto libri o autori interi siano diversi o simili l'uno dall'altro. Se abbiamo elenchi di parole per ogni testo così come per il corpus (o insieme di documenti) nel suo insieme, possiamo effettivamente lavorare a ritroso per avere un'idea degli argomenti sottostanti di cui stavamo parlando un momento fa. Invece di scorrere un paragrafo per determinarne l'argomento di base, potremmo scansionare testi completi e scansionarne molti (il record di Brandon è di circa 1,8 milioni di testi in un corpus). E invece di cercare di avere un'idea di 1-3 argomenti, potremmo suddividere il nostro testo in 15-20 argomenti diversi. Ora sto bevendo un caffè, metre sto parlando di topic modelling.
+Ma acquisiamo anche la capacità di pensare a un testo in modi nuovi. Le frasi sono solo l'inizio. Puoi utilizzare un approccio basato sul _bag of words_ per determinare quanto libri o autori interi siano diversi o simili l'uno dall'altro. Se abbiamo elenchi di parole per ogni testo così come per il corpus (o insieme di documenti) nel suo insieme, possiamo effettivamente lavorare a ritroso per avere un'idea degli argomenti sottostanti di cui stavamo parlando un momento fa. Invece di scorrere un paragrafo per determinarne l'argomento di base, potremmo scansionare testi completi e scansionarne molti (il record di Brandon è di circa 1,8 milioni di testi in un corpus). E invece di cercare di avere un'idea di 1-3 argomenti, potremmo suddividere il nostro testo in 15-20 argomenti diversi.&#x20;
 
 ### Ulteriori Risorse <a href="#furtherresourcsupervisedclassifiers" id="furtherresourcsupervisedclassifiers"></a>
 
