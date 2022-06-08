@@ -22,7 +22,13 @@ Ad esempio, si potrebbe provare a fare una mappa narrativa riferita ad Agostino 
 
 ![](../.gitbook/assets/mapwarper-sidebyside.png)
 
-* **Deep maps = Space vs. place:** si tratta di mappe di un luogo piuttosto che di uno spazio. I geografi spesso distinguono tra _luogo_ e _spazio_ . Lo _spazio_ è la griglia di riferimento che utilizziamo per creare mappe: 31.7833° N, 35.2167° E è un puntatore nello spazio. Il _luogo_, invece, è il significato che si ricava dallo spazio. La latitudine e la longitudine sono lo spazio, ma il luogo è Gerusalemme, un luogo con innumerevoli significati contestati ad essa collegati. Come ulteriore illustrazione della differenza tra spazio e luogo, i nostri moderni sistemi di riferimento di coordinate prendono il loro punto di origine 0°, 0°, un punto nell'Oceano Atlantico al largo della costa occidentale dell'Africa: [Isola Null](http://en.wikipedia.org/wiki/Null\_Island) . Questa riproduzione della mappa di Ebstorf del XIII secolo, tuttavia, prende come punto centrale Gerusalemme e carica la città di immagini simboliche religiose.
+* **Deep maps = Space vs. place:** si tratta di mappe di un luogo piuttosto che di uno spazio. I geografi spesso distinguono tra _luogo_ e _spazio_ . Lo _spazio_ è la griglia di riferimento che utilizziamo per creare mappe: 31.7833° N, 35.2167° E è un puntatore nello spazio. Il _luogo_, invece, è il significato che si ricava dallo spazio. La latitudine e la longitudine sono lo spazio, ma il luogo è Gerusalemme, un luogo con innumerevoli significati contestati ad essa collegati. Come ulteriore illustrazione della differenza tra spazio e luogo, i nostri moderni sistemi di riferimento di coordinate prendono il loro punto di origine 0°, 0°, un punto nell'Oceano Atlantico al largo della costa occidentale dell'Africa: [Isola Null](http://en.wikipedia.org/wiki/Null\_Island). [Qui](https://www.ilpost.it/2022/05/06/null-island-atlantico/) e [qui](https://www.ecocultura.it/null-island-isola-incredibile/) puoi trovare spiegazioni in italiano.
+
+![Null island](../.gitbook/assets/zVT7X-nulla-island.webp)
+
+![Null island è solo una boa in mezzo al mare](../.gitbook/assets/boa-29\_03\_2022.jpg)
+
+Questa riproduzione della mappa di Ebstorf del XIII secolo è un esempi di mappa di un luogo;  prende come punto centrale Gerusalemme e carica la città di immagini simboliche religiose.
 
 ![Una riproduzione della Ebstorf Map](../.gitbook/assets/ebstorf.jpg)
 
