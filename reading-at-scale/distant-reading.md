@@ -47,7 +47,7 @@ E una visualizzazione appariscente può altrettanto facilmente non dimostrare nu
 
 I tuoi risultati potrebbero essere frutto si  impostazioni configurate in modo errato. O forse hai caricato il testo sbagliato. O forse, a monte  stai fraintendendo come funzioni lo strumento. In questi casi va fatto un passo indietro.
 
-> Ma aspetta, dici tu, non ne so ancora abbastanza per poter fare questo tipo di lavoro
+> Ma aspetta, dici tu, non ne so ancora abbastanza per poter fare questo tipo di lavoro.
 
 Per la verità, non è necessario sapere nulla di statistica o informatica per poter dire qualcosa di significativo sui testi attraverso la lettura a distanza. Resta fermo che la conoscenza di entrambi questi campi può fare molto e darti cose più significative e interessanti da dire, ma questi strumenti, metodi e idee non dovrebbero essere al di là di nessuno. Per ora prendi uno strumento per una prova e guarda cosa succede. Puoi sempre approfondire nel tempo e dare alla tua analisi una base più solida. Non vale la pena tirarsi indietro e mettersi ansia. Ora prendiamolo come un gioco. Poi si potrà decidere di lavorare duro per andare a fondo.
 

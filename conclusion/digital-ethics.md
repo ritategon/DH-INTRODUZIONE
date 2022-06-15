@@ -20,5 +20,6 @@ Qui sotto trovi una efficace sintesi illustrata.
 
 * [Qui](https://drive.google.com/file/d/1vS4zTdUd9mubFz84oNgFGeHDUSYW3RQZ/view?usp=sharing) una ulteriore panoramica.
 * [Qui](https://books.openedition.org/ledizioni/5161?format=toc) trovi un ottimo approfondimento sull'OA.
+* [Open Access](https://edizionicafoscari.unive.it/it/edizioni4/?utm\_source=facebook\&utm\_medium=paid\_social\&utm\_campaign=T+%7C+Prospecting\&utm\_content=Professioni+%7C+Ita+%7C+23+-+64\_Imm+3\&utm\_term=Facebook\_Mobile\_Feed\&fbclid=IwAR0xmn5v3R\_IqYTU7cKLmQTQqdSmMcBVr0c9MJaylyhASqA3LT7eO4eWsDA) veneziano.
 
 &#x20;
