@@ -8,7 +8,7 @@ Gli esempi che vedrai sotto hanno a che fare con l'Historical Geographic Informa
 
 Cominciamo con un  esempio, anche se all'inizio di questo corso un esempio lo hai già visto: si trattava dell' [Imperia Project](https://imperiia.omeka.fas.harvard.edu/): una storia _spaziale_ dell'Impero russo, di fatto, un esempio di GIS storico, un esperimento di nuove forme di analisi  per lo sviluppo di nuove forme di studio e narrazione del passato.
 
-Ora, invece, prendiamo in considerazione il secondo libro dell'_Iliade:_ esso __ contiene  un elenco di quasi 190 toponimi e include i 29 contingenti che compongono la spedizione greca a Troia. Prima di lanciarsi in questo catalogo di oltre 250 versi dei capi delle forze greche e del numero delle loro navi, Omero fa appello alle Muse perché lo aiutino in questo _tour de force_ della memoria (vv. 484 - 493):&#x20;
+Ora, invece, prendiamo in considerazione il secondo libro dell'_Iliade:_ esso contiene  un elenco di quasi 190 toponimi e include i 29 contingenti che compongono la spedizione greca a Troia. Prima di lanciarsi in questo catalogo di oltre 250 versi dei capi delle forze greche e del numero delle loro navi, Omero fa appello alle Muse perché lo aiutino in questo _tour de force_ della memoria (vv. 484 - 493):&#x20;
 
 > Ἔσπετε νῦν μοι Μοῦσαι Ὀλύμπια δώματ' ἔχουσαι·
 >
@@ -38,11 +38,11 @@ La mappatura del _Catalogo delle navi_ dimostra che la disposizione del catalogo
 
 Mentre la recitazione del poeta delle tre rotte contigue intorno al mondo greco dimostra una conoscenza geografica su larga scala, contingente per contingente, i ricercatori suggeriscono che Omero dimostri spesso anche una consapevolezza dettagliata della distribuzione fisica dei siti all'interno di quei contingenti, che egli tiene in considerazione mentre compone.
 
-Il progetto __ [_Mapping the Catalog of Ships_](https://ships.lib.virginia.edu/neatline/show/iliad-book-2) __ dell'Università della Virginia, analizza l'ordine narrativo dei toponimi all'interno di ciascun contingente in termini di distribuzione geografica. Per la maggior parte dei contingenti, i cluster narrativi di siti riflettono le realtà geografiche locali. I principi organizzativi geospaziali emergono attraverso l'analisi di ciò che chiamiamo _gruppi sintattici_ e _gruppi legati al verso_. I _gruppi sintattici_ sono casi in cui un singolo verbo governa un gruppo di città; i _gruppi legati al verso_ sono casi in cui più città cadono in un unico verso. Si scopre che questi _gruppi sintattici_ e _gruppi legati al verso_ spesso si accordano con le caratteristiche geografiche locali o con i percorsi di viaggio.
+Il progetto [_Mapping the Catalog of Ships_](https://ships.lib.virginia.edu/neatline/show/iliad-book-2) dell'Università della Virginia, analizza l'ordine narrativo dei toponimi all'interno di ciascun contingente in termini di distribuzione geografica. Per la maggior parte dei contingenti, i cluster narrativi di siti riflettono le realtà geografiche locali. I principi organizzativi geospaziali emergono attraverso l'analisi di ciò che chiamiamo _gruppi sintattici_ e _gruppi legati al verso_. I _gruppi sintattici_ sono casi in cui un singolo verbo governa un gruppo di città; i _gruppi legati al verso_ sono casi in cui più città cadono in un unico verso. Si scopre che questi _gruppi sintattici_ e _gruppi legati al verso_ spesso si accordano con le caratteristiche geografiche locali o con i percorsi di viaggio.
 
 ![](../.gitbook/assets/screenshot-ships.lib.virginia.edu-2022.04.19-10\_45\_22.png)
 
-Gli studiosi avevano già riconosciuto il principio geospaziale che sta alla base della narrativa di Omero e il progetto __ dimostra che il poeta utilizzava la topografia come principio organizzativo e dispositivo mnemonico spaziale.
+Gli studiosi avevano già riconosciuto il principio geospaziale che sta alla base della narrativa di Omero e il progetto dimostra che il poeta utilizzava la topografia come principio organizzativo e dispositivo mnemonico spaziale.
 
 Da [qui ](https://ships.lib.virginia.edu/neatline/show/iliad-book-2)puoi accedere ad un campione del testo interattivo, dove una versione annotata del catalogo apparirà accanto alla nostra mappa personalizzata.
 
@@ -105,3 +105,4 @@ Se hai interesse, puoi continuare ad esplorare in italiano nella [pagina che ha 
 * [GIS data by country](https://libguides.mit.edu/c.php?g=176295\&p=1161384#s-lg-box-wrapper-4119218)
 * [Histo Atlas](http://www.histoatlas.org/) è un software gratuito che permette di disegnare e visualizzare mappe storiche con la visualizzazione dell'evoluzione nel tempo di confini, aree culturali o altro. Il software consente di disegnare aree, aggiungere etichette, scegliere una mappa di sfondo, definire fusi orari. Puoi registrarti per poter salvare le tue mappe e condividerle online.
 * [Time Maps](https://www.timemaps.com/history/).
+* [WorlMap](https://worldmap.maps.arcgis.com/home/webmap/viewer.html), Università di Harvard  collegato a Arcgis.
