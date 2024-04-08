@@ -102,5 +102,5 @@ Dunque, nell'ambito della Topic Classification troviamo la **Text Classification
 ### Ulteriori Risorse  <a href="#furtherresourcsupervisedclassifiers" id="furtherresourcsupervisedclassifiers"></a>
 
 * Il libro sul  [NLTK](https://www.nltk.org/) (Natural Language Toolkit) presenta [una valida sezione](http://www.nltk.org/book/ch06.html#naive-bayes-classifiers) sui naive Bayes classifiers. Il libro è una guida che usa il linguaggio Python ed ha una dimensione molto tecnica.
-* [Introduzione a Python per le DH](https://pythonhumanities.com/python-for-dh-course/) (non prevede la conoscenza di programmazione)ò.
+* [Introduzione a Python per le DH](https://pythonhumanities.com/python-for-dh-course/) (non prevede la conoscenza di programmazione).
 * [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) fornisce un'introduzione ad altri tipi di classificatori.
