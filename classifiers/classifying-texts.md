@@ -6,7 +6,7 @@ Aspetta! Ce n'è qui uno per te. Se pensi di essere stanco, come pensi che si se
 
 ![](../assets/sleepingstarbuck.jpg)
 
-Bene: sei rimasto. Ti va riconosciuto un punto a favore :thumbsup:. L' ultima lezione voleva essere semplice in modo che tu potessi avere un'idea delle basi della classificazione supervisionata. Ora bisogna pensare a come applicare questo metodo ai testi. Il [capitolo 6](https://www.nltk.org/book/ch06.html)  del libro [NLTK ](https://www.nltk.org/)(Natural Language Toolkit) che potresti consultare nel caso tu voglia approfondire la text analysis usando il linguaggio Python (vedi anche Further Resources alla fine della [sezione precedente](supervised-classifiers.md)) elenca alcune attività comuni di classificazione del testo:
+Bene: sei rimasto. Ti va riconosciuto un punto a favore :thumbsup:. L' ultima lezione voleva essere semplice in modo che tu potessi avere un'idea delle basi della classificazione supervisionata. Ora bisogna pensare a come applicare questo metodo ai testi. Il [capitolo 6](https://www.nltk.org/book/ch06.html)  del libro [NLTK ](https://www.nltk.org/)(Natural Language Toolkit) che potresti consultare nel caso tu voglia approfondire la text analysis usando il linguaggio Python (vedi anche Ulteriori Risorse alla fine della [sezione precedente](supervised-classifiers.md)) elenca alcune attività comuni di classificazione del testo:
 
 > * Decidere se un'email sia spam o meno.
 > * Decidere quale sia l'argomento di un articolo di notizie da un elenco fisso di aree tematiche come "sport", "tecnologia" e "politica".&#x20;
